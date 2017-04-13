@@ -1,0 +1,75 @@
+/*
+ * Base styles
+ */
+* {margin: 0; padding: 0; text-overflow: ellipsis}
+body * {-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box}
+[class] {overflow: hidden; list-style: none; padding: 0}
+
+/* Page defaults */
+html {overflow: visible !important; overflow-y: scroll !important; height: 100%; background: #0e0d1b url('../images/background.jpg') no-repeat 50% 0}
+body {position: relative; overflow: visible !important; height: 100%;  min-width: 100%;  color: #000; font: 12px/1.5 /* 18px */ 'Titillium Web', 'Arial', 'Helvetica', sans-serif}
+
+/* Block-level elements */
+*+p,
+*+dl,
+*+h1,
+*+h2,
+*+h3,
+*+h4,
+*+h5,
+*+h6,
+*+ol,
+*+ul,
+*+figure {margin-top: 18px}
+
+ol,
+ul {margin-left: 0; padding-left: 24px}
+
+li ol,
+li ul {margin-top: 0; margin-bottom: 0}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {font-size: 12px}
+
+dt {font-weight: 700}
+
+table {overflow: visible !important}
+
+/* Form elements */
+input,
+button,
+select,
+textarea {vertical-align: middle; outline: none}
+
+textarea[class] {overflow: auto}
+
+button,
+select,
+label[for],
+input[type="reset"],
+input[type="radio"],
+input[type="button"],
+input[type="submit"],
+input[type="checkbox"] {cursor: pointer}
+
+/* Inline elements */
+a {color: #00f; text-decoration: none; cursor: pointer}
+a:hover {text-decoration: underline}
+a:active {background-color: transparent}
+
+img {display: inline-block; vertical-align: middle}
+
+
+/*
+ * Some useful classes
+ */
+
+/* Disable scrollbar */
+html.no-scroll {overflow: hidden !important}
+
+/* Mark elements as not finished (when integrating with backend). */
+._placeholder {outline: 2px dashed rgba(255, 0, 255, .33) !important}

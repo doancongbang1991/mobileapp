@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="EffectsAdditiveAtlas.jpg">
+	<SubTexture name="MuzzleFlashEnergyGun.png" x="66" y="198" width="64" height="64"/>
+	<SubTexture name="MuzzleFlashFlameThrower.png" x="198" y="132" width="64" height="64"/>
+	<SubTexture name="MuzzleFlashGrenadeLauncher.png" x="198" y="66" width="64" height="64"/>
+	<SubTexture name="MuzzleFlashLaser.png" x="198" y="0" width="64" height="64"/>
+	<SubTexture name="MuzzleFlashMachineGun.png" x="132" y="198" width="64" height="64"/>
+	<SubTexture name="MuzzleFlashMinigun.png" x="132" y="132" width="64" height="64"/>
+	<SubTexture name="MuzzleFlashRocketLauncher.png" x="132" y="66" width="64" height="64"/>
+	<SubTexture name="MuzzleFlashShotgun.png" x="132" y="0" width="64" height="64"/>
+	<SubTexture name="ProjectileEnergyGun.png" x="198" y="198" width="64" height="64"/>
+	<SubTexture name="ProjectileFlameThrower.png" x="66" y="132" width="64" height="64"/>
+	<SubTexture name="ProjectileLaser.png" x="66" y="66" width="64" height="64"/>
+	<SubTexture name="ProjectileMachineGun.png" x="66" y="0" width="64" height="64"/>
+	<SubTexture name="ProjectileMinigun.png" x="0" y="198" width="64" height="64"/>
+	<SubTexture name="ProjectileShotgun.png" x="0" y="132" width="64" height="64"/>
+	<SubTexture name="RocketExhaustFlame.png" x="0" y="66" width="64" height="64"/>
+	<SubTexture name="Sparks.png" x="0" y="0" width="64" height="64"/>
+</TextureAtlas>

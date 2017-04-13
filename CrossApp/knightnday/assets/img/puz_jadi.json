@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "puz_jadi/0",
+	"frame": {"x":79,"y":136,"w":38,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":37},
+	"sourceSize": {"w":38,"h":37}
+},
+{
+	"filename": "puz_jadi/1",
+	"frame": {"x":2,"y":136,"w":75,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":72},
+	"sourceSize": {"w":75,"h":72}
+},
+{
+	"filename": "puz_jadi/2",
+	"frame": {"x":129,"y":93,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":79},
+	"sourceSize": {"w":79,"h":79}
+},
+{
+	"filename": "puz_jadi/3",
+	"frame": {"x":129,"y":2,"w":88,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":89},
+	"sourceSize": {"w":88,"h":89}
+},
+{
+	"filename": "puz_jadi/4",
+	"frame": {"x":2,"y":2,"w":125,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":132},
+	"sourceSize": {"w":125,"h":132}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puz_jadi.png",
+	"format": "RGBA8888",
+	"size": {"w":219,"h":210},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:38a69e08fd629c4c0b1c035a08f044dd:7f719093e71d71715c19a4041670d223:3668277938fbba100a7498059c87ecb8$"
+}
+}

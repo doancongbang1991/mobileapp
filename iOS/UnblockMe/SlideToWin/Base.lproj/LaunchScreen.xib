@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="gameback" translatesAutoresizingMaskIntoConstraints="NO" id="4NN-5W-6UL">
+                    <rect key="frame" x="-16" y="-16" width="512" height="512"/>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="  Copyright (c) 2015 DJay. All rights reserved." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="8ie-xW-0ye">
+                    <rect key="frame" x="20" y="439" width="441" height="21"/>
+                    <fontDescription key="fontDescription" type="italicSystem" pointSize="17"/>
+                    <color key="textColor" red="0.94929004699999997" green="0.97129528310000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="bmd-Zz-qB9">
+                    <rect key="frame" x="90" y="196" width="300" height="75"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="bmd-Zz-qB9" secondAttribute="height" multiplier="350:87" id="BS1-L1-Jzr"/>
+                        <constraint firstAttribute="width" constant="300" id="Nf7-mK-FpQ"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="0.94929004699999997" green="0.97129528310000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="bmd-Zz-qB9" firstAttribute="centerX" secondItem="8ie-xW-0ye" secondAttribute="centerX" id="8xh-QP-3KQ"/>
+                <constraint firstAttribute="bottom" secondItem="8ie-xW-0ye" secondAttribute="bottom" constant="20" id="Kzo-t9-V3l"/>
+                <constraint firstItem="8ie-xW-0ye" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" symbolic="YES" id="MfP-vx-nX0"/>
+                <constraint firstItem="4NN-5W-6UL" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="-16" id="QOb-me-RGx"/>
+                <constraint firstAttribute="centerX" secondItem="8ie-xW-0ye" secondAttribute="centerX" id="ZEH-qu-HZ9"/>
+                <constraint firstItem="bmd-Zz-qB9" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="196" id="b2m-we-Dwz"/>
+                <constraint firstAttribute="bottom" secondItem="4NN-5W-6UL" secondAttribute="bottom" constant="-16" id="bau-lF-RHE"/>
+                <constraint firstAttribute="trailing" secondItem="4NN-5W-6UL" secondAttribute="trailing" constant="-16" id="pdw-Xk-NsG"/>
+                <constraint firstItem="4NN-5W-6UL" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="-16" id="rqK-Xv-rN8"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="gameback" width="372" height="338"/>
+        <image name="logo" width="350" height="87"/>
+    </resources>
+</document>

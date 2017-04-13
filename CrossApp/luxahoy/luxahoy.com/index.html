@@ -1,0 +1,258 @@
+<!doctype html>
+<html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<meta charset="utf-8" />
+<title>Lux Ahoy - HTML5 Game</title>
+<meta name="description" content="Are you pirate enough to play the Lux Ahoy? Cannon balls be flying' in this high seas HTML5 desktop and mobile adventure. Set sail at luxahoy.com." />
+<meta name="keywords" content="luxahoy,luxurious animals,html5,game,pirates,pirate ships,cannon balls,fwa,site of the day,award" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="960" />
+<meta id="dynamic-viewport" name="viewport" content="initial-scale=1, maximum-scale=1, target-densitydpi=device-dpi,user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta property="og:title" content="Lux Ahoy - HTML5 Game" />
+<meta property="og:description" content="Are you pirate enough to play Lux Ahoy? Cannon balls be flying' in this high seas HTML5 desktop and mobile adventure. Set sail at luxahoy.com." />
+<meta property="og:type" content="game" />
+<meta property="og:url" content="http://luxahoy.com/" />
+<meta property="og:image" content="http://luxahoy.com/assets/images/main-menu-lux.png" />
+<meta property="og:site_name" content="Lux Ahoy" />
+<meta property="fb:app_id" content="326307477419185" />
+<link rel="shortcut icon" type="image/x-icon" href="./assets/images/favicon.png" />
+<link rel="icon" type="image/x-icon" href="./assets/images/favicon.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="./apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="./apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="./apple-touch-icon-precomposed.png" />
+<link href="./assets/css/style_1e449cfe.css" rel="stylesheet" type="text/css" />
+<script>(function(){var a;if(navigator.platform==="iPad"){a=window.orientation===90||window.orientation===-90?"./assets/images/main-screen-background.jpg":"assets/images/rotate-tablet.png"}else{a=window.devicePixelRatio===2?"./assets/images/main-screen-background.jpg":"./assets/images/main-screen-background-lores.png"}document.write('<link rel="apple-touch-startup-image" href="'+a+'"/>')})()</script>
+<script type="text/javascript" src="./assets/libs/modernizr.custom.18383.js"></script>
+<script type="text/javascript">
+var UA = navigator.userAgent;
+Modernizr.addTest({
+    mobile:function(){return/iPhone|iPad|iPod|Android|windows phone|iemobile|\bsilk\b/i.test(UA)},
+    phone:function(){return/i(phone|pod)|android.+mobile|windows phone|iemobile/i.test(UA)},
+    tablet:function(){return/ipad|android(?!.+mobile)|\bsilk\b/i.test(UA)},
+    ie9:function(){return/msie 9/i.test(UA)},
+    ios:function(){return/i(phone|pod|pad)/i.test(UA)},
+    ipad:function(){return/iPad/i.test(UA)},
+    android:function(){return/Android/i.test(UA)},
+    androidbrowser:function(){return /android(?!.+chrome)/i.test(UA)},
+    androidchrome:function(){return /android.+chrome/i.test(UA)},
+    standalone:function(){return!!navigator.standalone},
+    cutscenes:function(){return/video/i.test(location.search) && location.hostname != 'luxahoy.com'}
+});
+window.console=window.console||{};console.log=console.log||function(){};console.error=console.error||function(){};
+</script>
+<script type="text/javascript" src="../use.typekit.com/tje0fwu.js"></script>
+<script type="text/javascript" src="../fast.fonts.net/jsapi/b6f5ebbc-85f1-43c9-845e-e6683573b06d.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">
+var _gaq=_gaq||[];
+_gaq.push(['_setAccount', 'UA-11474884-13']);
+_gaq.push(['_setDomainName', 'luxahoy.com']);
+_gaq.push(['_trackPageview']);
+(function(){var ga=document.createElement('script'),s;ga.type='text/javascript';ga.async=true;
+ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)})();
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+<body>
+	<div id="fb-root"></div>
+	<div id="container">
+	<noscript>
+		<span style="color: #FF0000;">Javascript needs to be enabled to play this game</span>
+	</noscript>
+	<div id="loaded-content"><div id="game-frame"></div></div>
+	<div id="content">
+		<div id="pause-button"></div>
+		<div id="mute-button"></div>
+		<div id="main">
+			<div id='fwa-badge'></div>
+			<div id="main-background">
+				<div id="preloader">
+					<div id="bar"></div>
+					<div id="frame"></div>
+				</div>
+				<!-- <div id="preloader-background"></div> -->
+				<div id="main-screen" class="screen">
+					<div id="main-screen-content" class="screen-content">
+						<h1 id="main-menu-title">Lux Ahoy</h1>
+						<button id="fight-button" class="simple-button simple-button-big">Fight!</button>
+						<button id="instructions-button" class="simple-button simple-button-small">Instructions</button>
+                        <button id="video-button" class="simple-button simple-button-small">Video</button>
+						<!-- <button id="leaderboard-button" class="simple-button simple-button-small">Leaderboard</button> -->
+						<div id="main-menu-lux-arm"></div>
+						<div id="main-menu-lux"></div>
+					</div>
+				</div>
+				<div id="select-screen" class="screen">
+					<button id="select-screen-back-button" class="back-button"><span>Back</span></button>
+					<div id="select-screen-content" class="screen-content">
+						<div id="select-screen-title-holder" class="screen-title">
+							<h2 id="select-screen-title"><span>Pick Yer Pirate!</span></h2>
+							<div class="screen-underline"></div>
+						</div>
+						<div id="select-character">
+							<div id="select-luxamillion-container" class="select-container">
+								<div id="select-luxamillion-frame" class="select-frame"></div>
+								<div id="select-luxamillion" class="select-portrait">
+									<div id="lux-portrait" class="portrait"></div>
+									<span>LUXAMILLION</span>
+								</div>
+								<div class="portrait-name">LUXAMILLION</div>
+							</div>
+							<div id="select-trunkford-container" class="select-container">
+								<div id="select-trunkford-frame" class="select-frame"></div>
+								<div id="select-trunkford" class="select-portrait">
+									<div id="trunk-portrait" class="portrait"></div>
+									<span>TRUNKFORD</span>
+								</div>
+								<div class="portrait-name">TRUNKFORD</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="level-screen" class="screen">
+					<button id="level-screen-back-button" class="back-button"><span>Back</span></button>
+					<div id="level-screen-content" class="screen-content">
+						<div id="level-screen-title-holder" class="screen-title">
+							<h2 id="levels-screen-title"><span>Select Yer Battle!</span></h2>
+							<div class="screen-underline"></div>
+						</div>
+						<div id="select-level">
+							<div class="clearfix" style="margin-top: 90px;">
+								<div id="select-isle-of-coconuts-container" class="level-container">
+									<div id="select-isle-of-coconuts-frame" class="level-frame"></div>
+									<button id="select-isle-of-coconuts" class="level-portrait level-locked"></button>
+									<div class="level-name">ISLE OF COCONUTS</div>
+								</div>
+								<div id="select-spout-belly-bay-container" class="level-container">
+									<div id="select-spout-belly-bay-frame" class="level-frame"></div>
+									<button id="select-spout-belly-bay" class="level-portrait level-unlocked"></button>
+									<div class="level-name">SPOUT BELLY BAY</div>
+								</div>
+								<div id="select-fire-container" class="level-container">
+									<div id="select-fire-frame" class="level-frame"></div>
+									<button id="select-fire" class="level-portrait level-locked"></button>
+									<div class="level-name">FIRE N' GOATS</div>
+								</div>
+							</div>
+
+							<!-- <div class="clearfix"></div> -->
+						</div>
+					</div>
+				</div>
+
+                <div id="instructions-screen" class="screen">
+					<button id="instructions-screen-back-button" class="back-button"><span>Back</span></button>
+				</div>
+
+                <div id="video-screen" class="screen">
+                    <video id="lux-ahoy-video" class="video-js vjs-default-skin"></video>
+                    <button id="video-screen-back-button" class="back-button"><span>Back</span></button>
+                </div>
+				<!--
+				<div id="leaderboard-screen" class="screen">
+					<button id="leaderboard-screen-back-button" class="back-button"><span>Back</span></button>
+					<h2 id="leaderboard-title">Leaderboard</h2>
+					<div id="leaderboard">
+						<table id="leaderboard-table">
+							<thead>
+								<tr>
+									<th id="rank-head" class="leaderboard-head" scope="col"><span>Rank</span></th>
+									<th id="pirate-head" class="leaderboard-head" scope="col"><span>Pirate</span></th>
+									<th id="wins-head" class="leaderboard-head" scope="col"><span>Wins</span></th>
+									<th id="losses-head" class="leaderboard-head" scope="col"><span>Losses</span></th>
+									<th id="loot-head" class="leaderboard-head" scope="col"><span>Loot</span></th>
+								</tr>
+							</thead>
+							<tbody id="leaderboard-data">
+							</tbody>
+						</table>
+					</div>
+					<div id="leaderboard-actions">
+						<button id="leaderboard-screen-my-score-button" class="simple-button simple-button-small">My Score</button>
+						<button id="leaderboard-screen-all-time-button" class="simple-button simple-button-small">All Time</button>
+					</div>
+				</div>
+				-->
+			</div>
+		</div>
+		<div id="canvasHolder">
+			<div id="canvasCover"></div>
+			<div id="lux-ui">
+				<div id="lux-ui-title" class="ui-title">0</div>
+				<div id="lux-hit-1" class="lux-hit"></div>
+				<div id="lux-hit-2" class="lux-hit"></div>
+				<div id="lux-hit-3" class="lux-hit"></div>
+			</div>
+			<div id="center-ui-holder">
+				<div id="center-ui"></div>
+				<div id="wind-meter-left"></div>
+				<div id="wind-meter-right"></div>
+				<div id="timer-canvas-holder"></div>
+				<div id="timer"></div>
+			</div>
+			<div id="trunk-ui">
+				<div id="trunk-ui-title" class="ui-title">0</div>
+				<div id="trunk-hit-1" class="trunk-hit"></div>
+				<div id="trunk-hit-2" class="trunk-hit"></div>
+				<div id="trunk-hit-3" class="trunk-hit"></div>
+			</div>
+			<div id="pause-screen" class="screen overlay">
+				<div id="pause-screen-actions-holder">
+					<div id="pause-screen-actions">
+						<button id="pause-screen-resume-button" class="simple-button simple-button-big">Resume</button>
+						<button id="pause-screen-restart-button" class="simple-button simple-button-small">Restart</button>
+						<button id="pause-screen-levels-button" class="simple-button simple-button-small">Levels</button>
+						<button id="pause-screen-quit-button" class="simple-button simple-button-small">Quit</button>
+					</div>
+				</div>
+			</div>
+			<div id="start-screen" class="screen overlay">
+				<div id="start-screen-title-holder" class="screen-title-holder">
+					<h2 id="start-screen-title" class="screen-title"><span>Prepare t' Fight!</span></h2>
+					<div id="start-screen-underline" class="screen-underline"></div>
+				</div>
+				<div id="start-screen-sub-title-holder" class="screen-sub-title-holder">
+					<h3 id="start-screen-sub-title" class="screen-sub-title"><span>DAY ONE: BATTLE FOR THE ISLE OF COCONUTS!</span></h3>
+				</div>
+			</div>
+			<div id="results-screen" class="screen overlay">
+				<div id="results-screen-title-holder" class="screen-title-holder">
+					<div id="results-screen-title"></div>
+					<a id="twitter-share" class="twitter-share share-button" href="#"></a>
+					<a id="facebook-share" class="facebook-share share-button" href="#"></a>
+					<div id="results-screen-title-line" class="screen-underline"></div>
+				</div>
+				<div id="results-screen-sub-title-holder" class="screen-sub-title-holder">
+					<h3 id="results-screen-sub-title" class="screen-sub-title"><span>YOU CONQUERED THE ISLE OF COCONUTS!</span></h3>
+					<h4 class="loot-title"><span>Loot</span></h4>
+					<div id="points">190500</div>
+					<div id="chest"></div>
+				</div>
+				<div id="loot-line" class="screen-underline"></div>
+				<div id="results-victory-message">Congratulations!</div>
+				<div id="results-actions">
+					<button id="results-screen-characters-button" class="simple-button simple-button-big">Characters</button>
+					<button id="results-screen-next-button" class="simple-button simple-button-big">Continue</button>
+					<button id="results-screen-levels-button" class="simple-button simple-button-small">Levels</button>
+					<button id="results-screen-replay-button" class="simple-button simple-button-small">Replay</button>
+					<button id="results-screen-quit-button" class="simple-button simple-button-small">Quit</button>
+					<!-- <button id="results-screen-next-button" class="simple-button simple-button-small">Next Battle!</button> -->
+				</div>
+			</div>
+			<div id="game-messages"></div>
+			<div id="wavesBackground"></div>
+			<div id="wavesMiddleground"></div>
+			<canvas width="960" height="640" id="canvas"></canvas>
+			<div id="wavesForeground"></div>
+		</div>
+		
+	</div>
+</div>
+<!-- Scripts -->
+<script type="text/javascript" src="./assets/libs/jquery-2.0.3.min.js"></script>
+<script type="text/javascript" src="./assets/js/helper.min.js"></script>
+<script type="text/javascript" src="./assets/js/luxahoy.min_8029a103.js"></script>
+</body>
+</html>

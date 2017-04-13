@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="num0.png"	x="38"	y="50"	width="37"	height="50" frameX="-0" frameY="-0" frameWidth="37" frameHeight="50"/>
+	<SubTexture name="num1.png"	x="110"	y="48"	width="25"	height="48" frameX="-0" frameY="-0" frameWidth="25" frameHeight="48"/>
+	<SubTexture name="num2.png"	x="0"	y="98"	width="37"	height="48" frameX="-0" frameY="-0" frameWidth="37" frameHeight="48"/>
+	<SubTexture name="num3.png"	x="39"	y="0"	width="36"	height="48" frameX="-0" frameY="-0" frameWidth="36" frameHeight="48"/>
+	<SubTexture name="num4.png"	x="76"	y="48"	width="33"	height="48" frameX="-0" frameY="-0" frameWidth="33" frameHeight="48"/>
+	<SubTexture name="num5.png"	x="76"	y="97"	width="32"	height="48" frameX="-0" frameY="-0" frameWidth="32" frameHeight="48"/>
+	<SubTexture name="num6.png"	x="76"	y="0"	width="34"	height="47" frameX="-0" frameY="-0" frameWidth="34" frameHeight="47"/>
+	<SubTexture name="num7.png"	x="109"	y="97"	width="31"	height="48" frameX="-0" frameY="-0" frameWidth="31" frameHeight="48"/>
+	<SubTexture name="num8.png"	x="0"	y="0"	width="38"	height="49" frameX="-0" frameY="-0" frameWidth="38" frameHeight="49"/>
+	<SubTexture name="num9.png"	x="0"	y="50"	width="37"	height="47" frameX="-0" frameY="-0" frameWidth="37" frameHeight="47"/>
+</TextureAtlas>

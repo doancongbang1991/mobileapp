@@ -1,0 +1,108 @@
+{"frames": {
+
+"MoneyIcon.png":
+{
+	"frame": {"x":2,"y":2,"w":35,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":38},
+	"sourceSize": {"w":35,"h":38}
+},
+"MoneyBar.png":
+{
+	"frame": {"x":39,"y":2,"w":207,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":50},
+	"sourceSize": {"w":207,"h":50}
+},
+"Star.png":
+{
+	"frame": {"x":248,"y":2,"w":52,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":62},
+	"sourceSize": {"w":52,"h":62}
+},
+"Close.png":
+{
+	"frame": {"x":302,"y":2,"w":97,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":86},
+	"sourceSize": {"w":97,"h":86}
+},
+"CloseHold.png":
+{
+	"frame": {"x":401,"y":2,"w":98,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":86},
+	"sourceSize": {"w":98,"h":86}
+},
+"SoundOn.png":
+{
+	"frame": {"x":501,"y":2,"w":149,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":132},
+	"sourceSize": {"w":149,"h":132}
+},
+"Info.png":
+{
+	"frame": {"x":652,"y":2,"w":150,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":132},
+	"sourceSize": {"w":150,"h":132}
+},
+"InfoHold.png":
+{
+	"frame": {"x":804,"y":2,"w":150,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":133},
+	"sourceSize": {"w":150,"h":133}
+},
+"SoundOff.png":
+{
+	"frame": {"x":2,"y":137,"w":149,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":133},
+	"sourceSize": {"w":149,"h":133}
+},
+"Play.png":
+{
+	"frame": {"x":153,"y":137,"w":165,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":148},
+	"sourceSize": {"w":165,"h":148}
+},
+"PlayHold.png":
+{
+	"frame": {"x":320,"y":137,"w":164,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":148},
+	"sourceSize": {"w":164,"h":148}
+},
+"Credits.png":
+{
+	"frame": {"x":486,"y":137,"w":532,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":532,"h":230},
+	"sourceSize": {"w":532,"h":230}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "MenuScene.png",
+	"format": "RGBA8888",
+	"size": {"w":1020,"h":369},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0a0049975b56ca405ec9261adec9a901:d34161657acbb46c6ffe33fd854ac9fa:11c0afa40aa31d0f6bdf21a46f892c36$"
+}
+}

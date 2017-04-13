@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "weapon/1",
+	"frame": {"x":2,"y":2,"w":34,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":33},
+	"sourceSize": {"w":34,"h":33}
+},
+{
+	"filename": "weapon/12",
+	"frame": {"x":48,"y":28,"w":22,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":23},
+	"sourceSize": {"w":22,"h":23}
+},
+{
+	"filename": "weapon/2",
+	"frame": {"x":2,"y":37,"w":20,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":21},
+	"sourceSize": {"w":20,"h":21}
+},
+{
+	"filename": "weapon/4",
+	"frame": {"x":64,"y":2,"w":9,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":9},
+	"sourceSize": {"w":9,"h":9}
+},
+{
+	"filename": "weapon/6",
+	"frame": {"x":24,"y":37,"w":22,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":18},
+	"sourceSize": {"w":22,"h":18}
+},
+{
+	"filename": "weapon/7",
+	"frame": {"x":38,"y":2,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "weapon.png",
+	"format": "RGBA8888",
+	"size": {"w":76,"h":60},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:389a8b8834dfe5fd4d6a1e3ff0f38813:e5dfe3eeb86d225af331640db62403c3:fa90cfea31e6e1438478ff5b9fc90e48$"
+}
+}

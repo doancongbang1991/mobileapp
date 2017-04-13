@@ -1,0 +1,33 @@
+{
+"images": ["assets/obstacles.png"],
+"frames": [
+
+    [484, 328, 480, 141], 
+    [778, 66, 83, 74], 
+    [2, 328, 480, 237], 
+    [484, 540, 480, 67], 
+    [484, 471, 480, 67], 
+    [2, 2, 636, 324], 
+    [778, 2, 114, 62], 
+    [640, 2, 136, 100], 
+    [640, 104, 73, 87], 
+    [894, 2, 92, 200]
+],
+"animations": {
+    
+        "2nd_tile":[0], 
+        "balloon":[1], 
+        "bg_tile":[2], 
+        "grass_tile01":[3], 
+        "grass_tile02":[4], 
+        "hector":[5], 
+        "obstacle_bench":[6], 
+        "obstacle_marvin":[7], 
+        "recyclebin":[8], 
+        "tobias":[9]
+},
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:aecb648a23d34e0a5356de3dc21100ef$",
+        "Created with TexturePacker (http://www.texturepacker.com) for EasalJS"
+]
+}

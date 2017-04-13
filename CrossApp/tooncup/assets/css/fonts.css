@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'gumball_8bit';
+    src: url('../fonts/gumball_8bit_thick.ttf');
+}
+
+@font-face {
+    font-family: 'gumball_8bit_thin';
+    src: url('../fonts/gumball_8bit_thin.ttf');
+}
+
+@font-face {
+    font-family: 'fredburger_headline';
+    src: url('../fonts/fredburger_headline.ttf');
+}
+
+@font-face {
+    font-family: 'fredburger';
+    src: url('../fonts/fredburger_regular.ttf'),
+    url('../fonts/fredburger_regular.woff');
+}
+
+@font-face {
+    font-family: 'lubalin';
+    src: url('../fonts/lubalin.ttf')  format('truetype'),
+    url('../fonts/lubalin.woff') format('woff');
+}

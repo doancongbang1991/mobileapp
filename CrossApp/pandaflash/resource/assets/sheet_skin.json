@@ -1,0 +1,7 @@
+{"file":"sheet_skin.png","frames":{
+"EnemySwordsman_head":{"x":1,"y":85,"w":83,"h":82,"offX":0,"offY":0,"sourceW":83,"sourceH":82},
+"EnemyLance_head":{"x":86,"y":88,"w":82,"h":77,"offX":0,"offY":0,"sourceW":82,"sourceH":77},
+"EnemyArcher_head":{"x":1,"y":169,"w":89,"h":75,"offX":0,"offY":0,"sourceW":89,"sourceH":75},
+"EnemyArmor_head":{"x":170,"y":88,"w":78,"h":74,"offX":0,"offY":0,"sourceW":78,"sourceH":74},
+"EnemyMaster_head":{"x":1,"y":1,"w":93,"h":82,"offX":0,"offY":0,"sourceW":93,"sourceH":82},
+"EnemySniper_head":{"x":96,"y":1,"w":82,"h":85,"offX":0,"offY":0,"sourceW":82,"sourceH":85}}}

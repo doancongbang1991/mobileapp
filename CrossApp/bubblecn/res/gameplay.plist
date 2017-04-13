@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui_GamePlay_arrow_amethyst.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,353},{60,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{60,54}}</string>
+				<key>sourceSize</key>
+				<string>{60,54}</string>
+			</dict>
+
+			<key>ui_GamePlay_arrow_garnet.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,408},{60,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{60,54}}</string>
+				<key>sourceSize</key>
+				<string>{60,54}</string>
+			</dict>
+
+			<key>ui_GamePlay_arrow_pearl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{61,298},{60,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{60,54}}</string>
+				<key>sourceSize</key>
+				<string>{60,54}</string>
+			</dict>
+
+			<key>ui_GamePlay_arrow_steven.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,298},{60,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{60,54}}</string>
+				<key>sourceSize</key>
+				<string>{60,54}</string>
+			</dict>
+
+			<key>ui_GamePlay_innerPipe.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{302,254},{174,244}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{174,244}}</string>
+				<key>sourceSize</key>
+				<string>{174,244}</string>
+			</dict>
+
+			<key>ui_GamePlay_outerPipe.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{302,0},{190,253}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{190,253}}</string>
+				<key>sourceSize</key>
+				<string>{190,253}</string>
+			</dict>
+
+			<key>ui_GamePlay_pitFront.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{301,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{301,148}}</string>
+				<key>sourceSize</key>
+				<string>{301,148}</string>
+			</dict>
+
+			<key>ui_GamePlay_pitRear.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,149},{301,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{301,148}}</string>
+				<key>sourceSize</key>
+				<string>{301,148}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{493,499}</string>
+			<key>textureFileName</key>
+			<string>gameplay.png</string>
+			</dict>
+		</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+"images": ["assets/ui.png"],
+"frames": [
+
+    [2, 706, 208, 47], 
+    [966, 98, 37, 37], 
+    [2, 324, 480, 320], 
+    [142, 646, 181, 41], 
+    [2, 646, 138, 58], 
+    [966, 50, 47, 46], 
+    [966, 2, 47, 46], 
+    [484, 2, 480, 320], 
+    [2, 2, 480, 320]
+],
+"animations": {
+    
+        "main_btn":[0], 
+        "pause_btn":[1], 
+        "pause_container":[2], 
+        "pause_screen_btn":[3], 
+        "score_container":[4], 
+        "sound_btn_off":[5], 
+        "sound_btn_on":[6], 
+        "tutorial":[7,8]
+},
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ad568b3aaf7961d0ed9caa68753596ce$",
+        "Created with TexturePacker (http://www.texturepacker.com) for EasalJS"
+]
+}

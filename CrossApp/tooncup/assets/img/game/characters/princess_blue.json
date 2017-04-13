@@ -1,0 +1,1084 @@
+{"frames": {
+
+"characters_princess_blue_bicycle_kick0001.png":
+{
+	"frame": {"x":119,"y":832,"w":117,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":129,"w":117,"h":127},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0002.png":
+{
+	"frame": {"x":119,"y":832,"w":117,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":129,"w":117,"h":127},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0003.png":
+{
+	"frame": {"x":837,"y":730,"w":115,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":120,"w":115,"h":134},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0004.png":
+{
+	"frame": {"x":837,"y":730,"w":115,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":120,"w":115,"h":134},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0005.png":
+{
+	"frame": {"x":119,"y":832,"w":117,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":129,"w":117,"h":127},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0006.png":
+{
+	"frame": {"x":119,"y":832,"w":117,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":129,"w":117,"h":127},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0007.png":
+{
+	"frame": {"x":685,"y":903,"w":150,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":161,"w":150,"h":95},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0008.png":
+{
+	"frame": {"x":685,"y":903,"w":150,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":161,"w":150,"h":95},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0009.png":
+{
+	"frame": {"x":170,"y":315,"w":155,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":120,"w":155,"h":134},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0010.png":
+{
+	"frame": {"x":170,"y":315,"w":155,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":120,"w":155,"h":134},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0011.png":
+{
+	"frame": {"x":2,"y":2,"w":173,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":29,"w":173,"h":223},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0012.png":
+{
+	"frame": {"x":2,"y":2,"w":173,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":29,"w":173,"h":223},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_bicycle_kick0013.png":
+{
+	"frame": {"x":2,"y":227,"w":166,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":27,"w":166,"h":225},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0001.png":
+{
+	"frame": {"x":315,"y":629,"w":74,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":73,"w":74,"h":183},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0002.png":
+{
+	"frame": {"x":315,"y":629,"w":74,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":73,"w":74,"h":183},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0003.png":
+{
+	"frame": {"x":771,"y":551,"w":74,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":79,"w":74,"h":177},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0004.png":
+{
+	"frame": {"x":771,"y":551,"w":74,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":79,"w":74,"h":177},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0005.png":
+{
+	"frame": {"x":761,"y":730,"w":74,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":85,"w":74,"h":171},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0006.png":
+{
+	"frame": {"x":761,"y":730,"w":74,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":85,"w":74,"h":171},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0007.png":
+{
+	"frame": {"x":761,"y":730,"w":74,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":85,"w":74,"h":171},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0008.png":
+{
+	"frame": {"x":761,"y":730,"w":74,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":85,"w":74,"h":171},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0009.png":
+{
+	"frame": {"x":2,"y":708,"w":115,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":15,"w":115,"h":237},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0010.png":
+{
+	"frame": {"x":2,"y":708,"w":115,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":15,"w":115,"h":237},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0011.png":
+{
+	"frame": {"x":2,"y":708,"w":115,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":15,"w":115,"h":237},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0012.png":
+{
+	"frame": {"x":2,"y":708,"w":115,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":15,"w":115,"h":237},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0013.png":
+{
+	"frame": {"x":2,"y":454,"w":113,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":0,"w":113,"h":252},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0014.png":
+{
+	"frame": {"x":2,"y":454,"w":113,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":0,"w":113,"h":252},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0015.png":
+{
+	"frame": {"x":2,"y":454,"w":113,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":0,"w":113,"h":252},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0016.png":
+{
+	"frame": {"x":333,"y":2,"w":138,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":70,"w":138,"h":184},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0017.png":
+{
+	"frame": {"x":333,"y":2,"w":138,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":70,"w":138,"h":184},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0018.png":
+{
+	"frame": {"x":238,"y":815,"w":107,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":86,"w":107,"h":170},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0019.png":
+{
+	"frame": {"x":238,"y":815,"w":107,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":86,"w":107,"h":170},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0020.png":
+{
+	"frame": {"x":238,"y":815,"w":107,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":86,"w":107,"h":170},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0021.png":
+{
+	"frame": {"x":2,"y":708,"w":115,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":15,"w":115,"h":237},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0022.png":
+{
+	"frame": {"x":2,"y":708,"w":115,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":15,"w":115,"h":237},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0023.png":
+{
+	"frame": {"x":2,"y":708,"w":115,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":15,"w":115,"h":237},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0024.png":
+{
+	"frame": {"x":2,"y":708,"w":115,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":15,"w":115,"h":237},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0025.png":
+{
+	"frame": {"x":2,"y":454,"w":113,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":0,"w":113,"h":252},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0026.png":
+{
+	"frame": {"x":2,"y":454,"w":113,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":0,"w":113,"h":252},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0027.png":
+{
+	"frame": {"x":2,"y":454,"w":113,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":0,"w":113,"h":252},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0028.png":
+{
+	"frame": {"x":333,"y":2,"w":138,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":70,"w":138,"h":184},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0029.png":
+{
+	"frame": {"x":333,"y":2,"w":138,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":70,"w":138,"h":184},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0030.png":
+{
+	"frame": {"x":662,"y":551,"w":107,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":85,"w":107,"h":171},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0031.png":
+{
+	"frame": {"x":662,"y":551,"w":107,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":85,"w":107,"h":171},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0032.png":
+{
+	"frame": {"x":662,"y":551,"w":107,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":85,"w":107,"h":171},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0033.png":
+{
+	"frame": {"x":347,"y":814,"w":117,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":82,"w":117,"h":174},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0034.png":
+{
+	"frame": {"x":347,"y":814,"w":117,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":82,"w":117,"h":174},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0035.png":
+{
+	"frame": {"x":177,"y":2,"w":154,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":80,"w":154,"h":176},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0036.png":
+{
+	"frame": {"x":177,"y":2,"w":154,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":80,"w":154,"h":176},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0037.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0038.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0039.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0040.png":
+{
+	"frame": {"x":543,"y":427,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0041.png":
+{
+	"frame": {"x":543,"y":427,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0042.png":
+{
+	"frame": {"x":543,"y":427,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0043.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0044.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0045.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0046.png":
+{
+	"frame": {"x":543,"y":427,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0047.png":
+{
+	"frame": {"x":543,"y":427,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0048.png":
+{
+	"frame": {"x":543,"y":427,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0049.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0050.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0051.png":
+{
+	"frame": {"x":441,"y":447,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_celebrate0052.png":
+{
+	"frame": {"x":543,"y":427,"w":100,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":76,"w":100,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0001.png":
+{
+	"frame": {"x":613,"y":2,"w":132,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":73,"w":132,"h":183},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0002.png":
+{
+	"frame": {"x":879,"y":2,"w":131,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":81,"w":131,"h":175},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0003.png":
+{
+	"frame": {"x":1012,"y":2,"w":125,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":76,"w":125,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0004.png":
+{
+	"frame": {"x":747,"y":2,"w":130,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":69,"w":130,"h":187},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0005.png":
+{
+	"frame": {"x":209,"y":629,"w":104,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":72,"w":104,"h":184},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0006.png":
+{
+	"frame": {"x":466,"y":814,"w":104,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":75,"w":104,"h":181},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0007.png":
+{
+	"frame": {"x":862,"y":191,"w":79,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":78,"w":79,"h":178},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0008.png":
+{
+	"frame": {"x":117,"y":454,"w":79,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":69,"w":79,"h":187},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0009.png":
+{
+	"frame": {"x":613,"y":2,"w":132,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":73,"w":132,"h":183},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0010.png":
+{
+	"frame": {"x":879,"y":2,"w":131,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":81,"w":131,"h":175},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0011.png":
+{
+	"frame": {"x":1012,"y":2,"w":125,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":76,"w":125,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0012.png":
+{
+	"frame": {"x":747,"y":2,"w":130,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":69,"w":130,"h":187},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0013.png":
+{
+	"frame": {"x":209,"y":629,"w":104,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":72,"w":104,"h":184},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0014.png":
+{
+	"frame": {"x":466,"y":814,"w":104,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":75,"w":104,"h":181},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0015.png":
+{
+	"frame": {"x":862,"y":191,"w":79,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":78,"w":79,"h":178},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_dash0016.png":
+{
+	"frame": {"x":117,"y":454,"w":79,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":69,"w":79,"h":187},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_fall0001.png":
+{
+	"frame": {"x":845,"y":371,"w":107,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":84,"w":107,"h":172},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_fall0002.png":
+{
+	"frame": {"x":845,"y":371,"w":107,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":84,"w":107,"h":172},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_fall0003.png":
+{
+	"frame": {"x":198,"y":451,"w":120,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":80,"w":120,"h":176},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_fall0004.png":
+{
+	"frame": {"x":198,"y":451,"w":120,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":80,"w":120,"h":176},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_fall0005.png":
+{
+	"frame": {"x":490,"y":316,"w":147,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":147,"w":147,"h":109},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_fall0006.png":
+{
+	"frame": {"x":490,"y":316,"w":147,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":147,"w":147,"h":109},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_fall0007.png":
+{
+	"frame": {"x":837,"y":866,"w":144,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":151,"w":144,"h":105},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_fall0008.png":
+{
+	"frame": {"x":983,"y":814,"w":150,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":158,"w":150,"h":101},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0001.png":
+{
+	"frame": {"x":954,"y":348,"w":110,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":85,"w":110,"h":170},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0002.png":
+{
+	"frame": {"x":943,"y":184,"w":120,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":93,"w":120,"h":162},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0003.png":
+{
+	"frame": {"x":943,"y":184,"w":120,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":93,"w":120,"h":162},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0004.png":
+{
+	"frame": {"x":649,"y":187,"w":96,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":77,"w":96,"h":178},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0005.png":
+{
+	"frame": {"x":649,"y":187,"w":96,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":77,"w":96,"h":178},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0006.png":
+{
+	"frame": {"x":473,"y":2,"w":138,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":75,"w":138,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0007.png":
+{
+	"frame": {"x":473,"y":2,"w":138,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":75,"w":138,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0008.png":
+{
+	"frame": {"x":572,"y":793,"w":111,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":76,"w":111,"h":179},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0009.png":
+{
+	"frame": {"x":747,"y":191,"w":113,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":77,"w":113,"h":178},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_kick0010.png":
+{
+	"frame": {"x":731,"y":371,"w":112,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":77,"w":112,"h":178},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_lose0001.png":
+{
+	"frame": {"x":1066,"y":302,"w":107,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":84,"w":107,"h":172},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_lose0002.png":
+{
+	"frame": {"x":1066,"y":302,"w":107,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":84,"w":107,"h":172},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_lose0003.png":
+{
+	"frame": {"x":320,"y":451,"w":119,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":80,"w":119,"h":176},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_lose0004.png":
+{
+	"frame": {"x":320,"y":451,"w":119,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":80,"w":119,"h":176},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_lose0005.png":
+{
+	"frame": {"x":1066,"y":191,"w":147,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":147,"w":147,"h":109},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_lose0006.png":
+{
+	"frame": {"x":1066,"y":191,"w":147,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":147,"w":147,"h":109},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_lose0007.png":
+{
+	"frame": {"x":954,"y":707,"w":144,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":151,"w":144,"h":105},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_lose0008.png":
+{
+	"frame": {"x":983,"y":917,"w":150,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":158,"w":150,"h":101},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0001.png":
+{
+	"frame": {"x":572,"y":609,"w":88,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":73,"w":88,"h":182},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0002.png":
+{
+	"frame": {"x":572,"y":609,"w":88,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":73,"w":88,"h":182},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0003.png":
+{
+	"frame": {"x":685,"y":724,"w":74,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":80,"w":74,"h":175},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0004.png":
+{
+	"frame": {"x":685,"y":724,"w":74,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":80,"w":74,"h":175},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0005.png":
+{
+	"frame": {"x":1035,"y":520,"w":74,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":75,"w":74,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0006.png":
+{
+	"frame": {"x":1035,"y":520,"w":74,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":75,"w":74,"h":180},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0007.png":
+{
+	"frame": {"x":119,"y":643,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":68,"w":88,"h":187},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0008.png":
+{
+	"frame": {"x":119,"y":643,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":68,"w":88,"h":187},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0009.png":
+{
+	"frame": {"x":391,"y":629,"w":103,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":72,"w":103,"h":183},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0010.png":
+{
+	"frame": {"x":391,"y":629,"w":103,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":72,"w":103,"h":183},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0011.png":
+{
+	"frame": {"x":645,"y":367,"w":84,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":74,"w":84,"h":181},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0012.png":
+{
+	"frame": {"x":645,"y":367,"w":84,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":74,"w":84,"h":181},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0013.png":
+{
+	"frame": {"x":1111,"y":476,"w":74,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":78,"w":74,"h":177},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0014.png":
+{
+	"frame": {"x":1111,"y":476,"w":74,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":78,"w":74,"h":177},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_run0015.png":
+{
+	"frame": {"x":1139,"y":2,"w":74,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":68,"w":74,"h":187},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_stand0001.png":
+{
+	"frame": {"x":496,"y":629,"w":74,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":73,"w":74,"h":183},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_stand0002.png":
+{
+	"frame": {"x":496,"y":629,"w":74,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":73,"w":74,"h":183},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_stand0003.png":
+{
+	"frame": {"x":959,"y":520,"w":74,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":74,"w":74,"h":182},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0001.png":
+{
+	"frame": {"x":847,"y":545,"w":110,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":95,"w":110,"h":160},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0002.png":
+{
+	"frame": {"x":847,"y":545,"w":110,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":95,"w":110,"h":160},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0003.png":
+{
+	"frame": {"x":177,"y":180,"w":152,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":133,"w":152,"h":133},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0004.png":
+{
+	"frame": {"x":177,"y":180,"w":152,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":133,"w":152,"h":133},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0005.png":
+{
+	"frame": {"x":331,"y":188,"w":156,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":133,"w":156,"h":127},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0006.png":
+{
+	"frame": {"x":331,"y":188,"w":156,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":133,"w":156,"h":127},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0007.png":
+{
+	"frame": {"x":489,"y":187,"w":158,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":133,"w":158,"h":127},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0008.png":
+{
+	"frame": {"x":489,"y":187,"w":158,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":133,"w":158,"h":127},
+	"sourceSize": {"w":280,"h":280}
+},
+"characters_princess_blue_tackle0009.png":
+{
+	"frame": {"x":327,"y":317,"w":161,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":132,"w":161,"h":128},
+	"sourceSize": {"w":280,"h":280}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "princess_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":1215,"h":1020},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a365e708572358b87e76a7fb176368b8:6a93a826c94b38a76df177f723c280d4:7168f6d788f045442b4bbd4b9236c3f9$"
+}
+}

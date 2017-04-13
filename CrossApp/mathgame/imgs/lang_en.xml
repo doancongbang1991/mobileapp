@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="congratulations.png"	x="0"	y="353"	width="258"	height="132" frameX="-0" frameY="-0" frameWidth="258" frameHeight="132"/>
+	<SubTexture name="game-paused.png"	x="259"	y="434"	width="137"	height="44" frameX="-0" frameY="-0" frameWidth="137" frameHeight="44"/>
+	<SubTexture name="level-won.png"	x="320"	y="130"	width="88"	height="48" frameX="-0" frameY="-0" frameWidth="88" frameHeight="48"/>
+	<SubTexture name="level.png"	x="320"	y="81"	width="106"	height="48" frameX="-0" frameY="-0" frameWidth="106" frameHeight="48"/>
+	<SubTexture name="start-down.png"	x="320"	y="0"	width="150"	height="80" frameX="-0" frameY="-0" frameWidth="150" frameHeight="80"/>
+	<SubTexture name="start-out.png"	x="259"	y="353"	width="150"	height="80" frameX="-0" frameY="-0" frameWidth="150" frameHeight="80"/>
+	<SubTexture name="tuto1-txt.png"	x="0"	y="222"	width="319"	height="130" frameX="-0" frameY="-0" frameWidth="319" frameHeight="130"/>
+	<SubTexture name="tuto2-txt.png"	x="0"	y="121"	width="319"	height="100" frameX="-0" frameY="-0" frameWidth="319" frameHeight="100"/>
+	<SubTexture name="tuto3-txt.png"	x="0"	y="0"	width="319"	height="120" frameX="-0" frameY="-0" frameWidth="319" frameHeight="120"/>
+</TextureAtlas>

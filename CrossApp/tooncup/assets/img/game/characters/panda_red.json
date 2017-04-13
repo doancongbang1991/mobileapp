@@ -1,0 +1,1468 @@
+{"frames": {
+
+"character-panda-red-bicycle-kick0001.png":
+{
+	"frame": {"x":464,"y":678,"w":128,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":64,"w":128,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0002.png":
+{
+	"frame": {"x":464,"y":678,"w":128,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":64,"w":128,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0003.png":
+{
+	"frame": {"x":464,"y":678,"w":128,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":64,"w":128,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0004.png":
+{
+	"frame": {"x":171,"y":507,"w":134,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":18,"w":134,"h":204},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0005.png":
+{
+	"frame": {"x":171,"y":507,"w":134,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":18,"w":134,"h":204},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0006.png":
+{
+	"frame": {"x":712,"y":2,"w":136,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":25,"w":136,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0007.png":
+{
+	"frame": {"x":712,"y":2,"w":136,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":25,"w":136,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0008.png":
+{
+	"frame": {"x":712,"y":2,"w":136,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":25,"w":136,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0009.png":
+{
+	"frame": {"x":2,"y":507,"w":167,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":10,"w":167,"h":212},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0010.png":
+{
+	"frame": {"x":2,"y":507,"w":167,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":10,"w":167,"h":212},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0011.png":
+{
+	"frame": {"x":579,"y":2,"w":131,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":5,"w":131,"h":217},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0012.png":
+{
+	"frame": {"x":579,"y":2,"w":131,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":5,"w":131,"h":217},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0013.png":
+{
+	"frame": {"x":307,"y":507,"w":158,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":54,"w":158,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0014.png":
+{
+	"frame": {"x":307,"y":507,"w":158,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":54,"w":158,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0015.png":
+{
+	"frame": {"x":153,"y":1555,"w":142,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":82,"w":142,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0016.png":
+{
+	"frame": {"x":153,"y":1555,"w":142,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":82,"w":142,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0017.png":
+{
+	"frame": {"x":157,"y":1409,"w":138,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":78,"w":138,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0018.png":
+{
+	"frame": {"x":157,"y":1409,"w":138,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":78,"w":138,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0019.png":
+{
+	"frame": {"x":294,"y":1721,"w":132,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":76,"w":132,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0020.png":
+{
+	"frame": {"x":294,"y":1721,"w":132,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":76,"w":132,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0021.png":
+{
+	"frame": {"x":157,"y":1409,"w":138,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":78,"w":138,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-bicycle-kick0022.png":
+{
+	"frame": {"x":157,"y":1409,"w":138,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":78,"w":138,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0001.png":
+{
+	"frame": {"x":534,"y":1865,"w":120,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":63,"w":120,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0002.png":
+{
+	"frame": {"x":534,"y":1865,"w":120,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":63,"w":120,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0003.png":
+{
+	"frame": {"x":290,"y":1869,"w":126,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":66,"w":126,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0004.png":
+{
+	"frame": {"x":290,"y":1869,"w":126,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":66,"w":126,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0005.png":
+{
+	"frame": {"x":594,"y":747,"w":133,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":69,"w":133,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0006.png":
+{
+	"frame": {"x":594,"y":747,"w":133,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":69,"w":133,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0007.png":
+{
+	"frame": {"x":594,"y":747,"w":133,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":69,"w":133,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0008.png":
+{
+	"frame": {"x":2,"y":721,"w":122,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":3,"w":122,"h":219},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0009.png":
+{
+	"frame": {"x":2,"y":721,"w":122,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":3,"w":122,"h":219},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0010.png":
+{
+	"frame": {"x":579,"y":221,"w":128,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":34,"w":128,"h":188},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0011.png":
+{
+	"frame": {"x":579,"y":221,"w":128,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":34,"w":128,"h":188},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0012.png":
+{
+	"frame": {"x":579,"y":221,"w":128,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":34,"w":128,"h":188},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0013.png":
+{
+	"frame": {"x":467,"y":507,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":123,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0014.png":
+{
+	"frame": {"x":467,"y":507,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":123,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0015.png":
+{
+	"frame": {"x":297,"y":1226,"w":127,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":55,"w":127,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0016.png":
+{
+	"frame": {"x":297,"y":1226,"w":127,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":55,"w":127,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0017.png":
+{
+	"frame": {"x":428,"y":1624,"w":131,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":57,"w":131,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0018.png":
+{
+	"frame": {"x":428,"y":1624,"w":131,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":57,"w":131,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0019.png":
+{
+	"frame": {"x":844,"y":565,"w":135,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":61,"w":135,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0020.png":
+{
+	"frame": {"x":844,"y":565,"w":135,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":61,"w":135,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0021.png":
+{
+	"frame": {"x":844,"y":565,"w":135,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":61,"w":135,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0022.png":
+{
+	"frame": {"x":572,"y":1052,"w":131,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":57,"w":131,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0023.png":
+{
+	"frame": {"x":572,"y":1052,"w":131,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":57,"w":131,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0024.png":
+{
+	"frame": {"x":297,"y":1226,"w":127,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":55,"w":127,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0025.png":
+{
+	"frame": {"x":297,"y":1226,"w":127,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":55,"w":127,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0026.png":
+{
+	"frame": {"x":467,"y":507,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":123,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0027.png":
+{
+	"frame": {"x":467,"y":507,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":123,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0028.png":
+{
+	"frame": {"x":132,"y":897,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":123,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0029.png":
+{
+	"frame": {"x":132,"y":897,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":123,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0030.png":
+{
+	"frame": {"x":297,"y":1395,"w":127,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":55,"w":127,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0031.png":
+{
+	"frame": {"x":297,"y":1395,"w":127,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":55,"w":127,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0032.png":
+{
+	"frame": {"x":573,"y":1219,"w":131,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":57,"w":131,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0033.png":
+{
+	"frame": {"x":573,"y":1219,"w":131,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":57,"w":131,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0034.png":
+{
+	"frame": {"x":840,"y":728,"w":135,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":61,"w":135,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0035.png":
+{
+	"frame": {"x":840,"y":728,"w":135,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":61,"w":135,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0036.png":
+{
+	"frame": {"x":840,"y":728,"w":135,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":61,"w":135,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0037.png":
+{
+	"frame": {"x":573,"y":1386,"w":131,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":57,"w":131,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0038.png":
+{
+	"frame": {"x":573,"y":1386,"w":131,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":57,"w":131,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0039.png":
+{
+	"frame": {"x":297,"y":1395,"w":127,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":55,"w":127,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0040.png":
+{
+	"frame": {"x":297,"y":1395,"w":127,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":55,"w":127,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0041.png":
+{
+	"frame": {"x":132,"y":897,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":123,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-celebrate0042.png":
+{
+	"frame": {"x":132,"y":897,"w":123,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":53,"w":123,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0001.png":
+{
+	"frame": {"x":592,"y":411,"w":125,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":59,"w":125,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0002.png":
+{
+	"frame": {"x":977,"y":856,"w":104,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":72,"w":104,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0003.png":
+{
+	"frame": {"x":981,"y":712,"w":100,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":100,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0004.png":
+{
+	"frame": {"x":729,"y":709,"w":109,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":73,"w":109,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0005.png":
+{
+	"frame": {"x":696,"y":1701,"w":131,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":63,"w":131,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0006.png":
+{
+	"frame": {"x":706,"y":1216,"w":115,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":64,"w":115,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0007.png":
+{
+	"frame": {"x":879,"y":1826,"w":94,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":75,"w":94,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0008.png":
+{
+	"frame": {"x":975,"y":1773,"w":99,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":86,"w":99,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0009.png":
+{
+	"frame": {"x":838,"y":1046,"w":119,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":77,"w":119,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0010.png":
+{
+	"frame": {"x":418,"y":1869,"w":114,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":69,"w":114,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0011.png":
+{
+	"frame": {"x":594,"y":579,"w":125,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":59,"w":125,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0012.png":
+{
+	"frame": {"x":823,"y":1216,"w":103,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":72,"w":103,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0013.png":
+{
+	"frame": {"x":950,"y":1629,"w":99,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":83,"w":99,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0014.png":
+{
+	"frame": {"x":729,"y":863,"w":109,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":73,"w":109,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0015.png":
+{
+	"frame": {"x":705,"y":1052,"w":131,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":63,"w":131,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0016.png":
+{
+	"frame": {"x":706,"y":1379,"w":115,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":64,"w":115,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0017.png":
+{
+	"frame": {"x":825,"y":1524,"w":103,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":75,"w":103,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0018.png":
+{
+	"frame": {"x":930,"y":1344,"w":105,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":86,"w":105,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0019.png":
+{
+	"frame": {"x":829,"y":1676,"w":119,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":77,"w":119,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0020.png":
+{
+	"frame": {"x":656,"y":1865,"w":114,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":69,"w":114,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0021.png":
+{
+	"frame": {"x":592,"y":411,"w":125,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":59,"w":125,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-dash0022.png":
+{
+	"frame": {"x":977,"y":856,"w":104,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":72,"w":104,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0001.png":
+{
+	"frame": {"x":2,"y":942,"w":128,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":44,"w":128,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0002.png":
+{
+	"frame": {"x":2,"y":942,"w":128,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":44,"w":128,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0003.png":
+{
+	"frame": {"x":126,"y":721,"w":110,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":48,"w":110,"h":174},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0004.png":
+{
+	"frame": {"x":126,"y":721,"w":110,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":48,"w":110,"h":174},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0005.png":
+{
+	"frame": {"x":719,"y":391,"w":129,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":70,"w":129,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0006.png":
+{
+	"frame": {"x":719,"y":391,"w":129,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":70,"w":129,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0007.png":
+{
+	"frame": {"x":575,"y":902,"w":134,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":74,"w":134,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0008.png":
+{
+	"frame": {"x":575,"y":902,"w":134,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":74,"w":134,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0009.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0010.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0011.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0012.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0013.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0014.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0015.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0016.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0017.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0018.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0019.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0020.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-fall0021.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0001.png":
+{
+	"frame": {"x":561,"y":1701,"w":133,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":60,"w":133,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0002.png":
+{
+	"frame": {"x":426,"y":1306,"w":145,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":63,"w":145,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0003.png":
+{
+	"frame": {"x":426,"y":1306,"w":145,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":63,"w":145,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0004.png":
+{
+	"frame": {"x":426,"y":1306,"w":145,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":63,"w":145,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0005.png":
+{
+	"frame": {"x":2,"y":1635,"w":148,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":54,"w":148,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0006.png":
+{
+	"frame": {"x":2,"y":1635,"w":148,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":54,"w":148,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0007.png":
+{
+	"frame": {"x":709,"y":221,"w":139,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":54,"w":139,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0008.png":
+{
+	"frame": {"x":157,"y":1239,"w":138,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":54,"w":138,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0009.png":
+{
+	"frame": {"x":273,"y":1056,"w":138,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":54,"w":138,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-kick0010.png":
+{
+	"frame": {"x":273,"y":1056,"w":138,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":54,"w":138,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0001.png":
+{
+	"frame": {"x":2,"y":942,"w":128,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":44,"w":128,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0002.png":
+{
+	"frame": {"x":2,"y":942,"w":128,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":44,"w":128,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0003.png":
+{
+	"frame": {"x":126,"y":721,"w":110,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":48,"w":110,"h":174},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0004.png":
+{
+	"frame": {"x":126,"y":721,"w":110,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":48,"w":110,"h":174},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0005.png":
+{
+	"frame": {"x":719,"y":391,"w":129,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":70,"w":129,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0006.png":
+{
+	"frame": {"x":719,"y":391,"w":129,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":70,"w":129,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0007.png":
+{
+	"frame": {"x":575,"y":902,"w":134,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":74,"w":134,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0008.png":
+{
+	"frame": {"x":575,"y":902,"w":134,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":74,"w":134,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0009.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0010.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0011.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0012.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0013.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0014.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0015.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0016.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0017.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0018.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0019.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0020.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-lose0021.png":
+{
+	"frame": {"x":572,"y":1553,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":76,"w":134,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0001.png":
+{
+	"frame": {"x":257,"y":885,"w":127,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":56,"w":127,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0002.png":
+{
+	"frame": {"x":721,"y":545,"w":121,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":63,"w":121,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0003.png":
+{
+	"frame": {"x":772,"y":1865,"w":105,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":69,"w":105,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0004.png":
+{
+	"frame": {"x":823,"y":1371,"w":105,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":74,"w":105,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0005.png":
+{
+	"frame": {"x":981,"y":565,"w":100,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":80,"w":100,"h":145},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0006.png":
+{
+	"frame": {"x":708,"y":1542,"w":115,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":75,"w":115,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0007.png":
+{
+	"frame": {"x":297,"y":1564,"w":127,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":70,"w":127,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0008.png":
+{
+	"frame": {"x":151,"y":1858,"w":137,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":66,"w":137,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0009.png":
+{
+	"frame": {"x":2,"y":1805,"w":147,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":60,"w":147,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0010.png":
+{
+	"frame": {"x":2,"y":1122,"w":153,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":55,"w":153,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0011.png":
+{
+	"frame": {"x":413,"y":974,"w":147,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":61,"w":147,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0012.png":
+{
+	"frame": {"x":352,"y":677,"w":110,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":67,"w":110,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0013.png":
+{
+	"frame": {"x":879,"y":891,"w":96,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":72,"w":96,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0014.png":
+{
+	"frame": {"x":959,"y":1046,"w":98,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":78,"w":98,"h":147},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0015.png":
+{
+	"frame": {"x":930,"y":1485,"w":101,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":101,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0016.png":
+{
+	"frame": {"x":928,"y":1196,"w":111,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":79,"w":111,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0017.png":
+{
+	"frame": {"x":850,"y":412,"w":137,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":74,"w":137,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0018.png":
+{
+	"frame": {"x":426,"y":1467,"w":144,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":70,"w":144,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0019.png":
+{
+	"frame": {"x":152,"y":1697,"w":140,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":66,"w":140,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0020.png":
+{
+	"frame": {"x":426,"y":1140,"w":144,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":61,"w":144,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-run0021.png":
+{
+	"frame": {"x":2,"y":1294,"w":153,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":56,"w":153,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0001.png":
+{
+	"frame": {"x":238,"y":713,"w":112,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":52,"w":112,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0002.png":
+{
+	"frame": {"x":238,"y":713,"w":112,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":52,"w":112,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0003.png":
+{
+	"frame": {"x":238,"y":713,"w":112,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":52,"w":112,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0004.png":
+{
+	"frame": {"x":238,"y":713,"w":112,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":52,"w":112,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0005.png":
+{
+	"frame": {"x":238,"y":713,"w":112,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":52,"w":112,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0006.png":
+{
+	"frame": {"x":238,"y":713,"w":112,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":52,"w":112,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0007.png":
+{
+	"frame": {"x":157,"y":1068,"w":114,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":53,"w":114,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0008.png":
+{
+	"frame": {"x":157,"y":1068,"w":114,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":53,"w":114,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0009.png":
+{
+	"frame": {"x":157,"y":1068,"w":114,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":53,"w":114,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0010.png":
+{
+	"frame": {"x":157,"y":1068,"w":114,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":53,"w":114,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0011.png":
+{
+	"frame": {"x":157,"y":1068,"w":114,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":53,"w":114,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-stand0012.png":
+{
+	"frame": {"x":157,"y":1068,"w":114,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":53,"w":114,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0001.png":
+{
+	"frame": {"x":2,"y":1465,"w":149,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":54,"w":149,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0002.png":
+{
+	"frame": {"x":2,"y":1465,"w":149,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":54,"w":149,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0003.png":
+{
+	"frame": {"x":850,"y":2,"w":190,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":86,"w":190,"h":136},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0004.png":
+{
+	"frame": {"x":850,"y":2,"w":190,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":86,"w":190,"h":136},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0005.png":
+{
+	"frame": {"x":850,"y":276,"w":188,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":88,"w":188,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0006.png":
+{
+	"frame": {"x":850,"y":276,"w":188,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":88,"w":188,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0007.png":
+{
+	"frame": {"x":386,"y":838,"w":187,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":88,"w":187,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0008.png":
+{
+	"frame": {"x":386,"y":838,"w":187,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":88,"w":187,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0009.png":
+{
+	"frame": {"x":850,"y":140,"w":190,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":88,"w":190,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-panda-red-tackle0010.png":
+{
+	"frame": {"x":850,"y":140,"w":190,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":88,"w":190,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"super_shot_panda_red.png":
+{
+	"frame": {"x":2,"y":2,"w":575,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":575,"h":503},
+	"sourceSize": {"w":575,"h":503}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "panda_red.png",
+	"format": "RGBA8888",
+	"size": {"w":1083,"h":2027},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:86cdc0fc495f2ceedd3a148972301bea:d47b0e62a1cdbe14c0c2a0043311da15:7a58e68a75422418f9e1a8c1382d610f$"
+}
+}

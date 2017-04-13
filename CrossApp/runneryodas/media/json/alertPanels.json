@@ -1,0 +1,72 @@
+{
+  "welcome" : {
+    "state": true,
+    "slides": [
+      {
+        "text": "welcome"
+      }
+    ]
+  },
+  "tokenTuesday" : {
+    "state": true,
+    "slides": [
+      {
+        "text": "STR_TOKEN_TUESDAY"
+      }
+    ]
+  },
+  "wookieWednesday" : {
+    "state": true,
+    "slides": [
+      {
+        "text": "STR_WOOKIE_WEDNESDAY"
+      }
+    ]
+  },
+  "firstArcadeToken" : {
+    "state": true,
+    "slides": [
+      {
+        "text": "FIRST_ARCADE_TOKEN"
+      }
+    ]
+  },
+  "spendInArcade" : {
+    "state": true,
+    "slides": [
+      {
+        "text": "STR_ARCADE_SPEND"
+      }
+    ]
+  },
+  "firstTimeShop" : {
+    "state": true,
+    "slides": [
+      {
+        "text": "firstTimeShop"
+      }
+    ]
+  },
+  "firstTimeShopItemAvailable" : {
+    "state": true,
+    "slides": [
+      {
+        "text": "firstTimeShopItemAvailable"
+      }
+    ]
+  },
+  "trophies" : {
+    "state": true,
+    "slides": [
+      {
+        "text": "trophies"
+      },
+      {
+        "text": "trophies2"
+      },
+      {
+        "text": "trophies3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Blox Slider - demo version</title>
+	<style> body { margin: 0; background: #35B3EE; } </style>
+	<script src="js/phaser.min.js"></script>
+	<script src="js/platform.min.js"></script>
+	<script src="js/bloxslider.min.js"></script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-11704908-2', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</head>
+<body>
+<script>
+(function() {
+	// initialize the framework
+	var game = new Phaser.Game(480, 600, Phaser.CANVAS, 'game');
+	// add game states
+	game.state.add('Bootup', blockgame.Bootup);
+	game.state.add('Preloader', blockgame.Preloader);
+	game.state.add('MainMenu', blockgame.MainMenu);
+	game.state.add('LevelSelect', blockgame.LevelSelect);
+	game.state.add('Cutscene', blockgame.Cutscene);
+	game.state.add('Game', blockgame.Game);
+	// start the boot state
+	game.state.start('Bootup');
+})();
+</script>
+</body>
+</html>

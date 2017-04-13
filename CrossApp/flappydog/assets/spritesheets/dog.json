@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "Comp 2_00000.png",
+	"frame": {"x":904,"y":228,"w":292,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":292,"h":234},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00001.png",
+	"frame": {"x":2,"y":454,"w":294,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":6,"w":294,"h":228},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00002.png",
+	"frame": {"x":606,"y":228,"w":296,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":296,"h":226},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00003.png",
+	"frame": {"x":2,"y":2,"w":302,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":10,"w":302,"h":224},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00004.png",
+	"frame": {"x":616,"y":2,"w":308,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":308,"h":224},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00005.png",
+	"frame": {"x":298,"y":456,"w":310,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":310,"h":232},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00006.png",
+	"frame": {"x":2,"y":690,"w":310,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":310,"h":234},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00007.png",
+	"frame": {"x":628,"y":698,"w":312,"h":234},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":234},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00008.png",
+	"frame": {"x":314,"y":698,"w":312,"h":234},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":234},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00009.png",
+	"frame": {"x":610,"y":464,"w":312,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":312,"h":232},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00010.png",
+	"frame": {"x":306,"y":2,"w":308,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":10,"w":308,"h":224},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00011.png",
+	"frame": {"x":2,"y":228,"w":304,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":10,"w":304,"h":224},
+	"sourceSize": {"w":312,"h":234}
+},
+{
+	"filename": "Comp 2_00012.png",
+	"frame": {"x":308,"y":228,"w":296,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":296,"h":226},
+	"sourceSize": {"w":312,"h":234}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "dog.png",
+	"format": "RGBA8888",
+	"size": {"w":1198,"h":934},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:72e51462a2b3bef130c0fd1140a949bf:dcdbfa054927e03f04623210bfa0296b:ec6c3e0b9eb3cd3c555a7c426f3b0ee8$"
+}
+}

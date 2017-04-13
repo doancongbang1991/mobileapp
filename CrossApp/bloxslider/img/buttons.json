@@ -1,0 +1,25 @@
+{
+	"frames":{
+		"settings1":{"frame":{"x":73,"y":124,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"settings2":{"frame":{"x":281,"y":231,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"soundoff1":{"frame":{"x":90,"y":77,"w":44,"h":46},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":44,"h":46},"sourceSize":{"w":44,"h":46}},
+		"soundoff2":{"frame":{"x":146,"y":0,"w":44,"h":46},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":44,"h":46},"sourceSize":{"w":44,"h":46}},
+		"soundon1":{"frame":{"x":146,"y":141,"w":44,"h":46},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":44,"h":46},"sourceSize":{"w":44,"h":46}},
+		"soundon2":{"frame":{"x":191,"y":154,"w":44,"h":46},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":44,"h":46},"sourceSize":{"w":44,"h":46}},
+		"button1":{"frame":{"x":0,"y":201,"w":280,"h":74},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":280,"h":74},"sourceSize":{"w":280,"h":74}},
+		"button2":{"frame":{"x":0,"y":276,"w":280,"h":74},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":280,"h":74},"sourceSize":{"w":280,"h":74}},
+		"exit1":{"frame":{"x":0,"y":0,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"exit2":{"frame":{"x":191,"y":77,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"menu1":{"frame":{"x":191,"y":0,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"menu2":{"frame":{"x":281,"y":154,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"musicoff1":{"frame":{"x":146,"y":94,"w":44,"h":46},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":44,"h":46},"sourceSize":{"w":44,"h":46}},
+		"musicoff2":{"frame":{"x":146,"y":47,"w":44,"h":46},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":44,"h":46},"sourceSize":{"w":44,"h":46}},
+		"musicon1":{"frame":{"x":45,"y":77,"w":44,"h":46},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":44,"h":46},"sourceSize":{"w":44,"h":46}},
+		"musicon2":{"frame":{"x":0,"y":77,"w":44,"h":46},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":44,"h":46},"sourceSize":{"w":44,"h":46}},
+		"play1":{"frame":{"x":281,"y":0,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"play2":{"frame":{"x":281,"y":77,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"reset1":{"frame":{"x":0,"y":124,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}},
+		"reset2":{"frame":{"x":73,"y":0,"w":72,"h":76},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":76},"sourceSize":{"w":72,"h":76}}
+	},
+	"meta":{"app":"https://www.leshylabs.com/apps/sstool/","version":"Leshy SpriteSheet Tool v0.8.4","image":"spritesheet.png","size":{"w":353,"h":350},"scale":1}
+}

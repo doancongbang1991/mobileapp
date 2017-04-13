@@ -1,0 +1,1116 @@
+{"frames": {
+
+"characters_richard_blue_bicycle_kick0001.png":
+{
+	"frame": {"x":1022,"y":156,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0002.png":
+{
+	"frame": {"x":1022,"y":156,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0003.png":
+{
+	"frame": {"x":1022,"y":156,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0004.png":
+{
+	"frame": {"x":434,"y":330,"w":130,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":57,"w":130,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0005.png":
+{
+	"frame": {"x":434,"y":330,"w":130,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":57,"w":130,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0006.png":
+{
+	"frame": {"x":2,"y":366,"w":125,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":47,"w":125,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0007.png":
+{
+	"frame": {"x":2,"y":366,"w":125,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":47,"w":125,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0008.png":
+{
+	"frame": {"x":2,"y":366,"w":125,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":47,"w":125,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0009.png":
+{
+	"frame": {"x":2,"y":2,"w":170,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":42,"w":170,"h":181},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0010.png":
+{
+	"frame": {"x":2,"y":2,"w":170,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":42,"w":170,"h":181},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0011.png":
+{
+	"frame": {"x":2,"y":185,"w":140,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":39,"w":140,"h":179},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0012.png":
+{
+	"frame": {"x":2,"y":185,"w":140,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":39,"w":140,"h":179},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0013.png":
+{
+	"frame": {"x":1117,"y":462,"w":169,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":69,"w":169,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0014.png":
+{
+	"frame": {"x":1117,"y":462,"w":169,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":69,"w":169,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0015.png":
+{
+	"frame": {"x":1743,"y":579,"w":175,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":95,"w":175,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0016.png":
+{
+	"frame": {"x":1743,"y":579,"w":175,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":95,"w":175,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0017.png":
+{
+	"frame": {"x":1757,"y":431,"w":130,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":85,"w":130,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0018.png":
+{
+	"frame": {"x":1757,"y":431,"w":130,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":85,"w":130,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0019.png":
+{
+	"frame": {"x":1889,"y":216,"w":134,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":86,"w":134,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0020.png":
+{
+	"frame": {"x":1889,"y":216,"w":134,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":86,"w":134,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0021.png":
+{
+	"frame": {"x":1889,"y":350,"w":132,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":87,"w":132,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_bicycle_kick0022.png":
+{
+	"frame": {"x":1889,"y":350,"w":132,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":87,"w":132,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0001.png":
+{
+	"frame": {"x":730,"y":484,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0002.png":
+{
+	"frame": {"x":730,"y":484,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0003.png":
+{
+	"frame": {"x":996,"y":468,"w":119,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":68,"w":119,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0004.png":
+{
+	"frame": {"x":996,"y":468,"w":119,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":68,"w":119,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0005.png":
+{
+	"frame": {"x":1321,"y":154,"w":119,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":71,"w":119,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0006.png":
+{
+	"frame": {"x":1321,"y":154,"w":119,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":71,"w":119,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0007.png":
+{
+	"frame": {"x":1744,"y":144,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":80,"w":136,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0008.png":
+{
+	"frame": {"x":1744,"y":144,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":80,"w":136,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0009.png":
+{
+	"frame": {"x":1730,"y":289,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":79,"w":139,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0010.png":
+{
+	"frame": {"x":1615,"y":437,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":79,"w":140,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0011.png":
+{
+	"frame": {"x":1442,"y":148,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0012.png":
+{
+	"frame": {"x":1585,"y":293,"w":143,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":77,"w":143,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0013.png":
+{
+	"frame": {"x":1497,"y":2,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0014.png":
+{
+	"frame": {"x":1497,"y":2,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0015.png":
+{
+	"frame": {"x":1442,"y":148,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0016.png":
+{
+	"frame": {"x":1442,"y":148,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0017.png":
+{
+	"frame": {"x":1497,"y":2,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0018.png":
+{
+	"frame": {"x":1497,"y":2,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0019.png":
+{
+	"frame": {"x":1442,"y":148,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0020.png":
+{
+	"frame": {"x":1442,"y":148,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0021.png":
+{
+	"frame": {"x":1497,"y":2,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0022.png":
+{
+	"frame": {"x":1497,"y":2,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0023.png":
+{
+	"frame": {"x":1442,"y":148,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0024.png":
+{
+	"frame": {"x":1442,"y":148,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0025.png":
+{
+	"frame": {"x":1497,"y":2,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0026.png":
+{
+	"frame": {"x":1497,"y":2,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":76,"w":143,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0027.png":
+{
+	"frame": {"x":1321,"y":154,"w":119,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":71,"w":119,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_celebrate0028.png":
+{
+	"frame": {"x":1321,"y":154,"w":119,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":71,"w":119,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0001.png":
+{
+	"frame": {"x":1038,"y":2,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0002.png":
+{
+	"frame": {"x":286,"y":350,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0003.png":
+{
+	"frame": {"x":2,"y":539,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0004.png":
+{
+	"frame": {"x":461,"y":493,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0005.png":
+{
+	"frame": {"x":860,"y":480,"w":134,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":67,"w":134,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0006.png":
+{
+	"frame": {"x":174,"y":2,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0007.png":
+{
+	"frame": {"x":129,"y":366,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0008.png":
+{
+	"frame": {"x":566,"y":328,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0009.png":
+{
+	"frame": {"x":1038,"y":2,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0010.png":
+{
+	"frame": {"x":286,"y":350,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0011.png":
+{
+	"frame": {"x":2,"y":539,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0012.png":
+{
+	"frame": {"x":461,"y":493,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0013.png":
+{
+	"frame": {"x":860,"y":480,"w":134,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":67,"w":134,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0014.png":
+{
+	"frame": {"x":174,"y":2,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0015.png":
+{
+	"frame": {"x":129,"y":366,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_dash0016.png":
+{
+	"frame": {"x":566,"y":328,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0001.png":
+{
+	"frame": {"x":584,"y":490,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":62,"w":144,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0002.png":
+{
+	"frame": {"x":584,"y":490,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":62,"w":144,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0003.png":
+{
+	"frame": {"x":584,"y":490,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":62,"w":144,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0004.png":
+{
+	"frame": {"x":584,"y":490,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":62,"w":144,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0005.png":
+{
+	"frame": {"x":572,"y":164,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0006.png":
+{
+	"frame": {"x":572,"y":164,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0007.png":
+{
+	"frame": {"x":572,"y":164,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0008.png":
+{
+	"frame": {"x":1587,"y":147,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0009.png":
+{
+	"frame": {"x":1587,"y":147,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0010.png":
+{
+	"frame": {"x":1587,"y":147,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0011.png":
+{
+	"frame": {"x":1288,"y":604,"w":146,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":124,"w":146,"h":95},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0012.png":
+{
+	"frame": {"x":1288,"y":604,"w":146,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":124,"w":146,"h":95},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0013.png":
+{
+	"frame": {"x":1449,"y":594,"w":145,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":107,"w":145,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0014.png":
+{
+	"frame": {"x":1449,"y":594,"w":145,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":107,"w":145,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_fall0015.png":
+{
+	"frame": {"x":1882,"y":2,"w":146,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":114,"w":146,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0001.png":
+{
+	"frame": {"x":734,"y":163,"w":125,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":62,"w":125,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0002.png":
+{
+	"frame": {"x":315,"y":514,"w":144,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":57,"w":144,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0003.png":
+{
+	"frame": {"x":315,"y":514,"w":144,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":57,"w":144,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0004.png":
+{
+	"frame": {"x":315,"y":514,"w":144,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":57,"w":144,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0005.png":
+{
+	"frame": {"x":1251,"y":308,"w":171,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":71,"w":171,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0006.png":
+{
+	"frame": {"x":1251,"y":308,"w":171,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":71,"w":171,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0007.png":
+{
+	"frame": {"x":1336,"y":2,"w":159,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":75,"w":159,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0008.png":
+{
+	"frame": {"x":1336,"y":2,"w":159,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":75,"w":159,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0009.png":
+{
+	"frame": {"x":1288,"y":458,"w":159,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":75,"w":159,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_kick0010.png":
+{
+	"frame": {"x":1424,"y":304,"w":159,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":75,"w":159,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0001.png":
+{
+	"frame": {"x":756,"y":2,"w":143,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":63,"w":143,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0002.png":
+{
+	"frame": {"x":756,"y":2,"w":143,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":63,"w":143,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0003.png":
+{
+	"frame": {"x":756,"y":2,"w":143,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":63,"w":143,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0004.png":
+{
+	"frame": {"x":756,"y":2,"w":143,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":63,"w":143,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0005.png":
+{
+	"frame": {"x":594,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0006.png":
+{
+	"frame": {"x":594,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0007.png":
+{
+	"frame": {"x":594,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0008.png":
+{
+	"frame": {"x":1642,"y":2,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0009.png":
+{
+	"frame": {"x":1642,"y":2,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0010.png":
+{
+	"frame": {"x":1642,"y":2,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0011.png":
+{
+	"frame": {"x":1117,"y":613,"w":146,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":125,"w":146,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0012.png":
+{
+	"frame": {"x":1117,"y":613,"w":146,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":125,"w":146,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0013.png":
+{
+	"frame": {"x":1596,"y":594,"w":145,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":107,"w":145,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0014.png":
+{
+	"frame": {"x":1596,"y":594,"w":145,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":107,"w":145,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_lose0015.png":
+{
+	"frame": {"x":1882,"y":109,"w":146,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":114,"w":146,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0001.png":
+{
+	"frame": {"x":951,"y":314,"w":133,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":67,"w":133,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0002.png":
+{
+	"frame": {"x":951,"y":314,"w":133,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":67,"w":133,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0003.png":
+{
+	"frame": {"x":300,"y":166,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0004.png":
+{
+	"frame": {"x":300,"y":166,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0005.png":
+{
+	"frame": {"x":159,"y":531,"w":154,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":56,"w":154,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0006.png":
+{
+	"frame": {"x":159,"y":531,"w":154,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":56,"w":154,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0007.png":
+{
+	"frame": {"x":448,"y":166,"w":122,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":59,"w":122,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0008.png":
+{
+	"frame": {"x":448,"y":166,"w":122,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":59,"w":122,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0009.png":
+{
+	"frame": {"x":901,"y":2,"w":135,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":67,"w":135,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0010.png":
+{
+	"frame": {"x":901,"y":2,"w":135,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":67,"w":135,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0011.png":
+{
+	"frame": {"x":322,"y":2,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0012.png":
+{
+	"frame": {"x":322,"y":2,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0013.png":
+{
+	"frame": {"x":144,"y":185,"w":154,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":56,"w":154,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0014.png":
+{
+	"frame": {"x":144,"y":185,"w":154,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":56,"w":154,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0015.png":
+{
+	"frame": {"x":470,"y":2,"w":122,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":59,"w":122,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_run0016.png":
+{
+	"frame": {"x":470,"y":2,"w":122,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":59,"w":122,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_stand0001.png":
+{
+	"frame": {"x":821,"y":322,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_stand0002.png":
+{
+	"frame": {"x":821,"y":322,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_stand0003.png":
+{
+	"frame": {"x":821,"y":322,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_stand0004.png":
+{
+	"frame": {"x":689,"y":325,"w":130,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":62,"w":130,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_stand0005.png":
+{
+	"frame": {"x":689,"y":325,"w":130,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":62,"w":130,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_stand0006.png":
+{
+	"frame": {"x":689,"y":325,"w":130,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":62,"w":130,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0001.png":
+{
+	"frame": {"x":861,"y":160,"w":159,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":67,"w":159,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0002.png":
+{
+	"frame": {"x":861,"y":160,"w":159,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":67,"w":159,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0003.png":
+{
+	"frame": {"x":1449,"y":450,"w":164,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":77,"w":164,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0004.png":
+{
+	"frame": {"x":1449,"y":450,"w":164,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":77,"w":164,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0005.png":
+{
+	"frame": {"x":1172,"y":2,"w":162,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":69,"w":162,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0006.png":
+{
+	"frame": {"x":1172,"y":2,"w":162,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":69,"w":162,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0007.png":
+{
+	"frame": {"x":1086,"y":310,"w":163,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":69,"w":163,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0008.png":
+{
+	"frame": {"x":1086,"y":310,"w":163,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":69,"w":163,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0009.png":
+{
+	"frame": {"x":1156,"y":156,"w":163,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":69,"w":163,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_blue_tackle0010.png":
+{
+	"frame": {"x":1156,"y":156,"w":163,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":69,"w":163,"h":150},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "richard_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":2030,"h":709},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:597939679f6fe9b52630c393b25f6147:0c098d861b742444ee13310a3d7c2e86:4cf51e4bb14bca31b6a079badb1d9b19$"
+}
+}

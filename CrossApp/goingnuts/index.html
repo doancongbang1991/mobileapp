@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="css/reset.css" type="text/css">
+        <link rel="stylesheet" href="css/main.css" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui" />
+	<meta name="msapplication-tap-highlight" content="no"/>
+
+        <script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="js/createjs-2015.11.26.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        
+    </head>
+    <body ondragstart="return false;" ondrop="return false;" >
+	<div style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%"></div>
+          <script>
+            $(document).ready(function(){
+                     var oMain = new CMain({                                                
+                                           "levels" :     
+                                                [{  //level 1
+                                                    "num_balls" : 5, 
+                                                    "objects_to_pick_to_win" : 25,
+                                                    "objects" : [
+                                                        { "type" : RECTANGLE, "sprite": 0, "x" : 143, "y" : 500, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 0, "x" : 263, "y" : 500, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 0, "x" : 383, "y" : 500, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 0, "x" : 503, "y" : 500, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 }
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 0, "x" : 65, "y" : 320 },
+                                                        { "type" : 1, "x" : 65, "y" : 400 },
+                                                        { "type" : 3, "x" : 65, "y" : 480 },
+                                                        { "type" : 4, "x" : 65, "y" : 560 },
+                                                        { "type" : 5, "x" : 65, "y" : 640 },
+                                                        { "type" : 0, "x" : 187, "y" : 320 },
+                                                        { "type" : 1, "x" : 187, "y" : 400 },
+                                                        { "type" : 5, "x" : 187, "y" : 480 },
+                                                        { "type" : 4, "x" : 187, "y" : 560 },
+                                                        { "type" : 2, "x" : 187, "y" : 640 },
+                                                        { "type" : 0, "x" : 307, "y" : 320 },
+                                                        { "type" : 1, "x" : 307, "y" : 400 },
+                                                        { "type" : 2, "x" : 307, "y" : 480 },
+                                                        { "type" : 4, "x" : 307, "y" : 560 },
+                                                        { "type" : 3, "x" : 307, "y" : 640 },
+                                                        { "type" : 0, "x" : 427, "y" : 320 },
+                                                        { "type" : 1, "x" : 427, "y" : 400 },
+                                                        { "type" : 5, "x" : 427, "y" : 480 },
+                                                        { "type" : 3, "x" : 427, "y" : 560 },
+                                                        { "type" : 5, "x" : 427, "y" : 640 },
+                                                        { "type" : 0, "x" : 547, "y" : 320 },
+                                                        { "type" : 1, "x" : 547, "y" : 400 },
+                                                        { "type" : 1, "x" : 547, "y" : 480 },
+                                                        { "type" : 3, "x" : 547, "y" : 560 },
+                                                        { "type" : 2, "x" : 547, "y" : 640 }
+                                                    ]
+                                                },
+                                                {   //level 2
+                                                    "num_balls" : 5,  
+                                                    "objects_to_pick_to_win" : 12, 
+                                                    "objects" : [
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 143, "y" : 400, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 263, "y" : 400, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 383, "y" : 400, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 503, "y" : 400, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 90,  "y" : 520, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 200, "y" : 520, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 320, "y" : 520, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 440, "y" : 520, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 548, "y" : 520, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 143, "y" : 640, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 263, "y" : 640, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 383, "y" : 640, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 503, "y" : 640, "density": 3, "friction":1 , "restitution":0.5 }
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 0, "x" : 129, "y" : 320 },
+                                                        { "type" : 1, "x" : 249, "y" : 320 },
+                                                        { "type" : 3, "x" : 368, "y" : 320 },
+                                                        { "type" : 3, "x" : 489, "y" : 320 },
+                                                        { "type" : 3, "x" : 75,  "y" : 440 },
+                                                        { "type" : 0, "x" : 185, "y" : 440 },
+                                                        { "type" : 1, "x" : 305, "y" : 440 },
+                                                        { "type" : 3, "x" : 425, "y" : 440 },
+                                                        { "type" : 3, "x" : 540, "y" : 440 },
+                                                        { "type" : 0, "x" : 129, "y" : 560 },
+                                                        { "type" : 1, "x" : 249, "y" : 560 },
+                                                        { "type" : 3, "x" : 368, "y" : 560 },
+                                                        { "type" : 3, "x" : 489, "y" : 560 },
+                                                        { "type" : 3, "x" : 75,  "y" : 690 },
+                                                        { "type" : 0, "x" : 185, "y" : 690 },
+                                                        { "type" : 1, "x" : 305, "y" : 690 },
+                                                        { "type" : 3, "x" : 425, "y" : 690 },
+                                                        { "type" : 3, "x" : 540, "y" : 690 }
+                                                    ]
+                                                },
+                                                {   //level 3
+                                                    "num_balls" : 5, 
+                                                    "objects_to_pick_to_win" : 18,  
+                                                    "objects" : [
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 143, "y" : 350, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 503, "y" : 350, "angle": -45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 220, "y" : 500, "angle": -45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 420, "y" : 500, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 143, "y" : 650, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 503, "y" : 650, "angle": -45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 320, "y" : 590, "density": 3, "friction":1 , "restitution":0.5 }
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 0, "x" : 160, "y" : 290 },
+                                                        { "type" : 1, "x" : 220, "y" : 290 },
+                                                        { "type" : 3, "x" : 305, "y" : 290 },
+                                                        { "type" : 2, "x" : 370, "y" : 290 },
+                                                        { "type" : 3, "x" : 450, "y" : 290 },
+                                                        { "type" : 1, "x" : 305, "y" : 360 },
+                                                        { "type" : 0, "x" : 255, "y" : 430 },
+                                                        { "type" : 1, "x" : 350, "y" : 430 },
+                                                        { "type" : 3, "x" : 455, "y" : 470 },
+                                                        { "type" : 3, "x" : 540, "y" : 510 },
+                                                        { "type" : 0, "x" : 70,  "y" : 510 },
+                                                        { "type" : 1, "x" : 155, "y" : 470 },
+                                                        { "type" : 3, "x" : 305, "y" : 470 },
+                                                        { "type" : 3, "x" : 305, "y" : 520 },
+                                                        { "type" : 3, "x" : 220, "y" : 520 },
+                                                        { "type" : 0, "x" : 380, "y" : 520 },
+                                                        { "type" : 1, "x" : 160, "y" : 610 },
+                                                        { "type" : 3, "x" : 450, "y" : 610 },
+                                                        { "type" : 3, "x" : 75,  "y" : 680 },
+                                                        { "type" : 0, "x" : 185, "y" : 680 },
+                                                        { "type" : 1, "x" : 305, "y" : 680 },
+                                                        { "type" : 3, "x" : 425, "y" : 680 },
+                                                        { "type" : 3, "x" : 540, "y" : 680 }
+                                                    ]
+                                                },
+                                                {   //level 4
+                                                    "num_balls" : 5, 
+                                                    "objects_to_pick_to_win" : 15,  
+                                                    "objects" : [
+                                                        { "type" : RECTANGLE, "sprite": 0, "x" : 503, "y" : 380, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 0, "x" : 143, "y" : 380, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 20,  "y" : 480, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 620, "y" : 480, "angle": -45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 0, "x" : 320, "y" : 480, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE_MOVING, "sprite": 0, "x" : 133, "y" : 650, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE_MOVING, "sprite": 0, "x" : 503, "y" : 650, "angle": -45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 220, "y" : 540, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 242, "y" : 540, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 390, "y" : 540, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 412, "y" : 540, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 0, "x" : 170, "y" : 290 },
+                                                        { "type" : 1, "x" : 305, "y" : 290 },
+                                                        { "type" : 3, "x" : 445, "y" : 290 },
+                                                        { "type" : 0, "x" : 170, "y" : 350 },
+                                                        { "type" : 1, "x" : 305, "y" : 350 },
+                                                        { "type" : 3, "x" : 445, "y" : 350 },
+                                                        { "type" : 0, "x" : 170, "y" : 410 },
+                                                        { "type" : 1, "x" : 305, "y" : 410 },
+                                                        { "type" : 3, "x" : 445, "y" : 410 },
+                                                        { "type" : 2, "x" : 170, "y" : 470 },
+                                                        { "type" : 3, "x" : 445, "y" : 470 },
+                                                        { "type" : 1, "x" : 60,  "y" : 320 },
+                                                        { "type" : 0, "x" : 60,  "y" : 410 },
+                                                        { "type" : 1, "x" : 550, "y" : 320 },
+                                                        { "type" : 3, "x" : 550, "y" : 410 },
+                                                        { "type" : 3, "x" : 430, "y" : 570 },
+                                                        { "type" : 0, "x" : 460, "y" : 600 },
+                                                        { "type" : 1, "x" : 165, "y" : 570 },
+                                                        { "type" : 3, "x" : 135, "y" : 600 },
+                                                        { "type" : 1, "x" : 260, "y" : 570 },
+                                                        { "type" : 1, "x" : 340, "y" : 570 },
+                                                        { "type" : 3, "x" : 260, "y" : 610 },
+                                                        { "type" : 3, "x" : 340, "y" : 610 },
+                                                        { "type" : 0, "x" : 260, "y" : 650 },
+                                                        { "type" : 1, "x" : 340, "y" : 650 },
+                                                        { "type" : 3, "x" : 300, "y" : 690 }
+                                                    ]
+                                                },
+                                                {   //level 5
+                                                    "num_balls" : 5,   
+                                                    "objects_to_pick_to_win" : 15,
+                                                    "objects" : [
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 100, "y" : 320, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 191, "y" : 322, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 212, "y" : 320, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 313, "y" : 322, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 335, "y" : 320, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 430, "y" : 322, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 452, "y" : 320, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 545, "y" : 322, "angle": -45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 135, "y" : 422, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 157, "y" : 420, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 252, "y" : 422, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 275, "y" : 420, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 368, "y" : 422, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 392, "y" : 420, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 486, "y" : 422, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 509, "y" : 420, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 100, "y" : 520, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 191, "y" : 522, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 212, "y" : 520, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 313, "y" : 522, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 335, "y" : 520, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 430, "y" : 522, "angle": -55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 452, "y" : 520, "angle": 55, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 545, "y" : 522, "angle": -45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 30, "y" : 370, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 610, "y" : 370, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 30, "y" : 470, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 610, "y" : 470, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 30, "y" : 570, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 610, "y" : 570, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 145, "y" : 610, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 268, "y" : 610, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 380, "y" : 610, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 500, "y" : 610, "density": 3, "friction":1 , "restitution":0.5 }
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 0, "x" : 110, "y" : 290 },
+                                                        { "type" : 0, "x" : 155, "y" : 290 },
+                                                        { "type" : 1, "x" : 225, "y" : 290 },
+                                                        { "type" : 3, "x" : 270, "y" : 290 },
+                                                        { "type" : 1, "x" : 344, "y" : 290 },
+                                                        { "type" : 3, "x" : 389, "y" : 290 },
+                                                        { "type" : 0, "x" : 461, "y" : 290 },
+                                                        { "type" : 1, "x" : 506, "y" : 290 },
+                                                        { "type" : 1, "x" : 60,  "y" : 325 },
+                                                        { "type" : 1, "x" : 555, "y" : 325 },
+                                                        { "type" : 1, "x" : 95, "y" : 395 },
+                                                        { "type" : 0, "x" : 170, "y" : 395 },
+                                                        { "type" : 0, "x" : 215, "y" : 395 },
+                                                        { "type" : 1, "x" : 285, "y" : 395 },
+                                                        { "type" : 3, "x" : 330, "y" : 395 },
+                                                        { "type" : 1, "x" : 404, "y" : 395 },
+                                                        { "type" : 3, "x" : 449, "y" : 395 },
+                                                        { "type" : 0, "x" : 521, "y" : 395 },
+                                                        { "type" : 0, "x" : 110, "y" : 490 },
+                                                        { "type" : 0, "x" : 155, "y" : 490 },
+                                                        { "type" : 1, "x" : 225, "y" : 490 },
+                                                        { "type" : 3, "x" : 270, "y" : 490 },
+                                                        { "type" : 1, "x" : 344, "y" : 490 },
+                                                        { "type" : 3, "x" : 389, "y" : 490 },
+                                                        { "type" : 0, "x" : 461, "y" : 490 },
+                                                        { "type" : 1, "x" : 506, "y" : 490 },
+                                                        { "type" : 1, "x" : 60,  "y" : 525 },
+                                                        { "type" : 1, "x" : 555, "y" : 525 },
+                                                        { "type" : 3, "x" : 75,  "y" : 680 },
+                                                        { "type" : 0, "x" : 185, "y" : 680 },
+                                                        { "type" : 1, "x" : 305, "y" : 680 },
+                                                        { "type" : 3, "x" : 425, "y" : 680 },
+                                                        { "type" : 3, "x" : 540, "y" : 680 }
+                                                    ]
+                                                },
+                                                {   //level 6
+                                                    "num_balls" : 5,   
+                                                    "objects_to_pick_to_win" : 20,
+                                                    "objects" : [
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 97,  "y" : 320, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 197, "y" : 320, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 297, "y" : 320, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 397, "y" : 320, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 497, "y" : 320, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 147, "y" : 400, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 247, "y" : 400, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 347, "y" : 400, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 447, "y" : 400, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 0, "x" : 547, "y" : 400, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 323, "y" : 520, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 167, "y" : 620, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 3, "x" : 477, "y" : 620, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 0, "x" : 133, "y" : 307 },
+                                                        { "type" : 1, "x" : 233, "y" : 307 },
+                                                        { "type" : 2, "x" : 333, "y" : 307 },
+                                                        { "type" : 3, "x" : 433, "y" : 307 },
+                                                        { "type" : 0, "x" : 533, "y" : 307 },
+                                                        { "type" : 0, "x" : 85,  "y" : 387 },
+                                                        { "type" : 1, "x" : 185, "y" : 387 },
+                                                        { "type" : 2, "x" : 285, "y" : 387 },
+                                                        { "type" : 3, "x" : 385, "y" : 387 },
+                                                        { "type" : 0, "x" : 485, "y" : 387 },
+                                                        { "type" : 0, "x" : 133, "y" : 467 },
+                                                        { "type" : 1, "x" : 233, "y" : 467 },
+                                                        { "type" : 2, "x" : 333, "y" : 467 },
+                                                        { "type" : 3, "x" : 433, "y" : 467 },
+                                                        { "type" : 0, "x" : 533, "y" : 467 },
+                                                        { "type" : 0, "x" : 85,  "y" : 567 },
+                                                        { "type" : 1, "x" : 185, "y" : 567 },
+                                                        { "type" : 3, "x" : 433, "y" : 567 },
+                                                        { "type" : 0, "x" : 533, "y" : 567 },
+                                                        { "type" : 1, "x" : 305, "y" : 610 },
+                                                        { "type" : 3, "x" : 75,  "y" : 680 },
+                                                        { "type" : 0, "x" : 185, "y" : 710 },
+                                                        { "type" : 1, "x" : 305, "y" : 680 },
+                                                        { "type" : 3, "x" : 425, "y" : 710 },
+                                                        { "type" : 3, "x" : 540, "y" : 680 }
+                                                    ]
+                                                },
+                                                {   //level 7
+                                                    "num_balls" : 5,   
+                                                    "objects_to_pick_to_win" : 20,
+                                                    "objects" : [
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 220, "y" : 360, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 421, "y" : 360, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 1, "x" : 120, "y" : 380, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 1, "x" : 320, "y" : 380, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 1, "x" : 520, "y" : 380, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 220, "y" : 560, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 421, "y" : 560, "angle": 90, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 1, "x" : 120, "y" : 540, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 1, "x" : 320, "y" : 540, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 1, "x" : 520, "y" : 540, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 40, "y" : 650, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 2, "x" : 600, "y" : 650, "angle": -45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 1, "x" : 320, "y" : 680, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 }
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 1, "x" : 108, "y" : 300 },
+                                                        { "type" : 2, "x" : 308, "y" : 300 },
+                                                        { "type" : 3, "x" : 508, "y" : 300 },
+                                                        { "type" : 0, "x" : 60,  "y" : 330 },
+                                                        { "type" : 3, "x" : 155, "y" : 330 },
+                                                        { "type" : 1, "x" : 260, "y" : 330 },
+                                                        { "type" : 0, "x" : 355, "y" : 330 },
+                                                        { "type" : 2, "x" : 460, "y" : 330 },
+                                                        { "type" : 0, "x" : 555, "y" : 330 },
+                                                        { "type" : 0, "x" : 60,  "y" : 410 },
+                                                        { "type" : 3, "x" : 155, "y" : 410 },
+                                                        { "type" : 1, "x" : 260, "y" : 410 },
+                                                        { "type" : 0, "x" : 355, "y" : 410 },
+                                                        { "type" : 2, "x" : 460, "y" : 410 },
+                                                        { "type" : 0, "x" : 555, "y" : 410 },
+                                                        { "type" : 0, "x" : 60,  "y" : 465 },
+                                                        { "type" : 3, "x" : 155, "y" : 465 },
+                                                        { "type" : 1, "x" : 260, "y" : 465 },
+                                                        { "type" : 0, "x" : 355, "y" : 465 },
+                                                        { "type" : 2, "x" : 460, "y" : 465 },
+                                                        { "type" : 0, "x" : 555, "y" : 465 },
+                                                        { "type" : 1, "x" : 108, "y" : 490 },
+                                                        { "type" : 2, "x" : 308, "y" : 490 },
+                                                        { "type" : 3, "x" : 508, "y" : 490 },
+                                                        { "type" : 1, "x" : 108, "y" : 670 },
+                                                        { "type" : 2, "x" : 308, "y" : 620 },
+                                                        { "type" : 3, "x" : 508, "y" : 670 },
+                                                        { "type" : 1, "x" : 260, "y" : 670 },
+                                                        { "type" : 0, "x" : 355, "y" : 670 },
+                                                    ]
+                                                },
+                                                {   //level 8
+                                                    "num_balls" : 5,   
+                                                    "objects_to_pick_to_win" : 18,
+                                                    "objects" : [
+                                                        { "type" : RECTANGLE_MOVING, "sprite": 0, "x" : 320, "y" : 360, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE_MOVING, "sprite": 0, "x" : 220, "y" : 500, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE_MOVING, "sprite": 0, "x" : 420, "y" : 500, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE_MOVING, "sprite": 0, "x" : 170, "y" : 610, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE_MOVING, "sprite": 2, "x" : 320, "y" : 610, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE_MOVING, "sprite": 0, "x" : 470, "y" : 610, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 1, "x" : 142, "y" : 700, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 1, "x" : 262, "y" : 700, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 1, "x" : 382, "y" : 700, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 1, "x" : 502, "y" : 700, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 }
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 3, "x" : 75,  "y" : 320 },
+                                                        { "type" : 0, "x" : 185, "y" : 320 },
+                                                        { "type" : 3, "x" : 425, "y" : 320 },
+                                                        { "type" : 3, "x" : 540, "y" : 320 },
+                                                        { "type" : 0, "x" : 129, "y" : 380 },
+                                                        { "type" : 1, "x" : 249, "y" : 380 },
+                                                        { "type" : 3, "x" : 368, "y" : 380 },
+                                                        { "type" : 3, "x" : 489, "y" : 380 },
+                                                        { "type" : 3, "x" : 75,  "y" : 420 },
+                                                        { "type" : 0, "x" : 185, "y" : 420 },
+                                                        { "type" : 1, "x" : 305, "y" : 420 },
+                                                        { "type" : 3, "x" : 425, "y" : 420 },
+                                                        { "type" : 3, "x" : 540, "y" : 420 },
+                                                        { "type" : 0, "x" : 129, "y" : 545 },
+                                                        { "type" : 1, "x" : 249, "y" : 545 },
+                                                        { "type" : 3, "x" : 368, "y" : 545 },
+                                                        { "type" : 3, "x" : 489, "y" : 545 },
+                                                        { "type" : 3, "x" : 75,  "y" : 660 },
+                                                        { "type" : 0, "x" : 185, "y" : 660 },
+                                                        { "type" : 1, "x" : 305, "y" : 660 },
+                                                        { "type" : 3, "x" : 425, "y" : 660 },
+                                                        { "type" : 3, "x" : 540, "y" : 660 }
+                                                    ]
+                                                },
+                                                {   //level 9
+                                                    "num_balls" : 5, 
+                                                    "objects_to_pick_to_win" : 35,  
+                                                    "objects" : [
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 160, "y" : 360, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 320, "y" : 360, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 480, "y" : 360, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 160, "y" : 480, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 320, "y" : 480, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 480, "y" : 480, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 280, "y" : 600, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : RECTANGLE, "sprite": 1, "x" : 440, "y" : 600, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 }
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 0, "x" : 65,  "y" : 320 },
+                                                        { "type" : 2, "x" : 175, "y" : 320 },
+                                                        { "type" : 1, "x" : 230, "y" : 320 },
+                                                        { "type" : 0, "x" : 330, "y" : 320 },
+                                                        { "type" : 3, "x" : 390, "y" : 320 },
+                                                        { "type" : 1, "x" : 490, "y" : 320 },
+                                                        { "type" : 2, "x" : 550, "y" : 320 },
+                                                        { "type" : 0, "x" : 65,  "y" : 380 },
+                                                        { "type" : 3, "x" : 125, "y" : 380 },
+                                                        { "type" : 2, "x" : 225, "y" : 380 },
+                                                        { "type" : 0, "x" : 280, "y" : 380 },
+                                                        { "type" : 1, "x" : 380, "y" : 380 },
+                                                        { "type" : 2, "x" : 440, "y" : 380 },
+                                                        { "type" : 1, "x" : 550, "y" : 380 },
+                                                        { "type" : 3, "x" : 65,  "y" : 440 },
+                                                        { "type" : 0, "x" : 175, "y" : 440 },
+                                                        { "type" : 1, "x" : 230, "y" : 440 },
+                                                        { "type" : 2, "x" : 330, "y" : 440 },
+                                                        { "type" : 2, "x" : 390, "y" : 440 },
+                                                        { "type" : 3, "x" : 490, "y" : 440 },
+                                                        { "type" : 1, "x" : 550, "y" : 440 },
+                                                        { "type" : 0, "x" : 65,  "y" : 500 },
+                                                        { "type" : 3, "x" : 125, "y" : 500 },
+                                                        { "type" : 1, "x" : 225, "y" : 500 },
+                                                        { "type" : 3, "x" : 280, "y" : 500 },
+                                                        { "type" : 0, "x" : 380, "y" : 500 },
+                                                        { "type" : 2, "x" : 440, "y" : 500 },
+                                                        { "type" : 1, "x" : 550, "y" : 500 },
+                                                        { "type" : 3, "x" : 65,  "y" : 560 },
+                                                        { "type" : 0, "x" : 125, "y" : 560 },
+                                                        { "type" : 2, "x" : 180, "y" : 560 },
+                                                        { "type" : 3, "x" : 290, "y" : 560 },
+                                                        { "type" : 0, "x" : 350, "y" : 560 },
+                                                        { "type" : 1, "x" : 450, "y" : 560 },
+                                                        { "type" : 0, "x" : 500, "y" : 560 },
+                                                        { "type" : 3, "x" : 550, "y" : 560 },
+                                                        { "type" : 2, "x" : 65,  "y" : 620 },
+                                                        { "type" : 0, "x" : 125, "y" : 620 },
+                                                        { "type" : 1, "x" : 180, "y" : 620 },
+                                                        { "type" : 2, "x" : 240, "y" : 620 },
+                                                        { "type" : 0, "x" : 350, "y" : 620 },
+                                                        { "type" : 3, "x" : 410, "y" : 620 },
+                                                        { "type" : 0, "x" : 500, "y" : 620 },
+                                                        { "type" : 1, "x" : 550, "y" : 620 },
+                                                        { "type" : 3, "x" : 65,  "y" : 680 },
+                                                        { "type" : 2, "x" : 125, "y" : 680 },
+                                                        { "type" : 1, "x" : 180, "y" : 680 },
+                                                        { "type" : 0, "x" : 240, "y" : 680 },
+                                                        { "type" : 1, "x" : 300, "y" : 680 },
+                                                        { "type" : 2, "x" : 350, "y" : 680 },
+                                                        { "type" : 0, "x" : 410, "y" : 680 },
+                                                        { "type" : 3, "x" : 455, "y" : 680 },
+                                                        { "type" : 1, "x" : 500, "y" : 680 },
+                                                        { "type" : 2, "x" : 550, "y" : 680 }
+                                                    ]
+                                                },
+                                                {   //level 10
+                                                    "num_balls" : 5,   
+                                                    "objects_to_pick_to_win" : 10,
+                                                    "objects" : [
+                                                        { "type" : RECTANGLE_MOVING, "sprite": 1, "x" : 320, "y" : 360, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 0, "x" : 160, "y" : 460, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : REVOLUTE_RECTANGLE, "sprite": 0, "x" : 480, "y" : 460, "angle": 0, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 1, "x" : 235, "y" : 650, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 },
+                                                        { "type" : CIRCLE, "sprite": 1, "x" : 400, "y" : 650, "angle": 45, "density": 3, "friction":1 , "restitution":0.5 }
+                                                    ],
+                                                    "objectsToPick" : [
+                                                        { "type" : 0, "x" : 305,  "y" : 300 },
+                                                        { "type" : 1, "x" : 148,  "y" : 410 },
+                                                        { "type" : 2, "x" : 468,  "y" : 410 },
+                                                        { "type" : 0, "x" : 50,  "y" : 560 },
+                                                        { "type" : 2, "x" : 50,  "y" : 630 },
+                                                        { "type" : 1, "x" : 50,  "y" : 700 },
+                                                        { "type" : 3, "x" : 305,  "y" : 670 },
+                                                        { "type" : 1, "x" : 570,  "y" : 560 },
+                                                        { "type" : 0, "x" : 570,  "y" : 630 },
+                                                        { "type" : 2, "x" : 570,  "y" : 700 },
+                                                    ]
+                                                }
+                                                ]
+                                           });
+                                           
+                                           
+                    $(oMain).on("start_session", function(evt) {
+                        if(getParamValue('ctl-arcade') === "true"){
+                                parent.__ctlArcadeStartSession();
+                        }     
+                    });
+
+                    $(oMain).on("end_session", function(evt) {
+                           if(getParamValue('ctl-arcade') === "true"){
+                               parent.__ctlArcadeEndSession();
+                           }
+                    });
+
+                    $(oMain).on("save_score", function(evt,iScore, szMode) {
+                           if(getParamValue('ctl-arcade') === "true"){
+                               parent.__ctlArcadeSaveScore({score:iScore, mode: szMode});
+                           }
+                    });
+					
+                    $(oMain).on("restart_level", function(evt, iLevel) {
+                           if(getParamValue('ctl-arcade') === "true"){
+                               parent.__ctlArcadeRestartLevel({level:iLevel});
+                           }
+                    });
+					
+                    $(oMain).on("start_level", function(evt, iLevel) {
+                           if(getParamValue('ctl-arcade') === "true"){
+                               parent.__ctlArcadeStartLevel({level:iLevel});
+                           }
+                    });
+
+                    $(oMain).on("end_level", function(evt,iLevel) {
+                           if(getParamValue('ctl-arcade') === "true"){
+                               parent.__ctlArcadeEndLevel({level:iLevel});
+                           }
+                    });
+
+                    $(oMain).on("show_interlevel_ad", function(evt) {
+                           if(getParamValue('ctl-arcade') === "true"){
+                               parent.__ctlArcadeShowInterlevelAD();
+                           }
+                    });
+                    
+                    $(oMain).on("share_event", function(evt, iScore) {
+                           if(getParamValue('ctl-arcade') === "true"){
+                               parent.__ctlArcadeShareEvent({   img: TEXT_SHARE_IMAGE,
+                                                                title: TEXT_SHARE_TITLE,
+                                                                msg: TEXT_SHARE_MSG1 + iScore + TEXT_SHARE_MSG2,
+                                                                msg_share: TEXT_SHARE_SHARE1 + iScore + TEXT_SHARE_SHARE1});
+                           }
+                    });
+
+                    if(isIOS()){
+                        setTimeout(function(){sizeHandler();},200);
+                    }else{
+                        sizeHandler();
+                    }
+           });
+
+        </script>
+        <canvas id="canvas" class='ani_hack' width="640" height="960"> </canvas>
+        <div id="block_game" style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%; display:none"></div>
+
+    </body>
+</html>

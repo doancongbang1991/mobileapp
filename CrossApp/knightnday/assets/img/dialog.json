@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "dialog/btn_home",
+	"frame": {"x":1770,"y":117,"w":107,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":110},
+	"sourceSize": {"w":107,"h":110}
+},
+{
+	"filename": "dialog/btn_next",
+	"frame": {"x":1918,"y":399,"w":106,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":110},
+	"sourceSize": {"w":106,"h":110}
+},
+{
+	"filename": "dialog/btn_play",
+	"frame": {"x":1770,"y":2,"w":109,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":113},
+	"sourceSize": {"w":109,"h":113}
+},
+{
+	"filename": "dialog/btn_retry",
+	"frame": {"x":1879,"y":117,"w":107,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":110},
+	"sourceSize": {"w":107,"h":110}
+},
+{
+	"filename": "dialog/btn_revive_off",
+	"frame": {"x":1374,"y":432,"w":270,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":98},
+	"sourceSize": {"w":270,"h":98}
+},
+{
+	"filename": "dialog/btn_revive_on",
+	"frame": {"x":1646,"y":432,"w":270,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":98},
+	"sourceSize": {"w":270,"h":98}
+},
+{
+	"filename": "dialog/btn_upgrade",
+	"frame": {"x":1881,"y":2,"w":107,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":110},
+	"sourceSize": {"w":107,"h":110}
+},
+{
+	"filename": "dialog/player",
+	"frame": {"x":934,"y":115,"w":374,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":374,"h":255},
+	"sourceSize": {"w":374,"h":255}
+},
+{
+	"filename": "dialog/pnl_coins",
+	"frame": {"x":1770,"y":317,"w":223,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":80},
+	"sourceSize": {"w":223,"h":80}
+},
+{
+	"filename": "dialog/pnl_dialog",
+	"frame": {"x":487,"y":2,"w":445,"h":483},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":445,"h":483},
+	"sourceSize": {"w":445,"h":483}
+},
+{
+	"filename": "dialog/pnl_gems",
+	"frame": {"x":1770,"y":229,"w":226,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":86},
+	"sourceSize": {"w":226,"h":86}
+},
+{
+	"filename": "dialog/pnl_gems_mini",
+	"frame": {"x":934,"y":484,"w":133,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":63},
+	"sourceSize": {"w":133,"h":63}
+},
+{
+	"filename": "dialog/pnl_gems_mini_off",
+	"frame": {"x":1069,"y":484,"w":133,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":63},
+	"sourceSize": {"w":133,"h":63}
+},
+{
+	"filename": "dialog/pnl_pause",
+	"frame": {"x":2,"y":2,"w":483,"h":445},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":483,"h":445},
+	"sourceSize": {"w":483,"h":445}
+},
+{
+	"filename": "dialog/pnl_result",
+	"frame": {"x":1374,"y":2,"w":394,"h":428},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":394,"h":428},
+	"sourceSize": {"w":394,"h":428}
+},
+{
+	"filename": "dialog/title_defeat",
+	"frame": {"x":934,"y":2,"w":438,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":438,"h":111},
+	"sourceSize": {"w":438,"h":111}
+},
+{
+	"filename": "dialog/title_pause",
+	"frame": {"x":2,"y":449,"w":398,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":94},
+	"sourceSize": {"w":398,"h":94}
+},
+{
+	"filename": "dialog/title_victory",
+	"frame": {"x":934,"y":372,"w":438,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":438,"h":110},
+	"sourceSize": {"w":438,"h":110}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dialog.png",
+	"format": "RGBA8888",
+	"size": {"w":2026,"h":549},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:d147ecbe45f91db4676dfe11a8859863:a4c0585b7a211da26c35e26b672b695f:329b34835539abbbce6727e4ce86c85e$"
+}
+}

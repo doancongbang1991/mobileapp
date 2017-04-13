@@ -1,0 +1,1116 @@
+{"frames": {
+
+"characters_richard_red_bicycle_kick0001.png":
+{
+	"frame": {"x":879,"y":313,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":63,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0002.png":
+{
+	"frame": {"x":879,"y":313,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":63,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0003.png":
+{
+	"frame": {"x":879,"y":313,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":63,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0004.png":
+{
+	"frame": {"x":272,"y":154,"w":130,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":52,"w":130,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0005.png":
+{
+	"frame": {"x":272,"y":154,"w":130,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":52,"w":130,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0006.png":
+{
+	"frame": {"x":145,"y":184,"w":125,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":43,"w":125,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0007.png":
+{
+	"frame": {"x":145,"y":184,"w":125,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":43,"w":125,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0008.png":
+{
+	"frame": {"x":145,"y":184,"w":125,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":43,"w":125,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0009.png":
+{
+	"frame": {"x":2,"y":2,"w":170,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":38,"w":170,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0010.png":
+{
+	"frame": {"x":2,"y":2,"w":170,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":38,"w":170,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0011.png":
+{
+	"frame": {"x":2,"y":184,"w":141,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":34,"w":141,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0012.png":
+{
+	"frame": {"x":2,"y":184,"w":141,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":34,"w":141,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0013.png":
+{
+	"frame": {"x":174,"y":2,"w":170,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":64,"w":170,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0014.png":
+{
+	"frame": {"x":174,"y":2,"w":170,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":64,"w":170,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0015.png":
+{
+	"frame": {"x":1013,"y":309,"w":176,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":91,"w":176,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0016.png":
+{
+	"frame": {"x":1013,"y":309,"w":176,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":91,"w":176,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0017.png":
+{
+	"frame": {"x":1015,"y":588,"w":131,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":80,"w":131,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0018.png":
+{
+	"frame": {"x":1015,"y":588,"w":131,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":80,"w":131,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0019.png":
+{
+	"frame": {"x":581,"y":772,"w":135,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":81,"w":135,"h":133},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0020.png":
+{
+	"frame": {"x":581,"y":772,"w":135,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":81,"w":135,"h":133},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0021.png":
+{
+	"frame": {"x":718,"y":777,"w":132,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":83,"w":132,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_bicycle_kick0022.png":
+{
+	"frame": {"x":718,"y":777,"w":132,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":83,"w":132,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0001.png":
+{
+	"frame": {"x":618,"y":470,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0002.png":
+{
+	"frame": {"x":618,"y":470,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0003.png":
+{
+	"frame": {"x":1290,"y":451,"w":118,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":68,"w":118,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0004.png":
+{
+	"frame": {"x":1290,"y":451,"w":118,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":68,"w":118,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0005.png":
+{
+	"frame": {"x":1134,"y":751,"w":118,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":71,"w":118,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0006.png":
+{
+	"frame": {"x":1134,"y":751,"w":118,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":71,"w":118,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0007.png":
+{
+	"frame": {"x":443,"y":770,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":80,"w":136,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0008.png":
+{
+	"frame": {"x":443,"y":770,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":80,"w":136,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0009.png":
+{
+	"frame": {"x":1149,"y":451,"w":139,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":80,"w":139,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0010.png":
+{
+	"frame": {"x":1191,"y":309,"w":141,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":79,"w":141,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0011.png":
+{
+	"frame": {"x":474,"y":482,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0012.png":
+{
+	"frame": {"x":464,"y":626,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0013.png":
+{
+	"frame": {"x":608,"y":628,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0014.png":
+{
+	"frame": {"x":608,"y":628,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0015.png":
+{
+	"frame": {"x":474,"y":482,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0016.png":
+{
+	"frame": {"x":474,"y":482,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0017.png":
+{
+	"frame": {"x":608,"y":628,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0018.png":
+{
+	"frame": {"x":608,"y":628,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0019.png":
+{
+	"frame": {"x":474,"y":482,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0020.png":
+{
+	"frame": {"x":474,"y":482,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0021.png":
+{
+	"frame": {"x":608,"y":628,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0022.png":
+{
+	"frame": {"x":608,"y":628,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0023.png":
+{
+	"frame": {"x":474,"y":482,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0024.png":
+{
+	"frame": {"x":474,"y":482,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0025.png":
+{
+	"frame": {"x":608,"y":628,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0026.png":
+{
+	"frame": {"x":608,"y":628,"w":142,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":77,"w":142,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0027.png":
+{
+	"frame": {"x":1134,"y":751,"w":118,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":71,"w":118,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_celebrate0028.png":
+{
+	"frame": {"x":1134,"y":751,"w":118,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":71,"w":118,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0001.png":
+{
+	"frame": {"x":1015,"y":434,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0002.png":
+{
+	"frame": {"x":159,"y":522,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0003.png":
+{
+	"frame": {"x":2,"y":366,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0004.png":
+{
+	"frame": {"x":610,"y":308,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0005.png":
+{
+	"frame": {"x":878,"y":467,"w":135,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":67,"w":135,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0006.png":
+{
+	"frame": {"x":159,"y":686,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0007.png":
+{
+	"frame": {"x":2,"y":531,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0008.png":
+{
+	"frame": {"x":752,"y":615,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0009.png":
+{
+	"frame": {"x":1015,"y":434,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0010.png":
+{
+	"frame": {"x":159,"y":522,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0011.png":
+{
+	"frame": {"x":2,"y":366,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0012.png":
+{
+	"frame": {"x":610,"y":308,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0013.png":
+{
+	"frame": {"x":878,"y":467,"w":135,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":67,"w":135,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0014.png":
+{
+	"frame": {"x":159,"y":686,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0015.png":
+{
+	"frame": {"x":2,"y":531,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_dash0016.png":
+{
+	"frame": {"x":752,"y":615,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0001.png":
+{
+	"frame": {"x":733,"y":298,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":62,"w":144,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0002.png":
+{
+	"frame": {"x":733,"y":298,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":62,"w":144,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0003.png":
+{
+	"frame": {"x":733,"y":298,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":62,"w":144,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0004.png":
+{
+	"frame": {"x":733,"y":298,"w":144,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":62,"w":144,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0005.png":
+{
+	"frame": {"x":1012,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0006.png":
+{
+	"frame": {"x":1012,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0007.png":
+{
+	"frame": {"x":1012,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0008.png":
+{
+	"frame": {"x":307,"y":624,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0009.png":
+{
+	"frame": {"x":307,"y":624,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0010.png":
+{
+	"frame": {"x":307,"y":624,"w":155,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":79,"w":155,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0011.png":
+{
+	"frame": {"x":443,"y":911,"w":146,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":124,"w":146,"h":95},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0012.png":
+{
+	"frame": {"x":443,"y":911,"w":146,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":124,"w":146,"h":95},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0013.png":
+{
+	"frame": {"x":1254,"y":766,"w":145,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":107,"w":145,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0014.png":
+{
+	"frame": {"x":1254,"y":766,"w":145,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":107,"w":145,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_fall0015.png":
+{
+	"frame": {"x":1254,"y":880,"w":146,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":114,"w":146,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0001.png":
+{
+	"frame": {"x":1148,"y":592,"w":125,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":62,"w":125,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0002.png":
+{
+	"frame": {"x":316,"y":318,"w":144,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":57,"w":144,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0003.png":
+{
+	"frame": {"x":316,"y":318,"w":144,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":57,"w":144,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0004.png":
+{
+	"frame": {"x":316,"y":318,"w":144,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":57,"w":144,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0005.png":
+{
+	"frame": {"x":346,"y":2,"w":171,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":71,"w":171,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0006.png":
+{
+	"frame": {"x":346,"y":2,"w":171,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":71,"w":171,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0007.png":
+{
+	"frame": {"x":2,"y":861,"w":159,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":75,"w":159,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0008.png":
+{
+	"frame": {"x":2,"y":861,"w":159,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":75,"w":159,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0009.png":
+{
+	"frame": {"x":1012,"y":163,"w":159,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":75,"w":159,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_kick0010.png":
+{
+	"frame": {"x":1173,"y":163,"w":159,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":75,"w":159,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0001.png":
+{
+	"frame": {"x":163,"y":850,"w":144,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":63,"w":144,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0002.png":
+{
+	"frame": {"x":163,"y":850,"w":144,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":63,"w":144,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0003.png":
+{
+	"frame": {"x":163,"y":850,"w":144,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":63,"w":144,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0004.png":
+{
+	"frame": {"x":163,"y":850,"w":144,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":63,"w":144,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0005.png":
+{
+	"frame": {"x":1174,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0006.png":
+{
+	"frame": {"x":1174,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0007.png":
+{
+	"frame": {"x":1174,"y":2,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":60,"w":160,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0008.png":
+{
+	"frame": {"x":316,"y":482,"w":156,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":79,"w":156,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0009.png":
+{
+	"frame": {"x":316,"y":482,"w":156,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":79,"w":156,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0010.png":
+{
+	"frame": {"x":316,"y":482,"w":156,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":79,"w":156,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0011.png":
+{
+	"frame": {"x":1000,"y":901,"w":146,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":125,"w":146,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0012.png":
+{
+	"frame": {"x":1000,"y":901,"w":146,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":125,"w":146,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0013.png":
+{
+	"frame": {"x":852,"y":777,"w":144,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":107,"w":144,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0014.png":
+{
+	"frame": {"x":852,"y":777,"w":144,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":107,"w":144,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_lose0015.png":
+{
+	"frame": {"x":852,"y":901,"w":146,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":114,"w":146,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0001.png":
+{
+	"frame": {"x":309,"y":766,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0002.png":
+{
+	"frame": {"x":309,"y":766,"w":132,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":67,"w":132,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0003.png":
+{
+	"frame": {"x":404,"y":154,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0004.png":
+{
+	"frame": {"x":404,"y":154,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0005.png":
+{
+	"frame": {"x":2,"y":696,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0006.png":
+{
+	"frame": {"x":2,"y":696,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0007.png":
+{
+	"frame": {"x":1275,"y":604,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0008.png":
+{
+	"frame": {"x":1275,"y":604,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0009.png":
+{
+	"frame": {"x":875,"y":621,"w":134,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":67,"w":134,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0010.png":
+{
+	"frame": {"x":875,"y":621,"w":134,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":67,"w":134,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0011.png":
+{
+	"frame": {"x":462,"y":318,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0012.png":
+{
+	"frame": {"x":462,"y":318,"w":146,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":57,"w":146,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0013.png":
+{
+	"frame": {"x":159,"y":357,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0014.png":
+{
+	"frame": {"x":159,"y":357,"w":155,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":56,"w":155,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0015.png":
+{
+	"frame": {"x":1011,"y":728,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_run0016.png":
+{
+	"frame": {"x":1011,"y":728,"w":121,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":59,"w":121,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_stand0001.png":
+{
+	"frame": {"x":748,"y":457,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_stand0002.png":
+{
+	"frame": {"x":748,"y":457,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_stand0003.png":
+{
+	"frame": {"x":748,"y":457,"w":128,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":63,"w":128,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_stand0004.png":
+{
+	"frame": {"x":880,"y":154,"w":130,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":62,"w":130,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_stand0005.png":
+{
+	"frame": {"x":880,"y":154,"w":130,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":62,"w":130,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_stand0006.png":
+{
+	"frame": {"x":880,"y":154,"w":130,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":62,"w":130,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0001.png":
+{
+	"frame": {"x":552,"y":154,"w":160,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":67,"w":160,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0002.png":
+{
+	"frame": {"x":552,"y":154,"w":160,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":67,"w":160,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0003.png":
+{
+	"frame": {"x":714,"y":154,"w":164,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":77,"w":164,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0004.png":
+{
+	"frame": {"x":714,"y":154,"w":164,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":77,"w":164,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0005.png":
+{
+	"frame": {"x":519,"y":2,"w":163,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":69,"w":163,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0006.png":
+{
+	"frame": {"x":519,"y":2,"w":163,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":69,"w":163,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0007.png":
+{
+	"frame": {"x":684,"y":2,"w":162,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":69,"w":162,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0008.png":
+{
+	"frame": {"x":684,"y":2,"w":162,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":69,"w":162,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0009.png":
+{
+	"frame": {"x":848,"y":2,"w":162,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":69,"w":162,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_richard_red_tackle0010.png":
+{
+	"frame": {"x":848,"y":2,"w":162,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":69,"w":162,"h":150},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "richard_red.png",
+	"format": "RGBA8888",
+	"size": {"w":1419,"h":1008},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:01a8f78708b47bc5bbcdfd646438a6d9:ceb4ff3d0ab56421bbb179e9c7b4be04:464dca56aa357c0b95b578dcad88f478$"
+}
+}

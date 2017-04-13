@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html manifest="offline.appcache">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+
+		
+		<link rel="icon" href="assets/favicons/favicon.png" type="image/png">
+		
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="logo.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="logo.png">
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="logo.png">
+		<link rel="apple-touch-icon-precomposed" href="logo.png">
+
+		<link rel="stylesheet" type="text/css" href="css/reset.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/cleanup.css">
+
+		<meta name="description" content="Lots of water!">
+
+		<title>Donald Duck Game</title>
+	</head>
+
+	<body>
+
+		<div id="container" style="width:100%; height:100%; overflow:hidden;"></div>
+		
+			
+		<div id="nosupport" style="display:none;">
+			<div id="fallbackBg"></div>
+			<div id="fallbackMessageStock"></div>
+		</div>
+
+		<noscript>
+			<div id="fallbackBg"></div>
+			<div id="fallbackMessageNoJS"></div>
+		</noscript>
+
+		<!--[if lte IE 8]>
+			<script>
+				window.is_IE8 = true;
+			</script>
+		<![endif]-->
+
+
+		<!--[if !lte IE 8]-->mm
+		<script src="js/require.js"></script>
+
+		<script>
+			var ENV = window.ENV = {};
+			window.ENV = {"server":"local","server_url":"","require":"donald_duck.min.js","meta":{"title":"Donald Duck Game","description":"Lots of water!","id":"donald_duck"},"timestamp":"2015-02-20_14-12"};
+
+			var nua = navigator.userAgent;
+			var is_android = false//((nua.indexOf('Mozilla/5.0') > -1 && nua.indexOf('Android ') > -1 && nua.indexOf('AppleWebKit') > -1) && !(nua.indexOf('Chrome') > -1));
+
+			if( is_android || window.is_IE8 )
+				document.getElementById( 'nosupport').style.display = 'block';
+			else
+				require( [ 'js/donald_duck.min.js' ], function(){});
+
+		</script>
+	<!--[endif]-->
+	<div id="startappContainer" ></div>
+		<script type="text/javascript">
+		// Required parameters.
+		var publisherId = '106216486 ';
+		var productId ='204081870';
+		var width =320;
+		var height =50;
+		// Optional parameters.
+		var userId = "";
+		var packageName = "";
+		var isp = "";
+		var contentRating = "";
+		var gender = "";
+		var age = "";
+		var category = "";
+		var networkType = "";
+		var geoLongitude = "";
+		var geoLatitude = "";
+		var subPublisherId = "";
+		var subProductId = "";
+		var domain = "";
+		var deviceManufacturer = "";
+		var deviceModel = "";
+		var userAdvertisingId="";
+		var noAdUrl= "";
+		</script>
+		<script type="text/javascript" src="http://www.startappexchange.com/js/startapp-tag.js"></script>
+		<style type="text/css">
+          #startappContainer{bottom:0px;z-index:999;right:0px;position: fixed;}
+     </style>
+	</body>
+
+</html>

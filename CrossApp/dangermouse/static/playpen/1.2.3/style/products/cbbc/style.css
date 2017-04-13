@@ -1,0 +1,19 @@
+.error-body {
+    background-color: #BDD431;
+}
+
+.error {
+    background-color: #BDD431;
+    color:  #000000;
+}
+
+.error a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.error a:hover {
+    text-decoration: underline;
+    color: #497201;
+}

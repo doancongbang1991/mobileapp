@@ -1,0 +1,1460 @@
+{"frames": {
+
+"character-ice-bear-blue-bicycle-kick0001.png":
+{
+	"frame": {"x":280,"y":749,"w":127,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":66,"w":127,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0002.png":
+{
+	"frame": {"x":280,"y":749,"w":127,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":66,"w":127,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0003.png":
+{
+	"frame": {"x":280,"y":749,"w":127,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":66,"w":127,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0004.png":
+{
+	"frame": {"x":172,"y":2,"w":133,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":15,"w":133,"h":207},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0005.png":
+{
+	"frame": {"x":172,"y":2,"w":133,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":15,"w":133,"h":207},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0006.png":
+{
+	"frame": {"x":307,"y":2,"w":135,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":20,"w":135,"h":202},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0007.png":
+{
+	"frame": {"x":307,"y":2,"w":135,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":20,"w":135,"h":202},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0008.png":
+{
+	"frame": {"x":307,"y":2,"w":135,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":20,"w":135,"h":202},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0009.png":
+{
+	"frame": {"x":2,"y":2,"w":168,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":11,"w":168,"h":211},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0010.png":
+{
+	"frame": {"x":2,"y":2,"w":168,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":11,"w":168,"h":211},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0011.png":
+{
+	"frame": {"x":2,"y":440,"w":130,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":5,"w":130,"h":217},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0012.png":
+{
+	"frame": {"x":2,"y":440,"w":130,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":5,"w":130,"h":217},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0013.png":
+{
+	"frame": {"x":1223,"y":2,"w":158,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":54,"w":158,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0014.png":
+{
+	"frame": {"x":1223,"y":2,"w":158,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":54,"w":158,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0015.png":
+{
+	"frame": {"x":137,"y":752,"w":141,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":80,"w":141,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0016.png":
+{
+	"frame": {"x":137,"y":752,"w":141,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":80,"w":141,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0017.png":
+{
+	"frame": {"x":537,"y":848,"w":138,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":78,"w":138,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0018.png":
+{
+	"frame": {"x":537,"y":848,"w":138,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":78,"w":138,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0019.png":
+{
+	"frame": {"x":1181,"y":508,"w":132,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":75,"w":132,"h":147},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0020.png":
+{
+	"frame": {"x":1181,"y":508,"w":132,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":75,"w":132,"h":147},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0021.png":
+{
+	"frame": {"x":537,"y":848,"w":138,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":78,"w":138,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-bicycle-kick0022.png":
+{
+	"frame": {"x":537,"y":848,"w":138,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":78,"w":138,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0001.png":
+{
+	"frame": {"x":409,"y":738,"w":126,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":126,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0002.png":
+{
+	"frame": {"x":409,"y":738,"w":126,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":56,"w":126,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0003.png":
+{
+	"frame": {"x":2,"y":858,"w":131,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":59,"w":131,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0004.png":
+{
+	"frame": {"x":2,"y":858,"w":131,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":59,"w":131,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0005.png":
+{
+	"frame": {"x":1360,"y":175,"w":138,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":61,"w":138,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0006.png":
+{
+	"frame": {"x":1360,"y":175,"w":138,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":61,"w":138,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0007.png":
+{
+	"frame": {"x":1360,"y":175,"w":138,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":61,"w":138,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0008.png":
+{
+	"frame": {"x":2,"y":215,"w":127,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":0,"w":127,"h":223},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0009.png":
+{
+	"frame": {"x":2,"y":215,"w":127,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":0,"w":127,"h":223},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0010.png":
+{
+	"frame": {"x":2,"y":659,"w":133,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":26,"w":133,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0011.png":
+{
+	"frame": {"x":2,"y":659,"w":133,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":26,"w":133,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0012.png":
+{
+	"frame": {"x":2,"y":659,"w":133,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":26,"w":133,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0013.png":
+{
+	"frame": {"x":271,"y":211,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":129,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0014.png":
+{
+	"frame": {"x":271,"y":211,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":129,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0015.png":
+{
+	"frame": {"x":137,"y":574,"w":133,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":47,"w":133,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0016.png":
+{
+	"frame": {"x":137,"y":574,"w":133,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":47,"w":133,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0017.png":
+{
+	"frame": {"x":931,"y":313,"w":135,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":135,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0018.png":
+{
+	"frame": {"x":931,"y":313,"w":135,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":135,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0019.png":
+{
+	"frame": {"x":792,"y":142,"w":139,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":54,"w":139,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0020.png":
+{
+	"frame": {"x":792,"y":142,"w":139,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":54,"w":139,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0021.png":
+{
+	"frame": {"x":792,"y":142,"w":139,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":54,"w":139,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0022.png":
+{
+	"frame": {"x":1068,"y":315,"w":135,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":135,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0023.png":
+{
+	"frame": {"x":1068,"y":315,"w":135,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":135,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0024.png":
+{
+	"frame": {"x":137,"y":574,"w":133,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":47,"w":133,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0025.png":
+{
+	"frame": {"x":137,"y":574,"w":133,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":47,"w":133,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0026.png":
+{
+	"frame": {"x":271,"y":211,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":129,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0027.png":
+{
+	"frame": {"x":271,"y":211,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":129,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0028.png":
+{
+	"frame": {"x":271,"y":391,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":129,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0029.png":
+{
+	"frame": {"x":271,"y":391,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":129,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0030.png":
+{
+	"frame": {"x":272,"y":571,"w":133,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":47,"w":133,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0031.png":
+{
+	"frame": {"x":272,"y":571,"w":133,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":47,"w":133,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0032.png":
+{
+	"frame": {"x":1205,"y":333,"w":135,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":135,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0033.png":
+{
+	"frame": {"x":1205,"y":333,"w":135,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":135,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0034.png":
+{
+	"frame": {"x":933,"y":142,"w":139,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":54,"w":139,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0035.png":
+{
+	"frame": {"x":933,"y":142,"w":139,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":54,"w":139,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0036.png":
+{
+	"frame": {"x":933,"y":142,"w":139,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":54,"w":139,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0037.png":
+{
+	"frame": {"x":1342,"y":339,"w":135,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":135,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0038.png":
+{
+	"frame": {"x":1342,"y":339,"w":135,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":50,"w":135,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0039.png":
+{
+	"frame": {"x":272,"y":571,"w":133,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":47,"w":133,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0040.png":
+{
+	"frame": {"x":272,"y":571,"w":133,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":47,"w":133,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0041.png":
+{
+	"frame": {"x":271,"y":391,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":129,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-celebrate0042.png":
+{
+	"frame": {"x":271,"y":391,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":129,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0001.png":
+{
+	"frame": {"x":131,"y":215,"w":138,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":45,"w":138,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0002.png":
+{
+	"frame": {"x":677,"y":843,"w":112,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":58,"w":112,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0003.png":
+{
+	"frame": {"x":1258,"y":818,"w":110,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":71,"w":110,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0004.png":
+{
+	"frame": {"x":901,"y":814,"w":119,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":60,"w":119,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0005.png":
+{
+	"frame": {"x":1538,"y":2,"w":143,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":50,"w":143,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0006.png":
+{
+	"frame": {"x":402,"y":384,"w":127,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":50,"w":127,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0007.png":
+{
+	"frame": {"x":1482,"y":818,"w":109,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":62,"w":109,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0008.png":
+{
+	"frame": {"x":1386,"y":665,"w":110,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":74,"w":110,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0009.png":
+{
+	"frame": {"x":660,"y":508,"w":130,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":64,"w":130,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0010.png":
+{
+	"frame": {"x":657,"y":671,"w":123,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":55,"w":123,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0011.png":
+{
+	"frame": {"x":131,"y":215,"w":138,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":45,"w":138,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0012.png":
+{
+	"frame": {"x":677,"y":843,"w":112,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":58,"w":112,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0013.png":
+{
+	"frame": {"x":1258,"y":818,"w":110,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":71,"w":110,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0014.png":
+{
+	"frame": {"x":901,"y":814,"w":119,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":60,"w":119,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0015.png":
+{
+	"frame": {"x":1538,"y":2,"w":143,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":50,"w":143,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0016.png":
+{
+	"frame": {"x":402,"y":384,"w":127,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":50,"w":127,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0017.png":
+{
+	"frame": {"x":1482,"y":818,"w":109,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":62,"w":109,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0018.png":
+{
+	"frame": {"x":1386,"y":665,"w":110,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":74,"w":110,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0019.png":
+{
+	"frame": {"x":660,"y":508,"w":130,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":64,"w":130,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0020.png":
+{
+	"frame": {"x":657,"y":671,"w":123,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":55,"w":123,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0021.png":
+{
+	"frame": {"x":131,"y":215,"w":138,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":45,"w":138,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-dash0022.png":
+{
+	"frame": {"x":677,"y":843,"w":112,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":58,"w":112,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0001.png":
+{
+	"frame": {"x":407,"y":561,"w":125,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":46,"w":125,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0002.png":
+{
+	"frame": {"x":407,"y":561,"w":125,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":46,"w":125,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0003.png":
+{
+	"frame": {"x":782,"y":671,"w":108,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":51,"w":108,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0004.png":
+{
+	"frame": {"x":782,"y":671,"w":108,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":51,"w":108,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0005.png":
+{
+	"frame": {"x":1015,"y":653,"w":127,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":72,"w":127,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0006.png":
+{
+	"frame": {"x":1015,"y":653,"w":127,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":72,"w":127,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0007.png":
+{
+	"frame": {"x":1583,"y":519,"w":131,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":74,"w":131,"h":147},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0008.png":
+{
+	"frame": {"x":1583,"y":519,"w":131,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":74,"w":131,"h":147},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0009.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0010.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0011.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0012.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0013.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0014.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0015.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0016.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0017.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0018.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0019.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0020.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-fall0021.png":
+{
+	"frame": {"x":1315,"y":514,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":77,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0001.png":
+{
+	"frame": {"x":792,"y":481,"w":129,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":61,"w":129,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0002.png":
+{
+	"frame": {"x":1215,"y":172,"w":143,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":63,"w":143,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0003.png":
+{
+	"frame": {"x":1215,"y":172,"w":143,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":63,"w":143,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0004.png":
+{
+	"frame": {"x":1215,"y":172,"w":143,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":63,"w":143,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0005.png":
+{
+	"frame": {"x":645,"y":142,"w":145,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":56,"w":145,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0006.png":
+{
+	"frame": {"x":645,"y":142,"w":145,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":56,"w":145,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0007.png":
+{
+	"frame": {"x":1500,"y":179,"w":138,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":56,"w":138,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0008.png":
+{
+	"frame": {"x":1640,"y":181,"w":137,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":137,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0009.png":
+{
+	"frame": {"x":792,"y":313,"w":137,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":137,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-kick0010.png":
+{
+	"frame": {"x":792,"y":313,"w":137,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":137,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0001.png":
+{
+	"frame": {"x":402,"y":206,"w":125,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":46,"w":125,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0002.png":
+{
+	"frame": {"x":402,"y":206,"w":125,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":46,"w":125,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0003.png":
+{
+	"frame": {"x":791,"y":843,"w":108,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":52,"w":108,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0004.png":
+{
+	"frame": {"x":791,"y":843,"w":108,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":52,"w":108,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0005.png":
+{
+	"frame": {"x":1144,"y":657,"w":127,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":73,"w":127,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0006.png":
+{
+	"frame": {"x":1144,"y":657,"w":127,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":73,"w":127,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0007.png":
+{
+	"frame": {"x":1716,"y":519,"w":131,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":75,"w":131,"h":147},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0008.png":
+{
+	"frame": {"x":1716,"y":519,"w":131,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":75,"w":131,"h":147},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0009.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0010.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0011.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0012.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0013.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0014.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0015.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0016.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0017.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0018.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0019.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0020.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-lose0021.png":
+{
+	"frame": {"x":1449,"y":519,"w":132,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":78,"w":132,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0001.png":
+{
+	"frame": {"x":134,"y":397,"w":135,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":50,"w":135,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0002.png":
+{
+	"frame": {"x":1612,"y":349,"w":127,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":57,"w":127,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0003.png":
+{
+	"frame": {"x":1370,"y":818,"w":110,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":63,"w":110,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0004.png":
+{
+	"frame": {"x":1273,"y":660,"w":111,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":69,"w":111,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0005.png":
+{
+	"frame": {"x":1702,"y":825,"w":108,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":75,"w":108,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0006.png":
+{
+	"frame": {"x":1608,"y":668,"w":110,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":70,"w":110,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0007.png":
+{
+	"frame": {"x":1140,"y":808,"w":116,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":64,"w":116,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0008.png":
+{
+	"frame": {"x":662,"y":310,"w":128,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":59,"w":128,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0009.png":
+{
+	"frame": {"x":1074,"y":142,"w":139,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":54,"w":139,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0010.png":
+{
+	"frame": {"x":1683,"y":2,"w":139,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":48,"w":139,"h":177},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0011.png":
+{
+	"frame": {"x":534,"y":498,"w":124,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":54,"w":124,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0012.png":
+{
+	"frame": {"x":1022,"y":804,"w":116,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":60,"w":116,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0013.png":
+{
+	"frame": {"x":1741,"y":349,"w":106,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":66,"w":106,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0014.png":
+{
+	"frame": {"x":1720,"y":668,"w":107,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":72,"w":107,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0015.png":
+{
+	"frame": {"x":1498,"y":668,"w":108,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":78,"w":108,"h":147},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0016.png":
+{
+	"frame": {"x":1593,"y":825,"w":107,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":73,"w":107,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0017.png":
+{
+	"frame": {"x":923,"y":488,"w":127,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":69,"w":127,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0018.png":
+{
+	"frame": {"x":1052,"y":490,"w":127,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":64,"w":127,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0019.png":
+{
+	"frame": {"x":892,"y":646,"w":121,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":59,"w":121,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0020.png":
+{
+	"frame": {"x":1479,"y":347,"w":131,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":55,"w":131,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-run0021.png":
+{
+	"frame": {"x":531,"y":321,"w":129,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":50,"w":129,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0001.png":
+{
+	"frame": {"x":529,"y":143,"w":114,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":46,"w":114,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0002.png":
+{
+	"frame": {"x":529,"y":143,"w":114,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":46,"w":114,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0003.png":
+{
+	"frame": {"x":529,"y":143,"w":114,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":46,"w":114,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0004.png":
+{
+	"frame": {"x":529,"y":143,"w":114,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":46,"w":114,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0005.png":
+{
+	"frame": {"x":529,"y":143,"w":114,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":46,"w":114,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0006.png":
+{
+	"frame": {"x":529,"y":143,"w":114,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":46,"w":114,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0007.png":
+{
+	"frame": {"x":537,"y":671,"w":118,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":47,"w":118,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0008.png":
+{
+	"frame": {"x":537,"y":671,"w":118,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":47,"w":118,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0009.png":
+{
+	"frame": {"x":537,"y":671,"w":118,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":47,"w":118,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0010.png":
+{
+	"frame": {"x":537,"y":671,"w":118,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":47,"w":118,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0011.png":
+{
+	"frame": {"x":537,"y":671,"w":118,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":47,"w":118,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-stand0012.png":
+{
+	"frame": {"x":537,"y":671,"w":118,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":47,"w":118,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0001.png":
+{
+	"frame": {"x":1383,"y":2,"w":153,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":51,"w":153,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0002.png":
+{
+	"frame": {"x":1383,"y":2,"w":153,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":51,"w":153,"h":171},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0003.png":
+{
+	"frame": {"x":444,"y":2,"w":193,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":83,"w":193,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0004.png":
+{
+	"frame": {"x":444,"y":2,"w":193,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":83,"w":193,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0005.png":
+{
+	"frame": {"x":639,"y":2,"w":193,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":84,"w":193,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0006.png":
+{
+	"frame": {"x":639,"y":2,"w":193,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":84,"w":193,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0007.png":
+{
+	"frame": {"x":1029,"y":2,"w":192,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":84,"w":192,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0008.png":
+{
+	"frame": {"x":1029,"y":2,"w":192,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":84,"w":192,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0009.png":
+{
+	"frame": {"x":834,"y":2,"w":193,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":84,"w":193,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-ice-bear-blue-tackle0010.png":
+{
+	"frame": {"x":834,"y":2,"w":193,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":84,"w":193,"h":138},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ice-bear_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":1849,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f344da5756bda93dd6079faed8419210:655af0f1afa73d7409630730176a8dff:c4c67db581743e016eded655fcf32c23$"
+}
+}

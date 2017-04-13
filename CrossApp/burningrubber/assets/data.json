@@ -1,0 +1,362 @@
+{
+
+	"_comments": [],
+	
+	"Menu": {},
+	"Buttons": {},
+	"TextStyles": {},
+
+	"Cars": {
+		"Viper": 	{"Speed":  1.35, "Armor": 2, "UnlockScore":     0},
+		"Vice": 	{"Speed":   1.5, "Armor": 1, "UnlockScore":     0},
+		"Macari": 	{"Speed": 1.75,  "Armor": 2, "UnlockScore":  1000},
+		"Rebel": 	{"Speed":   2,   "Armor": 3, "UnlockScore":  2500},
+		"Panini": 	{"Speed": 2.25,  "Armor": 4, "UnlockScore":  5000},
+		"Tsunami": 	{"Speed":   2.5, "Armor": 5, "UnlockScore":  7500}
+		},
+	
+	"Weapons": {
+		"MachineGun":		{"Damage":  0.5, "RateOfFire":   1.50, "Sprite": "DefaultBullet", "UnlockScore":     0},
+		"Shotgun": 			{"Damage":  2,   "RateOfFire":   0.75, "Sprite": "DefaultBullet", "UnlockScore":     0},
+		"Minigun": 			{"Damage":  0.5, "RateOfFire":   3,    "Sprite": "DefaultBullet", "UnlockScore":  3000},
+		"Laser": 			{"Damage": 10,   "RateOfFire":   0.5,  "Sprite": "DefaultBullet", "UnlockScore":  6000},
+		"FlameThrower": 	{"Damage":  3,   "RateOfFire":   2,    "Sprite": "DefaultBullet", "UnlockScore": 10000},
+		"GrenadeLauncher":	{"Damage":  5,   "RateOfFire":   1,    "Sprite": "DefaultBullet", "UnlockScore": 15000},
+		"RocketLauncher":	{"Damage":  5,   "RateOfFire":   2,    "Sprite": "DefaultBullet", "UnlockScore": 20000},
+		"EnergyGun": 		{"Damage": 10,   "RateOfFire":   3,    "Sprite": "DefaultBullet", "UnlockScore": 30000}
+		},
+
+	"WaveSystem": {
+		"WaveSystem": {
+			"Level1": "Level1Start,Easy*,BarriersMiddle,Easy*,BarriersSides,Medium*,Level1Start,OilSpillsMiddle,Easy*,Medium*,OilSpillsSides,Medium*",
+			"Level2": "Level2Start,StopSigns,Medium*,BarriersSides,Easy*,StopSigns,Level2Start,Easy*,Medium*,StopSigns,OilDrums,Hard*",
+			"Level3": "Level3Start,Medium*,OilDrums,Hard*,StopSigns,Medium*,Level3Start,OilSpillsMiddle,Hard*,Crates,Medium*,Hard*",
+			"Level4": "Level4Start,Hard*,Medium*,OilDrums,Hard*,StopSigns,Medium*,Level4Start,BarriersMiddle,Medium*,Hard*,Crates,OilDrums,Hard*",
+			"Level5": "Level5Start,OilSpillsSides,Medium*,OilSpillsMiddle,Hard*,OilDrums,Medium*,Level5Start,OilSpillsMiddle,Hard*,Medium*,OilSpillsSide,Medium*,Hard*",
+			"Level6": "Level6Start,OilDrums,Medium*,OilSpillsSides,Hard*,BarriersMiddle,Level6Start,Medium*,Hard*,Crates,OilSpillsMiddle,Medium*,OilDrums,Hard*"
+			},
+
+		"WaveSystemOriginal": {
+			"Level1": "Level1Start,Easy1,BarriersMiddle,Easy2,Easy3,Level1Start,BarriersSides,Medium1,Easy3,OilSpillsMiddle,Easy2,Level1Start,BarriersMiddle,Easy1,Medium2,OilSpillsSides,Medium3,Level1Start,Crates,Easy*,Medium*,Hard*",
+			"Level2": "Level2Start,StopSigns,Easy3,StopSigns,Medium1,StopSigns,Medium2,Level2Start,Medium3,StopSigns,Medium2,Medium3,Level2Start,Crates,Medium1,StopSigns,Medium1,Hard1,Level2Start,Easy*,Medium*,Hard*",
+			"Level3": "Level3Start,Medium1,Medium2,Medium3,Level3Start,Crates,Medium3,Medium2,Medium3,Level3Start,Crates,Hard1,Hard2,Hard3,Level3Start,Medium*,Medium*,Hard*,Level3Start,Crates,Medium*,Hard*",
+			"Level4": "Level4Start,OilDrums,Medium3,OilDrums,Hard1,OilDrums,Hard2,OilDrums,Level4Start,OilDrums,Hard3,OilDrums,Medium2,OilDrums,Medium3,OilDrums,Level4Start,OilDrums,Hard1,OilDrums,Hard2,OilDrums,Hard3,OilDrums,Level4Start,OilDrums,Medium*,Hard*",
+			"Level5": "Level5Start,OilSpillsSides,Hard1,OilSpillsMiddle,Hard3,OilDrums,Hard2,OilSpillsSides,Level5Start,OilDrums,Hard3,OilSpillsMiddle,Hard1,OilDrums,Hard3,Level5Start,Crates,Hard1,OilSpillsMiddle,Hard2,OilDrums,Hard3,Level5Start,OilSpillsSide,Crates,Hard*",
+			"Level6": "Level6Start,OilDrums,Hard3,OilSpillsSides,Hard3,Hard2,Level6Start,OilDrums,Hard2,Hard1,OilSpillsMiddle,Hard1,OilDrums,Level6Start,Crates,OilDrums,Hard3,OilSpillsSides,BarriersMiddle,Hard2,OilDrums,Hard1,Level6Start,OilDrums,Hard*"
+			}
+		},
+
+	"CarLegenda": {
+		"A": {"Type": "ArmouredTruck", "Speed":    5, "Armor": 6, "Score":  30},
+		"B": {"Type": 		 "Camaro", "Speed":  3.7, "Armor": 1, "Score":   5},
+		"C": {"Type": 		 "Evader", "Speed":  4.2, "Armor": 1, "Score":   5},
+		"D": {"Type": 		  "Hound", "Speed":  3.4, "Armor": 4, "Score":  20},
+		"E": {"Type": 		 "Macari", "Speed":  3.3, "Armor": 5, "Score":  50},
+		"F": {"Type": 		 "Panini", "Speed":  3.5, "Armor": 5, "Score":  75},
+		"G": {"Type": 	   "PetiteXs", "Speed":    5, "Armor": 1, "Score":   5},
+		"H": {"Type": 	     "Police", "Speed":  3.5, "Armor": 3, "Score":  15},
+		"I": {"Type": 		  "Rebel", "Speed":  3.6, "Armor": 5, "Score":  60},
+		"J": {"Type": 		   "Taxi", "Speed":  3.2, "Armor": 2, "Score":  10},
+		"K": {"Type": 		  "Truck", "Speed":    4, "Armor": 6, "Score":  30},
+		"L": {"Type": 	    "Tsunami", "Speed":  3.7, "Armor": 5, "Score": 100},
+		"M": {"Type": 		   "Vice", "Speed":  3.4, "Armor": 5, "Score":  35},
+		"N": {"Type": 		  "Viper", "Speed":  3.3, "Armor": 5, "Score":  25}
+	},
+	"ObstakelLegenda": {
+		"1": {"Type": "ConcreteBarrier1", "Armor": 99, "Score": 0},
+		"2": {"Type": 		  "OilDrum1", "Armor":  1, "Score": 5},
+		"3": {"Type": 		 "StopSign1", "Armor": 0.5, "Score": 5},
+		"4": {"Type": 		 "OilSpill1", "Armor": 99, "Score": 0},
+		"5": {"Type": 	   "PickupCrate", "Armor":  1, "Score": 0},
+		"6": {"Type": 	   "PickupArmor", "Armor":  1, "Score": 0},
+		"7": {"Type": 	 "PickupScore10", "Armor":  1, "Score": 0},
+		"8": {"Type": 	 "PickupScore50", "Armor":  1, "Score": 0},
+		"9": {"Type": 	"PickupScore100", "Armor":  1, "Score": 0},
+	   "10": {"Type": 	"PickupScore250", "Armor":  1, "Score": 0},
+	   "11": {"Type":  "PickupScore1000", "Armor":  1, "Score": 0},
+	   "12": {"Type": 	    "PickupNuke", "Armor":  1, "Score": 0},
+	   "13": {"Type": 	 "PickupJetpack", "Armor":  1, "Score": 0},
+	   "14": {"Type": 	"PickupFiredash", "Armor":  1, "Score": 0},
+	   "15": {"Type": 	  "PickupShield", "Armor":  1, "Score": 0}
+	},
+	"DecorationLegenda": {
+		"Deco1": 						{"Type":        "TrafficSignUp1"},
+		"Start": 						{"Type":             "StartSign"},
+		"TrafficSignUp":               	{"Type":        "TrafficSignUp1"},
+		"StreetLightLeft":           	{"Type":       "StreetLightLeft"},
+		"StreetLightRight":         	{"Type":      "StreetLightRight"},
+		"TrashContainerLeft":   		{"Type":    "TrashContainerLeft"},
+		"TrashContainerRight":          {"Type":   "TrashContainerRight"},
+		"TrafficSignSpeedLimit": 		{"Type": "TrafficSignSpeedLimit"},
+		"AdvertisementSmall":           {"Type":    "AdvertisementSmall"},
+		"AdvertisementMedium":         	{"Type":   "AdvertisementMedium"},
+		"AdvertisementLarge":           {"Type":    "AdvertisementLarge"},
+		"ManHoleClosed":         		{"Type":         "ManHoleClosed"},
+		"Cactus":             			{"Type": 				"Cactus"},
+		"CactusBig":       				{"Type": 			 "CactusBig"},
+		"CowSkull":        				{"Type": 			  "CowSkull"},
+		"Tree":                 		{"Type": 				  "Tree"},
+		"FlowerBed":    				{"Type": 			 "FlowerBed"},
+		"IceCreamStand":           		{"Type": 		 "IceCreamStand"},
+		"BenchLeft":                    {"Type": 			 "BenchLeft"},
+		"BenchRight":                   {"Type": 			"BenchRight"},
+		"PhoneBooth":                	{"Type": 			"PhoneBooth"},
+		"BusStop":         				{"Type": 			   "BusStop"},
+		"PalmTree":      			 	{"Type": 			  "PalmTree"},
+		"Rock":                			{"Type": 				  "Rock"},
+		"Plant":                		{"Type": 				 "Plant"},
+		"PineTree":        				{"Type": 			  "PineTree"},
+		"SnowMan":     					{"Type": 			   "SnowMan"}
+	},
+
+	"Level1Start": {
+		"Position9":	{"LaneLeft":  		 "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight":  "CowSkull"},
+		"Position8":	{"LaneLeft": 	 	 "-", "Lane1": "B", "Lane2": "B", "LaneMid": "Deco1", "Lane3": "B", "Lane4": "B", "LaneRight": 	       "-"},
+		"Position7": 	{"LaneLeft": 	     "-", "Lane1": "B", "Lane2": "B", "LaneMid": 	 "-", "Lane3": "B", "Lane4": "B", "LaneRight":    "Cactus"},
+		"Position6": 	{"LaneLeft":  		 "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	       "-"},
+		"Position5": 	{"LaneLeft": 	 	 "-", "Lane1": "G", "Lane2": "G", "LaneMid": 	 "-", "Lane3": "G", "Lane4": "G", "LaneRight": 	       "-"},
+		"Position4": 	{"LaneLeft": "CactusBig", "Lane1": "G", "Lane2": "G", "LaneMid": 	 "-", "Lane3": "G", "Lane4": "G", "LaneRight": 	   	   "-"},
+		"Position3":	{"LaneLeft": 	 	 "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight":  "CowSkull"},
+		"Position2":	{"LaneLeft": 	 	 "-", "Lane1": "5", "Lane2": "5", "LaneMid": 	 "-", "Lane3": "5", "Lane4": "5", "LaneRight": 		   "-"},
+		"Position1": 	{"LaneLeft":     	 "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     	   "-"},
+		"Position0":	{"LaneLeft": 	"Cactus", "Lane1": "-", "Lane2": "-", "LaneMid": "Start", "Lane3": "-", "Lane4": "-", "LaneRight":         "-"}
+	},
+
+	"Level2Start": {
+		"Position9":	{"LaneLeft": "FlowerBed", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight":	"FlowerBed"},
+		"Position8":	{"LaneLeft": 		 "-", "Lane1": "H", "Lane2": "H", "LaneMid": "Deco1", "Lane3": "H", "Lane4": "H", "LaneRight":			"-"},
+		"Position7": 	{"LaneLeft": 	 	 "-", "Lane1": "H", "Lane2": "H", "LaneMid": 	 "-", "Lane3": "H", "Lane4": "H", "LaneRight": 	    "Tree"},
+		"Position6": 	{"LaneLeft": 	  "Tree", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	       "-"},
+		"Position5": 	{"LaneLeft": 	 	 "-", "Lane1": "J", "Lane2": "J", "LaneMid": 	 "-", "Lane3": "J", "Lane4": "J", "LaneRight": 	    "Tree"},
+		"Position4": 	{"LaneLeft": 	  "Tree", "Lane1": "J", "Lane2": "J", "LaneMid": 	 "-", "Lane3": "J", "Lane4": "J", "LaneRight": 	       "-"},
+		"Position3":	{"LaneLeft": 	 	 "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	   	   "-"},
+		"Position2":	{"LaneLeft": 	  "Tree", "Lane1": "5", "Lane2": "5", "LaneMid": 	 "-", "Lane3": "5", "Lane4": "5", "LaneRight": 	    "Tree"},
+		"Position1": 	{"LaneLeft": "FlowerBed", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight": "FlowerBed"},
+		"Position0":	{"LaneLeft": "FlowerBed", "Lane1": "-", "Lane2": "-", "LaneMid": "Start", "Lane3": "-", "Lane4": "-", "LaneRight": "FlowerBed"}
+	},
+
+	"Level3Start": {
+		"Position9":	{"LaneLeft": 	"BenchLeft", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	  "BenchRight"},
+		"Position8":	{"LaneLeft": 	 	     "-", "Lane1": "I", "Lane2": "F", "LaneMid": "Deco1", "Lane3": "I", "Lane4": "F", "LaneRight": 	   		   "-"},
+		"Position7": 	{"LaneLeft": 	 "BenchLeft", "Lane1": "F", "Lane2": "I", "LaneMid": 	 "-", "Lane3": "F", "Lane4": "I", "LaneRight": 	  "BenchRight"},
+		"Position6": 	{"LaneLeft": 	 "BenchLeft", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight":	  "BenchRight"},
+		"Position5": 	{"LaneLeft": 	 		 "-", "Lane1": "I", "Lane2": "F", "LaneMid": 	 "-", "Lane3": "I", "Lane4": "F", "LaneRight": "IceCreamStand"},
+		"Position4": 	{"LaneLeft": 	 "BenchLeft", "Lane1": "F", "Lane2": "I", "LaneMid": 	 "-", "Lane3": "F", "Lane4": "I", "LaneRight": 	  "BenchRight"},
+		"Position3":	{"LaneLeft":	 "BenchLeft", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	  "BenchRight"},
+		"Position2":	{"LaneLeft": 	 "BenchLeft", "Lane1": "5", "Lane2": "5", "LaneMid": 	 "-", "Lane3": "5", "Lane4": "5", "LaneRight": "IceCreamStand"},
+		"Position1": 	{"LaneLeft":     "BenchLeft", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":    "BenchRight"},
+		"Position0":	{"LaneLeft": 	 "BenchLeft", "Lane1": "-", "Lane2": "-", "LaneMid": "Start", "Lane3": "-", "Lane4": "-", "LaneRight": 	  "BenchRight"}
+	},
+
+	"Level4Start": {
+		"Position9":	{"LaneLeft": "PhoneBooth", "Lane1": "-", "Lane2": "-", "LaneMid": 	  "-", "Lane3": "-", "Lane4": "-", "LaneRight":    "BusStop"},
+		"Position8":	{"LaneLeft": 	 	  "-", "Lane1": "K", "Lane2": "K", "LaneMid": "Deco1", "Lane3": "K", "Lane4": "K", "LaneRight": 	     "-"},
+		"Position7": 	{"LaneLeft": 	"BusStop", "Lane1": "K", "Lane2": "K", "LaneMid": 	  "-", "Lane3": "K", "Lane4": "K", "LaneRight": "PhoneBooth"},
+		"Position6": 	{"LaneLeft": 	 	  "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	  "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	     "-"},
+		"Position5": 	{"LaneLeft": "PhoneBooth", "Lane1": "A", "Lane2": "A", "LaneMid": 	  "-", "Lane3": "A", "Lane4": "A", "LaneRight":    "BusStop"},
+		"Position4": 	{"LaneLeft": 	 	  "-", "Lane1": "A", "Lane2": "A", "LaneMid": 	  "-", "Lane3": "A", "Lane4": "A", "LaneRight": 	     "-"},
+		"Position3":	{"LaneLeft": 	 	  "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	  "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	     "-"},
+		"Position2":	{"LaneLeft": 	"BusStop", "Lane1": "5", "Lane2": "5", "LaneMid": 	  "-", "Lane3": "5", "Lane4": "5", "LaneRight": "PhoneBooth"},
+		"Position1": 	{"LaneLeft":     	  "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     	 "-"},
+		"Position0":	{"LaneLeft": "PhoneBooth", "Lane1": "-", "Lane2": "-", "LaneMid": "Start", "Lane3": "-", "Lane4": "-", "LaneRight":    "BusStop"}
+	},
+
+	"Level5Start": {
+		"Position9":	{"LaneLeft": "PalmTree", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": "PalmTree"},
+		"Position8":	{"LaneLeft":        "-", "Lane1": "J", "Lane2": "J", "LaneMid":  "Deco1", "Lane3": "J", "Lane4": "J", "LaneRight": 	      "-"},
+		"Position7": 	{"LaneLeft": 		"-", "Lane1": "J", "Lane2": "J", "LaneMid": 	 "-", "Lane3": "J", "Lane4": "J", "LaneRight": 	  "Plant"},
+		"Position6": 	{"LaneLeft": "PalmTree", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": "PalmTree"},
+		"Position5": 	{"LaneLeft": 	 	"-", "Lane1": "C", "Lane2": "C", "LaneMid": 	 "-", "Lane3": "C", "Lane4": "C", "LaneRight": 	  "Plant"},
+		"Position4": 	{"LaneLeft": "PalmTree", "Lane1": "C", "Lane2": "C", "LaneMid": 	 "-", "Lane3": "C", "Lane4": "C", "LaneRight": "PalmTree"},
+		"Position3":	{"LaneLeft": 	 	"-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	   	  "-"},
+		"Position2":	{"LaneLeft": "PalmTree", "Lane1": "5", "Lane2": "5", "LaneMid": 	 "-", "Lane3": "5", "Lane4": "5", "LaneRight": "PalmTree"},
+		"Position1": 	{"LaneLeft":     "Rock", "Lane1": "-", "Lane2": "-", "LaneMid":      "-", "Lane3": "-", "Lane4": "-", "LaneRight":        "-"},
+		"Position0":	{"LaneLeft": "PalmTree", "Lane1": "-", "Lane2": "-", "LaneMid":  "Start", "Lane3": "-", "Lane4": "-", "LaneRight": "PalmTree"}
+	},
+
+	"Level6Start": {
+		"Position9":	{"LaneLeft": "PineTree", "Lane1": "-", "Lane2": "-", "LaneMid": 	"-", "Lane3": "-", "Lane4": "-", "LaneRight": "PineTree"},
+		"Position8":	{"LaneLeft": "PineTree", "Lane1": "D", "Lane2": "D", "LaneMid": "Deco1", "Lane3": "D", "Lane4": "D", "LaneRight": "PineTree"},
+		"Position7": 	{"LaneLeft":  		"-", "Lane1": "D", "Lane2": "D", "LaneMid": 	"-", "Lane3": "D", "Lane4": "D", "LaneRight": 	     "-"},
+		"Position6": 	{"LaneLeft": 	    "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	"-", "Lane3": "-", "Lane4": "-", "LaneRight": "PineTree"},
+		"Position5": 	{"LaneLeft": "PineTree", "Lane1": "H", "Lane2": "H", "LaneMid": 	"-", "Lane3": "H", "Lane4": "H", "LaneRight":  		 "-"},
+		"Position4": 	{"LaneLeft":  		"-", "Lane1": "H", "Lane2": "H", "LaneMid": 	"-", "Lane3": "H", "Lane4": "H", "LaneRight": "PineTree"},
+		"Position3":	{"LaneLeft": "PineTree", "Lane1": "-", "Lane2": "-", "LaneMid": 	"-", "Lane3": "-", "Lane4": "-", "LaneRight": 	     "-"},
+		"Position2":	{"LaneLeft": 	    "-", "Lane1": "5", "Lane2": "5", "LaneMid": 	"-", "Lane3": "5", "Lane4": "5", "LaneRight": "PineTree"},
+		"Position1": 	{"LaneLeft": "PineTree", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":  		 "-"},
+		"Position0":	{"LaneLeft":  		"-", "Lane1": "-", "Lane2": "-", "LaneMid": "Start", "Lane3": "-", "Lane4": "-", "LaneRight":  "SnowMan"}
+	},
+
+	"Easy1": {
+		"Position9":	{"LaneLeft": 	 "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "1", "Lane4": "-", "LaneRight": 	   "-"},
+		"Position8":	{"LaneLeft": 	 "-", "Lane1": "G", "Lane2": "3", "LaneMid": 	 "-", "Lane3": "1", "Lane4": "B", "LaneRight": 	   "AdvertisementSmall"},
+		"Position7": 	{"LaneLeft": 	 "-", "Lane1": "G", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "B", "LaneRight": 	   "-"},
+		"Position6": 	{"LaneLeft": 	 "-", "Lane1": "1", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "B", "LaneRight": 	   "-"},
+		"Position5": 	{"LaneLeft": 	 "-", "Lane1": "1", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight": 	   "-"},
+		"Position4": 	{"LaneLeft": 	 "-", "Lane1": "1", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "1", "LaneRight": 	   "-"},
+		"Position3":	{"LaneLeft": 	 "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "1", "LaneRight": 	   "-"},
+		"Position2":	{"LaneLeft": 	 "-", "Lane1": "-", "Lane2": "C", "LaneMid": 	 "-", "Lane3": "B", "Lane4": "-", "LaneRight": 	   "-"},
+		"Position1": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "3", "LaneMid":     "-", "Lane3": "B", "Lane4": "-", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft": 	 "-", "Lane1": "5", "Lane2": "5", "LaneMid":     "-", "Lane3": "B", "Lane4": "-", "LaneRight":     "-"}
+	},
+
+	"Easy2": {
+		"Position9":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "B", "LaneMid":     "-", "Lane3": "C", "Lane4": "-", "LaneRight":     "-"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "B", "LaneMid":     "-", "Lane3": "-", "Lane4": "D", "LaneRight":     "-"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "D", "LaneMid":     "-", "Lane3": "C", "Lane4": "D", "LaneRight":     "-"},
+		"Position5": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "B", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position1": 	{"LaneLeft":     "AdvertisementMedium", "Lane1": "B", "Lane2": "-", "LaneMid":     "-", "Lane3": "C", "Lane4": "-", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "B", "Lane2": "-", "LaneMid":     "-", "Lane3": "C", "Lane4": "-", "LaneRight":     "-"}
+	},
+
+	"Easy3": {
+		"Position9":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "C", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "C", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "G", "LaneMid":     "-", "Lane3": "G", "Lane4": "-", "LaneRight":     "-"},
+		"Position5": 	{"LaneLeft":     "AdvertisementLarge", "Lane1": "-", "Lane2": "G", "LaneMid":     "-", "Lane3": "G", "Lane4": "-", "LaneRight":     "AdvertisementLarge"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "B", "LaneRight":     "-"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "B", "LaneRight":     "-"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "G", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position1": 	{"LaneLeft":     "-", "Lane1": "G", "Lane2": "-", "LaneMid":     "-", "Lane3": "B", "Lane4": "-", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "B", "Lane4": "-", "LaneRight":     "-"}
+	},
+
+	"Medium1": {
+		"Position9":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "H", "LaneMid":     "-", "Lane3": "H", "Lane4": "-", "LaneRight":     "-"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "H", "LaneMid": 	 "-", "Lane3": "H", "Lane4": "-", "LaneRight":     "AdvertisementSmall"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "H", "LaneMid": 	 "-", "Lane3": "H", "Lane4": "-", "LaneRight":     "-"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "H", "LaneMid": 	 "-", "Lane3": "H", "Lane4": "-", "LaneRight":     "-"},
+		"Position5": 	{"LaneLeft":     "-", "Lane1": "G", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "G", "LaneRight":     "-"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "G", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "G", "LaneRight":     "-"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "G", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "G", "LaneRight":     "-"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "D", "LaneMid": 	 "-", "Lane3": "D", "Lane4": "-", "LaneRight":     "-"},
+		"Position1": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "D", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "D", "LaneRight":     "-"}
+	},
+
+	"Medium2": {
+		"Position9":	{"LaneLeft":     "-", "Lane1": "G", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "1", "LaneRight":     "-"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "G", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "1", "LaneRight":     "-"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "1", "Lane4": "-", "LaneRight":     "-"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "1", "Lane4": "-", "LaneRight":     "-"},
+		"Position5": 	{"LaneLeft":     "-", "Lane1": "B", "Lane2": "C", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "B", "Lane2": "C", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "B", "Lane2": "1", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "1", "LaneMid":     "-", "Lane3": "-", "Lane4": "G", "LaneRight":     "-"},
+		"Position1": 	{"LaneLeft":     "AdvertisementMedium", "Lane1": "1", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "G", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "4", "Lane4": "4", "LaneRight":     "-"}
+	},
+
+	"Medium3": {
+		"Position9":	{"LaneLeft":     "-", "Lane1": "3", "Lane2": "B", "LaneMid":     "-", "Lane3": "-", "Lane4": "4", "LaneRight":     "-"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "3", "Lane2": "B", "LaneMid":     "-", "Lane3": "-", "Lane4": "4", "LaneRight":     "-"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "4", "LaneRight":     "-"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "3", "LaneRight":     "-"},
+		"Position5": 	{"LaneLeft":     "AdvertisementLarge", "Lane1": "-", "Lane2": "D", "LaneMid":     "-", "Lane3": "H", "Lane4": "-", "LaneRight":     "AdvertisementLarge"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "D", "LaneMid":     "-", "Lane3": "A", "Lane4": "-", "LaneRight":     "-"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "D", "LaneMid":     "-", "Lane3": "A", "Lane4": "-", "LaneRight":     "-"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "C", "Lane2": "D", "LaneMid":     "-", "Lane3": "A", "Lane4": "-", "LaneRight":     "-"},
+		"Position1": 	{"LaneLeft":     "-", "Lane1": "C", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "C", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"}
+	},
+
+	"Hard1": {
+		"Position9":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "3", "Lane4": "2", "LaneRight":     "-"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "B", "LaneMid":	 "-", "Lane3": "3", "Lane4": "2", "LaneRight":     "AdvertisementSmall"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "B", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "2", "LaneRight":     "-"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "K", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "3", "LaneRight":     "-"},
+		"Position5": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "K", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "H", "Lane2": "H", "LaneMid": 	 "-", "Lane3": "H", "Lane4": "H", "LaneRight":     "-"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "H", "Lane2": "A", "LaneMid": 	 "-", "Lane3": "A", "Lane4": "H", "LaneRight":     "-"},
+		"Position1": 	{"LaneLeft":     "-", "Lane1": "H", "Lane2": "A", "LaneMid": 	 "-", "Lane3": "A", "Lane4": "H", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "H", "Lane2": "H", "LaneMid": 	 "-", "Lane3": "H", "Lane4": "H", "LaneRight":     "-"}
+	},
+
+	"Hard2": {
+		"Position9":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "1", "LaneMid":     "-", "Lane3": "1", "Lane4": "1", "LaneRight":     "-"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "1", "LaneMid":     "-", "Lane3": "1", "Lane4": "1", "LaneRight":     "-"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "1", "LaneMid":     "-", "Lane3": "1", "Lane4": "1", "LaneRight":     "-"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "1", "Lane4": "1", "LaneRight":     "-"},
+		"Position5": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "1", "LaneRight":     "-"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "1", "Lane2": "1", "LaneMid":     "-", "Lane3": "-", "Lane4": "1", "LaneRight":     "-"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "1", "LaneRight":     "-"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position1": 	{"LaneLeft":     "AdvertisementMedium", "Lane1": "-", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"}
+	},
+
+	"Hard3": {
+		"Position9":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "1", "LaneMid":     "-", "Lane3": "1", "Lane4": "1", "LaneRight":     "-"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "-"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "J", "LaneMid":     "-", "Lane3": "L", "Lane4": "N", "LaneRight":     "-"},
+		"Position5": 	{"LaneLeft":     "AdvertisementLarge", "Lane1": "L", "Lane2": "I", "LaneMid":     "-", "Lane3": "J", "Lane4": "-", "LaneRight":     "AdvertisementLarge"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "M", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "M", "LaneRight":     "-"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "M", "LaneMid":     "-", "Lane3": "N", "Lane4": "-", "LaneRight":     "-"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "I", "Lane2": "L", "LaneMid":     "-", "Lane3": "I", "Lane4": "-", "LaneRight":     "-"},
+		"Position1": 	{"LaneLeft":     "-", "Lane1": "J", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "L", "LaneRight":     "-"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "-", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "J", "LaneRight":     "-"}
+	},
+
+	"Test": {
+		"Position24": 	{"LaneLeft":     "-", "Lane1":"11", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "Deco1"},
+		"Position23":	{"LaneLeft":     "-", "Lane1":"10", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "TrafficSignUp"},
+		"Position22": 	{"LaneLeft":     "-", "Lane1": "9", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "StreetLightLeft"},
+		"Position21":	{"LaneLeft":     "-", "Lane1": "8", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "StreetLightRight"},
+		"Position20":	{"LaneLeft":     "-", "Lane1": "7", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "TrashContainerLeft"},
+		"Position19": 	{"LaneLeft":     "-", "Lane1": "6", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "TrashContainerRight"},
+		"Position18":	{"LaneLeft":     "-", "Lane1": "5", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "TrafficSignSpeedLimit"},
+		"Position17":	{"LaneLeft":     "-", "Lane1": "4", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "AdvertisementSmall"},
+		"Position16": 	{"LaneLeft":     "-", "Lane1": "3", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "AdvertisementMedium"},
+		"Position15": 	{"LaneLeft":     "-", "Lane1": "2", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "AdvertisementLarge"},
+		"Position14": 	{"LaneLeft":     "-", "Lane1": "1", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "ManHoleClosed"},
+		"Position13": 	{"LaneLeft":     "-", "Lane1": "N", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "Cactus"},
+		"Position12":	{"LaneLeft":     "-", "Lane1": "M", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "CactusBig"},
+		"Position11":	{"LaneLeft":     "-", "Lane1": "L", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "CowSkull"},
+		"Position10": 	{"LaneLeft":     "-", "Lane1": "K", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "Tree"},
+		"Position9":	{"LaneLeft":     "-", "Lane1": "J", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "FlowerBed"},
+		"Position8":	{"LaneLeft":     "-", "Lane1": "I", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "IceCreamStand"},
+		"Position7": 	{"LaneLeft":     "-", "Lane1": "H", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "BenchRight"},
+		"Position6": 	{"LaneLeft":     "-", "Lane1": "G", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "PhoneBooth"},
+		"Position5": 	{"LaneLeft":     "-", "Lane1": "F", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "BusStop"},
+		"Position4": 	{"LaneLeft":     "-", "Lane1": "E", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "PalmTree"},
+		"Position3":	{"LaneLeft":     "-", "Lane1": "D", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "Rock"},
+		"Position2":	{"LaneLeft":     "-", "Lane1": "C", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "Plant"},
+		"Position1": 	{"LaneLeft":     "-", "Lane1": "B", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "PineTree"},
+		"Position0":	{"LaneLeft":     "-", "Lane1": "A", "Lane2": "-", "LaneMid":     "-", "Lane3": "-", "Lane4": "-", "LaneRight":     "SnowMan"}
+	},
+
+	"Crates": {
+		"Position0":	{"LaneLeft": 	 "-", "Lane1": "5", "Lane2": "5", "LaneMid": 	 "-", "Lane3": "5", "Lane4": "5", "LaneRight": 	   "-"}
+	},
+
+	"OilDrums": {
+		"Position0":	{"LaneLeft": 	 "-", "Lane1": "2", "Lane2": "2", "LaneMid": 	 "-", "Lane3": "2", "Lane4": "2", "LaneRight": 	   "-"}
+	},
+
+	"StopSigns": {
+		"Position0":	{"LaneLeft": 	 "-", "Lane1": "3", "Lane2": "3", "LaneMid": 	 "-", "Lane3": "3", "Lane4": "3", "LaneRight": 	   "-"}
+	},
+
+	"BarriersSides": {
+	"Position0":	{"LaneLeft": 	 "-", "Lane1": "1", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "1", "LaneRight": 	   "-"}
+	},
+
+	"BarriersMiddle": {
+	"Position0":	{"LaneLeft": 	 "-", "Lane1": "-", "Lane2": "1", "LaneMid": 	 "-", "Lane3": "1", "Lane4": "-", "LaneRight": 	   "-"}
+	},
+
+	"OilSpillsSides": {
+	"Position0":	{"LaneLeft": 	 "-", "Lane1": "4", "Lane2": "-", "LaneMid": 	 "-", "Lane3": "-", "Lane4": "4", "LaneRight": 	   "-"}
+	},
+
+	"OilSpillsMiddle": {
+	"Position0":	{"LaneLeft": 	 "-", "Lane1": "-", "Lane2": "4", "LaneMid": 	 "-", "Lane3": "4", "Lane4": "-", "LaneRight": 	   "-"}
+	}
+}

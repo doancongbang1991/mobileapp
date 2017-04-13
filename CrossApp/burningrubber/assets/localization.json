@@ -1,0 +1,74 @@
+{
+
+	"en": {
+		"StartButton": "PLAY >",
+		"Footer": "Burnin' Rubber HTML5. (C) 2014 Famobi.\n Created by Xform. All rights reserved.",
+		"FooterExtra": "\n (C) 2014 Famobi. All rights reserved.",
+
+		"Highscore": "HIGHSCORE: ",
+		"TotalScore": "TOTALSCORE: ",
+		"BestDistance": "BEST DISTANCE: ",
+
+		"SelectCarHeader": "SELECT YOUR CAR",
+		"ViperName": "VIPER",
+		"ViperSpeed": "150KMH",
+		"ViceName": "VICE",
+		"ViceSpeed": "175KMH",
+		"MacariName": "MACARI",
+		"MacariSpeed": "200KMH",
+		"RebelName": "REBEL",
+		"RebelSpeed": "225KMH",
+		"PaniniName": "PANINI",
+		"PaniniSpeed": "250KMH",
+		"TsunamiName": "TSUNAMI",
+		"TsunamiSpeed": "300KMH",
+		"LockedCar": "LOCKED",
+		"ScoreCar": "HIGHSCORE ",
+		"Speed": "SPEED ", 
+		"Armor": "ARMOR ",
+		
+		"SelectWeaponHeader": "SELECT YOUR WEAPON",
+		"MachineGunName": "MACHINEGUN",
+		"ShotgunName": "SHOTGUN",
+		"MinigunName": "MINIGUN",
+		"LaserName": "LASER",
+		"FlameThrowerName": "FLAME\nTHROWER",
+		"GrenadeLauncherName": "GRENADE\nLAUNCHER",
+		"RocketLauncherName": "ROCKET\nLAUNCHER",
+		"EnergyGunName": "ENERGYGUN",
+		"LockedWeapon": "UNLOCK",
+		"ScoreWeapon": "TOTALSCORE ",
+
+		"HelpControls": "CONTROLS",
+
+		"HelpTouch": "Touch",
+		"HelpTouchLeft": "Touch\nLeft",
+		"HelpTouchRight": "Touch\nRight",
+		"HelpTouchBrake": "Touch the brake to slow down",
+		"HelpTouchToStart": "TOUCH TO START",
+
+		"HelpKeys": "Key",
+		"HelpKeyLeft": "Arrow key\nLeft",
+		"HelpKeyRight": "Arrow key\nRight",
+		"HelpKeyBrake": "Press -Z- to brake",
+		"HelpKeyToStart": "CLICK TO START",
+
+
+		"LivesHeader": "ARMOR",
+		"ScoreHeader": "SCORE",
+		"DistanceHeader": "DISTANCE",
+
+		"PauseHeader": "PAUSED",
+		"ResumeButton": "RESUME >",
+		"QuitButton": "MENU ~",
+
+		"ResultsHeader": "RESULTS",
+		"ResultsScore": "DISTANCE",
+		"RetryButton": "RETRY ¼",
+		"ResultsNewCar": "NEW CAR!",
+		"ResultsNewWeapon": "NEW WEAPON!"
+	},
+
+	"de": {},
+	"tr": {}
+}

@@ -1,0 +1,52 @@
+{"frames": {
+
+"dagobah_rain_01.png":
+{
+	"frame": {"x":2,"y":2,"w":646,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":646,"h":320},
+	"sourceSize": {"w":646,"h":320}
+},
+"dagobah_rain_02.png":
+{
+	"frame": {"x":650,"y":2,"w":646,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":646,"h":320},
+	"sourceSize": {"w":646,"h":320}
+},
+"dagobah_rain_03.png":
+{
+	"frame": {"x":2,"y":324,"w":646,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":646,"h":320},
+	"sourceSize": {"w":646,"h":320}
+},
+"dagobah_rain_04.png":
+{
+	"frame": {"x":650,"y":324,"w":646,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":646,"h":320},
+	"sourceSize": {"w":646,"h":320}
+},
+"dagobah_rain_05.png":
+{
+	"frame": {"x":2,"y":646,"w":646,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":646,"h":320},
+	"sourceSize": {"w":646,"h":320}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "rain.png",
+	"format": "RGBA8888",
+	"size": {"w":1298,"h":968},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9b5a23fb769d1c95b91eb027c017f04e:8005fdd4018971d407222fda6f26fbde:e8cfc8249e9bc780202c75b53a681322$"
+}
+}

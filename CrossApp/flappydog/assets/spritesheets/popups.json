@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "dog_lose.png",
+	"frame": {"x":2,"y":915,"w":308,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":308,"h":222},
+	"sourceSize": {"w":310,"h":222}
+},
+{
+	"filename": "dog_paused.png",
+	"frame": {"x":2,"y":1139,"w":180,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":146},
+	"sourceSize": {"w":180,"h":146}
+},
+{
+	"filename": "dog_win.png",
+	"frame": {"x":2,"y":668,"w":310,"h":245},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":245},
+	"sourceSize": {"w":310,"h":245}
+},
+{
+	"filename": "popup_bg.png",
+	"frame": {"x":2,"y":2,"w":426,"h":664},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":426,"h":664},
+	"sourceSize": {"w":426,"h":664}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "popups.png",
+	"format": "RGBA8888",
+	"size": {"w":430,"h":1287},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:28318de6081622ca1a5f5f3cdc5ba925:d8f89b20173ea5d2036f11af171ca972:9d61a6fa30fafefb5e003fcd8821034d$"
+}
+}

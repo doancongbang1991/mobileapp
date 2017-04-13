@@ -1,0 +1,84 @@
+{"frames": {
+
+"logo_ball.png":
+{
+	"frame": {"x":235,"y":672,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"logo_ball_shadow.png":
+{
+	"frame": {"x":364,"y":672,"w":119,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":119,"h":103},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"title_bears.png":
+{
+	"frame": {"x":2,"y":2,"w":440,"h":327},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":327},
+	"sourceSize": {"w":440,"h":327},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"title_blossom.png":
+{
+	"frame": {"x":2,"y":743,"w":133,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":183},
+	"sourceSize": {"w":133,"h":183},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"title_buttercup.png":
+{
+	"frame": {"x":342,"y":330,"w":154,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":145},
+	"sourceSize": {"w":154,"h":145},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"title_finn.png":
+{
+	"frame": {"x":2,"y":330,"w":339,"h":235},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":339,"h":235},
+	"sourceSize": {"w":339,"h":235},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"title_gumball.png":
+{
+	"frame": {"x":342,"y":476,"w":146,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"title_mojo.png":
+{
+	"frame": {"x":2,"y":566,"w":232,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":232,"h":176},
+	"sourceSize": {"w":232,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "title.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6054a44109098d66834993ffd85891cb:9a00da5c610a1b5e2bb06b2078b36563:1beb2413007daf191dce82d49b88727f$"
+}
+}

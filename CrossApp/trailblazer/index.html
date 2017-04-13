@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta content="utf-8" http-equiv="encoding">
+
+        <!-- This is to enable fullscreen when you save the page as a bookmark to the phone desktop. -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="mobile-web-app-capable" content="yes">
+
+        <script src="js/libs/pixi/pixi.min.js"></script>
+        <script src="js/libs/pixi/pixi-particles.min.js"></script>
+        <script src="js/libs/pixi/pixi-spine.js"></script>
+        <script src="js/libs/signals.min.js"></script>
+        <script src="js/libs/greensock/tweenmax.min.js"></script>
+        <script src="js/libs/howler.min.js"></script>
+        <script src="js/libs/bowser/bowser.min.js"></script>
+        <script src="js/libs/md5.min.js"></script>
+        <!--<script src="js/libs/p2.min.js"></script>-->
+        <script src="js/libs/jquery-2.1.3.min.js"></script>
+
+        <script src="p3.min.js"></script>
+        <script src="bundle.dev.js"></script>
+
+        <!--<link rel="stylesheet" href="assets/fonts/FredFredburgerAra-Regular.css">
+        <link rel="stylesheet" href="assets/fonts/FredFredburgerAraHeadBlack-Regular.css">-->
+
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                background-color: #000000;
+            }
+            #game {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                background-color: #FFFFFF;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div id="og-game-holder"></div>
+        <script>
+            window.og = {};
+            window.og.gameDir = "";
+            window.og.language = "en";
+
+            var main = new Main(1024, 768);
+            main.init();
+        </script>
+    </body>
+</html>
+    

@@ -1,0 +1,286 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Skytte - Merixstudio</title>
+        <meta content="width=980" name="viewport">
+        
+            <link href="http://static.merixstudio.com/skytte/styles/normalize2.css" rel="stylesheet">
+            <link href="http://static.merixstudio.com/skytte/styles/fonts.css" rel="stylesheet">
+            <link href="http://static.merixstudio.com/skytte/styles/base.css" rel="stylesheet">
+            <link href="http://static.merixstudio.com/skytte/styles/game.css" rel="stylesheet">
+            <link href="http://static.merixstudio.com/skytte/styles/main.css" rel="stylesheet">
+            <link href="http://static.merixstudio.com/skytte/styles/awwwards.css" rel="stylesheet">
+        
+<!--[if IE 9]>
+            <link href="http://static.merixstudio.com/skytte/styles/ie9.css" rel="stylesheet">
+<![endif]-->
+        <meta content="Fast-paced HTML5 Canvas shoot'em up game" name="description">
+        <meta content="website" property="og:type">
+        <meta content="Skytte" property="og:title">
+        <meta content="Merixstudio" property="og:site_name">
+        <meta content="http://www.merixstudio.com/skytte/" property="og:url">
+        <meta content="Fast-paced HTML5 Canvas shoot'em up game" property="og:description">
+        <meta content="http://www.merixstudio.comhttp://static.merixstudio.com/skytte/images/open_graph/960x640.jpg" property="og:image">
+        <meta content="image/jpeg" property="og:image:type">
+        <meta content="960" property="og:image:width">
+        <meta content="640" property="og:image:height">
+        <meta content="http://www.merixstudio.comhttp://static.merixstudio.com/skytte/images/open_graph/480x320.jpg" property="og:image">
+        <meta content="image/jpeg" property="og:image:type">
+        <meta content="480" property="og:image:width">
+        <meta content="320" property="og:image:height">
+        <meta content="369074351639" property="fb:app_id">
+    </head>
+    <body>
+        <header><p class="logo"><a class="merixstudio-logo" href="/"><img src="http://static.merixstudio.com/skytte/images/logo_merixstudio.svg" alt="Merixstudio.com" height="67" width="195"></a>
+                <span>presents</span>
+                <img src="http://static.merixstudio.com/skytte/images/logo.svg" alt="Skytte" height="80" width="140"></p>
+            <div class="social"><ul class="social-likes"><li class="twitter"><a class="twitter-share-button" data-url="http://www.merixstudio.com/skytte/" data-text="Skytte - Fast-paced HTML5 Canvas shoot'em up game" href="https://twitter.com/share">Tweet</a></li>
+                    <li class="facebook"><div class="fb-like" data-show-faces="false" data-width="120" data-send="false" data-layout="button_count" data-href="http://www.merixstudio.com/skytte/"></div></li>
+                    <li class="google"><div class="g-plusone" data-size="medium" data-align="right" data-href="http://www.merixstudio.com/skytte/"></div></li></ul></div></header>
+        <div class="game"><div class="menu"><div class="menu-screen" data-role="menu-main">
+                    <p class="logo"><img src="http://static.merixstudio.com/skytte/images/logo.svg" alt="Skytte"></p>
+                    <ul><li><button class="button medium icon-play" data-role="new-game">Start Game</button></li>
+                        <li><button class="toggle audio" data-role="toggle toggle-audio">Audio</button></li>
+                        <li><button class="toggle audio" data-role="toggle toggle-music">Music</button></li></ul>
+                    <dl class="score-footer"><dt class="score">Highscore:</dt>
+                        <dd class="score"><span data-role="player-score-best"></span></dd>
+                        <dt class="combo">Best Combo:</dt>
+                        <dd class="combo">+<span data-role="player-best-combo-best"></span></dd>
+                        <dt class="multiplier">Best Multiplier:</dt>
+                        <dd class="multiplier">x<span data-role="player-best-multiplier-best"></span></dd>
+                        <dt>Most Kills:</dt>
+                        <dd><span data-role="player-kill-count-best"></span></dd>
+                        <dt>Best Distance:</dt>
+                        <dd><span data-role="player-distance-best"></span>
+                            km</dd></dl>
+                </div>
+                <div class="menu-screen" data-role="menu-loading">
+                    <h1>Power-Ups</h1>
+                    <dl class="power-ups">
+                        <dt class="weapon"></dt>
+                        <dd>Weapon upgrade</dd>
+                        <dt class="score-multiplier"></dt>
+                        <dd>Score multiplier</dd>
+                        <dt class="damage-multiplier"></dt>
+                        <dd>Damage multiplier</dd>
+                    </dl>
+                    <dl class="power-ups">
+                        <dt class="score"></dt>
+                        <dd>Additional points</dd>
+                        <dt class="life"></dt>
+                        <dd>Additional life</dd>
+                        <dt class="repair"></dt>
+                        <dd>Repair ship</dd>
+                    </dl>
+                    <p class="progress">Loading
+                        <b data-role="load-progress">0%</b></p>
+                    <p><button class="button medium icon-play" data-role="play-game">Play</button></p>
+                </div>
+                <div class="menu-screen" data-role="menu-pause">
+                    <ul>
+                        <li><button class="button medium icon-play" data-role="resume-game">Resume</button></li>
+                        <li><button class="toggle audio" data-role="toggle toggle-audio">Audio</button></li>
+                        <li><button class="toggle audio" data-role="toggle toggle-music">Music</button></li>
+                        <li><button class="button small icon-restart" data-role="restart-game">Restart</button></li>
+                    </ul>
+                </div>
+                <div class="menu-screen" data-role="menu-restart">
+                    <h1>Really restart?</h1>
+                    <ul>
+                        <li><button class="button small icon-restart" data-role="new-game">Restart</button></li>
+                        <li><button class="button small" data-role="cancel-game-restart">Cancel</button></li>
+                    </ul>
+                </div>
+                <div class="menu-screen" data-role="menu-level-summary">
+                    <h1>Level
+                        <span data-role="level"></span>
+                        of 6 Cleared</h1>
+                    <table class="scoring"><tr><th class="score">Your Score</th>
+                            <td class="score"><span data-role="player-score-game"></span></td></tr>
+                        <tr><th class="combo">Best Combo</th>
+                            <td class="combo">+<span data-role="player-best-combo-game"></span></td></tr>
+                        <tr><th class="multiplier">Best Multiplier</th>
+                            <td class="multiplier">x<span data-role="player-best-multiplier-game"></span></td></tr>
+                        <tr><th>Destroyed Enemies</th>
+                            <td><span data-role="player-kill-count-game"></span></td></tr>
+                        <tr>
+                            <th>Travelled Distance</th>
+                            <td><span data-role="player-distance-game"></span>
+                                km</td>
+                        </tr></table>
+                    <p><button class="button small icon-play" data-role="next-level">Next Level</button></p>
+                </div>
+                <div class="menu-screen" data-role="menu-game-summary">
+                    <h1></h1>
+                    <table class="scoring">
+                        <tr class="small">
+                            <th></th>
+                            <th>This Game</th>
+                            <th>Best Game</th>
+                        </tr>
+                        <tr>
+                            <th class="score">Your Score</th>
+                            <td class="score"><span data-role="player-score-game"></span></td>
+                            <td class="score"><span data-role="player-score-best"></span></td>
+                        </tr>
+                        <tr><th class="combo">Best Combo</th>
+                            <td class="combo">+<span data-role="player-best-combo-game"></span></td>
+                            <td class="combo">+<span data-role="player-best-combo-best"></span></td></tr>
+                        <tr><th class="multiplier">Best Multiplier</th>
+                            <td class="multiplier">x<span data-role="player-best-multiplier-game"></span></td>
+                            <td class="multiplier">x<span data-role="player-best-multiplier-best"></span></td></tr>
+                        <tr><th>Destroyed Enemies</th>
+                            <td><span data-role="player-kill-count-game"></span></td>
+                            <td><span data-role="player-kill-count-best"></span></td></tr>
+                        <tr><th>Travelled Distance</th>
+                            <td><span data-role="player-distance-game"></span>
+                                km</td>
+                            <td><span data-role="player-distance-best"></span>
+                                km</td></tr>
+                    </table>
+                    <p><button class="button small icon-play" data-role="new-game">Play Again</button></p>
+                </div></div>
+            <canvas id="screen" width="960" height="640"></canvas></div>
+        <footer>
+            <p class="html5">Fast-paced
+                <img src="http://static.merixstudio.com/skytte/images/html5_logo.svg" alt="HTML 5" height="43" width="36">
+                Canvas shoot'em up game</p>
+            
+            
+                <p class="gun"><a href="/case-studies/skytte/">Read Case Study</a></p>
+            
+            <p class="copyright">© 2013 by
+                <a href="/">MerixStudio</a>. Hand-coded in Poland.
+                <br>
+                Sound &amp; Music: Bartosz Gajdarski -
+                <a href="http://www.soundit.pl" rel="nofollow">www.soundit.pl</a></p>
+        </footer>
+        <p id="awwwards" class="right white"><a href="http://www.awwwards.com/best-websites/skytte-html5-canvas" target="_blank">Best websites of the world</a></p>
+        <audio id="music" preload loop>
+            <source src="http://static.merixstudio.com/skytte/sounds/music.ogg">
+            <source src="http://static.merixstudio.com/skytte/sounds/music.mp4">
+
+        </audio>
+        
+<script type="text/javascript">
+// <![CDATA[
+                var STATIC_URL = 'http://static.merixstudio.com/skytte/';
+// ]]>
+</script>
+<!-- SoundJS and CreateJS - both required for sound playback. -->
+            <script src="http://static.merixstudio.com/skytte/scripts/createjs/utils/Proxy.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/createjs/utils/IndexOf.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/createjs/events/Event.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/createjs/events/EventDispatcher.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/soundjs/Sound.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/soundjs/WebAudioPlugin.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/soundjs/HTMLAudioPlugin.js"></script>
+<!-- Other third-party requirements -->
+            <script src="http://static.merixstudio.com/skytte/scripts/raf.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/bind.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/require.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/settings.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/jquery.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/jquery_role.js"></script>
+<!-- Actual Skytte code -->
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/signal.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/utils.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/numbers.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/easings.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/tween.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/per_second.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/vector2.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/bounding_box.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/polygon.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/collision.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/sprite.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/spritesheet.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/sprite_list.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/sound.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/font.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/beam.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entity.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/particles/particle.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/particles/emitter.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/particles/mushroom.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/weapon.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/projectile.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/plasma.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/storm.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/laser.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/ray.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/rockets.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/flak.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/weapons/electro.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/particles/explosion.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/sprite.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/background.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/fog.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/ship.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/mine.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/swarm.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/teleporter.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/turret.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/cart.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/power_up.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/hud.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/entities/label.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/ai/base.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/ai/idle.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/ai/move_left.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/ai/wave.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/ai/kamikaze.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/ai/teleporter.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/ai/follow.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/ai/cart.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/keys.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/level.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/game.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/data/resources.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/data/backgrounds.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/data/weapons.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/data/powerups.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/data/ships.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/data/levels.js"></script>
+            <script src="http://static.merixstudio.com/skytte/scripts/skytte/main.js"></script>
+            
+<script type="text/javascript">
+// <![CDATA[
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-199341-16', 'www.merixstudio.com');
+        ga('send', 'pageview');
+
+        var adroll_adv_id = "CFCPY26PMFCADFKYG4GAB6";
+        var adroll_pix_id = "WMPOTXOZMFHHHJZHAHA7I5";
+        (function () {
+            var oldonload = window.onload;
+            window.onload = function() {
+                __adroll_loaded=true;
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                if(oldonload){oldonload()}
+            };
+        }());
+
+// ]]>
+</script>
+
+
+
+        
+        <script defer src="https://apis.google.com/js/plusone.js" async></script>
+        <script id="facebook-jssdk" defer src="//connect.facebook.net/en_EN/all.js#xfbml=1&amp;appId=369074351639" async></script>
+        <script id="twitter-wjs" defer src="//platform.twitter.com/widgets.js" async></script>
+    </body>
+</html>

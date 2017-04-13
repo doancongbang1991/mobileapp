@@ -1,0 +1,50 @@
+{
+    "en":
+    {
+        "Developed By Berrry Studio":"Developed By Berrry Studio",
+        "Select":"Select",
+        "Selected":"Selected",
+        "World 1":"World 1",
+        "World 2":"World 2",
+        "World 3":"World 3",
+        "World 4":"World 4",
+        "World 5":"World 5",
+        "Easy":"Easy",
+        "Normal":"Normal",
+        "Hard":"Hard",
+        "Level":"Level",
+        "Go Battle!":"Go Battle!",
+        "Rewards":"Rewards",
+        "Lv.":"Lv.",
+        "Max":"Max",
+        "Destroy your enemies!":"Destroy your enemies!",
+        "Buy Now!":"Buy Now!",
+        "Not Available":"Not Available",
+        "Victory!":"Victory!",
+        "Game Over": "Game Over"
+    },
+    "es":
+    {
+        "Developed By Berrry Studio":"Desarrollado por Berrry Studio",
+        "Select":"Escoger",
+        "Selected":"Actual",
+        "World 1":"Mundo 1",
+        "World 2":"Mundo 2",
+        "World 3":"Mundo 3",
+        "World 4":"Mundo 4",
+        "World 5":"Mundo 5",
+        "Easy":"Fácil",
+        "Normal":"Normal",
+        "Hard":"Dificil",
+        "Level":"Nivel",
+        "Go Battle!":"¡A la Batalla!",
+        "Rewards":"Premios",
+        "Lv.":"Nv.",
+        "Max":"Max",
+        "Destroy your enemies!":"¡Destruye a tus enemigos!",
+        "Buy Now!":"¡Comprar ahora!",
+        "Not Available":"No Disponible",
+        "Victory!":"¡Victoria!",
+        "Game Over": "Juego Terminado"
+    }
+}

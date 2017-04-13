@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+    <item id="loading"><![CDATA[LOADING]]></item>
+    <item id="manic"><![CDATA[MANIC]]></item>
+    <item id="canteen"><![CDATA[CANTEEN]]></item>
+
+    <item id="play_game"><![CDATA[PLAY GAME]]></item>
+    <item id="continue"><![CDATA[CONTINUE]]></item>
+    <item id="play_again"><![CDATA[PLAY AGAIN]]></item>
+
+    <item id="instr_1_d"><![CDATA[USE ARROW KEYS TO MOVE GUMBALL<br>UP AND DOWN THE CANTEEN TABLES]]></item>
+    <item id="instr_2_d"><![CDATA[USE SPACE BAR TO SERVE<br>GUMBALL'S FRIENDS FOOD DISHES]]></item>
+    <item id="instr_3_d"><![CDATA[USE ARROW KEYS TO COLLECT<br>CANDY AND RETURNED MOULDY FOOD]]></item>
+    <item id="instr_1_m"><![CDATA[TAP SCREEN ABOVE AND BELOW<br>GUMBALL TO MOVE HIM UP AND DOWN]]></item>
+    <item id="instr_2_m"><![CDATA[TAP ON GUMBALL TO SERVE<br>HIS FRIENDS FOOD DISHES]]></item>
+    <item id="instr_3_m"><![CDATA[TAP TO COLLECT CANDY<br>AND RETURNED MOULDY FOOD]]></item>
+    <item id="close"><![CDATA[CLOSE]]></item>
+
+    <item id="well_done"><![CDATA[WELL DONE]]></item>
+    <item id="oh_dear"><![CDATA[OH DEAR!!]]></item>
+    <item id="score"><![CDATA[SCORE:]]></item>
+    <item id="best"><![CDATA[TOP SCORE:]]></item>
+    <item id="rotate"><![CDATA[ROTATE DEVICE<br>TO PLAY]]></item>
+    <item id="pts"><![CDATA[pts]]></item>
+</data>

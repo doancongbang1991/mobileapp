@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="Expires" content="-1">
+		<meta name="viewport" content="width=480, user-scalable=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+		<title>MATCHING TIME</title>
+		<style type="text/css">
+			body {
+				background-color: #000000;
+				margin: 0;
+				padding: 0;
+
+				-webkit-user-select: none; 
+				-khtml-user-select: none; 
+				-moz-user-select: none;
+				-o-user-select: none; 
+				user-select: none;
+			}
+
+			#myCanvas {
+				padding-left: 0;
+				padding-right: 0;
+				width: 480px;
+				height: 320px;
+			}
+
+			@font-face {
+				font-family: gameFont;
+				src: url(fonts/visitor2.ttf) format('truetype');
+			}
+
+			@font-face {
+				font-family: titleFont;
+				src: url(fonts/BorisBlackBloxx.ttf) format('truetype');
+			}
+
+			.font-loader {
+				visibility: hidden;
+				position: absolute;
+			}
+
+			.font-loader .gameFont {
+				font-family: gameFont;
+			}
+
+			.font-loader .titleFont {
+				font-family: titleFont;
+			}
+		</style>
+		<script src="js/localeen.js" language="JavaScript"></script>
+		<script src="js/createjs-2013.12.12.min.js" language="JavaScript"></script>
+		<script src="js/sounds.js" language="JavaScript"></script>
+		<script src="js/ces.js" language="JavaScript"></script>
+		<script src="js/vec2.js" language="JavaScript"></script>
+		<script src="js/components.js" language="JavaScript"></script>
+		<script src="js/systems.js" language="JavaScript"></script>
+		<script src="js/game.js" language="JavaScript"></script>
+		<script language="JavaScript" type="text/javascript">
+			function reziseCanvas() {
+				var canvas = document.querySelector('canvas');
+
+				var styleWidth = parseInt(canvas.style.width) || canvas.width;
+				var styleHeight = parseInt(canvas.style.height) || canvas.height;
+
+				var height = window.innerHeight;
+				var ratio = styleWidth / styleHeight;
+				var width = height * ratio;
+
+				if (width > window.innerWidth) {
+					width = window.innerWidth;
+
+					height = width / ratio;
+				}
+
+				canvas.style.width = width + 'px';
+				canvas.style.height = height + 'px';
+
+				styleWidth = width;
+				styleHeight = height;
+
+				canvas.style.marginTop = ((window.innerHeight - styleHeight) / 2) + 'px';
+				canvas.style.marginLeft = ((window.innerWidth - styleWidth) / 2) + 'px';
+			}
+
+			window.addEventListener('resize', reziseCanvas, false);
+		</script>
+
+	</head>
+	<body onload="reziseCanvas(); initialize();">
+		<span class="font-loader">
+			<span class="gameFont"><!-- / --></span>
+			<span class="titleFont"><!-- / --></span>
+		</span>
+		<canvas id="myCanvas" width="480" height="320">
+		</canvas>
+		<script language="JavaScript" type="text/javascript">
+			<!--
+			if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+			//-->
+		</script>
+	</body>
+</html>
+
+
+

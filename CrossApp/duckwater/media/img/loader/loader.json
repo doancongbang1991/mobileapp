@@ -1,0 +1,66 @@
+{"frames": {
+
+"disney_logo.png":
+{
+	"frame": {"x":610,"y":0,"w":202,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":86},
+	"sourceSize": {"w":202,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loader_bg.png":
+{
+	"frame": {"x":114,"y":110,"w":515,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":57},
+	"sourceSize": {"w":515,"h":57},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loader_end.png":
+{
+	"frame": {"x":631,"y":88,"w":9,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":48},
+	"sourceSize": {"w":9,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loader_fill.png":
+{
+	"frame": {"x":114,"y":169,"w":636,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":636,"h":56},
+	"sourceSize": {"w":636,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loader_frame.png":
+{
+	"frame": {"x":0,"y":0,"w":608,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":608,"h":108},
+	"sourceSize": {"w":608,"h":108},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loader_gubbles.png":
+{
+	"frame": {"x":0,"y":110,"w":112,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":96},
+	"sourceSize": {"w":112,"h":96},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "loader.png",
+	"format": "RGBA8888",
+	"size": {"w":812,"h":225},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e0ff5daca49ffdce342265ace1833457:e5558036a89edfab4f1d3d08b201a3c7:f738fe997bb2212a06178648a8058842$"
+}
+}

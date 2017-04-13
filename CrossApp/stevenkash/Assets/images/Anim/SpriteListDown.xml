@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpriteListDown.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.226 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Ball instance 10000" x="363" y="854" width="20" height="20"/>
+	<SubTexture name="Ball instance 10001" x="553" y="882" width="20" height="20"/>
+	<SubTexture name="Ball instance 10002" x="545" y="943" width="20" height="20"/>
+	<SubTexture name="Ball instance 10003" x="291" y="944" width="20" height="20"/>
+	<SubTexture name="Ball instance 10004" x="311" y="944" width="20" height="20"/>
+	<SubTexture name="Ball instance 10005" x="222" y="899" width="20" height="20"/>
+	<SubTexture name="Ball instance 10006" x="242" y="899" width="20" height="20"/>
+	<SubTexture name="Ball instance 10007" x="660" y="335" width="20" height="20"/>
+	<SubTexture name="ButtonHero instance 10000" x="784" y="888" width="56" height="56" frameX="-11" frameY="0" frameWidth="67" frameHeight="56"/>
+	<SubTexture name="ButtonHero instance 10001" x="651" y="925" width="57" height="53" frameX="0" frameY="-3" frameWidth="67" frameHeight="56"/>
+	<SubTexture name="ButtonPush instance 10000" x="646" y="678" width="46" height="23"/>
+	<SubTexture name="ButtonPush instance 10001" x="219" y="854" width="46" height="14" frameX="0" frameY="-9" frameWidth="46" frameHeight="23"/>
+	<SubTexture name="CareHero instance 10000" x="371" y="212" width="67" height="65"/>
+	<SubTexture name="CareHero instance 10001" x="0" y="895" width="67" height="65"/>
+	<SubTexture name="CareHero instance 10002" x="268" y="854" width="67" height="65"/>
+	<SubTexture name="CareHero instance 10003" x="856" y="826" width="67" height="65"/>
+	<SubTexture name="CareHero instance 10004" x="923" y="826" width="67" height="65"/>
+	<SubTexture name="CollectBlow instance 10000" x="583" y="917" width="68" height="49" frameX="-32" frameY="-17" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10001" x="927" y="333" width="95" height="63" frameX="-19" frameY="-10" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10002" x="920" y="617" width="104" height="67" frameX="-14" frameY="-8" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10003" x="0" y="765" width="111" height="73" frameX="-9" frameY="-5" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10004" x="866" y="695" width="119" height="78" frameX="-4" frameY="-2" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10005" x="485" y="0" width="127" height="83"/>
+	<SubTexture name="CollectBlow instance 10006" x="485" y="83" width="127" height="83"/>
+	<SubTexture name="CollectBlow instance 10007" x="438" y="318" width="126" height="83" frameX="-1" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10008" x="539" y="166" width="126" height="83" frameX="-1" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10009" x="612" y="0" width="125" height="82" frameX="-2" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10010" x="612" y="82" width="125" height="82" frameX="-2" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10011" x="480" y="507" width="125" height="81" frameX="-2" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10012" x="582" y="355" width="125" height="81" frameX="-2" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10013" x="737" y="0" width="123" height="81" frameX="-4" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10014" x="737" y="81" width="123" height="81" frameX="-4" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10015" x="660" y="254" width="123" height="81" frameX="-4" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="CollectBlow instance 10016" x="776" y="162" width="123" height="81" frameX="-4" frameY="0" frameWidth="127" frameHeight="83"/>
+	<SubTexture name="DoubleLock instance 10000" x="511" y="166" width="28" height="27"/>
+	<SubTexture name="DoubleLock instance 10001" x="335" y="854" width="28" height="27"/>
+	<SubTexture name="Exit instance 10000" x="384" y="613" width="96" height="62" frameX="-1" frameY="0" frameWidth="97" frameHeight="62"/>
+	<SubTexture name="Exit instance 10001" x="221" y="765" width="96" height="62" frameX="0" frameY="0" frameWidth="97" frameHeight="62"/>
+	<SubTexture name="Fen_mc instance 10000" x="165" y="128" width="33" height="31"/>
+	<SubTexture name="Fen_mc instance 10001" x="390" y="357" width="33" height="31"/>
+	<SubTexture name="Fen_mc instance 10002" x="502" y="969" width="33" height="31"/>
+	<SubTexture name="Fen_mc instance 10003" x="478" y="166" width="33" height="31"/>
+	<SubTexture name="Fen_mc instance 10004" x="0" y="960" width="33" height="31"/>
+	<SubTexture name="Fen_mc instance 10005" x="33" y="960" width="33" height="31"/>
+	<SubTexture name="Finish instance 10000" x="920" y="513" width="88" height="104" frameX="-21" frameY="-2" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10001" x="102" y="357" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10002" x="0" y="441" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10003" x="198" y="357" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10004" x="294" y="357" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10005" x="379" y="0" width="106" height="106" frameX="-8" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10006" x="0" y="229" width="114" height="106"/>
+	<SubTexture name="Finish instance 10007" x="438" y="212" width="101" height="106" frameX="-13" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10008" x="376" y="106" width="102" height="106" frameX="-12" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10009" x="0" y="335" width="102" height="106" frameX="-12" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10010" x="390" y="401" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10011" x="96" y="463" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10012" x="0" y="547" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10013" x="192" y="463" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10014" x="288" y="463" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10015" x="486" y="401" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10016" x="564" y="249" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10017" x="384" y="507" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10018" x="96" y="569" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10019" x="0" y="653" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10020" x="192" y="569" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="Finish instance 10021" x="288" y="569" width="96" height="106" frameX="-18" frameY="0" frameWidth="114" frameHeight="106"/>
+	<SubTexture name="HeroSitBall instance 10000" x="96" y="675" width="110" height="90"/>
+	<SubTexture name="HeroSitBlow instance 10000" x="206" y="675" width="110" height="90"/>
+	<SubTexture name="HeroSitBlow instance 10001" x="316" y="675" width="110" height="90"/>
+	<SubTexture name="HeroSitBlow instance 10002" x="590" y="588" width="110" height="90"/>
+	<SubTexture name="HeroSitBlow instance 10003" x="605" y="436" width="110" height="90"/>
+	<SubTexture name="HeroSitBlow instance 10004" x="707" y="335" width="110" height="90"/>
+	<SubTexture name="HeroSitBlow instance 10005" x="783" y="243" width="110" height="90"/>
+	<SubTexture name="HeroSitBlow instance 10006" x="700" y="526" width="110" height="90"/>
+	<SubTexture name="HeroSitNoBall instance 10000" x="665" y="164" width="111" height="90"/>
+	<SubTexture name="HeroStandBall instance 10000" x="860" y="0" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10000" x="715" y="425" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10001" x="817" y="333" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10002" x="893" y="243" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10003" x="899" y="90" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10004" x="700" y="616" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10005" x="426" y="678" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10006" x="536" y="678" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10007" x="646" y="706" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10008" x="756" y="706" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10009" x="810" y="515" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10010" x="825" y="423" width="110" height="90"/>
+	<SubTexture name="HeroStandBlow instance 10011" x="810" y="605" width="110" height="90"/>
+	<SubTexture name="HeroStandNoBall instance 10000" x="480" y="588" width="110" height="90"/>
+	<SubTexture name="LaserBlow instance 10000" x="708" y="925" width="63" height="42" frameX="-64" frameY="-18" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10001" x="509" y="768" width="115" height="47" frameX="-43" frameY="-16" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10002" x="866" y="773" width="156" height="53" frameX="-26" frameY="-13" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10003" x="170" y="64" width="206" height="64" frameX="-1" frameY="-7" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10004" x="0" y="165" width="209" height="64" frameX="0" frameY="-7" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10005" x="170" y="0" width="209" height="64" frameX="0" frameY="-7" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10006" x="114" y="286" width="162" height="71" frameX="-24" frameY="-4" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10007" x="276" y="286" width="162" height="71" frameX="-24" frameY="-4" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10008" x="209" y="128" width="162" height="79" frameX="-24" frameY="0" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10009" x="209" y="207" width="162" height="79" frameX="-24" frameY="0" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10010" x="0" y="83" width="165" height="82" frameX="-23" frameY="0" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="LaserBlow instance 10011" x="0" y="0" width="170" height="83" frameX="-21" frameY="0" frameWidth="209" frameHeight="83"/>
+	<SubTexture name="SpikeLaser instance 10000" x="472" y="843" width="102" height="39" frameX="-5" frameY="-6" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10001" x="574" y="880" width="105" height="37" frameX="-3" frameY="-4" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10002" x="574" y="843" width="106" height="37" frameX="-3" frameY="-3" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10003" x="679" y="888" width="105" height="37" frameX="-3" frameY="-2" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10004" x="335" y="882" width="105" height="37" frameX="-3" frameY="-2" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10005" x="680" y="852" width="108" height="36" frameX="-2" frameY="-2" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10006" x="111" y="820" width="108" height="53" frameX="-2" frameY="-2" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10007" x="111" y="765" width="110" height="55" frameX="-1" frameY="-1" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10008" x="899" y="180" width="110" height="56" frameX="-1" frameY="-1" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10009" x="0" y="838" width="99" height="57" frameX="0" frameY="0" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10010" x="317" y="765" width="99" height="57" frameX="0" frameY="0" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10011" x="935" y="453" width="81" height="55" frameX="-19" frameY="-3" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10012" x="391" y="827" width="81" height="55" frameX="-19" frameY="-3" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10013" x="114" y="229" width="81" height="57" frameX="-19" frameY="-1" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10014" x="935" y="396" width="81" height="57" frameX="-19" frameY="-1" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10015" x="605" y="526" width="93" height="59" frameX="0" frameY="0" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10016" x="416" y="768" width="93" height="59" frameX="0" frameY="0" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10017" x="0" y="0" width="0" height="0" frameX="102" frameY="155" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10018" x="0" y="0" width="0" height="0" frameX="102" frameY="155" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10019" x="0" y="0" width="0" height="0" frameX="102" frameY="155" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10020" x="0" y="0" width="0" height="0" frameX="102" frameY="155" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10021" x="0" y="0" width="0" height="0" frameX="102" frameY="155" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10022" x="0" y="0" width="0" height="0" frameX="102" frameY="155" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="SpikeLaser instance 10023" x="0" y="0" width="0" height="0" frameX="102" frameY="155" frameWidth="111" frameHeight="59"/>
+	<SubTexture name="Trampoline instance 10000" x="334" y="943" width="112" height="23" frameX="0" frameY="-2" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10001" x="390" y="969" width="112" height="22" frameX="0" frameY="-3" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10002" x="390" y="991" width="112" height="22" frameX="0" frameY="-3" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10003" x="179" y="944" width="112" height="23" frameX="0" frameY="-2" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10004" x="67" y="925" width="112" height="24" frameX="0" frameY="-1" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10005" x="840" y="891" width="112" height="24" frameX="0" frameY="-1" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10006" x="840" y="915" width="112" height="24" frameX="0" frameY="-1" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10007" x="840" y="939" width="112" height="24" frameX="0" frameY="-1" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10008" x="222" y="919" width="112" height="25"/>
+	<SubTexture name="Trampoline instance 10009" x="277" y="992" width="112" height="19" frameX="0" frameY="-6" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="Trampoline instance 10010" x="67" y="949" width="112" height="23" frameX="0" frameY="-2" frameWidth="112" frameHeight="25"/>
+	<SubTexture name="automat instance 10000" x="446" y="943" width="99" height="26" frameX="-3" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10001" x="440" y="882" width="113" height="26" frameX="-3" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10002" x="440" y="917" width="143" height="26" frameX="-2" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10003" x="67" y="899" width="155" height="26" frameX="-2" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10004" x="99" y="873" width="169" height="26" frameX="-1" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10005" x="219" y="827" width="172" height="27" frameX="0" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10006" x="682" y="796" width="171" height="26" frameX="-1" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10007" x="509" y="815" width="173" height="28" frameX="-1" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10008" x="682" y="826" width="174" height="26" frameX="-2" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10009" x="545" y="966" width="99" height="26" frameX="-2" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10010" x="179" y="967" width="98" height="26" frameX="-3" frameY="0" frameWidth="176" frameHeight="28"/>
+	<SubTexture name="automat instance 10011" x="291" y="966" width="99" height="26" frameX="-3" frameY="0" frameWidth="176" frameHeight="28"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="MenuWeaponIcons.png">
+	<SubTexture name="MenuWeaponEnergyGun.png" x="0" y="582" width="290" height="194"/>
+	<SubTexture name="MenuWeaponFlameThrower.png" x="290" y="388" width="290" height="194"/>
+	<SubTexture name="MenuWeaponGrenadeLauncher.png" x="290" y="194" width="290" height="194"/>
+	<SubTexture name="MenuWeaponLaser.png" x="290" y="0" width="290" height="194"/>
+	<SubTexture name="MenuWeaponMachineGun.png" x="290" y="582" width="290" height="194"/>
+	<SubTexture name="MenuWeaponMinigun.png" x="0" y="388" width="290" height="194"/>
+	<SubTexture name="MenuWeaponRocketLauncher.png" x="0" y="194" width="290" height="194"/>
+	<SubTexture name="MenuWeaponShotgun.png" x="0" y="0" width="290" height="194"/>
+</TextureAtlas>

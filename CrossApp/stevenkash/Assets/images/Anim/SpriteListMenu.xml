@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpriteListMenu.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.226 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Fen_mc instance 10000" x="480" y="33" width="32" height="31"/>
+	<SubTexture name="Fen_mc instance 10001" x="480" y="64" width="32" height="31"/>
+	<SubTexture name="Fen_mc instance 10002" x="480" y="95" width="32" height="31"/>
+	<SubTexture name="Fen_mc instance 10003" x="480" y="157" width="32" height="30" frameX="0" frameY="-1" frameWidth="32" frameHeight="31"/>
+	<SubTexture name="Fen_mc instance 10004" x="480" y="187" width="32" height="30" frameX="0" frameY="-1" frameWidth="32" frameHeight="31"/>
+	<SubTexture name="Fen_mc instance 10005" x="480" y="126" width="32" height="31"/>
+	<SubTexture name="FireBarrel instance 10000" x="160" y="197" width="80" height="62" frameX="0" frameY="-8" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10001" x="160" y="134" width="80" height="63" frameX="0" frameY="-7" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10002" x="240" y="68" width="80" height="65" frameX="0" frameY="-5" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10003" x="80" y="69" width="80" height="65" frameX="0" frameY="-5" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10004" x="400" y="197" width="80" height="61" frameX="0" frameY="-9" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10005" x="0" y="135" width="80" height="63" frameX="0" frameY="-7" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10006" x="0" y="70" width="80" height="65" frameX="0" frameY="-5" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10007" x="400" y="0" width="80" height="66" frameX="0" frameY="-4" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10008" x="160" y="0" width="80" height="68" frameX="0" frameY="-2" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10009" x="400" y="132" width="80" height="65" frameX="0" frameY="-5" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10010" x="240" y="133" width="80" height="65" frameX="0" frameY="-5" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10011" x="400" y="66" width="80" height="66" frameX="0" frameY="-4" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10012" x="320" y="0" width="80" height="67" frameX="0" frameY="-3" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10013" x="240" y="0" width="80" height="68" frameX="0" frameY="-2" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10014" x="80" y="134" width="80" height="64" frameX="0" frameY="-6" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10015" x="320" y="133" width="80" height="65" frameX="0" frameY="-5" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10016" x="320" y="67" width="80" height="66" frameX="0" frameY="-4" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10017" x="320" y="198" width="80" height="57" frameX="0" frameY="-13" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10018" x="0" y="198" width="80" height="60" frameX="0" frameY="-10" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10019" x="80" y="198" width="80" height="60" frameX="0" frameY="-10" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10020" x="320" y="255" width="80" height="57" frameX="0" frameY="-13" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10021" x="240" y="198" width="80" height="58" frameX="0" frameY="-12" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10022" x="80" y="0" width="80" height="69" frameX="0" frameY="-1" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="FireBarrel instance 10023" x="0" y="0" width="80" height="70"/>
+	<SubTexture name="FireBarrel instance 10024" x="160" y="68" width="80" height="66" frameX="0" frameY="-4" frameWidth="80" frameHeight="70"/>
+	<SubTexture name="box instance 10000" x="279" y="256" width="38" height="34"/>
+	<SubTexture name="box instance 10001" x="480" y="217" width="32" height="28" frameX="-1" frameY="-1" frameWidth="38" frameHeight="34"/>
+	<SubTexture name="money instance 10000" x="240" y="256" width="39" height="34"/>
+	<SubTexture name="money instance 10001" x="69" y="258" width="33" height="28" frameX="-1" frameY="-1" frameWidth="39" frameHeight="34"/>
+	<SubTexture name="poison instance 10000" x="480" y="0" width="32" height="33"/>
+	<SubTexture name="poison instance 10001" x="102" y="258" width="26" height="27" frameX="-1" frameY="-1" frameWidth="32" frameHeight="33"/>
+	<SubTexture name="sms instance 10000" x="0" y="258" width="35" height="31"/>
+	<SubTexture name="sms instance 10001" x="480" y="245" width="29" height="25" frameX="-1" frameY="-1" frameWidth="35" frameHeight="31"/>
+	<SubTexture name="vhs instance 10000" x="35" y="258" width="34" height="28"/>
+	<SubTexture name="vhs instance 10001" x="128" y="258" width="28" height="22" frameX="-1" frameY="-1" frameWidth="34" frameHeight="28"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+{
+    "HP":
+    {
+        "timeEffect": 1,
+        "amount":0.5
+    },
+    "BS":
+    {
+        "timeEffect": 5
+    },
+    "BD":
+    {
+        "timeEffect": 5,
+        "amount":2
+    },
+    "BM":
+    {
+        "timeEffect": 5,
+        "amount":50
+    }
+}

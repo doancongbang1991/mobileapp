@@ -1,0 +1,1324 @@
+{"frames": {
+
+"characters_darwin_blue_bicycle_kick0001.png":
+{
+	"frame": {"x":1249,"y":225,"w":91,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":121,"w":91,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0002.png":
+{
+	"frame": {"x":1249,"y":225,"w":91,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":121,"w":91,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0003.png":
+{
+	"frame": {"x":1249,"y":225,"w":91,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":121,"w":91,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0004.png":
+{
+	"frame": {"x":468,"y":242,"w":101,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":87,"w":101,"h":131},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0005.png":
+{
+	"frame": {"x":468,"y":242,"w":101,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":87,"w":101,"h":131},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0006.png":
+{
+	"frame": {"x":119,"y":2,"w":111,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":69,"w":111,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0007.png":
+{
+	"frame": {"x":119,"y":2,"w":111,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":69,"w":111,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0008.png":
+{
+	"frame": {"x":119,"y":2,"w":111,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":69,"w":111,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0009.png":
+{
+	"frame": {"x":2,"y":2,"w":115,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":42,"w":115,"h":177},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0010.png":
+{
+	"frame": {"x":2,"y":2,"w":115,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":42,"w":115,"h":177},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0011.png":
+{
+	"frame": {"x":2,"y":181,"w":114,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":44,"w":114,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0012.png":
+{
+	"frame": {"x":2,"y":181,"w":114,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":44,"w":114,"h":175},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0013.png":
+{
+	"frame": {"x":2,"y":358,"w":107,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":75,"w":107,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0014.png":
+{
+	"frame": {"x":2,"y":358,"w":107,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":75,"w":107,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0015.png":
+{
+	"frame": {"x":683,"y":411,"w":107,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":120,"w":107,"h":99},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0016.png":
+{
+	"frame": {"x":683,"y":411,"w":107,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":120,"w":107,"h":99},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0017.png":
+{
+	"frame": {"x":813,"y":233,"w":107,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":146,"w":107,"h":84},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0018.png":
+{
+	"frame": {"x":813,"y":233,"w":107,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":146,"w":107,"h":84},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0019.png":
+{
+	"frame": {"x":924,"y":319,"w":107,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":141,"w":107,"h":87},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0020.png":
+{
+	"frame": {"x":924,"y":319,"w":107,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":141,"w":107,"h":87},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0021.png":
+{
+	"frame": {"x":1033,"y":319,"w":107,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":146,"w":107,"h":84},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_bicycle_kick0022.png":
+{
+	"frame": {"x":1033,"y":319,"w":107,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":146,"w":107,"h":84},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0001.png":
+{
+	"frame": {"x":922,"y":223,"w":107,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":124,"w":107,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0002.png":
+{
+	"frame": {"x":922,"y":223,"w":107,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":124,"w":107,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0003.png":
+{
+	"frame": {"x":1031,"y":224,"w":108,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":126,"w":108,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0004.png":
+{
+	"frame": {"x":1031,"y":224,"w":108,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":126,"w":108,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0005.png":
+{
+	"frame": {"x":1031,"y":224,"w":108,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":126,"w":108,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0006.png":
+{
+	"frame": {"x":1031,"y":224,"w":108,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":126,"w":108,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0007.png":
+{
+	"frame": {"x":728,"y":124,"w":83,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":93,"w":83,"h":125},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0008.png":
+{
+	"frame": {"x":728,"y":124,"w":83,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":93,"w":83,"h":125},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0009.png":
+{
+	"frame": {"x":1413,"y":360,"w":83,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":96,"w":83,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0010.png":
+{
+	"frame": {"x":1413,"y":360,"w":83,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":96,"w":83,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0011.png":
+{
+	"frame": {"x":1413,"y":360,"w":83,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":96,"w":83,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0012.png":
+{
+	"frame": {"x":1413,"y":360,"w":83,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":96,"w":83,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0013.png":
+{
+	"frame": {"x":1413,"y":360,"w":83,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":96,"w":83,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0014.png":
+{
+	"frame": {"x":1413,"y":360,"w":83,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":96,"w":83,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0015.png":
+{
+	"frame": {"x":1324,"y":391,"w":87,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":101,"w":87,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0016.png":
+{
+	"frame": {"x":1324,"y":391,"w":87,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":101,"w":87,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0017.png":
+{
+	"frame": {"x":1324,"y":391,"w":87,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":101,"w":87,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0018.png":
+{
+	"frame": {"x":1498,"y":360,"w":82,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":94,"w":82,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0019.png":
+{
+	"frame": {"x":1498,"y":360,"w":82,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":94,"w":82,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0020.png":
+{
+	"frame": {"x":1582,"y":357,"w":82,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":95,"w":82,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0021.png":
+{
+	"frame": {"x":1582,"y":357,"w":82,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":95,"w":82,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0022.png":
+{
+	"frame": {"x":1666,"y":357,"w":84,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":101,"w":84,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0023.png":
+{
+	"frame": {"x":1666,"y":357,"w":84,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":101,"w":84,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0024.png":
+{
+	"frame": {"x":510,"y":124,"w":91,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":101,"w":91,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0025.png":
+{
+	"frame": {"x":510,"y":124,"w":91,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":101,"w":91,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0026.png":
+{
+	"frame": {"x":1633,"y":126,"w":95,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":97,"w":95,"h":120},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0027.png":
+{
+	"frame": {"x":1633,"y":126,"w":95,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":97,"w":95,"h":120},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0028.png":
+{
+	"frame": {"x":118,"y":266,"w":112,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":88,"w":112,"h":129},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0029.png":
+{
+	"frame": {"x":118,"y":266,"w":112,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":88,"w":112,"h":129},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0030.png":
+{
+	"frame": {"x":232,"y":241,"w":117,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":85,"w":117,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0031.png":
+{
+	"frame": {"x":232,"y":241,"w":117,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":85,"w":117,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0032.png":
+{
+	"frame": {"x":355,"y":375,"w":107,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":90,"w":107,"h":127},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0033.png":
+{
+	"frame": {"x":355,"y":375,"w":107,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":90,"w":107,"h":127},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0034.png":
+{
+	"frame": {"x":583,"y":364,"w":98,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":96,"w":98,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0035.png":
+{
+	"frame": {"x":583,"y":364,"w":98,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":96,"w":98,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0036.png":
+{
+	"frame": {"x":1539,"y":232,"w":91,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":101,"w":91,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0037.png":
+{
+	"frame": {"x":1539,"y":232,"w":91,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":101,"w":91,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0038.png":
+{
+	"frame": {"x":1752,"y":357,"w":85,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":104,"w":85,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0039.png":
+{
+	"frame": {"x":1752,"y":357,"w":85,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":104,"w":85,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0040.png":
+{
+	"frame": {"x":1818,"y":240,"w":84,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":105,"w":84,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0041.png":
+{
+	"frame": {"x":1818,"y":240,"w":84,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":105,"w":84,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0042.png":
+{
+	"frame": {"x":1818,"y":240,"w":84,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":105,"w":84,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0043.png":
+{
+	"frame": {"x":1818,"y":240,"w":84,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":105,"w":84,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0044.png":
+{
+	"frame": {"x":1818,"y":240,"w":84,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":105,"w":84,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0045.png":
+{
+	"frame": {"x":1582,"y":357,"w":82,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":95,"w":82,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0046.png":
+{
+	"frame": {"x":1582,"y":357,"w":82,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":95,"w":82,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0047.png":
+{
+	"frame": {"x":1666,"y":357,"w":84,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":101,"w":84,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0048.png":
+{
+	"frame": {"x":1666,"y":357,"w":84,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":101,"w":84,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0049.png":
+{
+	"frame": {"x":510,"y":124,"w":91,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":101,"w":91,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0050.png":
+{
+	"frame": {"x":510,"y":124,"w":91,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":101,"w":91,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0051.png":
+{
+	"frame": {"x":1633,"y":126,"w":95,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":97,"w":95,"h":120},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0052.png":
+{
+	"frame": {"x":1633,"y":126,"w":95,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":97,"w":95,"h":120},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0053.png":
+{
+	"frame": {"x":118,"y":266,"w":112,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":88,"w":112,"h":129},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0054.png":
+{
+	"frame": {"x":118,"y":266,"w":112,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":88,"w":112,"h":129},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0055.png":
+{
+	"frame": {"x":232,"y":241,"w":117,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":85,"w":117,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0056.png":
+{
+	"frame": {"x":232,"y":241,"w":117,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":85,"w":117,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0057.png":
+{
+	"frame": {"x":355,"y":375,"w":107,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":90,"w":107,"h":127},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0058.png":
+{
+	"frame": {"x":355,"y":375,"w":107,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":90,"w":107,"h":127},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0059.png":
+{
+	"frame": {"x":583,"y":364,"w":98,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":96,"w":98,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0060.png":
+{
+	"frame": {"x":583,"y":364,"w":98,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":96,"w":98,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0061.png":
+{
+	"frame": {"x":1539,"y":232,"w":91,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":101,"w":91,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0062.png":
+{
+	"frame": {"x":1539,"y":232,"w":91,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":101,"w":91,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0063.png":
+{
+	"frame": {"x":1752,"y":357,"w":85,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":104,"w":85,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0064.png":
+{
+	"frame": {"x":1752,"y":357,"w":85,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":104,"w":85,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0065.png":
+{
+	"frame": {"x":1818,"y":240,"w":84,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":105,"w":84,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_celebrate0066.png":
+{
+	"frame": {"x":1818,"y":240,"w":84,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":105,"w":84,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0001.png":
+{
+	"frame": {"x":1287,"y":126,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":133,"w":122,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0002.png":
+{
+	"frame": {"x":111,"y":397,"w":125,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":106,"w":125,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0003.png":
+{
+	"frame": {"x":232,"y":2,"w":137,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":97,"w":137,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0004.png":
+{
+	"frame": {"x":510,"y":2,"w":138,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":99,"w":138,"h":120},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0005.png":
+{
+	"frame": {"x":1141,"y":225,"w":106,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":130,"w":106,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0006.png":
+{
+	"frame": {"x":1723,"y":2,"w":126,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":98,"w":126,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0007.png":
+{
+	"frame": {"x":1336,"y":2,"w":127,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":97,"w":127,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0008.png":
+{
+	"frame": {"x":232,"y":126,"w":132,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":107,"w":132,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0009.png":
+{
+	"frame": {"x":1287,"y":126,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":133,"w":122,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0010.png":
+{
+	"frame": {"x":111,"y":397,"w":125,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":106,"w":125,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0011.png":
+{
+	"frame": {"x":232,"y":2,"w":137,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":97,"w":137,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0012.png":
+{
+	"frame": {"x":510,"y":2,"w":138,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":99,"w":138,"h":120},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0013.png":
+{
+	"frame": {"x":1141,"y":225,"w":106,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":130,"w":106,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0014.png":
+{
+	"frame": {"x":1723,"y":2,"w":126,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":98,"w":126,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0015.png":
+{
+	"frame": {"x":1336,"y":2,"w":127,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":97,"w":127,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_dash0016.png":
+{
+	"frame": {"x":232,"y":126,"w":132,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":107,"w":132,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0001.png":
+{
+	"frame": {"x":1632,"y":248,"w":91,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":112,"w":91,"h":107},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0002.png":
+{
+	"frame": {"x":1632,"y":248,"w":91,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":112,"w":91,"h":107},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0003.png":
+{
+	"frame": {"x":351,"y":242,"w":115,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":88,"w":115,"h":131},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0004.png":
+{
+	"frame": {"x":351,"y":242,"w":115,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":88,"w":115,"h":131},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0005.png":
+{
+	"frame": {"x":1411,"y":126,"w":109,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":115,"w":109,"h":104},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0006.png":
+{
+	"frame": {"x":1411,"y":126,"w":109,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":115,"w":109,"h":104},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0007.png":
+{
+	"frame": {"x":690,"y":350,"w":124,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":160,"w":124,"h":59},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0008.png":
+{
+	"frame": {"x":690,"y":350,"w":124,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":160,"w":124,"h":59},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0009.png":
+{
+	"frame": {"x":1248,"y":325,"w":124,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":155,"w":124,"h":64},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0010.png":
+{
+	"frame": {"x":1248,"y":325,"w":124,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":155,"w":124,"h":64},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_fall0011.png":
+{
+	"frame": {"x":690,"y":350,"w":124,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":160,"w":124,"h":59},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0001.png":
+{
+	"frame": {"x":1142,"y":404,"w":95,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":113,"w":95,"h":106},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0002.png":
+{
+	"frame": {"x":1836,"y":125,"w":104,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":116,"w":104,"h":103},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0003.png":
+{
+	"frame": {"x":1836,"y":125,"w":104,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":116,"w":104,"h":103},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0004.png":
+{
+	"frame": {"x":1836,"y":125,"w":104,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":116,"w":104,"h":103},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0005.png":
+{
+	"frame": {"x":603,"y":124,"w":123,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":102,"w":123,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0006.png":
+{
+	"frame": {"x":603,"y":124,"w":123,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":102,"w":123,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0007.png":
+{
+	"frame": {"x":464,"y":375,"w":117,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":100,"w":117,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0008.png":
+{
+	"frame": {"x":464,"y":375,"w":117,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":100,"w":117,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0009.png":
+{
+	"frame": {"x":571,"y":243,"w":117,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":100,"w":117,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_kick0010.png":
+{
+	"frame": {"x":571,"y":243,"w":117,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":100,"w":117,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0001.png":
+{
+	"frame": {"x":1725,"y":248,"w":91,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":112,"w":91,"h":107},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0002.png":
+{
+	"frame": {"x":1725,"y":248,"w":91,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":112,"w":91,"h":107},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0003.png":
+{
+	"frame": {"x":238,"y":375,"w":115,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":89,"w":115,"h":130},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0004.png":
+{
+	"frame": {"x":238,"y":375,"w":115,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":89,"w":115,"h":130},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0005.png":
+{
+	"frame": {"x":1522,"y":126,"w":109,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":116,"w":109,"h":104},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0006.png":
+{
+	"frame": {"x":1522,"y":126,"w":109,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":116,"w":109,"h":104},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0007.png":
+{
+	"frame": {"x":1413,"y":232,"w":124,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":160,"w":124,"h":60},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0008.png":
+{
+	"frame": {"x":1413,"y":232,"w":124,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":160,"w":124,"h":60},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0009.png":
+{
+	"frame": {"x":1413,"y":294,"w":124,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":155,"w":124,"h":64},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0010.png":
+{
+	"frame": {"x":1413,"y":294,"w":124,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":155,"w":124,"h":64},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_lose0011.png":
+{
+	"frame": {"x":1413,"y":232,"w":124,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":160,"w":124,"h":60},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0001.png":
+{
+	"frame": {"x":1142,"y":316,"w":104,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":133,"w":104,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0002.png":
+{
+	"frame": {"x":792,"y":411,"w":101,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":127,"w":101,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0003.png":
+{
+	"frame": {"x":1730,"y":125,"w":104,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":106,"w":104,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0004.png":
+{
+	"frame": {"x":1070,"y":2,"w":133,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":98,"w":133,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0005.png":
+{
+	"frame": {"x":371,"y":2,"w":137,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":97,"w":137,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0006.png":
+{
+	"frame": {"x":1205,"y":2,"w":129,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":97,"w":129,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0007.png":
+{
+	"frame": {"x":650,"y":2,"w":138,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":99,"w":138,"h":120},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0008.png":
+{
+	"frame": {"x":790,"y":2,"w":142,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":106,"w":142,"h":114},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0009.png":
+{
+	"frame": {"x":816,"y":319,"w":106,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":130,"w":106,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0010.png":
+{
+	"frame": {"x":895,"y":410,"w":101,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":127,"w":101,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0011.png":
+{
+	"frame": {"x":813,"y":118,"w":105,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":106,"w":105,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0012.png":
+{
+	"frame": {"x":1851,"y":2,"w":126,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":98,"w":126,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0013.png":
+{
+	"frame": {"x":1465,"y":2,"w":127,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":97,"w":127,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0014.png":
+{
+	"frame": {"x":1594,"y":2,"w":127,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":97,"w":127,"h":122},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0015.png":
+{
+	"frame": {"x":934,"y":2,"w":134,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":99,"w":134,"h":120},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_run0016.png":
+{
+	"frame": {"x":366,"y":126,"w":132,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":106,"w":132,"h":114},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_stand0001.png":
+{
+	"frame": {"x":1839,"y":354,"w":83,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":109,"w":83,"h":110},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_stand0002.png":
+{
+	"frame": {"x":1839,"y":354,"w":83,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":109,"w":83,"h":110},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_stand0003.png":
+{
+	"frame": {"x":1239,"y":404,"w":83,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":113,"w":83,"h":106},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0001.png":
+{
+	"frame": {"x":119,"y":152,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":107,"w":111,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0002.png":
+{
+	"frame": {"x":119,"y":152,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":107,"w":111,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0003.png":
+{
+	"frame": {"x":1043,"y":125,"w":120,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":122,"w":120,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0004.png":
+{
+	"frame": {"x":1043,"y":125,"w":120,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":122,"w":120,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0005.png":
+{
+	"frame": {"x":920,"y":124,"w":121,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":122,"w":121,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0006.png":
+{
+	"frame": {"x":920,"y":124,"w":121,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":122,"w":121,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0007.png":
+{
+	"frame": {"x":690,"y":251,"w":120,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":122,"w":120,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0008.png":
+{
+	"frame": {"x":690,"y":251,"w":120,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":122,"w":120,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_darwin_blue_tackle0009.png":
+{
+	"frame": {"x":1165,"y":126,"w":120,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":122,"w":120,"h":97},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "darwin_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":1979,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cd59127c668348b73f960c99464a2e00:d557a01317532a8e74dea18ba3b0ff66:8b91285d5a2a9b795a20740c68a76b95$"
+}
+}

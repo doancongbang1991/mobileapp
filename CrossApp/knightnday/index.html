@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+	<title>Knight & Day</title>
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="chrome=1, IE=edge">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="robots" content="noindex,nofollow" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-title" content="Phaser App">
+	<meta name="viewport" id="vpr" content="initial-scale=1.0, maximum-scale=1.01, minimum-scale=1.0, width=device-width, minimal-ui" />
+	<link rel="stylesheet" href="css/stylesheet.css" type="text/css" charset="utf-8" />
+
+	<script src="config.js"></script>
+    <script src="publisher.js"></script>
+    <script src="src/core/branding.js"></script>
+    
+	<script>
+		Branding.startInit();
+		window.addEventListener('scroll', function () {
+		    // Do not scroll when keyboard is visible 
+		    if (document.activeElement === document.body && window.scrollY > 0) {
+		        document.body.scrollTop = 0;
+		    }
+		}, true);
+	</script>
+
+	<script src="lang.js"></script>
+    <script src="src/core/init.js"></script>
+	<script src="src/data/data.js"></script>
+	<script src="src/data/dataenemy.js"></script>
+	<script src="src/data/dataspawn.js"></script>
+	<script src="src/data/sounddata.js"></script>
+
+    <script src="src/core/platform.js"></script>
+    <script src="src/core/scm.js"></script>
+	<script src="src/core/phaser.min.js"></script>
+	<script src="src/core/utils.js"></script>
+	<script src="src/core/dataku.js"></script>
+	<script src="src/core/asset.js"></script>
+	<script src="src/core/csound.js"></script>
+	<script src="src/core/clink.js"></script>
+
+	<script src="src/components/basestate.js"></script>
+	<script src="src/components/pause.js"></script>
+	<script src="src/components/result.js"></script>
+	<script src="src/components/roulette.js"></script>
+	<script src="src/components/achievement.js"></script>
+	
+	<script src="src/game/main.js"></script>
+	<script src="src/game/cpreloader.js"></script>
+	<script src="src/game/cmainmenu.js"></script>
+	<script src="src/game/cstage.js"></script>
+	<script src="src/game/cgame.js"></script>
+	<script src="src/game/cupgrade.js"></script>
+
+	<script src="src/entity/player.js"></script>
+	<script src="src/entity/enemy1.js"></script>
+	<script src="src/entity/enemy2.js"></script>
+	<script src="src/entity/enemy3.js"></script>
+	<script src="src/entity/enemy4.js"></script>
+	<script src="src/entity/enemy5.js"></script>
+	<script src="src/entity/enemy6.js"></script>
+	<script src="src/entity/enemy7.js"></script>
+	<script src="src/entity/enemy8.js"></script>
+	<script src="src/entity/enemy9.js"></script>
+	<script src="src/entity/enemy10.js"></script>
+	<script src="src/entity/enemy11.js"></script>
+	<script src="src/entity/enemy12.js"></script>
+	<script src="src/entity/weapon.js"></script>
+</head>
+
+<body>
+	<div id="main-game">
+		<div id="loader-text">Please Wait...</div>
+		<div id="game">
+			
+		</div>
+	</div>
+	<div id="orientation"></div>
+	<div id ="debug"></div>
+</body>
+</html>

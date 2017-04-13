@@ -1,0 +1,118 @@
+{
+    "groups":{
+        "force":[
+            {
+                "id":"force_1",
+                "price":0,
+                "thumbnail":"icon-full2.png",
+                "imageUrl":"icon-full2.png",
+                "name": "STR_SHOP_FORCE_NAME",
+                "description":"STR_SHOP_FORCE_1",
+                "purchased":true
+            },
+            {
+                "id":"force_2",
+                "price":300,
+                "thumbnail":"icon-full2.png",
+                "imageUrl":"icon-full2.png",
+                "name": "STR_SHOP_FORCE_NAME",
+                "description":"STR_SHOP_FORCE_2",
+                "purchased":false
+            },
+            {
+                "id":"force_3",
+                "price":750,
+                "thumbnail":"icon-full2.png",
+                "imageUrl":"icon-full2.png",
+                "name": "STR_SHOP_FORCE_NAME",
+                "description":"STR_SHOP_FORCE_3",
+                "purchased":false
+            },
+            {
+                "id":"force_4",
+                "price":1500,
+                "thumbnail":"icon-full2.png",
+                "imageUrl":"icon-full2.png",
+                "name": "STR_SHOP_FORCE_NAME",
+                "description":"STR_SHOP_FORCE_4",
+                "purchased":false
+            }
+        ],
+        "flips":[
+            {
+                "id":"jump_1",
+                "price":0,
+                "thumbnail":"icon-full3.png",
+                "imageUrl":"icon-full3.png",
+                "name": "STR_SHOP_FLIP_NAME",
+                "description":"STR_SHOP_FLIP_1",
+                "purchased":true
+            },
+            {
+                "id":"jump_2",
+                "price":300,
+                "thumbnail":"icon-full3.png",
+                "imageUrl":"icon-full3.png",
+                "name": "STR_SHOP_FLIP_NAME",
+                "description":"STR_SHOP_FLIP_2",
+                "purchased":false
+            },
+            {
+                "id":"jump_3",
+                "price":750,
+                "thumbnail":"icon-full3.png",
+                "imageUrl":"icon-full3.png",
+                "name": "STR_SHOP_FLIP_NAME",
+                "description":"STR_SHOP_FLIP_3",
+                "purchased":false
+            },
+            {
+                "id":"jump_4",
+                "price":1500,
+                "thumbnail":"icon-full3.png",
+                "imageUrl":"icon-full3.png",
+                "name": "STR_SHOP_FLIP_NAME",
+                "description":"STR_SHOP_FLIP_4",
+                "purchased":false
+            }
+        ],
+        "saber":[
+            {
+                "id":"saber_1",
+                "price":0,
+                "thumbnail":"icon-full1.png",
+                "imageUrl":"icon-full1.png",
+                "name": "STR_SHOP_SABER_NAME",
+                "description":"STR_SHOP_SABER_1",
+                "purchased":true
+            },
+            {
+                "id":"saber_2",
+                "price":300,
+                "thumbnail":"icon-full3.png",
+                "imageUrl":"icon-full1.png",
+                "name": "STR_SHOP_SABER_NAME",
+                "description":"STR_SHOP_SABER_2",
+                "purchased":false
+            },
+            {
+                "id":"saber_3",
+                "price":750,
+                "thumbnail":"icon-full3.png",
+                "imageUrl":"icon-full1.png",
+                "name": "STR_SHOP_SABER_NAME",
+                "description":"STR_SHOP_SABER_3",
+                "purchased":false
+            },
+            {
+                "id":"saber_4",
+                "price":1500,
+                "thumbnail":"icon-full3.png",
+                "imageUrl":"icon-full1.png",
+                "name": "STR_SHOP_SABER_NAME",
+                "description":"STR_SHOP_SABER_4",
+                "purchased":false
+            }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+@Font-face
+{
+    font-family :  'mplus-1c-medium' ;
+    src: url('mplus-1c-medium-sub.eot');
+    src: url('mplus-1c-medium-sub.eot?#iefix') format('embedded-opentype'),
+         url('mplus-1c-medium-sub.woff') format('woff'),
+         url('mplus-1c-medium-sub.ttf') format('truetype');
+}

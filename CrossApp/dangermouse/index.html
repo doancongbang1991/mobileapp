@@ -1,0 +1,134 @@
+  <!DOCTYPE html> 
+  <html manifest="offline.appcache"> 
+      <head> 
+          <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
+          <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">  
+          <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="robots" content="noindex"> 
+          <title>Danger Mouse Saves the Day</title> 
+          <link rel="stylesheet" type="text/css" href="static/playpen/1.2.3/style/style.css">  
+          <link rel="stylesheet" type="text/css" href="static/playpen/1.2.3/style/products/cbbc/style.css">  
+          <script type="text/javascript" src="static/playpen/1.2.3/script/require/require.js"></script> 
+		  
+		   <!-- Facebook sharing tag -->
+			<meta property="og:title"              content="Danger Mouse Game - Tai Minh Corp" />
+			<meta property="og:description"        content="Play game with us" />
+			<meta property="og:image"              content="logo.png" />
+			
+			<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+			
+			<meta name="apple-mobile-web-app-capable" content="yes" />
+			<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+			<link rel="apple-touch-icon" sizes="512x512" href="logo.png" />
+			<meta name="HandheldFriendly" content="true" />
+			
+			<!-- Chrome for Android web app tags -->
+			<meta name="mobile-web-app-capable" content="yes" />
+			<link rel="shortcut icon" sizes="512x512" href="logo.png" />
+
+		  
+          <script type="text/javascript">
+            //<![CDATA[
+               // window.bbcFlagpoles_istats = "ON";
+                //window.istatsTrackingUrl   = '//sa.bbc.co.uk/bbc/bbc/s?name=playpen.gmm269xwnq.page&ml_name=barlesque&app_type=web&language=en-GB&ml_version=0.5.0&prod_name=playpen&app_name=playpen';
+            // ]]>
+            </script>
+
+<!-- NEDSTAT -->
+<!-- Begin iStats 20100118 (UX-CMC 1.1009.3) -->
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+    var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1),
+        hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1),
+        hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash),
+        runSitestat;
+
+    runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough;
+
+    if (runSitestat && bbcFlagpoles_istats === 'ON') {
+        sitestat(istatsTrackingUrl);
+    }
+
+    function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')};
+})();
+// ]]>
+</script>
+<noscript>
+    <p class="blq-hide">
+        <img src="//sa.bbc.co.uk/bbc/bbc/s?name=playpen.gmm269xwnq.page&amp;ml_name=barlesque&amp;app_type=web&amp;language=en-GB&amp;ml_version=0.5.0&amp;prod_name=playpen&amp;app_name=playpen" height="1" width="1" alt="" />
+        </p>
+</noscript>
+<!-- End iStats (UX-CMC) -->
+<!-- END NEDSTAT -->
+
+ <script type="text/javascript"> 
+    require({ paths: { "jquery-1": "http://mobile.taiminh.com/dangermouse/static/playpen/1.2.3/script/jquery/jquery-1.7.2", "jquery-1.9": "http://mobile.taiminh.com/dangermouse/static/playpen/1.2.3/script/jquery/jquery-1.9.1", "domReady": "http://mobile.taiminh.com/dangermouse/static/playpen/1.2.3/script/require/domReady", /* The GamesGrid library assumes that these paths have been set: */ "istats-1": "http://mobile.taiminh.com/dangermouse/static/playpen/1.2.3/script/istats/istats.0.19.0", "relay-1": "http://mobile.taiminh.com/dangermouse/static/playpen/1.2.3/script/relay/relay.0.2.4", "jssignals-1": "http://mobile.taiminh.com/dangermouse/static/playpen/1.2.3/script/jssignals/0.3.6/jssignals-1", /* Modules required by the Playpen itself: */ "echo": "http://mobile.taiminh.com/dangermouse/static/nkdata/echoclient/2.0.0/sharedmodules/echo", "Stats": "http://mobile.taiminh.com/dangermouse/static/playpen/1.2.3/script/Stats", "setSize": "static/playpen/1.2.3/script/setSize" }, waitSeconds: 30 }); if (window.matchMedia) { var mql = window.matchMedia("(orientation: portrait)"); mql.addListener(function(m) { window.scrollTo(0,0); }); } 
+ </script>   
+ <script type="text/javascript">
+ try { require(['istats-1'], function(istats){ if (typeof(document) != 'undefined' && typeof(document.cookie) != 'undefined') { var cookieAphidMatch = document.cookie.match(/ckpf_APHID=([^;]*)/); if (cookieAphidMatch && typeof(cookieAphidMatch[1]) == 'string') { istats.addLabels({'bbc_hid': cookieAphidMatch[1]}); } } })(); } catch (err) { /* If istats can't be loaded, fail silently */ } 
+ </script>  
+   
+ <script type="text/javascript"> 
+(function () { if (!window.require) { throw new Error('idcta: could not find require module'); } if(typeof(map) == 'undefined') { var map = {}; } if(!!document.createElementNS && !!document.createElementNS('http://www.w3.org/2000/svg', "svg").createSVGRect) { document.documentElement.className += ' id-svg'; } var ptrt = RegExp("[\\?&]ptrt=([^&#]*)").exec(document.location.href); var ENDPOINT_CONFIG = ('/idcta/config?callback&amp;locale=en-GB&ptrt=' + encodeURI((ptrt ? ptrt[1] : document.location.href))).replace(/\&amp;/g, '&'); var ENDPOINT_TRANSLATIONS = '/idcta/translations?callback&locale=en-GB'; map['idapp-1'] = '//static.bbci.co.uk/idapp/0.72.35/modules/idapp/idapp-1'; map['idcta'] = 'static/id/0.34.96/modules/idcta'; map['idcta/config'] = ['//www.bbc.co.uk' + ENDPOINT_CONFIG, 'static/id/0.34.96/modules/idcta/fallbackConfig']; map['idcta/translations'] = ['//www.bbc.co.uk' + ENDPOINT_TRANSLATIONS, 'static/id/0.34.96/modules/idcta/fallbackTranslations']; require({paths: map}); /* * Temporary code * To be removed when old id-statusbar-config is no longer supported */ define('id-statusbar-config', ['idcta/id-config'], function(conf) { return conf; }); define('idcta/id-statusbar-config', ['idcta/id-config'], function(conf) { return conf; }); })(); 
+</script> 
+
+<script type="text/javascript"> try { /* Users downgraded after IDP tokens were invalidated */ require(['idcta/idCookie'], function(idCookie){ idCookie.downgradeUser(); }); } catch(error) { /* Fail silently in case idCookie is not defined */ } </script>   
+
+<script> window.og = {"embedVars":{
+"mini": false,
+"statsCounterName": "cbbc.games.danger_mouse_game.page",
+"statsAppName":"cbbc"
+},"exitGameUrl":"","gameContainerId":"og-game-holder","gameUrl":"danger_mouse.js",
+"gameDir":"http://mobile.taiminh.com/dangermouse/"}; window.og.environment = "live"; window.og.gid = "gmm269xwnq" 
+</script> 
+
+<script src="static/playpen/1.2.3/script/augmentOgObject.js"></script>  
+
+<script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON')); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={POLICY_REFRESH_DATE_MILLIS:new Date(2015,4,21,0,0,0,0).getTime(),POLICY_EXPIRY_COOKIENAME:"ckns_policy_exp",_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},getCrumb:function(o){if(!o){return null}return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(o).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},policyRequiresRefresh:function(){var p=new Date();p.setHours(0);p.setMinutes(0);p.setSeconds(0);p.setMilliseconds(0);if(bbccookies.POLICY_REFRESH_DATE_MILLIS<=p.getTime()){var o=bbccookies.getCrumb(bbccookies.POLICY_EXPIRY_COOKIENAME);if(o){o=new Date(parseInt(o));o.setYear(o.getFullYear()-1);return bbccookies.POLICY_REFRESH_DATE_MILLIS>=o.getTime()}else{return true}}else{return false}},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=((!this._isConfirmed()||this.policyRequiresRefresh())&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(s){if(typeof s==="undefined"){s=k}if(typeof arguments[0]==="string"){var p=arguments[0],r=arguments[1];if(p==="necessary"){r=true}s=b();s[p]=r}else{if(typeof arguments[0]==="object"){s.necessary=true}}var q=new Date();q.setYear(q.getFullYear()+1);bbccookies.set(e+"="+j(s)+";domain=bbc.co.uk;path=/;expires="+q.toUTCString()+";");bbccookies.set(e+"="+j(s)+";domain=bbc.com;path=/;expires="+q.toUTCString()+";");bbccookies.set(e+"="+j(s)+";domain=bbci.co.uk;path=/;expires="+q.toUTCString()+";");var o=new Date(q.getTime());o.setMonth(o.getMonth()+1);bbccookies.set(bbccookies.POLICY_EXPIRY_COOKIENAME+"="+q.getTime()+";domain=bbc.co.uk;path=/;expires="+o.toUTCString()+";");bbccookies.set(bbccookies.POLICY_EXPIRY_COOKIENAME+"="+q.getTime()+";domain=bbc.com;path=/;expires="+o.toUTCString()+";");bbccookies.set(bbccookies.POLICY_EXPIRY_COOKIENAME+"="+q.getTime()+";domain=bbci.co.uk;path=/;expires="+o.toUTCString()+";");return s}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="static/frameworks/bbccookies/0.7.1/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})();if(typeof(require)==="function"&&!require.defined("orb/cookies")){define("orb/cookies",window.bbccookies)}; /*]]>*/
+
+</script>  
+
+<script type="text/javascript" src="static/frameworks/bbccookies/0.6.3/script/bbccookies.js"></script>  
+
+<script type="text/javascript"> require({ paths: { "gamesgrid": "http://play.bbc.co.uk/play/sdk/js/v1/latest", "gamesgrid-2": "http://play.bbc.co.uk/play/sdk/js/v2/latest", "Game": "http://mobile.taiminh.com/dangermouse/danger_mouse" }, baseUrl: "http://mobile.taiminh.com/dangermouse/" }); </script>
+
+ <script type="text/javascript"> window.onload = function() { require([ "Stats", "setSize" ], function(Stats, setSize) { var echoStats = new Stats('live', 'og.cbbc.danger_mouse_saves_the_day.page'); try { setSize('og-game-holder', 0, 0, false, true); require(['Game'], function(game) { if (game && typeof(game.init) === 'function') { game.init(window.og); } document.body.style.backgroundImage = 'none'; }); echoStats.logAction("initOk"); } catch (exception) { echoStats.logError("js", exception); throw exception; } }); }; </script> 
+  </head>
+   <body>
+        <div id="og-game-holder"> 
+            <noscript>
+                 <div class="error-default"> <h1>This CBBC content requires Javascript to be enabled.</h1> </div>
+            </noscript>   
+       </div> 
+	   <div id="startappContainer" ></div>
+		<script type="text/javascript">
+		// Required parameters.
+		var publisherId = '106216486 ';
+		var productId ='204081870';
+		var width =320;
+		var height =50;
+		// Optional parameters.
+		var userId = "";
+		var packageName = "";
+		var isp = "";
+		var contentRating = "";
+		var gender = "";
+		var age = "";
+		var category = "";
+		var networkType = "";
+		var geoLongitude = "";
+		var geoLatitude = "";
+		var subPublisherId = "";
+		var subProductId = "";
+		var domain = "";
+		var deviceManufacturer = "";
+		var deviceModel = "";
+		var userAdvertisingId="";
+		var noAdUrl= "";
+		</script>
+		<script type="text/javascript" src="http://www.startappexchange.com/js/startapp-tag.js"></script>
+		<style type="text/css">
+          #startappContainer{margin-top:-50px;z-index:0;text-align:center;position: relative;}
+     </style>
+  </body> 
+  </html> 

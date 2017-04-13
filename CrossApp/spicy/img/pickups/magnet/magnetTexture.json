@@ -1,0 +1,132 @@
+{"frames": {
+
+"powerUpsMAG0001.png":
+{
+	"frame": {"x":0,"y":0,"w":216,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":9,"w":216,"h":204},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0002.png":
+{
+	"frame": {"x":0,"y":206,"w":212,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":10,"w":212,"h":202},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0003.png":
+{
+	"frame": {"x":218,"y":0,"w":206,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":11,"w":206,"h":200},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0004.png":
+{
+	"frame": {"x":214,"y":206,"w":200,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":2,"w":200,"h":208},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0005.png":
+{
+	"frame": {"x":0,"y":410,"w":198,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":4,"w":198,"h":206},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0006.png":
+{
+	"frame": {"x":620,"y":408,"w":196,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":9,"w":196,"h":200},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0007.png":
+{
+	"frame": {"x":402,"y":612,"w":196,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":12,"w":196,"h":196},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0008.png":
+{
+	"frame": {"x":0,"y":618,"w":194,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":14,"w":194,"h":194},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0009.png":
+{
+	"frame": {"x":620,"y":610,"w":196,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":12,"w":196,"h":196},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0010.png":
+{
+	"frame": {"x":630,"y":0,"w":196,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":13,"w":196,"h":196},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0011.png":
+{
+	"frame": {"x":622,"y":202,"w":198,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":12,"w":198,"h":198},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0012.png":
+{
+	"frame": {"x":200,"y":416,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":10,"w":200,"h":200},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0013.png":
+{
+	"frame": {"x":426,"y":0,"w":202,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":11,"w":202,"h":200},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0014.png":
+{
+	"frame": {"x":416,"y":408,"w":202,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":10,"w":202,"h":202},
+	"sourceSize": {"w":268,"h":220}
+},
+"powerUpsMAG0015.png":
+{
+	"frame": {"x":416,"y":202,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":9,"w":204,"h":204},
+	"sourceSize": {"w":268,"h":220}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "magnetTexture.png",
+	"format": "RGBA8888",
+	"size": {"w":826,"h":812},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fa199b28766ff602b0233bd15c7d4b27$"
+}
+}

@@ -1,0 +1,10 @@
+{
+
+"loc":"English",
+
+"level":"Level",
+
+"a0":{"desc":"Finish the game"},
+"a1":{"desc":"Get all stars"}
+
+}

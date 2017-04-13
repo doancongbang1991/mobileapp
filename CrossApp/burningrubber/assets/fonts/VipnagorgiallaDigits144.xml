@@ -1,0 +1,24 @@
+<font>
+	<info face="D:\Projects\BurninRubberHTML5\2D\SpritesFonts\ShoeBox\VipnagorgiallaDigits144" size="144" />
+	<common lineHeight="144" scaleW="289" scaleH="294" pages="1" />
+	<pages>
+		<page id="0" file="D:\Projects\BurninRubberHTML5\2D\SpritesFonts\ShoeBox\VipnagorgiallaDigits144-export.png" />
+	</pages>
+	<chars count="13">
+		<char id="48" x="0" y="56" width="84" height="77" xoffset="0" yoffset="67" xadvance="92" /><!-- 0 -->
+		<char id="49" x="252" y="0" width="35" height="77" xoffset="0" yoffset="67" xadvance="43" /><!-- 1 -->
+		<char id="50" x="85" y="214" width="83" height="77" xoffset="0" yoffset="67" xadvance="91" /><!-- 2 -->
+		<char id="51" x="86" y="56" width="83" height="77" xoffset="0" yoffset="67" xadvance="91" /><!-- 3 -->
+		<char id="52" x="171" y="0" width="79" height="77" xoffset="0" yoffset="67" xadvance="87" /><!-- 4 -->
+		<char id="53" x="0" y="215" width="83" height="77" xoffset="0" yoffset="67" xadvance="91" /><!-- 5 -->
+		<char id="54" x="85" y="135" width="83" height="77" xoffset="0" yoffset="67" xadvance="91" /><!-- 6 -->
+		<char id="55" x="170" y="135" width="82" height="77" xoffset="0" yoffset="67" xadvance="90" /><!-- 7 -->
+		<char id="56" x="170" y="214" width="82" height="77" xoffset="0" yoffset="67" xadvance="90" /><!-- 8 -->
+		<char id="57" x="0" y="135" width="83" height="78" xoffset="0" yoffset="67" xadvance="91" /><!-- 9 -->
+		<char id="109" x="0" y="0" width="102" height="54" xoffset="0" yoffset="90" xadvance="110" /><!-- m -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

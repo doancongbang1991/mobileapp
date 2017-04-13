@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="MenuCarIcons.png">
+	<SubTexture name="MenuCarMacari.png" x="0" y="256" width="590" height="128"/>
+	<SubTexture name="MenuCarPanini.png" x="0" y="512" width="590" height="128"/>
+	<SubTexture name="MenuCarRebel.png" x="0" y="384" width="590" height="128"/>
+	<SubTexture name="MenuCarTsunami.png" x="0" y="640" width="590" height="128"/>
+	<SubTexture name="MenuCarVice.png" x="0" y="128" width="590" height="128"/>
+	<SubTexture name="MenuCarViper.png" x="0" y="0" width="590" height="128"/>
+</TextureAtlas>

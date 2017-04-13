@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="bricks_img.png"	x="124"	y="675"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="comix1_img.png"	x="0"	y="140"	width="385"	height="175" frameX="-0" frameY="-0" frameWidth="385" frameHeight="175"/>
+	<SubTexture name="comix2_img.png"	x="124"	y="559"	width="119"	height="115" frameX="-0" frameY="-0" frameWidth="119" frameHeight="115"/>
+	<SubTexture name="comix3_img.png"	x="0"	y="316"	width="175"	height="128" frameX="-0" frameY="-0" frameWidth="175" frameHeight="128"/>
+	<SubTexture name="comix4_img.png"	x="0"	y="673"	width="123"	height="113" frameX="-0" frameY="-0" frameWidth="123" frameHeight="113"/>
+	<SubTexture name="comix5_img.png"	x="0"	y="901"	width="123"	height="113" frameX="-0" frameY="-0" frameWidth="123" frameHeight="113"/>
+	<SubTexture name="comix6_img.png"	x="0"	y="787"	width="123"	height="113" frameX="-0" frameY="-0" frameWidth="123" frameHeight="113"/>
+	<SubTexture name="comix7_img.png"	x="0"	y="559"	width="123"	height="113" frameX="-0" frameY="-0" frameWidth="123" frameHeight="113"/>
+	<SubTexture name="comix8_img.png"	x="0"	y="445"	width="161"	height="113" frameX="-0" frameY="-0" frameWidth="161" frameHeight="113"/>
+	<SubTexture name="comix9_img.png"	x="0"	y="0"	width="385"	height="139" frameX="-0" frameY="-0" frameWidth="385" frameHeight="139"/>
+</TextureAtlas>

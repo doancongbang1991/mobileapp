@@ -1,0 +1,29 @@
+{
+"images": ["assets/gumball.png"],
+"frames": [
+
+    [2, 922, 90, 90], 
+    [2, 830, 90, 90], 
+    [2, 738, 90, 90], 
+    [2, 646, 90, 90], 
+    [2, 554, 90, 90], 
+    [2, 462, 90, 90], 
+    [2, 370, 90, 90], 
+    [2, 278, 90, 90], 
+    [2, 186, 90, 90], 
+    [2, 94, 90, 90], 
+    [2, 2, 90, 90]
+],
+"animations": {
+    
+        "run":[0,6], 
+        "jump_in":[7], 
+        "jump_out":[8],  
+        "hit_in":[9],
+		"hit_out":[10]
+},
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:b2eb6677b4c08e44309e9b447f43a0c9$",
+        "Created with TexturePacker (http://www.texturepacker.com) for EasalJS"
+]
+}

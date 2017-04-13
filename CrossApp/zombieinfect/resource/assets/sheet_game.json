@@ -1,0 +1,12 @@
+{"file":"sheet_game.png","frames":{
+"wall":{"x":118,"y":60,"w":55,"h":55,"offX":0,"offY":0,"sourceW":55,"sourceH":55},
+"wooden":{"x":58,"y":116,"w":55,"h":55,"offX":0,"offY":0,"sourceW":55,"sourceH":55},
+"expl":{"x":1,"y":171,"w":55,"h":55,"offX":0,"offY":0,"sourceW":55,"sourceH":55},
+"human_0":{"x":125,"y":1,"w":57,"h":57,"offX":2,"offY":2,"sourceW":61,"sourceH":61},
+"human_1":{"x":64,"y":1,"w":59,"h":56,"offX":1,"offY":3,"sourceW":61,"sourceH":61},
+"human_2":{"x":1,"y":1,"w":61,"h":56,"offX":0,"offY":3,"sourceW":61,"sourceH":61},
+"metal":{"x":61,"y":59,"w":55,"h":55,"offX":0,"offY":0,"sourceW":55,"sourceH":55},
+"spikes":{"x":1,"y":114,"w":55,"h":55,"offX":0,"offY":0,"sourceW":55,"sourceH":55},
+"zombie_0":{"x":1,"y":59,"w":58,"h":53,"offX":1,"offY":4,"sourceW":61,"sourceH":61},
+"zombie_1":{"x":184,"y":59,"w":58,"h":53,"offX":1,"offY":4,"sourceW":61,"sourceH":61},
+"human_3":{"x":184,"y":1,"w":57,"h":56,"offX":2,"offY":3,"sourceW":61,"sourceH":61}}}

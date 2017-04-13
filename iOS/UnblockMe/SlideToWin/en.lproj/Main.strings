@@ -1,0 +1,30 @@
+
+/* Class = "IBUILabel"; text = "Best : 10 seconds"; ObjectID = "4ji-CI-6Vg"; */
+"4ji-CI-6Vg.text" = "Best : 10 seconds";
+
+/* Class = "IBUILabel"; text = "Score: 99.9999"; ObjectID = "Dmg-bd-VOR"; */
+"Dmg-bd-VOR.text" = "Score: 99.9999";
+
+/* Class = "IBUIButton"; normalTitle = "Rate US"; ObjectID = "Fr4-Of-pmt"; */
+"Fr4-Of-pmt.normalTitle" = "Rate US";
+
+/* Class = "IBUILabel"; text = "Select Level"; ObjectID = "LtX-wF-Aqx"; */
+"LtX-wF-Aqx.text" = "Select Level";
+
+/* Class = "IBUIButton"; normalTitle = "Help"; ObjectID = "NgB-fL-edP"; */
+"NgB-fL-edP.normalTitle" = "Help";
+
+/* Class = "IBUILabel"; text = "Current Level : 00"; ObjectID = "O92-C4-rnE"; */
+"O92-C4-rnE.text" = "Current Level : 00";
+
+/* Class = "IBUILabel"; text = "Score       _____"; ObjectID = "WjN-fv-O7x"; */
+"WjN-fv-O7x.text" = "Score       _____";
+
+/* Class = "IBUILabel"; text = "Time : 00:00"; ObjectID = "n6J-0l-Itk"; */
+"n6J-0l-Itk.text" = "Time : 00:00";
+
+/* Class = "IBUILabel"; text = "Selected Level"; ObjectID = "pFZ-bx-jLo"; */
+"pFZ-bx-jLo.text" = "Selected Level";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "uo6-0q-cZ0"; */
+"uo6-0q-cZ0.text" = "Label";

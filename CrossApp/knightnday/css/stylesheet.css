@@ -1,0 +1,88 @@
+body {
+    margin: 0px 0px 1px 0px; /* the extra 1px allows the iOS inner/outer check to work */
+    background: #000;
+    -ms-touch-action: none;
+    background: no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#brim-mask, #brim-main {
+  color: #fff;
+  display: none; 
+}
+
+#brim-mask {
+    background: #663399; 
+}
+
+#brim-main {
+  background: #1E824C; 
+}
+
+#swipe{
+    position: relative;
+    padding: 0;
+    margin:auto ;
+    font-size: 400%;
+    width:60%;
+    text-align: center;
+}
+#loader-text{
+    width: 100%;
+    z-index: 888;
+    font-size: 2em;
+    position: absolute;
+    text-align: center;
+    margin-top: 20%;
+    color: white;
+    display:none;
+}
+#game{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    margin-left: auto ;
+    margin-right: auto ;
+    display: block; 
+}
+
+#main-game{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    margin-left: auto ;
+    margin-right: auto ;
+    overflow: hidden;
+}
+
+#orientation {
+    /*margin: 0 auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 110%;
+    height: 110%;
+    background-image: url(orientation_landscape.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(232, 78, 78);
+    z-index: 999;*/
+    display: none;
+}
+
+#debug {
+    color:yellow;
+    background-color:black;
+    position: absolute;
+    width:auto;
+    height:auto;
+    z-index: 99999;
+    left:10vw;
+    top:10vh;
+    font-size:5vw;
+    font-family: sans-serif;
+    display:none;
+}

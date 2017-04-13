@@ -1,0 +1,156 @@
+<html>
+<head lang="en">
+    <!--meta name="viewport" content="user-scalable=no, width=340, initial-scale=1.0, maximum-scale=1.0, minimal-ui"-->
+    <meta charset="UTF-8">
+    <link rel="privacy" href="http://www.boostermedia.com/m/privacypolicy.html">
+    <script src="http://cdn.kik.com/kik/1.0.9/kik.js"></script>
+    <title>Advertisement</title>
+    <style type="text/css">
+        body{
+            margin: 0px;
+            padding: 0px;
+            background-color:rgba(255, 255, 255, 0.8);
+            width : 100%;
+            height : 100%;
+        }
+
+        #mainContainer {
+            position: relative;
+            width : 300px;
+            margin : auto;
+        }
+
+        #adContainer {
+            position: absolute;
+            top: 90px;
+            margin : auto;
+            box-shadow: 0px 2px 10px #888888;
+        }
+
+        #closeBtn {
+            margin: auto;
+            position: relative;
+            top : 370px;
+            font-size : 15px;
+            text-align: center;
+            width : 300px;
+            text-decoration: underline;
+            font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto Light";
+        }
+
+        .title {
+            margin: auto;
+            position: relative;
+            top : 30px;
+            font-size : 20px;
+            text-align: center;
+            width : 300px;
+            font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto Light";
+        }
+
+        #timerText{
+            margin: auto;
+            position: relative;
+            top : 350px;
+            font-size : 15px;
+            text-align: center;
+            width : 300px;
+            font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto Light";
+        }
+    </style>
+    <script type="text/javascript" src="http://img.ads.mocean.mobi/js/ad2/request.min.js"></script>
+
+</head>
+<body>
+
+<div id="mainContainer">
+    <div class="title" id="title">Advertisement</div>
+    <div id="timerText"></div>
+
+    <div id="adContainer">
+        <script>
+
+            var timer;
+            var timerEl = document.getElementById('timerText');
+
+            adRequest2.parseResponse = function(ad_data, ad_vars, renderer) {
+                var html = '';
+
+                if (ad_vars.debug) {
+                    console && console.log(ad_data);
+                }
+
+                if (ad_data[0].error != null && ad_data[0].error == 'No ads available') {
+                    // no ads
+                } else {
+                    for (var i = 0; i < ad_data.length; ++i) {
+                        var ad = ad_data[i];
+
+                        if (ad.error) {
+                            continue;
+                        }
+
+                        if (ad.content) {
+                            /* Richmedia */
+                            html += ad.content;
+                        } else if (ad.img) {
+                            /* Image */
+                            /* border:none added to prevent ie default styling */
+                            html += '<a onclick="kik.open(\'' + ad.url + '\'); window.closeFrame(); return false;">'
+                                    + '<img style="border:none;" src="' + ad.img + '"';
+                            html += '/></a>';
+                        } else {
+                            /* Text */
+                            html += '<a onclick="kik.open(\'' + ad.url + '\'); window.closeFrame(); return false;">'
+                                    + ad.text
+                                    + '</a>';
+                        }
+
+                        /* Ad pixel tracker */
+                        if (ad.track && ad.track != 'null') {
+                            var track = new Image();
+                            track.src = ad.track;
+                        }
+                    }
+                }
+
+                if (ad_vars.debug) {
+                    console && console.log(html);
+                }
+
+                renderer(html);
+
+                timerEl = document.getElementById("timerText")
+                timerEl.innerHTML = "";
+                var r, i = 15;
+                timer = setInterval(function () {
+                    r = i--;
+                    timerEl.innerHTML = "Advertisement will close automatically in: " + r;
+                    if( r === 0 )
+                    {
+                        clearInterval(timer);
+                        console.log("Done with ads");
+                        window.closeFrame();
+
+                        timerEl.innerHTML = "";
+                    }
+
+                }, 1e3)
+
+                window.closeFrame = function(){
+                    window.frameElement.style.display = "none";
+                }
+            };
+        </script>
+        <script type="text/javascript">
+            adRequest2("http://ads.mocean.mobi/ad?site=72806&zone=272826&type=-1");
+        </script>
+
+    </div>
+
+    <div id="closeBtn" onclick="window.closeFrame(); return false;">close now</div>
+
+
+</div>
+</body>
+</html>

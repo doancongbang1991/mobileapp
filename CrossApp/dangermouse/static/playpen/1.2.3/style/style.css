@@ -1,0 +1,192 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Beginning of Playpen styles */
+
+html {
+    width:100%;
+    height:100%;
+    overflow: hidden;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    width:100%;
+    height:100%;
+    background: url('../img/loading-spinner.gif') black no-repeat center;
+}
+
+.error-body {
+    overflow:hidden;
+}
+
+body#error {
+    background-image: none;
+}
+
+body#error .error {
+    background-color: #000000
+}
+
+.error, .error-default {
+    width : 100%;
+    max-height: 170px;
+    height: auto;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    vertical-align: middle;
+    background-color: black;
+    color: white;
+}
+
+.error h1, .error-default h1 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 8px 34px;
+}
+
+.error p, .error-default p {
+    font-size: 16px;
+    margin: 8px 34px;
+}
+
+.error a, .error-default a {
+    color: white;
+}
+
+.error a:hover, .error-default a:hover {
+    text-decoration: none;
+}
+
+#og-game-holder {
+    position: relative;
+    margin: 0 auto;
+}
+
+#og-game-holder embed {
+    display: inline !important;
+}
+
+.unity-missing {
+    display: none;
+}
+
+.unity-broken {
+    display: none;
+}
+.unity-unsupported {
+    display: none;
+}
+
+#og-product-logo {
+    display: none;
+}
+
+@media screen and (min-width: 400px) {
+    .error h1, .error-default h1 {
+        margin: 8px 70px;
+    }
+
+    .error p, .error-default p {
+        margin: 8px 70px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    #og-product-logo {
+        display: block;
+        margin: 0 auto;
+        height: 90px;
+        width: auto;
+    }
+
+    .error, .error-default {
+        max-height: 280px;
+    }
+    
+    .error h1, .error-default h1 {
+        margin: 16px 96px;
+        font-size: 20px;
+    }
+
+    .error p, .error-default p {
+        margin: 16px 96px;
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 770px) {
+    .error h1, .error-default h1 {
+        margin: 16px 126px;
+        font-size: 26px;
+    }
+
+    .error p, .error-default p {
+        margin: 16px 126px;
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 1008px) {
+    .error h1, .error-default h1 {
+        margin: 16px 246px;
+    }
+
+    .error p, .error-default p {
+        margin: 16px 246px;
+    }
+}

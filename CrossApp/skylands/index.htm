@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Skylands</title>
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta charset="utf-8">
+<link rel="icon" type="image/GIF" href="icon.ico">
+<style>#sg-loadscrn{
+    position:fixed; top:0;left:0;width:100%; height:100%; background-color:#fff; z-index:9999;
+}
+
+#sg-spinner{
+	position: absolute; width: 150px; height: 50px; top:50%; left:50%; margin-top:-25px; margin-left:-75px;
+	background-image: url('./4399/assets/sg-loader.gif');
+}
+
+#sg-spinner.no-img{
+    background: #ffffff;
+}
+
+#sg-loadtext{
+    position:absolute;
+    font-family: sans-serif;
+    top:50%; left:50%;
+    width: 250px;
+    margin-left:-125px;
+    margin-top:-125px;
+    text-align:center;
+    line-height:150%;
+    font-size:16px;
+}</style>
+<script type="text/javascript">
+	            window.gameLangs = ['en', 'de', 'es', 'fr', 'it', 'pt', 'ru', 'tr', 'pl', 'nl'];
+	            window.gameJS = ['softgames_game.js'];
+	            window.gameOnLoadScript = "init();";
+	        	</script>
+	        	<script type="text/javascript" src="./4399/assets/softgames-1.1.js"></script>
+	        	<script type="text/javascript" src="./4399/assets/sg.hooks.js"></script><script type="text/javascript">
+	        	function setGameViewport () {
+	        		var meta = document.getElementById('viewport')
+	        		meta.setAttribute ('content', 'initial-scale=1.0 maximum-scale=1.0 minimum-scale=1.0 user-scalable=no width=device-width');
+	        	}
+
+	        	function setAdViewport() {
+	        		var meta = document.getElementById('viewport')
+	        		meta.setAttribute ('content', 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0');
+	        	}
+	        	</script>
+</head>
+<body bgcolor="#5D3B53">
+		<canvas id="gameCanvas"></canvas>
+</body>
+</html>

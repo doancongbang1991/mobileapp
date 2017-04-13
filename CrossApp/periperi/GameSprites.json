@@ -1,0 +1,180 @@
+{"frames": {
+
+"Barrel.png":
+{
+	"frame": {"x":368,"y":293,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"BrickWall.png":
+{
+	"frame": {"x":276,"y":293,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"EndSquare.png":
+{
+	"frame": {"x":116,"y":196,"w":90,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":90,"h":115},
+	"sourceSize": {"w":90,"h":159}
+},
+"EnforcedWall.png":
+{
+	"frame": {"x":392,"y":201,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"ExplosionA.png":
+{
+	"frame": {"x":312,"y":0,"w":114,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":107},
+	"sourceSize": {"w":114,"h":107}
+},
+"ExplosionB.png":
+{
+	"frame": {"x":196,"y":0,"w":114,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":107},
+	"sourceSize": {"w":114,"h":107}
+},
+"ExplosionBarrel.png":
+{
+	"frame": {"x":0,"y":196,"w":114,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":107},
+	"sourceSize": {"w":114,"h":107}
+},
+"FloorCrack.png":
+{
+	"frame": {"x":300,"y":201,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"FootPrintLeft.png":
+{
+	"frame": {"x":460,"y":343,"w":28,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":33,"w":28,"h":48},
+	"sourceSize": {"w":90,"h":90}
+},
+"FootprintRight.png":
+{
+	"frame": {"x":460,"y":293,"w":28,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":8,"w":28,"h":48},
+	"sourceSize": {"w":90,"h":90}
+},
+"GemRed.png":
+{
+	"frame": {"x":428,"y":0,"w":54,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":12,"w":54,"h":78},
+	"sourceSize": {"w":90,"h":90}
+},
+"Light.png":
+{
+	"frame": {"x":0,"y":0,"w":194,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":194,"h":194},
+	"sourceSize": {"w":194,"h":194}
+},
+"MovingWallDown.png":
+{
+	"frame": {"x":196,"y":109,"w":90,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":90,"h":68},
+	"sourceSize": {"w":90,"h":90}
+},
+"MovingWallUp.png":
+{
+	"frame": {"x":208,"y":201,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"SolidBlock.png":
+{
+	"frame": {"x":380,"y":109,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"SpicePotA.png":
+{
+	"frame": {"x":288,"y":109,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"SpicePotB.png":
+{
+	"frame": {"x":184,"y":313,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"StartSquare.png":
+{
+	"frame": {"x":92,"y":313,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"Swirl.png":
+{
+	"frame": {"x":472,"y":80,"w":26,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":26,"h":28},
+	"sourceSize": {"w":30,"h":30}
+},
+"WeakWall.png":
+{
+	"frame": {"x":0,"y":313,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"spiceExplosionParticle.png":
+{
+	"frame": {"x":0,"y":305,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":3,"h":3},
+	"sourceSize": {"w":5,"h":5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "GameSprites.png",
+	"format": "RGBA8888",
+	"size": {"w":498,"h":403},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e909475763c3c6330af2cce4f125311c:efc0536507cc666c9b1bc80f293ed75c:7a2086057c773f03e1dfa258c9bbc5c0$"
+}
+}

@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "paral_0.png",
+	"frame": {"x":2,"y":842,"w":540,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":100},
+	"sourceSize": {"w":540,"h":100}
+},
+{
+	"filename": "paral_1.png",
+	"frame": {"x":2,"y":544,"w":540,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":296},
+	"sourceSize": {"w":540,"h":296}
+},
+{
+	"filename": "paral_2.png",
+	"frame": {"x":2,"y":2,"w":540,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":540},
+	"sourceSize": {"w":540,"h":540}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "no_trim.png",
+	"format": "RGBA8888",
+	"size": {"w":544,"h":944},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:a20d83581b3f850fb398691b8eb97011:d55692cb8452d0c5aaea54223e8fc9f7:7f2eb72ebf0fbaf0e65494b1fc88fae4$"
+}
+}

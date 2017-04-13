@@ -1,0 +1,1516 @@
+{"frames": {
+
+"character-grizz-blue-bicycle-kick0001.png":
+{
+	"frame": {"x":1696,"y":143,"w":122,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":72,"w":122,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0002.png":
+{
+	"frame": {"x":1696,"y":143,"w":122,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":72,"w":122,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0003.png":
+{
+	"frame": {"x":1696,"y":143,"w":122,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":72,"w":122,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0004.png":
+{
+	"frame": {"x":1404,"y":780,"w":129,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":23,"w":129,"h":199},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0005.png":
+{
+	"frame": {"x":1404,"y":780,"w":129,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":23,"w":129,"h":199},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0006.png":
+{
+	"frame": {"x":1272,"y":779,"w":130,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":27,"w":130,"h":195},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0007.png":
+{
+	"frame": {"x":1272,"y":779,"w":130,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":27,"w":130,"h":195},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0008.png":
+{
+	"frame": {"x":1272,"y":779,"w":130,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":27,"w":130,"h":195},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0009.png":
+{
+	"frame": {"x":1535,"y":783,"w":163,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":19,"w":163,"h":203},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0010.png":
+{
+	"frame": {"x":1535,"y":783,"w":163,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":19,"w":163,"h":203},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0011.png":
+{
+	"frame": {"x":1700,"y":787,"w":126,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":13,"w":126,"h":209},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0012.png":
+{
+	"frame": {"x":1700,"y":787,"w":126,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":13,"w":126,"h":209},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0013.png":
+{
+	"frame": {"x":2,"y":593,"w":153,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":61,"w":153,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0014.png":
+{
+	"frame": {"x":2,"y":593,"w":153,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":61,"w":153,"h":161},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0015.png":
+{
+	"frame": {"x":895,"y":2,"w":137,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":85,"w":137,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0016.png":
+{
+	"frame": {"x":895,"y":2,"w":137,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":85,"w":137,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0017.png":
+{
+	"frame": {"x":1592,"y":2,"w":133,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":83,"w":133,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0018.png":
+{
+	"frame": {"x":1592,"y":2,"w":133,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":83,"w":133,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0019.png":
+{
+	"frame": {"x":129,"y":138,"w":127,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":81,"w":127,"h":141},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0020.png":
+{
+	"frame": {"x":129,"y":138,"w":127,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":81,"w":127,"h":141},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0021.png":
+{
+	"frame": {"x":1592,"y":2,"w":133,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":83,"w":133,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-bicycle-kick0022.png":
+{
+	"frame": {"x":1592,"y":2,"w":133,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":83,"w":133,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0001.png":
+{
+	"frame": {"x":1306,"y":449,"w":120,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":62,"w":120,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0002.png":
+{
+	"frame": {"x":1306,"y":449,"w":120,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":62,"w":120,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0003.png":
+{
+	"frame": {"x":1712,"y":296,"w":126,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":66,"w":126,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0004.png":
+{
+	"frame": {"x":1712,"y":296,"w":126,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":66,"w":126,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0005.png":
+{
+	"frame": {"x":1207,"y":290,"w":133,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":67,"w":133,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0006.png":
+{
+	"frame": {"x":1207,"y":290,"w":133,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":67,"w":133,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0007.png":
+{
+	"frame": {"x":1207,"y":290,"w":133,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":67,"w":133,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0008.png":
+{
+	"frame": {"x":1828,"y":787,"w":122,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":3,"w":122,"h":219},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0009.png":
+{
+	"frame": {"x":1828,"y":787,"w":122,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":3,"w":122,"h":219},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0010.png":
+{
+	"frame": {"x":1143,"y":776,"w":127,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":34,"w":127,"h":188},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0011.png":
+{
+	"frame": {"x":1143,"y":776,"w":127,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":34,"w":127,"h":188},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0012.png":
+{
+	"frame": {"x":1143,"y":776,"w":127,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":34,"w":127,"h":188},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0013.png":
+{
+	"frame": {"x":891,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0014.png":
+{
+	"frame": {"x":891,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0015.png":
+{
+	"frame": {"x":255,"y":761,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0016.png":
+{
+	"frame": {"x":255,"y":761,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0017.png":
+{
+	"frame": {"x":1161,"y":608,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0018.png":
+{
+	"frame": {"x":1161,"y":608,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0019.png":
+{
+	"frame": {"x":262,"y":597,"w":134,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":60,"w":134,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0020.png":
+{
+	"frame": {"x":262,"y":597,"w":134,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":60,"w":134,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0021.png":
+{
+	"frame": {"x":262,"y":597,"w":134,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":60,"w":134,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0022.png":
+{
+	"frame": {"x":1293,"y":611,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0023.png":
+{
+	"frame": {"x":1293,"y":611,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0024.png":
+{
+	"frame": {"x":255,"y":761,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0025.png":
+{
+	"frame": {"x":255,"y":761,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0026.png":
+{
+	"frame": {"x":891,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0027.png":
+{
+	"frame": {"x":891,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0028.png":
+{
+	"frame": {"x":1017,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0029.png":
+{
+	"frame": {"x":1017,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0030.png":
+{
+	"frame": {"x":385,"y":763,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0031.png":
+{
+	"frame": {"x":385,"y":763,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0032.png":
+{
+	"frame": {"x":1727,"y":619,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0033.png":
+{
+	"frame": {"x":1727,"y":619,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0034.png":
+{
+	"frame": {"x":398,"y":599,"w":134,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":60,"w":134,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0035.png":
+{
+	"frame": {"x":398,"y":599,"w":134,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":60,"w":134,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0036.png":
+{
+	"frame": {"x":398,"y":599,"w":134,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":60,"w":134,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0037.png":
+{
+	"frame": {"x":2,"y":756,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0038.png":
+{
+	"frame": {"x":2,"y":756,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0039.png":
+{
+	"frame": {"x":385,"y":763,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0040.png":
+{
+	"frame": {"x":385,"y":763,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0041.png":
+{
+	"frame": {"x":1017,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0042.png":
+{
+	"frame": {"x":1017,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0043.png":
+{
+	"frame": {"x":891,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0044.png":
+{
+	"frame": {"x":891,"y":772,"w":124,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":52,"w":124,"h":170},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0045.png":
+{
+	"frame": {"x":255,"y":761,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0046.png":
+{
+	"frame": {"x":255,"y":761,"w":128,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":54,"w":128,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0047.png":
+{
+	"frame": {"x":1293,"y":611,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0048.png":
+{
+	"frame": {"x":1293,"y":611,"w":130,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":56,"w":130,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-celebrate0049.png":
+{
+	"frame": {"x":534,"y":602,"w":134,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":60,"w":134,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0001.png":
+{
+	"frame": {"x":670,"y":605,"w":122,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":61,"w":122,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0002.png":
+{
+	"frame": {"x":486,"y":283,"w":104,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":73,"w":104,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0003.png":
+{
+	"frame": {"x":258,"y":138,"w":100,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":84,"w":100,"h":141},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0004.png":
+{
+	"frame": {"x":1820,"y":144,"w":108,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":75,"w":108,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0005.png":
+{
+	"frame": {"x":1428,"y":451,"w":129,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":65,"w":129,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0006.png":
+{
+	"frame": {"x":263,"y":433,"w":113,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":65,"w":113,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0007.png":
+{
+	"frame": {"x":1494,"y":143,"w":97,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":76,"w":97,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0008.png":
+{
+	"frame": {"x":1261,"y":2,"w":100,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":87,"w":100,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0009.png":
+{
+	"frame": {"x":912,"y":141,"w":118,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":79,"w":118,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0010.png":
+{
+	"frame": {"x":1342,"y":292,"w":115,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":70,"w":115,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0011.png":
+{
+	"frame": {"x":771,"y":444,"w":122,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":66,"w":122,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0012.png":
+{
+	"frame": {"x":794,"y":606,"w":122,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":61,"w":122,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0013.png":
+{
+	"frame": {"x":592,"y":285,"w":103,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":73,"w":103,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0014.png":
+{
+	"frame": {"x":360,"y":138,"w":100,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":84,"w":100,"h":141},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0015.png":
+{
+	"frame": {"x":2,"y":280,"w":108,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":75,"w":108,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0016.png":
+{
+	"frame": {"x":1559,"y":452,"w":129,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":65,"w":129,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0017.png":
+{
+	"frame": {"x":1690,"y":454,"w":114,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":65,"w":114,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0018.png":
+{
+	"frame": {"x":1593,"y":143,"w":101,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":76,"w":101,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0019.png":
+{
+	"frame": {"x":1363,"y":2,"w":100,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":87,"w":100,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0020.png":
+{
+	"frame": {"x":1032,"y":141,"w":118,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":79,"w":118,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0021.png":
+{
+	"frame": {"x":1459,"y":294,"w":115,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":70,"w":115,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-dash0022.png":
+{
+	"frame": {"x":895,"y":445,"w":122,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":66,"w":122,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0001.png":
+{
+	"frame": {"x":918,"y":606,"w":116,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":57,"w":116,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0002.png":
+{
+	"frame": {"x":918,"y":606,"w":116,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":57,"w":116,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0003.png":
+{
+	"frame": {"x":1840,"y":296,"w":101,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":62,"w":101,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0004.png":
+{
+	"frame": {"x":1840,"y":296,"w":101,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":62,"w":101,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0005.png":
+{
+	"frame": {"x":1727,"y":2,"w":118,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":82,"w":118,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0006.png":
+{
+	"frame": {"x":1727,"y":2,"w":118,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":82,"w":118,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0007.png":
+{
+	"frame": {"x":1034,"y":2,"w":123,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":84,"w":123,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0008.png":
+{
+	"frame": {"x":1034,"y":2,"w":123,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":84,"w":123,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0009.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0010.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0011.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0012.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0013.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0014.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0015.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0016.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0017.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0018.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0019.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0020.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-fall0021.png":
+{
+	"frame": {"x":577,"y":2,"w":122,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":86,"w":122,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0001.png":
+{
+	"frame": {"x":833,"y":289,"w":124,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":68,"w":124,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0002.png":
+{
+	"frame": {"x":697,"y":288,"w":134,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":69,"w":134,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0003.png":
+{
+	"frame": {"x":697,"y":288,"w":134,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":69,"w":134,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0004.png":
+{
+	"frame": {"x":697,"y":288,"w":134,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":69,"w":134,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0005.png":
+{
+	"frame": {"x":122,"y":433,"w":139,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":63,"w":139,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0006.png":
+{
+	"frame": {"x":122,"y":433,"w":139,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":63,"w":139,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0007.png":
+{
+	"frame": {"x":378,"y":437,"w":129,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":63,"w":129,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0008.png":
+{
+	"frame": {"x":509,"y":439,"w":129,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":63,"w":129,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0009.png":
+{
+	"frame": {"x":640,"y":442,"w":129,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":63,"w":129,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-kick0010.png":
+{
+	"frame": {"x":640,"y":442,"w":129,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":63,"w":129,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0001.png":
+{
+	"frame": {"x":134,"y":757,"w":119,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":54,"w":119,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0002.png":
+{
+	"frame": {"x":134,"y":757,"w":119,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":54,"w":119,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0003.png":
+{
+	"frame": {"x":157,"y":593,"w":103,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":59,"w":103,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0004.png":
+{
+	"frame": {"x":157,"y":593,"w":103,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":59,"w":103,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0005.png":
+{
+	"frame": {"x":573,"y":139,"w":120,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":79,"w":120,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0006.png":
+{
+	"frame": {"x":573,"y":139,"w":120,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":79,"w":120,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0007.png":
+{
+	"frame": {"x":2,"y":138,"w":125,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":81,"w":125,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0008.png":
+{
+	"frame": {"x":2,"y":138,"w":125,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":81,"w":125,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0009.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0010.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0011.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0012.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0013.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0014.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0015.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0016.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0017.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0018.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0019.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0020.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-lose0021.png":
+{
+	"frame": {"x":1465,"y":2,"w":125,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":83,"w":125,"h":138},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0001.png":
+{
+	"frame": {"x":1036,"y":606,"w":123,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":60,"w":123,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0002.png":
+{
+	"frame": {"x":2,"y":433,"w":118,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":67,"w":118,"h":157},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0003.png":
+{
+	"frame": {"x":381,"y":282,"w":103,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":73,"w":103,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0004.png":
+{
+	"frame": {"x":1152,"y":141,"w":103,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":78,"w":103,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0005.png":
+{
+	"frame": {"x":1847,"y":2,"w":100,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":84,"w":100,"h":140},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0006.png":
+{
+	"frame": {"x":797,"y":141,"w":113,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":79,"w":113,"h":145},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0007.png":
+{
+	"frame": {"x":112,"y":281,"w":124,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":74,"w":124,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0008.png":
+{
+	"frame": {"x":1576,"y":295,"w":134,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":69,"w":134,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0009.png":
+{
+	"frame": {"x":1806,"y":457,"w":143,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":64,"w":143,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0010.png":
+{
+	"frame": {"x":1577,"y":616,"w":148,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":59,"w":148,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0011.png":
+{
+	"frame": {"x":1019,"y":445,"w":142,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":65,"w":142,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0012.png":
+{
+	"frame": {"x":959,"y":289,"w":107,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":70,"w":107,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0013.png":
+{
+	"frame": {"x":1394,"y":142,"w":98,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":76,"w":98,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0014.png":
+{
+	"frame": {"x":695,"y":140,"w":100,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":81,"w":100,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0015.png":
+{
+	"frame": {"x":1159,"y":2,"w":100,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":87,"w":100,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0016.png":
+{
+	"frame": {"x":462,"y":138,"w":109,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":82,"w":109,"h":142},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0017.png":
+{
+	"frame": {"x":1257,"y":142,"w":135,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":78,"w":135,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0018.png":
+{
+	"frame": {"x":238,"y":281,"w":141,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":74,"w":141,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0019.png":
+{
+	"frame": {"x":1068,"y":289,"w":137,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":70,"w":137,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0020.png":
+{
+	"frame": {"x":1163,"y":447,"w":141,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":65,"w":141,"h":159},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-run0021.png":
+{
+	"frame": {"x":1425,"y":614,"w":150,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":60,"w":150,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0001.png":
+{
+	"frame": {"x":780,"y":772,"w":109,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":53,"w":109,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0002.png":
+{
+	"frame": {"x":780,"y":772,"w":109,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":53,"w":109,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0003.png":
+{
+	"frame": {"x":780,"y":772,"w":109,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":53,"w":109,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0004.png":
+{
+	"frame": {"x":780,"y":772,"w":109,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":53,"w":109,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0005.png":
+{
+	"frame": {"x":780,"y":772,"w":109,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":53,"w":109,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0006.png":
+{
+	"frame": {"x":780,"y":772,"w":109,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":53,"w":109,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0007.png":
+{
+	"frame": {"x":665,"y":771,"w":113,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":54,"w":113,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0008.png":
+{
+	"frame": {"x":665,"y":771,"w":113,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":54,"w":113,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0009.png":
+{
+	"frame": {"x":665,"y":771,"w":113,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":54,"w":113,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0010.png":
+{
+	"frame": {"x":665,"y":771,"w":113,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":54,"w":113,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0011.png":
+{
+	"frame": {"x":665,"y":771,"w":113,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":54,"w":113,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-stand0012.png":
+{
+	"frame": {"x":665,"y":771,"w":113,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":54,"w":113,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0001.png":
+{
+	"frame": {"x":515,"y":766,"w":148,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":56,"w":148,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0002.png":
+{
+	"frame": {"x":515,"y":766,"w":148,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":56,"w":148,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0003.png":
+{
+	"frame": {"x":701,"y":2,"w":192,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":86,"w":192,"h":136},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0004.png":
+{
+	"frame": {"x":701,"y":2,"w":192,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":86,"w":192,"h":136},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0005.png":
+{
+	"frame": {"x":2,"y":2,"w":188,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":88,"w":188,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0006.png":
+{
+	"frame": {"x":2,"y":2,"w":188,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":88,"w":188,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0007.png":
+{
+	"frame": {"x":192,"y":2,"w":189,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":88,"w":189,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0008.png":
+{
+	"frame": {"x":192,"y":2,"w":189,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":88,"w":189,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0009.png":
+{
+	"frame": {"x":383,"y":2,"w":192,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":88,"w":192,"h":134},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-grizz-blue-tackle0010.png":
+{
+	"frame": {"x":383,"y":2,"w":192,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":88,"w":192,"h":134},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "grizz_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":1952,"h":1008},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2b2cdc0a2aa64e416f0860163423e488:fa1a09c72d44693e225fa3d83aa3bef3:812875d5032270859ac7e07df1617b97$"
+}
+}

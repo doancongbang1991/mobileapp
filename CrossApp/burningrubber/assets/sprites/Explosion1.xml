@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="Explosion1.jpg">
+	<SubTexture name="Explosion1Sprite01.png" x="128" y="384" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite02.png" x="384" y="256" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite03.png" x="384" y="128" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite04.png" x="384" y="0" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite05.png" x="256" y="384" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite06.png" x="256" y="256" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite07.png" x="256" y="128" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite08.png" x="256" y="0" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite09.png" x="384" y="384" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite10.png" x="128" y="256" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite11.png" x="128" y="128" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite12.png" x="128" y="0" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite13.png" x="0" y="384" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite14.png" x="0" y="256" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite15.png" x="0" y="128" width="128" height="128"/>
+	<SubTexture name="Explosion1Sprite16.png" x="0" y="0" width="128" height="128"/>
+</TextureAtlas>

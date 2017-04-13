@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'gumball';
+    src: url('fonts/gumball/gumball_8bit_thick-webfont.eot');
+    src: url('fonts/gumball/gumball_8bit_thick-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/gumball/gumball_8bit_thick-webfont.woff2') format('woff2'),
+    url('fonts/gumball/gumball_8bit_thick-webfont.woff') format('woff'),
+    url('fonts/gumball/gumball_8bit_thick-webfont.ttf') format('truetype'),
+    url('fonts/gumball/gumball_8bit_thick-webfont.svg#gumball') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

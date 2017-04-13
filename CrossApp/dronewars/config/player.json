@@ -1,0 +1,257 @@
+{
+    "drones":
+    [
+        {
+            "name":"DRON-I",
+            "timeBetweenShoots": 1,
+            "bulletVelocity": 600,
+            "range":350,
+            "starsToUnlock": 0,
+            "coinsToBuy": 0,
+            "healthSecondsAppearing":3,
+            "levels":
+            [
+                {
+                    "level":1,
+                    "attack":{"stats":2,"coins":0},
+                    "velocity":{"stats":180,"coins":0},
+                    "health":{"stats":20,"coins":0}
+                },
+                {
+                    "level":2,
+                    "attack":{"stats":2.5,"coins":100},
+                    "velocity":{"stats":200,"coins":100},
+                    "health":{"stats":24,"coins":100}
+                },
+                {
+                    "level":3,
+                    "attack":{"stats":3,"coins":600},
+                    "velocity":{"stats":220,"coins":600},
+                    "health":{"stats":28,"coins":600}
+                },
+                {
+                    "level":4,
+                    "attack":{"stats":3.5,"coins":1400},
+                    "velocity":{"stats":240,"coins":1400},
+                    "health":{"stats":32,"coins":1400}
+                },
+                {
+                    "level":5,
+                    "attack":{"stats":4,"coins":2000},
+                    "velocity":{"stats":260,"coins":2000},
+                    "health":{"stats":36,"coins":2000}
+                }
+            ]
+        },
+        {
+            "name":"DRONFY",
+            "timeBetweenShoots": 1,
+            "bulletVelocity": 600,
+            "range":350,
+            "starsToUnlock": 0,
+            "coinsToBuy": 1,
+            "healthSecondsAppearing":3,
+            "levels":
+            [
+                {
+                    "level":1,
+                    "attack":{"stats":2,"coins":0},
+                    "velocity":{"stats":220,"coins":0},
+                    "health":{"stats":14,"coins":0}
+                },
+                {
+                    "level":2,
+                    "attack":{"stats":2.5,"coins":100},
+                    "velocity":{"stats":240,"coins":100},
+                    "health":{"stats":18,"coins":100}
+                },
+                {
+                    "level":3,
+                    "attack":{"stats":3,"coins":600},
+                    "velocity":{"stats":260,"coins":600},
+                    "health":{"stats":22,"coins":600}
+                },
+                {
+                    "level":4,
+                    "attack":{"stats":3.5,"coins":1400},
+                    "velocity":{"stats":280,"coins":1400},
+                    "health":{"stats":26,"coins":1400}
+                },
+                {
+                    "level":5,
+                    "attack":{"stats":4,"coins":2000},
+                    "velocity":{"stats":300,"coins":2000},
+                    "health":{"stats":30,"coins":2000}
+                }
+            ]
+        },
+        {
+            "name":"DRONG-OR",
+            "timeBetweenShoots": 1,
+            "bulletVelocity": 600,
+            "range":350,
+            "starsToUnlock": 0,
+            "coinsToBuy": 1,
+            "healthSecondsAppearing":3,
+            "levels":
+            [
+                {
+                    "level":1,
+                    "attack":{"stats":3,"coins":0},
+                    "velocity":{"stats":180,"coins":0},
+                    "health":{"stats":24,"coins":0}
+                },
+                {
+                    "level":2,
+                    "attack":{"stats":3.5,"coins":200},
+                    "velocity":{"stats":190,"coins":200},
+                    "health":{"stats":28,"coins":200}
+                },
+                {
+                    "level":3,
+                    "attack":{"stats":4,"coins":800},
+                    "velocity":{"stats":200,"coins":800},
+                    "health":{"stats":32,"coins":800}
+                },
+                {
+                    "level":4,
+                    "attack":{"stats":4.5,"coins":1600},
+                    "velocity":{"stats":210,"coins":1600},
+                    "health":{"stats":36,"coins":1600}
+                },
+                {
+                    "level":5,
+                    "attack":{"stats":5,"coins":2200},
+                    "velocity":{"stats":220,"coins":2200},
+                    "health":{"stats":40,"coins":2200}
+                }
+            ]
+        },
+        {
+            "name":"BEN-DRON",
+            "timeBetweenShoots": 1,
+            "bulletVelocity": 600,
+            "range":350,
+            "starsToUnlock": 0,
+            "coinsToBuy": 1,
+            "healthSecondsAppearing":3,
+            "levels":
+            [
+                {
+                    "level":1,
+                    "attack":{"stats":2,"coins":0},
+                    "velocity":{"stats":180,"coins":0},
+                    "health":{"stats":24,"coins":0}
+                },
+                {
+                    "level":2,
+                    "attack":{"stats":2.5,"coins":200},
+                    "velocity":{"stats":200,"coins":200},
+                    "health":{"stats":28,"coins":200}
+                },
+                {
+                    "level":3,
+                    "attack":{"stats":3,"coins":800},
+                    "velocity":{"stats":220,"coins":800},
+                    "health":{"stats":32,"coins":800}
+                },
+                {
+                    "level":4,
+                    "attack":{"stats":3.5,"coins":1600},
+                    "velocity":{"stats":240,"coins":1600},
+                    "health":{"stats":36,"coins":1600}
+                },
+                {
+                    "level":5,
+                    "attack":{"stats":4,"coins":2200},
+                    "velocity":{"stats":260,"coins":2200},
+                    "health":{"stats":40,"coins":2200}
+                }
+            ]
+        },
+        {
+            "name":"FAT-DRON",
+            "timeBetweenShoots": 1,
+            "bulletVelocity": 600,
+            "range":350,
+            "starsToUnlock": 0,
+            "coinsToBuy": 1,
+            "healthSecondsAppearing":3,
+            "levels":
+            [
+                {
+                    "level":1,
+                    "attack":{"stats":2,"coins":0},
+                    "velocity":{"stats":160,"coins":0},
+                    "health":{"stats":30,"coins":0}
+                },
+                {
+                    "level":2,
+                    "attack":{"stats":2.5,"coins":300},
+                    "velocity":{"stats":170,"coins":300},
+                    "health":{"stats":34,"coins":300}
+                },
+                {
+                    "level":3,
+                    "attack":{"stats":3,"coins":1000},
+                    "velocity":{"stats":180,"coins":1000},
+                    "health":{"stats":38,"coins":1000}
+                },
+                {
+                    "level":4,
+                    "attack":{"stats":3.5,"coins":1800},
+                    "velocity":{"stats":190,"coins":1800},
+                    "health":{"stats":42,"coins":1800}
+                },
+                {
+                    "level":5,
+                    "attack":{"stats":4,"coins":2400},
+                    "velocity":{"stats":200,"coins":2400},
+                    "health":{"stats":46,"coins":2400}
+                }
+            ]
+        },
+        {
+            "name":"MEGADRON",
+            "timeBetweenShoots": 1,
+            "bulletVelocity": 600,
+            "range":350,
+            "starsToUnlock": 0,
+            "coinsToBuy": 1,
+            "healthSecondsAppearing":3,
+            "levels":
+            [
+                {
+                    "level":1,
+                    "attack":{"stats":3,"coins":0},
+                    "velocity":{"stats":160,"coins":0},
+                    "health":{"stats":26,"coins":0}
+                },
+                {
+                    "level":2,
+                    "attack":{"stats":3.5,"coins":300},
+                    "velocity":{"stats":170,"coins":300},
+                    "health":{"stats":30,"coins":300}
+                },
+                {
+                    "level":3,
+                    "attack":{"stats":4,"coins":1000},
+                    "velocity":{"stats":180,"coins":1000},
+                    "health":{"stats":34,"coins":1000}
+                },
+                {
+                    "level":4,
+                    "attack":{"stats":4.5,"coins":1800},
+                    "velocity":{"stats":190,"coins":1800},
+                    "health":{"stats":38,"coins":1800}
+                },
+                {
+                    "level":5,
+                    "attack":{"stats":5,"coins":2400},
+                    "velocity":{"stats":200,"coins":2400},
+                    "health":{"stats":42,"coins":2400}
+                }
+            ]
+        }
+    ]
+}

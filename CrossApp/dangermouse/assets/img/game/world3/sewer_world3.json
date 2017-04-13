@@ -1,0 +1,276 @@
+{"frames": {
+
+"base_bricks.png":
+{
+	"frame": {"x":2,"y":947,"w":252,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":36},
+	"sourceSize": {"w":252,"h":38}
+},
+"sewer_box.png":
+{
+	"frame": {"x":403,"y":681,"w":126,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":103},
+	"sourceSize": {"w":126,"h":103}
+},
+"sewer_deco_brick.png":
+{
+	"frame": {"x":284,"y":409,"w":51,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":18},
+	"sourceSize": {"w":51,"h":18}
+},
+"sewer_deco_bricks.png":
+{
+	"frame": {"x":563,"y":894,"w":106,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":64},
+	"sourceSize": {"w":106,"h":64}
+},
+"sewer_deco_end_hole.png":
+{
+	"frame": {"x":777,"y":898,"w":62,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":61},
+	"sourceSize": {"w":62,"h":61}
+},
+"sewer_deco_fill.png":
+{
+	"frame": {"x":740,"y":531,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"sewer_deco_grot.png":
+{
+	"frame": {"x":284,"y":2,"w":353,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":353,"h":239},
+	"sourceSize": {"w":353,"h":239}
+},
+"sewer_deco_grot_corner.png":
+{
+	"frame": {"x":608,"y":250,"w":231,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":279},
+	"sourceSize": {"w":237,"h":279}
+},
+"sewer_deco_light.png":
+{
+	"frame": {"x":2,"y":2,"w":280,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":460},
+	"sourceSize": {"w":280,"h":460}
+},
+"sewer_deco_pipes1.png":
+{
+	"frame": {"x":386,"y":786,"w":184,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":76},
+	"sourceSize": {"w":184,"h":76}
+},
+"sewer_deco_pipes2.png":
+{
+	"frame": {"x":639,"y":2,"w":163,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":246},
+	"sourceSize": {"w":163,"h":246}
+},
+"sewer_deco_pipes3.png":
+{
+	"frame": {"x":284,"y":243,"w":322,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":322,"h":164},
+	"sourceSize": {"w":322,"h":167}
+},
+"sewer_deco_pipes4.png":
+{
+	"frame": {"x":553,"y":663,"w":33,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":120},
+	"sourceSize": {"w":33,"h":120}
+},
+"sewer_deco_pipes5.png":
+{
+	"frame": {"x":2,"y":464,"w":248,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":391},
+	"sourceSize": {"w":248,"h":391}
+},
+"sewer_deco_pipes6.png":
+{
+	"frame": {"x":2,"y":857,"w":233,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":88},
+	"sourceSize": {"w":233,"h":88}
+},
+"sewer_deco_pipes7.png":
+{
+	"frame": {"x":403,"y":409,"w":148,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":270},
+	"sourceSize": {"w":148,"h":270}
+},
+"sewer_deco_pipes8.png":
+{
+	"frame": {"x":588,"y":531,"w":150,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":265},
+	"sourceSize": {"w":150,"h":265}
+},
+"sewer_deco_strip.png":
+{
+	"frame": {"x":2,"y":985,"w":278,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":28},
+	"sourceSize": {"w":278,"h":28}
+},
+"sewer_deco_wall_edge.png":
+{
+	"frame": {"x":553,"y":409,"w":33,"h":252},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":252},
+	"sourceSize": {"w":33,"h":252}
+},
+"sewer_deco_wheel.png":
+{
+	"frame": {"x":282,"y":959,"w":59,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":59},
+	"sourceSize": {"w":59,"h":59}
+},
+"sewer_edge_tile.png":
+{
+	"frame": {"x":252,"y":464,"w":149,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":0,"w":149,"h":284},
+	"sourceSize": {"w":220,"h":284}
+},
+"sewer_platform_end_left.png":
+{
+	"frame": {"x":804,"y":2,"w":25,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":95},
+	"sourceSize": {"w":25,"h":95}
+},
+"sewer_platform_end_right.png":
+{
+	"frame": {"x":804,"y":99,"w":25,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":95},
+	"sourceSize": {"w":25,"h":95}
+},
+"sewer_platform_mid1.png":
+{
+	"frame": {"x":252,"y":750,"w":132,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":101},
+	"sourceSize": {"w":132,"h":101}
+},
+"sewer_platform_mid2.png":
+{
+	"frame": {"x":477,"y":864,"w":84,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":95},
+	"sourceSize": {"w":84,"h":95}
+},
+"sewer_static_hazard.png":
+{
+	"frame": {"x":699,"y":813,"w":122,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":8,"w":122,"h":83},
+	"sourceSize": {"w":133,"h":97}
+},
+"sewer_static_hazard_glow.png":
+{
+	"frame": {"x":572,"y":798,"w":125,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":125,"h":94},
+	"sourceSize": {"w":133,"h":97}
+},
+"snapping_loo_1.png":
+{
+	"frame": {"x":740,"y":722,"w":96,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":21,"w":96,"h":89},
+	"sourceSize": {"w":111,"h":111}
+},
+"snapping_loo_2.png":
+{
+	"frame": {"x":740,"y":633,"w":99,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":22,"w":99,"h":87},
+	"sourceSize": {"w":111,"h":111}
+},
+"snapping_loo_3.png":
+{
+	"frame": {"x":671,"y":898,"w":104,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":21,"w":104,"h":85},
+	"sourceSize": {"w":111,"h":111}
+},
+"snapping_loo_4.png":
+{
+	"frame": {"x":367,"y":864,"w":108,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":108,"h":98},
+	"sourceSize": {"w":111,"h":111}
+},
+"snapping_loo_5.png":
+{
+	"frame": {"x":256,"y":853,"w":109,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":104},
+	"sourceSize": {"w":111,"h":111}
+},
+"snapping_loo_6.png":
+{
+	"frame": {"x":367,"y":864,"w":108,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":108,"h":98},
+	"sourceSize": {"w":111,"h":111}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sewer_world3.png",
+	"format": "RGBA8888",
+	"size": {"w":844,"h":1020},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:545fd12efa257aae33905592414bdc17:5fcab3de040608dec7a211cc6b7a83cc:10ac34cd13dd229c2f80bb113b08082e$"
+}
+}

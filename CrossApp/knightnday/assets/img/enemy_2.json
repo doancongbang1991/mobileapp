@@ -1,0 +1,292 @@
+{"frames": [
+
+{
+	"filename": "enemy_2/die_00",
+	"frame": {"x":707,"y":121,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":114,"w":95,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_01",
+	"frame": {"x":602,"y":121,"w":103,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":113,"w":103,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_02",
+	"frame": {"x":1039,"y":120,"w":108,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":112,"w":108,"h":116},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_03",
+	"frame": {"x":1010,"y":2,"w":110,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":112,"w":110,"h":116},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_04",
+	"frame": {"x":804,"y":121,"w":118,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":114,"w":118,"h":116},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_05",
+	"frame": {"x":1230,"y":2,"w":115,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":119,"w":115,"h":112},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_06",
+	"frame": {"x":1245,"y":116,"w":115,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":131,"w":115,"h":105},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_07",
+	"frame": {"x":1347,"y":2,"w":118,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":144,"w":118,"h":101},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_08",
+	"frame": {"x":1362,"y":105,"w":126,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":153,"w":126,"h":98},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_09",
+	"frame": {"x":1467,"y":2,"w":123,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":157,"w":123,"h":96},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_10",
+	"frame": {"x":1592,"y":2,"w":123,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":157,"w":123,"h":96},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_11",
+	"frame": {"x":1490,"y":100,"w":123,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":157,"w":123,"h":96},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/die_12",
+	"frame": {"x":1615,"y":100,"w":123,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":157,"w":123,"h":96},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_00",
+	"frame": {"x":707,"y":121,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":114,"w":95,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_01",
+	"frame": {"x":277,"y":2,"w":105,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":115,"w":105,"h":118},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_02",
+	"frame": {"x":894,"y":2,"w":114,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":116,"w":114,"h":116},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_03",
+	"frame": {"x":484,"y":2,"w":115,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":116,"w":115,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_04",
+	"frame": {"x":485,"y":121,"w":115,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":116,"w":115,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_05",
+	"frame": {"x":924,"y":120,"w":113,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":116,"w":113,"h":116},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_06",
+	"frame": {"x":601,"y":2,"w":111,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":115,"w":111,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_07",
+	"frame": {"x":1122,"y":2,"w":106,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":115,"w":106,"h":116},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_08",
+	"frame": {"x":2,"y":124,"w":99,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":115,"w":99,"h":119},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_09",
+	"frame": {"x":387,"y":122,"w":96,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":114,"w":96,"h":118},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/hit_10",
+	"frame": {"x":707,"y":121,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":114,"w":95,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_00",
+	"frame": {"x":707,"y":121,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":114,"w":95,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_01",
+	"frame": {"x":287,"y":122,"w":98,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":115,"w":98,"h":118},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_02",
+	"frame": {"x":384,"y":2,"w":98,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":115,"w":98,"h":118},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_03",
+	"frame": {"x":1149,"y":120,"w":94,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":116,"w":94,"h":115},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_04",
+	"frame": {"x":714,"y":2,"w":88,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":116,"w":88,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_05",
+	"frame": {"x":804,"y":2,"w":88,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":116,"w":88,"h":117},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_06",
+	"frame": {"x":187,"y":2,"w":88,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":115,"w":88,"h":119},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_07",
+	"frame": {"x":197,"y":123,"w":88,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":115,"w":88,"h":119},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_08",
+	"frame": {"x":2,"y":2,"w":89,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":114,"w":89,"h":120},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_09",
+	"frame": {"x":93,"y":2,"w":92,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":114,"w":92,"h":119},
+	"sourceSize": {"w":306,"h":291}
+},
+{
+	"filename": "enemy_2/walk_10",
+	"frame": {"x":103,"y":123,"w":92,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":114,"w":92,"h":119},
+	"sourceSize": {"w":306,"h":291}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemy_2.png",
+	"format": "RGBA8888",
+	"size": {"w":1740,"h":245},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:c6b4d2b3d0417693d86408e5029f1625:e744f01dc06051599d28b24528f47b1b:c8b0fc5563a7a12ae8507dc3de948b6f$"
+}
+}

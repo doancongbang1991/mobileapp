@@ -1,0 +1,40 @@
+/*
+ * Header
+ */
+header {overflow: visible; width: 100%; height: 130px; max-width: 1920px; margin: 0 auto; padding: 20px 0 50px 0; color: #fff; font-family: 'Titillium Web', 'Arial', sans-serif; font-size: 16px}
+header .logo,
+header .social {float:left; width: 50%}
+header .logo {padding-left: 5%}
+header .logo span {display: inline-block; margin: 0 3%; vertical-align: middle; line-height: 80px}
+header .logo span,
+header .logo a,
+header .logo img {display: inline-block; vertical-align: middle}
+
+/*Social*/
+header .social {overflow: visible; padding: 20px 5% 0 0}
+header .social-likes {overflow: visible; float: right}
+header .social-likes li {overflow: visible; float: left; width: 120px}
+header .social-likes .google {width: 90px}
+.fb-like,
+.fb-like * {overflow: visible}
+
+
+/*
+ * Footer
+ */
+footer {overflow: hidden; width: 960px; margin: 0 auto; padding: 20px 0; font-family: 'Titillium Web', 'Arial', sans-serif; color: #fff; font-size: 16px; line-height: 40px}
+footer p {margin: 0}
+footer .html5 {float: left; padding-right: 60px}
+footer .html5 img {margin:0 5px;}
+footer .gun {overflow: visible; display: inline-block; height: 52px; padding:0 10px 10px 110px; background: transparent url('../images/gun.svg') no-repeat 22% 8px; background-size: 111px 42px; font-weight: 600; text-align: center}
+footer .gun {
+    text-shadow: 0 0 5px rgba(206, 43, 44, 1),
+                 0 0 10px rgba(206, 43, 44, 1),
+                 0 0 15px rgba(206, 43, 44, 1),
+                 0 0 20px rgba(206, 43, 44, 1),
+                 0 0 25px rgba(206, 43, 44, 1),
+                 0 0 30px rgba(206, 43, 44, 1)
+}
+footer .gun a {color: #fff}
+footer .copyright {float: right; font-size: 12px; line-height: 2; text-align: right}
+footer .copyright a {color: #ffb648}

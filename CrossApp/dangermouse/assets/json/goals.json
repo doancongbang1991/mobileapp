@@ -1,0 +1,605 @@
+{
+    "goals":
+    {
+        "completeLevel1":
+        {
+            "desc":"Rope Learned - Complete the first level",
+            "property":"levels",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld1":
+        {
+            "desc":"Beginner's Squawkencluck - Complete Training",
+            "property":"world1",
+            "type":"=",
+            "target":3,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld2":
+        {
+            "desc":"The Heat is Off - Complete Story 2",
+            "property":"world2",
+            "type":"=",
+            "target":5,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld3":
+        {
+            "desc":"Potty Training - Complete Story 3",
+            "property":"world3",
+            "type":"=",
+            "target":6,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld4":
+        {
+            "desc":"Chimpressive - Complete Story 4",
+            "property":"world4",
+            "type":"=",
+            "target":7,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld5":
+        {
+            "desc":"Heroic - Complete Story 5",
+            "property":"world5",
+            "type":"=",
+            "target":8,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld1Perfect":
+        {
+            "desc":"Teacher's Pet - Complete Training with all 3-star ratings",
+            "property":"world1perfect",
+            "type":"=",
+            "target":3,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld2Perfect":
+        {
+            "desc":"Scuba-doo! Complete Story 2 with all 3-star ratings",
+            "property":"world2perfect",
+            "type":"=",
+            "target":5,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld3Perfect":
+        {
+            "desc":"Feeling Flush - Complete Story 3 with all 3-star ratings",
+            "property":"world3perfect",
+            "type":"=",
+            "target":6,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld4Perfect":
+        {
+            "desc":"Top of the World - Complete Story 4 with all 3-star ratings",
+            "property":"world4perfect",
+            "type":"=",
+            "target":7,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "completeWorld5Perfect":
+        {
+            "desc":"Peace on Earth - Complete Story 5 with all 3-star ratings",
+            "property":"world5perfect",
+            "type":"=",
+            "target":8,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "ShrinkSquash1":
+        {
+            "desc":"Fee-fi-fo-fum - Shrink and squash an enemy",
+            "property":"trample",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "ShrinkSquash2":
+        {
+            "desc":"Pest Control - Shrink and squash 10 enemies",
+            "property":"trample",
+            "type":"=",
+            "target":10,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "ShrinkSquash3":
+        {
+            "desc":"Steam Roller - Shrink and squash 30 enemies",
+            "property":"trample",
+            "type":"=",
+            "target":30,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "FreezeShatter1":
+        {
+            "desc":"Ice Breaker - Freeze and shatter an enemy",
+            "property":"shatter",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "FreezeShatter2":
+        {
+            "desc":"Nice & Freezy - Freeze and shatter 10 enemies",
+            "property":"shatter",
+            "type":"=",
+            "target":10,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "FreezeShatter3":
+        {
+            "desc":"William Shatterner - Freeze and shatter 30 enemies",
+            "property":"shatter",
+            "type":"=",
+            "target":30,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "flyLevel1":
+        {
+            "desc":"Fly Guy - Fly 20m total with the rocket pack",
+            "property":"airmiles",
+            "type":"=",
+            "target":20,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "flyLevel2":
+        {
+            "desc":"Rocketman - Fly 100m total with the rocket pack",
+            "property":"airmiles",
+            "type":"=",
+            "target":50,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "flyLevel3":
+        {
+            "desc":"Superfly - Fly 300m total with the rocket pack",
+            "property":"airmiles",
+            "type":"=",
+            "target":300,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "jumpLevel1":
+        {
+            "desc":"Boo! Jump 10 times total",
+            "property":"jumps",
+            "type":"=",
+            "target":10,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "jumpLevel2":
+        {
+            "desc":"Jump Around! Jump 100 times total",
+            "property":"jumps",
+            "type":"=",
+            "target":100,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "jumpLevel3":
+        {
+            "desc":"Ants in your pants - Jump 500 times total",
+            "property":"jumps",
+            "type":"=",
+            "target":500,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "hideLevel1":
+        {
+            "desc":"Now you see me... Evade a camera using Penfold's magic box",
+            "property":"hide",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "hideLevel2":
+        {
+            "desc":"Hiding like a Champion - Use Penfold's magic box 10 times",
+            "property":"hiding",
+            "type":"=",
+            "target":10,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "hideLevel3":
+        {
+            "desc":"Master of disguise - Trigger one of Penfold's magic box Easter Eggs",
+            "property":"eggbox",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "switchLevel1":
+        {
+            "desc":"Button Pusher - Press 10 switches",
+            "property":"switches",
+            "type":"=",
+            "target":10,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "runLevel1":
+        {
+            "desc":"Missed the bus - Run 50m",
+            "property":"distance",
+            "type":"=",
+            "target":50,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "runLevel2":
+        {
+            "desc":"Fun Run - Run 200m",
+            "property":"distance",
+            "type":"=",
+            "target":200,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "runLevel3":
+        {
+            "desc":"Jog-on - Run 500m",
+            "property":"distance",
+            "type":"=",
+            "target":500,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "runLevel4":
+        {
+            "desc":"Weekend Warrior - Run 1km",
+            "property":"distance",
+            "type":"=",
+            "target":1000,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "runLevel5":
+        {
+            "desc":"Marathon Man - Run 2km",
+            "property":"distance",
+            "type":"=",
+            "target":2000,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "dieLevel1":
+        {
+            "desc":"N00B - Fail a mission",
+            "property":"deaths",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "dieLevel2":
+        {
+            "desc":"Stunt Trouble - Hit a static enemy",
+            "property":"staticdeath",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "dieLevel3":
+        {
+            "desc":"Buzz Kill - Get zapped by a laser gate",
+            "property":"laserdeath",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "portal1":
+        {
+            "desc":"Make it so - Use the portals 10 times",
+            "property":"portals",
+            "type":"=",
+            "target":10,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "cannon":
+        {
+            "desc":"Geronimouse! Use a cannon 10 times",
+            "property":"cannons",
+            "type":"=",
+            "target":10,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "conveyor":
+        {
+            "desc":"You move me - Use a conveyor belt",
+            "property":"belts",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "collapsible":
+        {
+            "desc":"Falling for you - Break 50 collapsible platforms",
+            "property":"collapse",
+            "type":"=",
+            "target":50,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "EggyWeggy":
+        {
+            "desc":"Egg-cellent! Discover an Easter Egg",
+            "property":"eggs",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+
+        "PenCann":
+        {
+            "desc":"Blamster - Use a cannon as Penfold",
+            "property":"penfoldCannons",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "airtime":
+        {
+            "desc":"Airtime - Float for 20 seconds",
+            "property":"airtime",
+            "type":"=",
+            "target":20,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "completePink":
+        {
+            "desc":"In the pink - Complete Back to the Fuschia",
+            "property":"story2Chapter1",
+            "type":"=",
+            "target":6,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "completePinkPerfect":
+        {
+            "desc":"Pretty in pink - Complete Back to the Fuschia with all 3-star ratings",
+            "property":"story2Chapter1Perfect",
+            "type":"=",
+            "target":6,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "completeFan":
+        {
+            "desc":"Fan-tastic - Complete Total Fanarchy",
+            "property":"story2Chapter2",
+            "type":"=",
+            "target":7,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "completeFanPerfect":
+        {
+            "desc":"Hero Worship - Complete Total Fanarchy with all 3-star ratings",
+            "property":"story2Chapter2Perfect",
+            "type":"=",
+            "target":7,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "hit15Bears":
+        {
+            "desc":"Scare bears - Hit 15 bears with the fluffy gun",
+            "property":"bears",
+            "type":"=",
+            "target":15,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "flathead":
+        {
+            "desc":"Flathead - Get Crushed",
+            "property":"crushes",
+            "type":"=",
+            "target":1,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "fanboy":
+        {
+            "desc":"Fanboy - Use 20 fans",
+            "property":"fans",
+            "type":"=",
+            "target":20,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        },
+        "elevenses11":
+        {
+            "desc":"Elevenses - Hit 11 jammy biscuits",
+            "property":"jammies",
+            "type":"=",
+            "target":11,
+            "value":0,
+            "achieved":false,
+            "cumulative":false
+        }
+    },
+
+    "groups":
+    {
+        "level1":
+        {
+            "desc":"STR_GOALS_LEVEL_1_TITLE",
+            "achievements":[
+                "completeLevel1",
+                "completeWorld1",
+                "completeWorld2",
+                "completeWorld3",
+                "completeWorld4",
+                "completeWorld5",
+                "completeWorld1Perfect",
+                "completeWorld2Perfect",
+                "completeWorld3Perfect",
+                "completeWorld4Perfect",
+                "completeWorld5Perfect",
+                "ShrinkSquash1",
+                "ShrinkSquash2",
+                "ShrinkSquash3",
+                "FreezeShatter1",
+                "FreezeShatter2",
+                "FreezeShatter3",
+                "flyLevel1",
+                "flyLevel2",
+                "flyLevel3",
+                "jumpLevel1",
+                "jumpLevel2",
+                "jumpLevel3",
+                "hideLevel1",
+                "hideLevel2",
+                "hideLevel3",
+                "switchLevel1",
+                "runLevel1",
+                "runLevel2",
+                "runLevel3",
+                "runLevel4",
+                "runLevel5",
+                "dieLevel1",
+                "dieLevel2",
+                "dieLevel3",
+                "portal1",
+                "cannon",
+                "conveyor",
+                "collapsible",
+                "EggyWeggy",
+                "PenCann",
+                "airtime",
+                "completePink",
+                "completePinkPerfect",
+                "completeFan",
+                "completeFanPerfect",
+                "hit15Bears",
+                "flathead",
+                "fanboy",
+                "elevenses11"
+            ]
+        }
+    }
+}

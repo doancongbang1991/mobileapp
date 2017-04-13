@@ -1,0 +1,20 @@
+{
+  "config": {
+
+    "FLIP_LANGUAGE": false,
+    "ENABLE_LEADERBOARDS": true,
+    "FORMAT_SCORE_WITH_COMMAS":"true",
+    "ARCADE_COOKIES_BUNDLE_ID": "com.disney.starwars.arcade",
+    "COOKIES_BUNDLE_ID": "com.disney.starwars.arcade",
+    "REBELS_STORAGE_ID": "com.disney.rebels.goals__",
+    "DAGOBAH_STORAGE_ID": "com.disney.dagobah.goals.master",
+
+    "GAME_MODE":"1",
+
+    "SCORE_PATH":"http://highscores.disneyinternational.com/Scores.php",
+    "SCORE_ID":"24",
+    "ENABLE_TRACKING":"false",
+    "LOCALE":"en_GB",
+    "FONTS_EXTENDED":"false"
+  }
+}

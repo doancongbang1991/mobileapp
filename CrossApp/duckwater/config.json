@@ -1,0 +1,14 @@
+{
+  "config": {
+   
+    "FLIP_LANGUAGE":"false",
+    "ENABLE_LEADERBOARDS":"true",
+    "FORMAT_SCORE_WITH_COMMAS":"true",
+    "SCORE_PATH":"http://apps.disneyinternational.com/ddhfhs/public_html/Scores.php",
+    "ENABLE_TRACKING":"true",
+    "LOCALE":"en_US",
+    "FONTS_EXTENDED":"false",
+    "REMOVE_LOADER_LOGO":"false"
+    
+  }
+}

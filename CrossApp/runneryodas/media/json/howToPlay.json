@@ -1,0 +1,24 @@
+{
+  "slides": [
+    {
+      "img": "img/tutorial/screen_shot1.jpg",
+      "text": "STR_HOWTOPLAY_1"
+    },
+    {
+      "img": "img/tutorial/screen_shot2.jpg",
+      "text": "STR_HOWTOPLAY_2"
+    },
+    {
+      "img": "img/tutorial/screen_shot3.jpg",
+      "text": "STR_HOWTOPLAY_3"
+    },
+    {
+      "img": "img/tutorial/screen_shot4.jpg",
+      "text": "STR_HOWTOPLAY_4"
+    },
+    {
+      "img": "img/tutorial/screen_shot5.jpg",
+      "text": "STR_HOWTOPLAY_5"
+    }
+  ]
+}

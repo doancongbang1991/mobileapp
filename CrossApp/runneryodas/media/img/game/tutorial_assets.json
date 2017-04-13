@@ -1,0 +1,92 @@
+{"frames": {
+
+"shop.png":
+{
+	"frame": {"x":845,"y":243,"w":121,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":287,"y":55,"w":121,"h":141},
+	"sourceSize": {"w":579,"h":390}
+},
+"spacebar.png":
+{
+	"frame": {"x":583,"y":276,"w":260,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":225,"y":73,"w":260,"h":102},
+	"sourceSize": {"w":579,"h":390}
+},
+"swing.png":
+{
+	"frame": {"x":1143,"y":163,"w":117,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":44,"w":117,"h":161},
+	"sourceSize": {"w":579,"h":390}
+},
+"tap_hold.png":
+{
+	"frame": {"x":583,"y":2,"w":237,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":57,"w":237,"h":135},
+	"sourceSize": {"w":579,"h":390}
+},
+"tap_left.png":
+{
+	"frame": {"x":583,"y":139,"w":237,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":57,"w":237,"h":135},
+	"sourceSize": {"w":579,"h":390}
+},
+"tap_right.png":
+{
+	"frame": {"x":822,"y":2,"w":237,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":244,"y":57,"w":237,"h":135},
+	"sourceSize": {"w":579,"h":390}
+},
+"tutorial_blank_panel.png":
+{
+	"frame": {"x":2,"y":2,"w":579,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":579,"h":390},
+	"sourceSize": {"w":579,"h":390}
+},
+"up_button.png":
+{
+	"frame": {"x":822,"y":139,"w":100,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":305,"y":73,"w":100,"h":102},
+	"sourceSize": {"w":579,"h":390}
+},
+"walljump.png":
+{
+	"frame": {"x":1143,"y":2,"w":123,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":44,"w":123,"h":159},
+	"sourceSize": {"w":579,"h":390}
+},
+"yoda.png":
+{
+	"frame": {"x":968,"y":139,"w":173,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":45,"w":173,"h":151},
+	"sourceSize": {"w":579,"h":390}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tutorial_assets.png",
+	"format": "RGBA8888",
+	"size": {"w":1268,"h":394},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ed919bf53dc391f4bdfdfac097b82ed6:963c340c0aa4bad6b8748205d8122510:859d0b3442213937b6769345aad0eaa9$"
+}
+}

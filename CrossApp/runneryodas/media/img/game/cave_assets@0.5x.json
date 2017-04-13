@@ -1,0 +1,180 @@
+{"frames": {
+
+"cave_platform1.png":
+{
+	"frame": {"x":1022,"y":225,"w":467,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":467,"h":185},
+	"sourceSize": {"w":467,"h":185}
+},
+"cave_platform2.png":
+{
+	"frame": {"x":368,"y":258,"w":375,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":132},
+	"sourceSize": {"w":375,"h":132}
+},
+"cave_rock1.png":
+{
+	"frame": {"x":752,"y":2,"w":235,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":222},
+	"sourceSize": {"w":235,"h":222}
+},
+"cave_rock2.png":
+{
+	"frame": {"x":1491,"y":211,"w":253,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":202},
+	"sourceSize": {"w":253,"h":202}
+},
+"cave_rock3.png":
+{
+	"frame": {"x":1159,"y":2,"w":262,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":210},
+	"sourceSize": {"w":262,"h":210}
+},
+"cave_rock4.png":
+{
+	"frame": {"x":1423,"y":2,"w":257,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":207},
+	"sourceSize": {"w":257,"h":207}
+},
+"cave_ronce.png":
+{
+	"frame": {"x":85,"y":2,"w":106,"h":299},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":299},
+	"sourceSize": {"w":106,"h":299}
+},
+"cave_vine1.png":
+{
+	"frame": {"x":336,"y":2,"w":273,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":254},
+	"sourceSize": {"w":273,"h":254}
+},
+"cave_vine2.png":
+{
+	"frame": {"x":1682,"y":2,"w":335,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":335,"h":105},
+	"sourceSize": {"w":335,"h":105}
+},
+"cave_vine3.png":
+{
+	"frame": {"x":989,"y":2,"w":168,"h":221},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":221},
+	"sourceSize": {"w":168,"h":221}
+},
+"cave_vine4.png":
+{
+	"frame": {"x":1746,"y":109,"w":231,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":123},
+	"sourceSize": {"w":231,"h":123}
+},
+"cave_vine5.png":
+{
+	"frame": {"x":611,"y":2,"w":139,"h":244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":244},
+	"sourceSize": {"w":139,"h":244}
+},
+"cave_vine6.png":
+{
+	"frame": {"x":2,"y":2,"w":81,"h":329},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":329},
+	"sourceSize": {"w":81,"h":329}
+},
+"flower1.png":
+{
+	"frame": {"x":1867,"y":234,"w":113,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":115},
+	"sourceSize": {"w":113,"h":115}
+},
+"flower2.png":
+{
+	"frame": {"x":2,"y":333,"w":58,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":48},
+	"sourceSize": {"w":58,"h":48}
+},
+"flower3.png":
+{
+	"frame": {"x":85,"y":303,"w":136,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":110},
+	"sourceSize": {"w":136,"h":110}
+},
+"flower4.png":
+{
+	"frame": {"x":745,"y":248,"w":113,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":125},
+	"sourceSize": {"w":113,"h":125}
+},
+"flower5.png":
+{
+	"frame": {"x":223,"y":268,"w":143,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":144},
+	"sourceSize": {"w":143,"h":144}
+},
+"flower6.png":
+{
+	"frame": {"x":1746,"y":234,"w":119,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":176},
+	"sourceSize": {"w":119,"h":176}
+},
+"flower7.png":
+{
+	"frame": {"x":193,"y":2,"w":141,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":264},
+	"sourceSize": {"w":141,"h":264}
+},
+"flower8.png":
+{
+	"frame": {"x":860,"y":226,"w":160,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":186},
+	"sourceSize": {"w":160,"h":186}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cave_assets@0.5x.png",
+	"format": "RGBA8888",
+	"size": {"w":2019,"h":415},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:ea34c0a4136f03976360cde795b4de52:efa9f75b3d996681a480bdc0504d6a81:58047936413f5cc3ca669f4f4c64c25e$"
+}
+}

@@ -1,0 +1,204 @@
+{"frames": [
+
+{
+	"filename": "game_big/icon_0",
+	"frame": {"x":338,"y":385,"w":69,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":84},
+	"sourceSize": {"w":69,"h":84}
+},
+{
+	"filename": "game_big/icon_1",
+	"frame": {"x":428,"y":197,"w":69,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":80},
+	"sourceSize": {"w":69,"h":80}
+},
+{
+	"filename": "game_big/icon_2",
+	"frame": {"x":446,"y":91,"w":72,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":78},
+	"sourceSize": {"w":72,"h":78}
+},
+{
+	"filename": "game_big/icon_3",
+	"frame": {"x":411,"y":296,"w":69,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":84},
+	"sourceSize": {"w":69,"h":84}
+},
+{
+	"filename": "game_big/icon_4",
+	"frame": {"x":338,"y":296,"w":71,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":87},
+	"sourceSize": {"w":71,"h":87}
+},
+{
+	"filename": "game_big/icon_berserk_off",
+	"frame": {"x":520,"y":101,"w":72,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":70},
+	"sourceSize": {"w":72,"h":70}
+},
+{
+	"filename": "game_big/icon_berserk_on",
+	"frame": {"x":499,"y":173,"w":72,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":70},
+	"sourceSize": {"w":72,"h":70}
+},
+{
+	"filename": "game_big/icon_dash_off",
+	"frame": {"x":573,"y":180,"w":72,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":70},
+	"sourceSize": {"w":72,"h":70}
+},
+{
+	"filename": "game_big/icon_dash_on",
+	"frame": {"x":499,"y":245,"w":72,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":70},
+	"sourceSize": {"w":72,"h":70}
+},
+{
+	"filename": "game_big/icon_shield_off",
+	"frame": {"x":573,"y":252,"w":72,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":70},
+	"sourceSize": {"w":72,"h":70}
+},
+{
+	"filename": "game_big/icon_shield_on",
+	"frame": {"x":482,"y":317,"w":72,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":70},
+	"sourceSize": {"w":72,"h":70}
+},
+{
+	"filename": "game_big/notif_ach",
+	"frame": {"x":2,"y":2,"w":336,"h":253},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":253},
+	"sourceSize": {"w":336,"h":253}
+},
+{
+	"filename": "game_big/panah",
+	"frame": {"x":446,"y":2,"w":117,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":87},
+	"sourceSize": {"w":117,"h":87}
+},
+{
+	"filename": "game_big/pnl_tutor",
+	"frame": {"x":2,"y":257,"w":334,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":334,"h":226},
+	"sourceSize": {"w":334,"h":226}
+},
+{
+	"filename": "game_big/puz_0",
+	"frame": {"x":594,"y":101,"w":53,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":53,"h":77},
+	"sourceSize": {"w":59,"h":79}
+},
+{
+	"filename": "game_big/puz_1",
+	"frame": {"x":556,"y":324,"w":53,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":53,"h":77},
+	"sourceSize": {"w":59,"h":79}
+},
+{
+	"filename": "game_big/puz_2",
+	"frame": {"x":409,"y":385,"w":53,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":53,"h":77},
+	"sourceSize": {"w":59,"h":79}
+},
+{
+	"filename": "game_big/puz_3",
+	"frame": {"x":464,"y":389,"w":53,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":53,"h":77},
+	"sourceSize": {"w":59,"h":79}
+},
+{
+	"filename": "game_big/puz_4",
+	"frame": {"x":519,"y":403,"w":53,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":53,"h":77},
+	"sourceSize": {"w":59,"h":79}
+},
+{
+	"filename": "game_big/puz_bubble",
+	"frame": {"x":565,"y":2,"w":93,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":97},
+	"sourceSize": {"w":93,"h":97}
+},
+{
+	"filename": "game_big/puz_gems",
+	"frame": {"x":340,"y":2,"w":104,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":104},
+	"sourceSize": {"w":104,"h":104}
+},
+{
+	"filename": "game_big/puz_hor",
+	"frame": {"x":340,"y":108,"w":97,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":87},
+	"sourceSize": {"w":97,"h":87}
+},
+{
+	"filename": "game_big/puz_vert",
+	"frame": {"x":340,"y":197,"w":86,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":97},
+	"sourceSize": {"w":86,"h":97}
+},
+{
+	"filename": "game_big/tangan",
+	"frame": {"x":574,"y":403,"w":51,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":74},
+	"sourceSize": {"w":51,"h":74}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game_big.png",
+	"format": "RGBA8888",
+	"size": {"w":660,"h":485},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:d7da9293d0fd9f18859d0fd05627c1a1:9d8000210f3064d0184a75b5df6fa43b:29c633f67fe7b917b08e355ed818a6a7$"
+}
+}

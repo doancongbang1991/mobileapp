@@ -1,0 +1,44 @@
+{"frames": {
+
+"Loading.png":
+{
+	"frame": {"x":0,"y":378,"w":192,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":60},
+	"sourceSize": {"w":192,"h":60}
+},
+"LoadingBar.png":
+{
+	"frame": {"x":197,"y":378,"w":50,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":36},
+	"sourceSize": {"w":50,"h":36}
+},
+"LoadingFrame.png":
+{
+	"frame": {"x":0,"y":291,"w":388,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":82},
+	"sourceSize": {"w":388,"h":82}
+},
+"SpiceLogo.png":
+{
+	"frame": {"x":0,"y":0,"w":498,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":498,"h":286},
+	"sourceSize": {"w":500,"h":288}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "LoadingSprites.png",
+	"format": "RGBA8888",
+	"size": {"w":498,"h":438},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2e847129514cb3a8a0360cb94333545f:5e01ee48eaa401520ea0f089466deef3:24048b5e7cf6279965b0a8912debc0ee$"
+}
+}

@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'ComicBook';
+	src: url('comicbook.eot');
+	src: url('comicbook.eot?#iefix') format('embedded-opentype'),
+		url('comicbook.woff') format('woff'),
+		url('comicbook.ttf') format('truetype'),
+		url('comicbook.svg#comic_booknormal') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

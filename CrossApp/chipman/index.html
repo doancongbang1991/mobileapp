@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html manifest="offline.appcache">
+
+<!-- Mirrored from www.intel.com/content/dam/jobs/apps/games/chipman/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 27 Aug 2014 15:03:47 GMT -->
+<head>
+	<title>TM ChipMan</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png"/>
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76.png"/>
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120.png"/>
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png"/>
+	<meta property="og:image" content="apple-touch-icon-152x152.png">
+	<style type="text/css">
+		*:focus {
+    		outline: 0;
+		}
+		
+		html,body {
+			background-color: #004280;
+			color: #fff;
+			font-family: "neo-sans-intel", "tahoma", "helvetica", sans-serif;
+			margin: 0;
+			padding: 0;
+			font-size: 12pt;
+			height: 100%;
+			-webkit-touch-callout: none;
+			-webkit-user-select: none;
+			-webkit-tap-highlight-color: rgba(0,0,0,0);
+			-webkit-text-size-adjust: none;
+		}
+		
+		#floater {
+			height:50%;
+			margin-bottom:-320px;
+			position:relative;
+		}
+		
+		#game {
+			clear: both;
+			position: relative;
+			width: 960px;
+			height: 640px;
+			margin:0 auto;
+			-webkit-box-shadow: 0 0 100px 10px #002c50;
+			-moz-box-shadow: 0 0 100px 10px #002c50;
+			box-shadow: 0 0 100px 10px #002c50;
+		}
+		
+		#canvas {
+			
+			image-rendering: optimizeSpeed;
+			-webkit-interpolation-mode: nearest-neighbor;
+			width: 960px;
+			height: 640px;
+		}
+		
+		#buttons {
+			display: none;
+			position: absolute;
+			width: 100%;
+			bottom:0;
+			height: 96px;
+		}
+		
+		.button {
+			background-image: url(media/buttons.png);
+			background-repeat: no-repeat;
+			width: 80px;
+			height: 96px;
+			position: absolute;
+			bottom: 0;
+			
+			-webkit-touch-callout: none;
+			-webkit-user-select: none;
+			-webkit-tap-highlight-color: rgba(0,0,0,0);
+			-webkit-text-size-adjust: none;
+		}
+		#buttonLeft { left: 0px; background-position: 0, 0; }
+		#buttonRight { left: 80px; background-position: -80px, 0; }
+		#buttonJump { right: 0px; background-position: -160px, 0; }
+		
+		
+		#noCanvas {
+			padding: 50px 30px;
+			font-weight: bold;
+		}
+		
+		#playgame {
+			clear: both;
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			background-color:rgba(0,0,0,0.5);
+			display: none;
+			top: 0;
+			left: 0;
+		}
+		
+		button.startgame {
+			position: absolute;
+			left: 360px;
+			top: 270px;
+			font-size: 28px;
+			color: #ffffff;
+			padding: 20px 40px;
+			background: -moz-linear-gradient(
+				top,
+				#0070c5 0%,
+				#00afef);
+			background: -webkit-gradient(
+				linear, left top, left bottom, 
+				from(#0070c5),
+				to(#00afef));
+			-moz-border-radius: 14px;
+			-webkit-border-radius: 14px;
+			border-radius: 14px;
+			border: 1px solid #004280;
+			-moz-box-shadow:
+				0px 1px 30px rgba(0,0,0,0.3),
+				inset 0px 0px 2px rgba(255,255,255,1);
+			-webkit-box-shadow:
+				0px 1px 30px rgba(0,0,0,0.3),
+				inset 0px 0px 2px rgba(255,255,255,1);
+			box-shadow:
+				0px 1px 30px rgba(0,0,0,0.3),
+				inset 0px 0px 2px rgba(255,255,255,1);
+			text-shadow:
+				0px -1px 0px rgba(0,66,128,0.2),
+				0px 1px 0px rgba(255,255,255,0.4);
+			cursor: pointer;
+		}
+		
+		#canvaslink {
+			cursor: default;
+		}
+		
+		a:link, a:hover, a:active, a:visited {
+			border: 0 none;	
+		}
+		
+		@media screen and (max-device-width: 768px){
+			
+			#floater {
+				margin-bottom: 0;
+				display: none;
+			}
+			
+			#game {
+				width: 320px;
+				height: 320px;
+			}
+			#canvas {
+				width: 320px;
+				height: 320px;
+			}
+			#buttonLeft {left: 0px; bottom:0}
+			#buttonRight {left: 80px; bottom:0;}
+			#buttonJump {right: 0px; bottom:0;}
+		}
+
+		
+		@media screen and (min-device-width: 768px) and (max-device-width: 1024px)  and (orientation:portrait){
+			
+			#floater {
+				margin-bottom: -240px;
+				display: block;
+			}
+			
+			#game {
+				width: 480px;
+				height: 320px;
+			}
+			
+			#canvas {
+				width: 480px;
+				height: 320px;
+			}
+			
+			#buttonLeft {left: 0px; bottom:200px;}
+			#buttonRight {left: 80px; bottom:200px;}
+			#buttonJump {right: 0px; bottom:200px;}
+		}
+		
+		@media screen and (min-device-width: 768px) and (max-device-width: 1024px)  and (orientation:landscape){
+			
+			#floater {
+				margin-bottom: -320px;
+				display: block;
+			}
+			
+			#game {
+				width: 960px;
+				height: 640px;
+			}
+			
+			#canvas {
+				width: 960px;
+				height: 640px;
+			}
+			
+			#buttonLeft {left: 0px; bottom:200px}
+			#buttonRight {left: 80px; bottom:200px;}
+			#buttonJump {right: 0px; bottom:200px;}
+		}
+		
+		@media screen and (-webkit-min-device-pixel-ratio:2) and (max-device-width: 480px){
+			
+			#floater {
+				margin-bottom: 0;
+				display: none;
+			}
+			
+			#game {
+				width: 320px;
+				height: 320px;
+			}
+			
+			#canvas {
+				width: 320px;
+				height: 320px;
+			}
+			
+			#buttonLeft {left: 0px; bottom:16px;}
+			#buttonRight {left: 80px; bottom:16px;}
+			#buttonJump {right: 0px; bottom:16px;}
+		}
+		
+		@media screen and (-webkit-min-device-pixel-ratio:2) and (max-device-width: 480px) and (orientation:landscape){
+			#floater {
+				margin-bottom: -160px;
+				display: block;
+			}
+
+			#buttonLeft {left: 0px; bottom:160px;}
+			#buttonRight {left: 0px; bottom:64px;}
+			#buttonJump {right: 0px; bottom:112px;}
+		}
+	</style>	
+	<script type="text/javascript" src="config.js"></script>
+    <script type="text/javascript" src="game.min.js"></script>    
+	<script type="text/javascript">
+				
+		var isMobile = false;
+		var divplaygame = null;
+		
+		var readyStateCheckInterval = setInterval(function() {
+			if (document.readyState === "complete") {
+			    init();
+			    clearInterval(readyStateCheckInterval);
+			}
+		}, 10);
+		
+		function init(){
+			
+			var divgame = document.getElementById('game');
+			var divbuttons = document.getElementById('buttons');
+			divplaygame = document.getElementById('playgame');
+			
+			if(ig.ua.mobile){
+				
+				isMobile = true;
+				
+				if (window != window.top) {
+					divplaygame.style.display = 'block';
+					divgame.style.display = 'none';
+				} else {
+					//divbuttons.style.display = 'block';
+					divplaygame.style.display = 'none';
+				}
+				
+				document.ontouchmove = function(e){ 
+					e.preventDefault();
+					window.scrollTo(0,1);
+				}
+				
+			} else {
+				
+				isMobile = false;
+				
+				if (window != window.top) {
+					divplaygame.style.display = 'block';
+				} else {
+					divplaygame.style.display = 'none';
+				}
+			}
+		}
+		
+		function StartGame() {
+			if (isMobile) {
+				window.open('index.html', '_blank');
+			} else {
+				divplaygame.style.display = 'none';
+			}
+			
+		}
+	</script>
+</head>
+<body>
+	<div id="floater"></div>
+    <div id="game">
+    	<a id="canvaslink" href="javascript: void(0)" target="_self" onClick="return false;">
+		<canvas id="canvas">
+			<div id="noCanvas">
+				<p>Thank for trying to play TM ChipMan! We'd love to have you  play the game, but it looks like you have disabled JaveScript in your browser or that it doesn't support HTML5.<br />
+  Please try a different browser, or check your settings for enabling JavaScript.  We hope you'll enjoy the game!</p>
+			</div>
+		</canvas>
+        </a>
+	</div>
+	<div id="playgame" onClick="StartGame();"><button type="button" name="startgame" value="Start Game" class="startgame">Start Game</button></div>
+	<div id="buttons">
+		<div class="button" id="buttonLeft"></div>
+		<div class="button" id="buttonRight"></div>
+		<div class="button" id="buttonJump"></div>
+	</div>
+</body>
+
+
+</html>

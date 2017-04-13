@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="css/reset.css" type="text/css">
+        <link rel="stylesheet" href="css/main.css" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,minimal-ui" />
+        <meta name="msapplication-tap-highlight" content="no"/>
+
+        <script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="js/createjs-2015.11.26.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        
+
+    </head>
+    <body ondragstart="return false;" ondrop="return false;" >
+        <div style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%"></div>
+        <script>
+            $(document).ready(function () {
+                var oMain = new CMain({
+                    regular_match_time: 60, //DURATION OF A MATCH IN SECONDS
+                    extend_match_time: 30, // DURATION OF A MATCH ENDED IN TIE IN SECONDS
+                    add_score_player_goal: 60, //ADD SCORE EVERY PLAYER GOAL
+                    remove_score_opponent_goal: -40, //REMOVE SCORE EVERY OPPONENT GOAL
+                    score_win: 100, //ADD SCORE WHEN PLAYER WIN A MATCH
+                    score_tie: 50, //ADD SCORE WHEN PLAYER TIE A MATCH
+                    time_reset_ball: 2, //TIME TO RESET THE BALL AFTER A GOAL IN SECONDS
+                    opponent_speeds: [2.7, 2.7, 2.8, 2.9, 3.0, 3.1, 3.3], //OPPONENT SPEEDS IN PIXEL
+                    time_opp_become_aggressive: 30, // WHEN THE OPPONENT IS IN DISADVANTAGE AND TIME REACH THIS VALUE THE OPPONENT TAKE NEW DISTANCE PROTECTION VALUES
+                    character_speed: 2.7, //CHARACTER SPEED IN PIXEL
+                    opponent_distance_protection: [600, 590, 570, 560, 545, 530, 520], // DISTANCE BETWEEN OPPONENT AND BALL FOR PROTECTION THE GOAL
+                    opponent_distance_protection_after_shoot: [490, 480, 460, 450, 450, 440, 440], //250, 270, 310, 320, 330, 340, 350DISTANCE BETWEEN OPPONENT AND BALL FOR PROTECTION THE GOAL WHEN SHOT THE OPPONENT IN DIRECTION OF THE PLAYER GOAL
+                    opponent_distance_protection_aggressive: 840, //DISTANCE BETWEEN OPPONENT AND BALL FOR PROTECTION THE GOAL WHEN IS BECOME AGGRESSIVE
+                    opponent_distance_protection_after_shoot_aggressive: 700, //DISTANCE BETWEEN OPPONENT AND BALL FOR PROTECTION THE GOAL WHEN SHOT THE OPPONENT IN DIRECTION OF THE PLAYER GOAL WHEN IS BECOME AGGRESSIVE
+                    time_refresh_AI: [0.5, 0.45, 0.4, 0.45, 0.4, 0.35, 0.3], //HOW MUCH TIME THE AI OPPONENT IS UPDATED
+                    reactivity_opponent_for_hell_shoot: {min: 0.5, max: 1}, // REACTIVITY FOR HELL SHOOT WHEN THE BALL COME BEHIND THE OPPONENT 
+                    ball_velocity_x_reaction: -5, //IF THE BALL VELOCITY X IS HIGHER THAN THIS VALUE (THE BALL GO TO THE PLAYER GOAL) THE OPPONENT CAN DECIDE TO PROTECT HIS GOAL WHEN IS OUT OF HIS RANGE
+                    ball_velocity_x_reaction_attack: 2.6, //IF THE BALL VELOCITY IS HIGHER THAN THIS VALUE (THE BALL GO TO THE OPPONENT) THE OPPONENT CAN DECIDE TO GO TO BALL WHEN HIS STAY IN PROTECTION STATE
+                    ball_and_character_distance_protection: 100, //DISTANCE BETWEEN BALL AND CHARACTER FOR PROTECTION THE GOAL
+                    time_reaction_from_save_to_go: {min: 0.1, max: 0.3}, //TIME REACTION FOR CHANGE STATE FROM PROTECT THE GOAL TO GO TO BALL
+                    time_after_reaction: {min: 0.15, max: 0.2}, //TIME AFTER THE OPPONENT CAN TOOK ANOTHER REACTION BEFORE HIS PROTECTS THE GOAL
+                    time_interval_shoot: {min: 0.3, max: 1}, //TIME INTERVAL BETWEEN SHOOTS
+                    time_in_protection_state: {min: 2, max: 5}, //HOW MUCH TIME THE OPPONENT CAN REMAIN BEFORE HE BEGIN TO GO TO BALL 
+                    num_levels_for_ads: 2 //NUMBER OF TURNS PLAYED BEFORE AD SHOWING //
+                            //////// THIS FEATURE  IS ACTIVATED ONLY WITH CTL ARCADE PLUGIN./////////////////////////// 
+                            /////////////////// YOU CAN GET IT AT: ///////////////////////////////////////////////////////// 
+                            // http://codecanyon.net/item/ctl-arcade-wordpress-plugin/13856421///////////
+                });
+                $(oMain).on("start_session", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeStartSession();
+                    }
+                });
+
+                $(oMain).on("end_session", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeEndSession();
+                    }
+                });
+
+                $(oMain).on("start_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeStartLevel({level: iLevel});
+                    }
+                });
+
+                $(oMain).on("restart_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeRestartLevel({level: iLevel});
+                    }
+                });
+
+                $(oMain).on("end_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeEndLevel({level: iLevel});
+                    }
+                });
+
+                $(oMain).on("save_score", function (evt, iScore, szMode) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeSaveScore({score: iScore, mode: szMode});
+                    }
+                });
+
+                $(oMain).on("show_interlevel_ad", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeShowInterlevelAD();
+                    }
+                });
+
+                $(oMain).on("share_event", function (evt, iScore) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeShareEvent({img: TEXT_SHARE_IMAGE,
+                            title: TEXT_SHARE_TITLE,
+                            msg: TEXT_SHARE_MSG1 + iScore + TEXT_SHARE_MSG2,
+                            msg_share: TEXT_SHARE_SHARE1 + iScore + TEXT_SHARE_SHARE1});
+                    }
+                });
+
+
+                if (isIOS()) {
+                    setTimeout(function () {
+                        sizeHandler();
+                    }, 200);
+                } else {
+                    sizeHandler();
+                }
+            });
+
+        </script>
+        <canvas id="canvas" class='ani_hack' width="1360" height="840"> </canvas>
+        <div id="block_game" style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%; display:none"></div>
+    </body>
+</html>

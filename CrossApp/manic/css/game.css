@@ -1,0 +1,48 @@
+html, body
+{
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    overflow: hidden;
+    background: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {position: relative; width: 100%; height: 100%;}
+.game, .canvasGame {position: absolute; }
+body.desktop .game {top: 0; bottom: 0; left: 0; right: 0; margin: auto;}
+
+
+.loading {font: 59px gumball;}
+.manic {font: 76px gumball;}
+.canteen {font: 56px gumball;}
+
+.play_game {font: 48px gumball;}
+.continue {font: 41px gumball;}
+.play_again {font: 41px gumball;}
+
+.instr {font: 32px gumball;}
+.close {font: 20px gumball;}
+
+.well_done {font: 72px gumball;}
+.oh_dear {font: 72px gumball;}
+.score {font: 30px gumball;}
+.best {font: 27px gumball;}
+.rotate {font: 39px gumball;}
+
+.end_score {font: 65px gumball;}
+.hud_score {font: 38px gumball;}
+.hud_lives {font: 38px gumball;}
+
+.summary_amount {font: 80px gumball;}
+.summary_pts {font: 22px gumball;}
+
+
+
+
+
+

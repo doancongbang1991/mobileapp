@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>X-Type</title>
+	<link rel="Shortcut Icon" href="/templates/phoboslab/phoboslab.ico" />
+	<link rel="apple-touch-icon" href="media/icon-128.png"/>
+	<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1; user-scalable=0;"/>
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<style type="text/css">
+		html,body {
+			background-color: #25272b;
+			background-image: url(phobos.png);
+			background-position: 54px 105px;
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			color: #fff;
+			font-family: helvetica, arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			font-size: 12pt;
+			min-height: 416px;
+		}
+		
+		#canvas {
+			background-color: #000;
+			display: none;
+			position: absolute;
+			margin: auto;
+			top: 0;
+			left: 0;
+			right: 0;
+			width: 480px;
+			height: 720px;
+			z-index: 80;
+		}
+		
+		#making-of {
+			display: none;
+			position: absolute;
+			margin: auto;
+			left: 10px;
+			bottom: 10px;
+		}
+		
+		#canvas.desktop {
+			bottom: 0;
+			border: 1px solid #555;
+			cursor: url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=='), auto;
+		}
+		
+		#rotate {
+			width: 125px;
+			height: 180px;
+			position: fixed;
+			margin: auto;
+			left: 0;
+			right: 0;
+			top: 30px;
+			display: none;
+		}
+		
+		#loading {
+			text-align: center;
+			margin-top: 40px;
+		}
+		
+		#nocanvas {
+			width: 360px;
+			margin: 150px auto;
+		}
+		
+		a {
+			color: #8BA7C4;
+		}
+		
+		a:hover {
+			color: #fff;
+		}
+		
+		img {
+			border: 0;
+		}
+		
+		#scoreBox {
+			position: fixed; /* wtf android? WTF? */
+			display: none;
+			width: 480px;
+			height: 100px;
+			left: 0;
+			top: 0;
+			right: 0;
+			margin: auto;
+			text-align: center;
+			z-index: 100;
+			cursor: auto;
+		}
+		
+		#tweetLink {
+			margin-top: 30px;
+			display: block;
+		}
+		
+		#scores {
+			display: none;
+			position: fixed;
+			top: 0;
+			width: 410px;
+			left: 0;
+			right: 0;
+			margin: auto;
+			padding: 0 20px;
+			z-index: 10;
+			color: #fff;
+			font-size: 10pt;
+			cursor: auto;
+			overflow: auto;
+			height: 720px;
+			z-index: 100;
+		}
+		
+		#scores a {
+			font-weight: bold;
+			text-decoration: none;
+			color: #fff;
+		}
+		
+		#scoreMenu a {
+			padding: 2px 5px;
+			margin: 0 1em;
+		}
+		
+		#scores a.active {
+			background-color: #fff;
+			color: #000;
+		}
+		
+		#scoresBack {
+			font-size: 140%;
+		}
+		
+		#scores a:hover {
+			color: #ff7e00
+		}
+		
+		#scoresTable {
+			/*margin: 3em 0 0 0;*/
+			width: 100%;
+		}
+		
+		#scoresTable tr:hover {
+			background-color: rgba(255,255,255,0.2);
+		}
+		
+		#scoresTable .head {
+			font-weight: bold;
+			color: #aab5b9;
+		}
+		
+		.score, .stage {
+			width: 60px;
+			text-align: right;
+		}
+		
+		.rank {
+			width: 20px;
+			text-align: right;
+		}
+		
+	</style>
+	<meta name="description" content="Space Shoot'em'Up"/>
+	<script type="text/javascript" src="xtype.js"></script>
+<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-571256-18', 'auto');
+		ga('send', 'pageview');
+	</script>
+</head>
+<body>
+	<div id="loading">Loading...</div>
+	<canvas id="canvas">
+		<div id="nocanvas">
+			To play this game you need a good Browser, like
+			<a href="http://www.opera.com/">Opera</a>,
+			<a href="http://www.google.com/chrome">Chrome</a>,
+			<a href="http://www.mozilla.com/firefox/">Firefox</a> or
+			<a href="http://www.apple.com/safari/">Safari</a>.
+		</div>
+	</canvas>
+	<div id="making-of">Try it on your iOS or Android Device!<br/>Read the <a href="http://www.phoboslab.org/log/2012/06/x-type-making-of">X-Type – Making Of</a></div>
+	<div id="scoreBox">
+		<form id="scoreForm">
+			<input type="text" id="scoreName" placeholder="Your Name"/>
+			<input type="submit" id="scoreButton" value="Submit Score"/>
+		</form>
+		<div id="scoreResponse"></div>
+		
+		<a href="http://twitter.com/share" onclick="return XType.tweetPopup();" id="tweetLink">
+			<img src="media/tweet-score.png" alt="Tweet Your Score" style="text-align: center"/>
+		</a>
+	</div>
+	<div id="scores">
+		<div style="padding:1em 0">
+			<a href="#" id="scoresBack">&laquo; Back to Title</a>
+		</div>
+		<div style="padding:1em 0" id="scoreMenu">
+			<a id="showScoresDesktop" href="#" class="active">Desktop</a>
+			<a id="showScoresMobile" href="#">Mobile</a>
+		</div>
+		<div id="scoresTable"></div>
+		<div id="scoreNotice"></div>
+	</div>
+	<img id="rotate" src="media/rotate.png" alt="Rotate"/>
+</body>
+</html>

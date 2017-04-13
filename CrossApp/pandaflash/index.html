@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>PandaFlash</title>
+<meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no,target-densitydpi=device-dpi"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="full-screen" content="true"/>
+<meta name="screen-orientation" content="landscape"/>
+<meta name="x5-fullscreen" content="true"/>
+<meta name="360-fullscreen" content="true"/>
+<style>body{text-align:center;background:#000000;padding:0;border:0;margin:0;height:100%;}html{-ms-touch-action:none;overflow:hidden;}div,canvas{display:block;position:absolute;margin:0 auto;padding:0;border:0;}</style>
+</head>
+<body>
+<div style="position:relative;" id="gameDiv"></div>
+<script>var document_class = "Main";</script> 
+ 
+<script src="launcher/egret_require.js"></script>
+<script src="launcher/egret_loader.js"></script>
+<script src="launcher/game-min.js"></script>
+<script>
+    function share(title, name, description, link){
+        console.log('share');
+        FB.ui({
+            method: 'feed',
+            link: link,
+            caption: title,
+            description: description
+        }, function(response){});
+    }
+
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '105233099819991',
+            xfbml      : true,
+            version    : 'v2.3'
+        });
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+    var support = [].map && document.createElement("canvas").getContext;
+    if (support) {
+        egret_h5.startGame();
+    }
+    else {
+        alert("Alert")
+    }
+</script>
+</body>
+</html>

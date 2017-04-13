@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>XformGames - Burnin' Rubber HTML5</title>
+	<meta name="viewport" content="" />
+	<link href="index.css" rel="stylesheet" type="text/css" />
+
+	<script>
+	// Package-ID
+	window.famobi_gameID = "burnin-rubber";
+	window.famobi_gameJS = [
+		"scripts/engine/phaser.min.js",
+		"scripts/plugins/xManager.js",
+		"scripts/game/Boot.js",
+		"scripts/game/Preloader.js",
+		"scripts/game/Menu.js",
+		"scripts/game/Level.js",
+		"scripts/game/Init.js",
+		function(){
+			// possible tab freeze bugfix
+			var $metaviewport = document.querySelector("meta[name=viewport]"), ua = navigator.userAgent,metaViewPortSetting;
+			if ($metaviewport){
+				if(!!ua.match(/iPhone|iPod|Tizen/i))
+					metaViewPortSetting = 'width=device-width, user-scalable=0, minimum-scale=1.0, initial-scale=0.5, maximum-scale=0.5, minimal-ui';
+				else if(!!ua.match(/iPad/i))
+					metaViewPortSetting = 'width=device-width, user-scalable=0, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, minimal-ui';
+				else if(!!ua.match(/Android/i))
+					metaViewPortSetting = 'width=device-width, initial-scale=1, maximum-scale=1.01';
+				else metaViewPortSetting = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0';
+				$metaviewport.setAttribute('content', metaViewPortSetting);
+			}
+		}
+	];
+
+	(function (document, url, fgJS, firstJS) {
+	        fgJS = document.createElement('script');
+	        firstJS = document.getElementsByTagName('script')[0];
+	        fgJS.src = url + encodeURIComponent(document.location.href);
+	        firstJS.parentNode.insertBefore(fgJS, firstJS);
+	})(document, './v1.js?e=');
+	</script>
+</head>
+<body>
+	<div id='orientation'></div>
+</body>
+</html>

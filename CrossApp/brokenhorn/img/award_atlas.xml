@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="awardBack_as.png"	x="0"	y="0"	width="281"	height="87" frameX="-0" frameY="-0" frameWidth="281" frameHeight="87"/>
+	<SubTexture name="award_10_as.png"	x="76"	y="88"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_11_as.png"	x="0"	y="163"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_12_as.png"	x="0"	y="88"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_1_as.png"	x="152"	y="163"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_2_as.png"	x="304"	y="150"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_3_as.png"	x="304"	y="75"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_4_as.png"	x="282"	y="0"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_5_as.png"	x="228"	y="163"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_6_as.png"	x="228"	y="88"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_7_as.png"	x="358"	y="0"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_8_as.png"	x="152"	y="88"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+	<SubTexture name="award_9_as.png"	x="76"	y="163"	width="75"	height="74" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+</TextureAtlas>

@@ -1,0 +1,47 @@
+{
+	"_comments": ["Make sure to turn off development & debug mode before final release", 
+	              "Globals.scene can be 'Menu' or 'Level'."],
+
+	"name": "BurninRubber",
+	"version": 1.12,
+
+	"development": false,
+	"debug": false,
+	"cheats": false,
+
+	"splash": false,
+	"branding": "BrandingHTML5Games",
+	"brandingUrl": "",
+	"language": "en",
+
+	"music": true,
+	"sfx": true,
+	"audioFormat": "mp3",
+	
+	"streetDetail": "High",
+
+	"scene": "Menu",
+	"level": 1,
+
+	"saveData": true,
+	"loadData": true,
+	"deleteData": false,
+	
+	"saveList": ["name", "version", "music", "sfx", "currentCar", "unlockedCars", "newCars", "currentWeapon", "unlockedWeapons", "newWeapons", "bestScore", "totalScore", "bestDistance"],
+
+	"bestScore": 0,
+	"totalScore": 0,
+	"bestDistance": 0,
+
+	"randomLevels": [0, 1, 2, 3, 4, 5],
+
+	"currentCar": "Vice",
+	"unlockedCars": ["Viper", "Vice"],
+	"newCars": [""],
+	"availableCars": ["Viper", "Vice", "Macari", "Rebel", "Panini", "Tsunami"],
+
+	"currentWeapon": "MachineGun",
+	"unlockedWeapons": ["MachineGun", "Shotgun"],
+	"newWeapons": [""],
+	"availableWeapons": ["MachineGun", "Shotgun", "Minigun", "Laser", "FlameThrower", "GrenadeLauncher", "RocketLauncher", "EnergyGun"]
+}

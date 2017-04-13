@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="awardsBtn_as.png"	x="315"	y="815"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="comicsBtn_as.png"	x="327"	y="61"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="exitBtn_as.png"	x="327"	y="122"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="fire_anim_tc0001.png"	x="388"	y="0"	width="53"	height="129" frameX="-9" frameY="-1" frameWidth="66" frameHeight="246"/>
+	<SubTexture name="fire_anim_tc0002.png"	x="433"	y="349"	width="52"	height="131" frameX="-8" frameY="-0" frameWidth="66" frameHeight="246"/>
+	<SubTexture name="fire_anim_tc0003.png"	x="430"	y="864"	width="52"	height="120" frameX="-7" frameY="-11" frameWidth="66" frameHeight="246"/>
+	<SubTexture name="fire_anim_tc0004.png"	x="382"	y="244"	width="53"	height="104" frameX="-4" frameY="-26" frameWidth="66" frameHeight="246"/>
+	<SubTexture name="fire_anim_tc0005.png"	x="314"	y="894"	width="61"	height="115" frameX="-2" frameY="-16" frameWidth="66" frameHeight="246"/>
+	<SubTexture name="fire_anim_tc0006.png"	x="308"	y="371"	width="63"	height="121" frameX="-3" frameY="-10" frameWidth="66" frameHeight="246"/>
+	<SubTexture name="fire_anim_tc0007.png"	x="376"	y="736"	width="59"	height="127" frameX="-5" frameY="-4" frameWidth="66" frameHeight="246"/>
+	<SubTexture name="fire_anim_tc0008.png"	x="376"	y="864"	width="53"	height="131" frameX="-8" frameY="-0" frameWidth="66" frameHeight="246"/>
+	<SubTexture name="helpBtn_as.png"	x="372"	y="371"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="idnetLogo_as.png"	x="0"	y="882"	width="123"	height="56" frameX="-0" frameY="-0" frameWidth="123" frameHeight="56"/>
+	<SubTexture name="infoBtn_as.png"	x="372"	y="432"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="leaderboard_as.png"	x="0"	y="662"	width="221"	height="54" frameX="-0" frameY="-0" frameWidth="221" frameHeight="54"/>
+	<SubTexture name="levelBossBtn_as.png"	x="192"	y="717"	width="95"	height="89" frameX="-0" frameY="-0" frameWidth="95" frameHeight="89"/>
+	<SubTexture name="levelBtn_as.png"	x="223"	y="424"	width="84"	height="80" frameX="-0" frameY="-0" frameWidth="84" frameHeight="80"/>
+	<SubTexture name="levelLock_as.png"	x="192"	y="807"	width="39"	height="55" frameX="-0" frameY="-0" frameWidth="39" frameHeight="55"/>
+	<SubTexture name="levelsBtn_as.png"	x="306"	y="300"	width="70"	height="70" frameX="-0" frameY="-0" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="loginMsgBack_as.png"	x="0"	y="424"	width="222"	height="237" frameX="-0" frameY="-0" frameWidth="222" frameHeight="237"/>
+	<SubTexture name="login_as.png"	x="0"	y="827"	width="191"	height="54" frameX="-0" frameY="-0" frameWidth="191" frameHeight="54"/>
+	<SubTexture name="moreBtn_as.png"	x="223"	y="604"	width="80"	height="80" frameX="-0" frameY="-0" frameWidth="80" frameHeight="80"/>
+	<SubTexture name="nextBtn_as.png"	x="305"	y="505"	width="70"	height="70" frameX="-0" frameY="-0" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="noBtn_as.png"	x="315"	y="754"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="pauseBtn_as.png"	x="327"	y="244"	width="54"	height="54" frameX="-0" frameY="-0" frameWidth="54" frameHeight="54"/>
+	<SubTexture name="playBtn_as.png"	x="124"	y="882"	width="112"	height="112" frameX="-0" frameY="-0" frameWidth="112" frameHeight="112"/>
+	<SubTexture name="playLocal_as.png"	x="0"	y="772"	width="191"	height="54" frameX="-0" frameY="-0" frameWidth="191" frameHeight="54"/>
+	<SubTexture name="playOnline_as.png"	x="0"	y="717"	width="191"	height="54" frameX="-0" frameY="-0" frameWidth="191" frameHeight="54"/>
+	<SubTexture name="recordCup_as.png"	x="288"	y="685"	width="71"	height="68" frameX="-0" frameY="-0" frameWidth="71" frameHeight="68"/>
+	<SubTexture name="resetBtn_as.png"	x="360"	y="675"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="resetMsgBack_as.png"	x="0"	y="300"	width="224"	height="123" frameX="-0" frameY="-0" frameWidth="224" frameHeight="123"/>
+	<SubTexture name="restartBtn_as.png"	x="304"	y="604"	width="70"	height="70" frameX="-0" frameY="-0" frameWidth="70" frameHeight="70"/>
+	<SubTexture name="scrollBtn_img.png"	x="116"	y="995"	width="25"	height="26" frameX="-0" frameY="-0" frameWidth="25" frameHeight="26"/>
+	<SubTexture name="skullSmall_off_anim.png"	x="274"	y="980"	width="36"	height="41" frameX="-0" frameY="-0" frameWidth="36" frameHeight="41"/>
+	<SubTexture name="skullSmall_on_anim.png"	x="237"	y="980"	width="36"	height="41" frameX="-0" frameY="-0" frameWidth="36" frameHeight="41"/>
+	<SubTexture name="soundBtn_off_as.png"	x="327"	y="183"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="soundBtn_on_as.png"	x="375"	y="576"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+	<SubTexture name="sponsorLogo_as.png"	x="0"	y="939"	width="115"	height="75" frameX="-0" frameY="-0" frameWidth="115" frameHeight="75"/>
+	<SubTexture name="victoryBack_img.png"	x="0"	y="0"	width="326"	height="299" frameX="-3" frameY="-1" frameWidth="332" frameHeight="301"/>
+	<SubTexture name="victoryChain_img.png"	x="436"	y="481"	width="18"	height="122" frameX="-0" frameY="-0" frameWidth="18" frameHeight="122"/>
+	<SubTexture name="victorySkullMid_hide_ts.png"	x="225"	y="300"	width="80"	height="96" frameX="-0" frameY="-0" frameWidth="80" frameHeight="96"/>
+	<SubTexture name="victorySkullMid_show_ts.png"	x="223"	y="505"	width="81"	height="98" frameX="-0" frameY="-0" frameWidth="81" frameHeight="98"/>
+	<SubTexture name="victorySkullSide_hide_ts.png"	x="237"	y="894"	width="76"	height="85" frameX="-0" frameY="-0" frameWidth="76" frameHeight="85"/>
+	<SubTexture name="victorySkullSide_show_ts.png"	x="237"	y="807"	width="77"	height="86" frameX="-0" frameY="-0" frameWidth="77" frameHeight="86"/>
+	<SubTexture name="yesBtn_as.png"	x="327"	y="0"	width="60"	height="60" frameX="-0" frameY="-0" frameWidth="60" frameHeight="60"/>
+</TextureAtlas>

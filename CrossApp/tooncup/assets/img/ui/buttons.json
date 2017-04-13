@@ -1,0 +1,615 @@
+{"frames": {
+
+"algeria-flag.png":
+{
+	"frame": {"x":905,"y":99,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"all-stars-africa-flag.png":
+{
+	"frame": {"x":905,"y":178,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"all-stars-euro-flags.png":
+{
+	"frame": {"x":110,"y":712,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"all-stars-middle-east-flag.png":
+{
+	"frame": {"x":110,"y":791,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"all-stars-world-flag.png":
+{
+	"frame": {"x":196,"y":870,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"anais-78x78.jpg":
+{
+	"frame": {"x":449,"y":180,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"big-button-over.png":
+{
+	"frame": {"x":2,"y":712,"w":107,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":90},
+	"sourceSize": {"w":107,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"big-button-up.png":
+{
+	"frame": {"x":2,"y":803,"w":107,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":90},
+	"sourceSize": {"w":107,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"black-flag.png":
+{
+	"frame": {"x":113,"y":257,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"blossom-78x78.jpg":
+{
+	"frame": {"x":339,"y":180,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"blue-pixel.png":
+{
+	"frame": {"x":449,"y":259,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bmo-78x78.jpg":
+{
+	"frame": {"x":339,"y":259,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bubbles-78x78.jpg":
+{
+	"frame": {"x":874,"y":336,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bulgaria-flag.png":
+{
+	"frame": {"x":113,"y":336,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"buttercup-78x78.jpg":
+{
+	"frame": {"x":339,"y":415,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"darwin-78x78.jpg":
+{
+	"frame": {"x":339,"y":494,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"denmark-flag.png":
+{
+	"frame": {"x":113,"y":415,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"egypt-flag.png":
+{
+	"frame": {"x":113,"y":494,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"empty-flag.png":
+{
+	"frame": {"x":113,"y":573,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"finn-78x78.jpg":
+{
+	"frame": {"x":339,"y":573,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"flag-white-border.png":
+{
+	"frame": {"x":223,"y":652,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"france-flag.png":
+{
+	"frame": {"x":223,"y":731,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"germany-flag.png":
+{
+	"frame": {"x":309,"y":810,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"greece-flag.png":
+{
+	"frame": {"x":309,"y":889,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"grizz-bear.jpg":
+{
+	"frame": {"x":418,"y":415,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gumball-78x78.jpg":
+{
+	"frame": {"x":418,"y":494,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hungary-flag.png":
+{
+	"frame": {"x":226,"y":257,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ice-bear-78x78.jpg":
+{
+	"frame": {"x":418,"y":573,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"icon-back.png":
+{
+	"frame": {"x":905,"y":2,"w":115,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":96},
+	"sourceSize": {"w":115,"h":96},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"icon-cross.png":
+{
+	"frame": {"x":2,"y":257,"w":110,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":90},
+	"sourceSize": {"w":110,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"icon-exit.png":
+{
+	"frame": {"x":2,"y":348,"w":110,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":90},
+	"sourceSize": {"w":110,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"icon-help.png":
+{
+	"frame": {"x":2,"y":439,"w":110,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":90},
+	"sourceSize": {"w":110,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"icon-pause.png":
+{
+	"frame": {"x":2,"y":530,"w":110,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":90},
+	"sourceSize": {"w":110,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"icon-sound-off.png":
+{
+	"frame": {"x":2,"y":894,"w":96,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":80},
+	"sourceSize": {"w":96,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"icon-sound-on.png":
+{
+	"frame": {"x":99,"y":894,"w":96,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":80},
+	"sourceSize": {"w":96,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"icon-tick.png":
+{
+	"frame": {"x":2,"y":621,"w":110,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":90},
+	"sourceSize": {"w":110,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"iraq-flag.png":
+{
+	"frame": {"x":226,"y":336,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"italy-flag.png":
+{
+	"frame": {"x":226,"y":415,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jake-78x78.jpg":
+{
+	"frame": {"x":449,"y":652,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leaderboard-hover.png":
+{
+	"frame": {"x":2,"y":2,"w":300,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":88},
+	"sourceSize": {"w":300,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leaderboard-normal.png":
+{
+	"frame": {"x":303,"y":2,"w":300,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":88},
+	"sourceSize": {"w":300,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"marceline-78x78.jpg":
+{
+	"frame": {"x":449,"y":731,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"mojo-78x78.jpg":
+{
+	"frame": {"x":497,"y":415,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"moredecai-78x78.jpg":
+{
+	"frame": {"x":497,"y":494,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"netherlands-flag.png":
+{
+	"frame": {"x":226,"y":494,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"norway-flag.png":
+{
+	"frame": {"x":226,"y":573,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"orange-pixel.png":
+{
+	"frame": {"x":497,"y":573,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"panda-bear-78x78.jpg":
+{
+	"frame": {"x":528,"y":652,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"poland-flag.png":
+{
+	"frame": {"x":336,"y":652,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portugal-flag.png":
+{
+	"frame": {"x":336,"y":731,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"princess-bubblegum-78x78.jpg":
+{
+	"frame": {"x":528,"y":731,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"quickplay-hover.png":
+{
+	"frame": {"x":604,"y":2,"w":300,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":88},
+	"sourceSize": {"w":300,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"quickplay-normal.png":
+{
+	"frame": {"x":2,"y":91,"w":300,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":88},
+	"sourceSize": {"w":300,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"richard-78x78.jpg":
+{
+	"frame": {"x":535,"y":810,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rigby-78x78.jpg":
+{
+	"frame": {"x":535,"y":889,"w":78,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":78},
+	"sourceSize": {"w":78,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"romania-flag.png":
+{
+	"frame": {"x":422,"y":810,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"russia-flag.png":
+{
+	"frame": {"x":422,"y":889,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"saudi-arabia-flag.png":
+{
+	"frame": {"x":535,"y":180,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"south-africa-flag.png":
+{
+	"frame": {"x":648,"y":180,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spain-flag.png":
+{
+	"frame": {"x":761,"y":180,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"sweden-flag.png":
+{
+	"frame": {"x":874,"y":257,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"tournament-hover.png":
+{
+	"frame": {"x":303,"y":91,"w":300,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":88},
+	"sourceSize": {"w":300,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"tournament-normal.png":
+{
+	"frame": {"x":604,"y":91,"w":300,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":88},
+	"sourceSize": {"w":300,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"transparent-pixel.png":
+{
+	"frame": {"x":1021,"y":2,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1,"h":1},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"turkey-flag.png":
+{
+	"frame": {"x":535,"y":259,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"uae-flag.png":
+{
+	"frame": {"x":648,"y":259,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"uk-flag.png":
+{
+	"frame": {"x":761,"y":259,"w":112,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":78},
+	"sourceSize": {"w":112,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "buttons.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3d484d858253536e4f58d637516dae00:9e7b5bde145035dbca4027dfe5943721:b34c8670b11bb20cb1751a70d3683e22$"
+}
+}

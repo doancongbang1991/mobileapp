@@ -1,0 +1,340 @@
+{"frames": {
+
+"penfold_box_1.png":
+{
+	"frame": {"x":220,"y":176,"w":72,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
+	"sourceSize": {"w":72,"h":72}
+},
+"penfold_box_2.png":
+{
+	"frame": {"x":294,"y":176,"w":72,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
+	"sourceSize": {"w":72,"h":72}
+},
+"penfold_boxflip_01.png":
+{
+	"frame": {"x":271,"y":2,"w":51,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":51,"h":84},
+	"sourceSize": {"w":71,"h":84}
+},
+"penfold_boxflip_02.png":
+{
+	"frame": {"x":545,"y":2,"w":56,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":56,"h":83},
+	"sourceSize": {"w":71,"h":84}
+},
+"penfold_boxflip_03.png":
+{
+	"frame": {"x":529,"y":87,"w":61,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":1,"w":61,"h":83},
+	"sourceSize": {"w":71,"h":84}
+},
+"penfold_boxflip_04.png":
+{
+	"frame": {"x":480,"y":2,"w":63,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":63,"h":83},
+	"sourceSize": {"w":71,"h":84}
+},
+"penfold_boxflip_05.png":
+{
+	"frame": {"x":706,"y":2,"w":69,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":69,"h":82},
+	"sourceSize": {"w":71,"h":84}
+},
+"penfold_boxflip_06.png":
+{
+	"frame": {"x":748,"y":86,"w":58,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":58,"h":82},
+	"sourceSize": {"w":71,"h":84}
+},
+"penfold_busted_1.png":
+{
+	"frame": {"x":699,"y":87,"w":47,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":83},
+	"sourceSize": {"w":47,"h":83}
+},
+"penfold_busted_2.png":
+{
+	"frame": {"x":106,"y":97,"w":52,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":87},
+	"sourceSize": {"w":52,"h":87}
+},
+"penfold_dm_mask.png":
+{
+	"frame": {"x":76,"y":192,"w":86,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":53},
+	"sourceSize": {"w":86,"h":72}
+},
+"penfold_float_01.png":
+{
+	"frame": {"x":2,"y":2,"w":106,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":106,"h":93},
+	"sourceSize": {"w":109,"h":93}
+},
+"penfold_float_02.png":
+{
+	"frame": {"x":2,"y":97,"w":102,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":102,"h":93},
+	"sourceSize": {"w":109,"h":93}
+},
+"penfold_float_03.png":
+{
+	"frame": {"x":550,"y":172,"w":109,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":109,"h":81},
+	"sourceSize": {"w":109,"h":93}
+},
+"penfold_float_04.png":
+{
+	"frame": {"x":368,"y":174,"w":106,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":106,"h":71},
+	"sourceSize": {"w":109,"h":93}
+},
+"penfold_float_05.png":
+{
+	"frame": {"x":550,"y":172,"w":109,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":109,"h":81},
+	"sourceSize": {"w":109,"h":93}
+},
+"penfold_groucho.png":
+{
+	"frame": {"x":2,"y":192,"w":72,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":59},
+	"sourceSize": {"w":72,"h":72}
+},
+"penfold_idle_01.png":
+{
+	"frame": {"x":321,"y":88,"w":50,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":50,"h":84},
+	"sourceSize": {"w":53,"h":84}
+},
+"penfold_idle_02.png":
+{
+	"frame": {"x":324,"y":2,"w":50,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":50,"h":84},
+	"sourceSize": {"w":53,"h":84}
+},
+"penfold_idle_03.png":
+{
+	"frame": {"x":373,"y":88,"w":50,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":50,"h":84},
+	"sourceSize": {"w":53,"h":84}
+},
+"penfold_idle_04.png":
+{
+	"frame": {"x":373,"y":88,"w":50,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":50,"h":84},
+	"sourceSize": {"w":53,"h":84}
+},
+"penfold_idle_05.png":
+{
+	"frame": {"x":376,"y":2,"w":50,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":50,"h":84},
+	"sourceSize": {"w":53,"h":84}
+},
+"penfold_idle_06.png":
+{
+	"frame": {"x":425,"y":88,"w":50,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":50,"h":84},
+	"sourceSize": {"w":53,"h":84}
+},
+"penfold_idle_07.png":
+{
+	"frame": {"x":428,"y":2,"w":50,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":50,"h":84},
+	"sourceSize": {"w":53,"h":84}
+},
+"penfold_jump.png":
+{
+	"frame": {"x":661,"y":172,"w":71,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":71,"h":81},
+	"sourceSize": {"w":80,"h":85}
+},
+"penfold_lamp.png":
+{
+	"frame": {"x":476,"y":174,"w":72,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":71},
+	"sourceSize": {"w":72,"h":72}
+},
+"penfold_princesshair.png":
+{
+	"frame": {"x":786,"y":2,"w":59,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":51},
+	"sourceSize": {"w":83,"h":83}
+},
+"penfold_walk_01.png":
+{
+	"frame": {"x":477,"y":88,"w":50,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":50,"h":84},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_walk_02.png":
+{
+	"frame": {"x":734,"y":172,"w":50,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":50,"h":81},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_walk_03.png":
+{
+	"frame": {"x":655,"y":2,"w":49,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":49,"h":83},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_walk_04.png":
+{
+	"frame": {"x":165,"y":2,"w":52,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":85},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_walk_05.png":
+{
+	"frame": {"x":603,"y":2,"w":50,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":50,"h":83},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_walk_06.png":
+{
+	"frame": {"x":647,"y":87,"w":50,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":50,"h":83},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_walk_07.png":
+{
+	"frame": {"x":219,"y":2,"w":50,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":50,"h":85},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_walk_08.png":
+{
+	"frame": {"x":110,"y":2,"w":53,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":53,"h":85},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_walk_09.png":
+{
+	"frame": {"x":269,"y":89,"w":50,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":50,"h":85},
+	"sourceSize": {"w":55,"h":85}
+},
+"penfold_wee_wee_01.png":
+{
+	"frame": {"x":160,"y":89,"w":53,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":53,"h":85},
+	"sourceSize": {"w":54,"h":85}
+},
+"penfold_wee_wee_02.png":
+{
+	"frame": {"x":786,"y":170,"w":54,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":80},
+	"sourceSize": {"w":54,"h":85}
+},
+"penfold_wee_wee_03.png":
+{
+	"frame": {"x":164,"y":176,"w":54,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":75},
+	"sourceSize": {"w":54,"h":85}
+},
+"penfold_wee_wee_04.png":
+{
+	"frame": {"x":215,"y":89,"w":52,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":52,"h":85},
+	"sourceSize": {"w":54,"h":85}
+},
+"penfold_wee_wee_05.png":
+{
+	"frame": {"x":592,"y":87,"w":53,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":53,"h":83},
+	"sourceSize": {"w":54,"h":85}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "penfold_anims.png",
+	"format": "RGBA8888",
+	"size": {"w":848,"h":255},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6977cf63911577a9ff155d4d51a73699:c475070608a4408667c0149296748792:a9bcd187a6b1c5b02194112730afd799$"
+}
+}

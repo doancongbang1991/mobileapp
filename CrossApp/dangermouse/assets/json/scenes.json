@@ -1,0 +1,550 @@
+{
+  "scenes": {
+
+        "level_1_intro" : {
+                "images": ["img/game/cinemas/cinamas_world1_intro.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"Learning the Ropes",
+                        "clip":"snd/world1_title",
+                        "left":true
+                    },
+                    {
+                        "char":"squark",
+                        "copy":"Now listen you two, I’ve installed some new security measures in the lab so WHATEVER YOU DO...",
+                        "clip":"snd/squawkencluck_world1_intro_1",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Yes thanks, we get it. New security. Don’t touch. Eat your greens",
+                        "clip":"snd/dm_world1_intro_we_get_it",
+                        "left":false
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"Aw, I hate greens…",
+                        "clip":"snd/penfold_world1_intro_2_hate_greens",
+                        "left":false
+                    },
+                    {
+                        "char":"squark",
+                        "copy":"Oh forget it. You’ll find out soon enough",
+                        "clip":"snd/squawkencluck_world1_intro_3",
+                        "left":true
+                    }
+                ]
+        },
+        "level_1_outro" : {
+                "images": ["img/game/cinemas/cinamas_world1_outro.jpg" ],
+                "copy":[
+                    {
+                        "char":"squark",
+                        "copy":"Oh, so you made it out. I hope you didn’t break anything! I suppose you think that means you’re ready for your first mission?!",
+                        "clip":"snd/squawkencluck_world1_outro_1",
+                        "left":false
+                    }
+                ]
+        },
+
+        "level_2_intro" : {
+                "images": ["img/game/cinemas/cinamas_world2_intro.jpg",
+                          "img/game/cinemas/cinamas_world2_intro_1.jpg"],
+
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"Global Warning",
+                        "clip":"snd/world2_title_global_warning",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"The villainous Baron Silas Von Greenback is turning up the heat on the citizens of earth.",
+                        "clip":"snd/world2_intro1",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Unless he receives all of the money IN THE WORLD by tomorrow breakfast time,",
+                        "clip":"snd/world2_intro2new",
+                        "image":1,
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"he will melt the polar ice caps and submerge all coastal cities.",
+                        "clip":"snd/world2_intro3new",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Who can stop this temperate torture?!",
+                        "clip":"snd/world2_intro4",
+                        "image":0,
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Ah, I believe my ears are burning...",
+                        "clip":"snd/dm_world2_intro_ears_burning",
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"Ooh eck, chief! Should I get a fire extinguisher?!",
+                        "clip":"snd/penfold_world2_intro_get_fire_extinguisher",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Not that sort of burning, Penfold. Right, let’s go and show Greenback who’s boss!",
+                        "clip":"snd/dm_world2_not_that_sort_burning",
+                        "left":true
+                    }
+                ]
+        },
+
+        "level_2_outro" : {
+                "images": ["img/game/cinemas/underwater_outro.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"A humiliated Greenback turns and runs. The citizens of earth can breathe easy once more.",
+                        "clip":"snd/world2_outro",
+                        "left":false
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"All in a day’s work, eh Penfold!",
+                        "clip":"snd/dm_world2_outro_all_in_days_work",
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"I hate Mondays...",
+                        "clip":"snd/penfold_world2_outro_i_hate_mondays",
+                        "left":false
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"As one villain is vanquished, another rises. There are already murmurs of trouble emanating from sewers all over the world...",
+                        "clip":"snd/world2_outro2",
+                        "left":false
+                    }
+                ]
+        },
+
+
+
+
+
+
+        "level_3_intro" : {
+                "images": ["img/game/cinemas/sewer_intro_1.jpg",
+                           "img/game/cinemas/sewer_intro.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"Loo-topia",
+                        "clip":"snd/world3_title1_lootopia",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Loocifer has united the toilets of the world to revolt, in more ways than one.",
+                        "clip":"snd/world3_intro",
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"Crikey! I wish I’d gone before we left the house.",
+                        "clip":"snd/penfold_world3_intro_wish_gone_before",
+                        "image":1,
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Really Penfold, well I did warn you. You’ll just have to hold it.",
+                        "clip":"snd/dm_world3_intro_just_have_to_hold_it",
+                        "left":true
+                    } ,
+                    {
+                        "char":"penfold",
+                        "copy":"OK chief, but can we make this amazing adventure a quick one!",
+                        "clip":"snd/penfold_world3_intro_amazing_adventure_quick",
+                        "left":true
+                    }
+                ]
+        },
+        "level_3_outro" : {
+                "images": ["img/game/cinemas/sewer_outro.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"It looks like Loocifer was just a ‘flush in the pan’...",
+                        "clip":"snd/world3_outro1_flush_in_the_pan",
+                        "left":false
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"Thank goodness! I’m going to wet meself!",
+                        "clip":"snd/penfold_world3_outro_going_wet_myself",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Honestly Penfold. Too much information.",
+                        "clip":"snd/dm_world3_outro_too_much_info",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Toilet breaks taken, it’s time to move on to the next breaking crisis...",
+                        "clip":"snd/world3_outro2_toilet_breaks_taken",
+                        "left":true
+                    }
+                ]
+        },
+
+
+
+
+
+
+
+        "level_4_intro" : {
+                "images": ["img/game/cinemas/ny_intro_1.jpg",
+                           "img/game/cinemas/ny_intro.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"Small Time Chimp",
+                        "clip":"snd/world4_title2___small_time_chimp",
+                        "left":false
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Isambard King Kong Brunel’s latest invention “The Long Lie-in” is unstitching the fabric of time.",
+                        "clip":"snd/world4_intro1",
+                        "left":true
+                    },
+                    {
+                        "char":"squark",
+                        "copy":"The theory is actually sound - a temporal dilation unit to give us all an extra hour in bed",
+                        "clip":"snd/squawkencluck_world4_intro_2",
+                        "image":1,
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"His madcap gizmo designed to give us all an extra hour in bed is going a bit wrong",
+                        "clip":"snd/world4_intro3_madcap_gizmo",
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"An extra hour in bed?! Now that’s not a bad idea",
+                        "clip":"snd/penfold_world4_intro_hour_in_bed",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Penfold, that monkey’s nuts! We need to save the world in the nick of time!",
+                        "clip":"snd/dm_world4_intro_that_monkeys_nuts",
+                        "image":0,
+                        "left":true
+                    }
+                ]
+        },
+        "level_4_outro" : {
+                "images": ["img/game/cinemas/ny_outro.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"That looked like a 'barrel of laughs'!",
+                        "clip":"snd/world4_outro1___barrel_of_laughs",
+                        "left":false
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Yes, quite. It’s time to get this monkey chimprisoned!",
+                        "clip":"snd/dm_world4_outro_chimprisoned",
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"I still think an extra hour in bed was a good idea...",
+                        "clip":"snd/penfold_world4_outro_still_think",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"There’s no rest for the wicked, or indeed the good. Our intrepid heroes must be called upon one more time...",
+                        "clip":"snd/world4_outro4_rest_for_the_wicked2",
+                        "left":true
+                    }
+                ]
+        },
+
+        "level_5_intro" : {
+                "images": ["img/game/cinemas/moonbase_intro.jpg",
+                           "img/game/cinemas/moonbase_intro_1.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"Over the moon",
+                        "clip":"snd/world5_title2_over_the_moon",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Greenback has snatched Colonel K and incarcerated him in his moonbase prison! Without his leadership, crime is running amoc back on earth!",
+                        "clip":"snd/world5_intro1_snatched_colonel_k",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Good heavens, Penfold! Greenback’s back!",
+                        "clip":"snd/dm_world5_intro_greenbacks_back",
+                        "image":1,
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"Eew, I know, all green and warty isn’t it!",
+                        "clip":"snd/penfold_world5_intro_green_and_warty",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"His front’s no better... Focus! We must rescue the Colonel",
+                        "clip":"snd/dm_world5_intro_fronts_no_better",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"This is the big one. The battle royale. The final showdown. High Moon!!",
+                        "clip":"snd/world5_intro4_this_is_the_big_one_2",
+                        "left":true
+                    }
+                ]
+        },
+        "level_5_outro" : {
+                "images": ["img/game/cinemas/moonbase_outro.jpg"],
+                "copy":[
+                    {
+                        "char":"penfold",
+                        "copy":"Well that’s the toad in the black hole!",
+                        "clip":"snd/penfold_world5_outro_toad_in_blackhole",
+                        "left":false
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"The Baron is defeated once more, but back on earth there’s a major crime wave brewing",
+                        "clip":"snd/world5_outro1_the_baron_defeated_once_more",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Major crime wave eh? Penfold - surf’s up!",
+                        "clip":"snd/dm_world5_outro_crime_wave_surfs",
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"Ooh eck!",
+                        "clip":"snd/penfold_world5_outro_ooh_eck",
+                        "left":true
+                    }
+                ]
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "level_6_intro" : {
+                "images": ["img/game/cinemas/pinkdawn_intro.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"Back to the Fuschia",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line001_t2",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"A dictionary definition of precocious, Dawn has quite literally let power go to her head!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line002_t2",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"As a result London, our Londonest capital has been turned into a candy-coloured land of rainbows and unicorns",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line002_t2_pt2",
+                        "left":true
+                    },
+                    {
+                        "char":"dawn",
+                        "copy":"Pat-a-cake, pat-a-cake, I’m just a little girl, Pat-a-cake, pat-a-cake, I’m gonna rule the world!",
+                        "clip":"snd/expansion/dm108_pd_line_07_36",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Good Heaven’s Penfold! She’s gone power mad - have you seen what she’s done to London?!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_danger_mouse_line004_t2",
+                        "left":false
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"I rather like what she’s done with the old place!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_penfold_line005_t4",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Sometimes I really do worry about you, Penfold...",
+                        "clip":"snd/expansion/dm_sy2_game_vo_danger_mouse_line006a_t2",
+                        "left":false
+                    }
+                ]
+        },
+        "level_6_outro" : {
+                "images": ["img/game/cinemas/pinkdawn_outro.jpg"],
+                "copy":[
+                    {
+                        "char":"dangermouse",
+                        "copy":"That’s more like it, London is returned to its grey, concrete-y splendour!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_danger_mouse_line007_t3",
+                        "left":false
+                    },
+                    {
+                        "char":"dawn",
+                        "copy":"NOOOOoooo! Phooey!",
+                        "clip":"snd/expansion/dm108_pd_line_09_45",
+                        "left":false
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"And as the sun sets, Dawn is sent home for early bedtime without any TV and no supper",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line009_t6",
+                        "left":false
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"What a day! I think we could all use an early night, eh Penfold.",
+                        "clip":"snd/expansion/dm_sy2_game_vo_danger_mouse_line010_t3",
+                        "left":false
+                    },
+                    {
+                        "char":"penfold_pyjamas",
+                        "copy":"And I suppose there’s no harm in me keeping these pyjamas. I mean it would be a shame to waste them...",
+                        "clip":"snd/expansion/dm_sy2_game_vo_penfold_line011_t3",
+                        "left":false
+                    }
+                ]
+        },
+        "level_7_intro" : {
+                "images": ["img/game/cinemas/dangerfan_intro.jpg"],
+                "copy":[
+                    {
+                        "char":"narrator",
+                        "copy":"Total Fanarchy",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line018_t4",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Fanboy fiend, Ian “Danger Fan” has swiped the shrinketiser ray from Squawkencluck’s lab!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line019_t2",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Keen to add it to his collection he rushes back home with his stolen loot",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line019_t2_pt2",
+                        "left":true
+                    },
+                    {
+                        "char":"ian",
+                        "copy":"The Shrinkatiser!! O.M.D.M!!",
+                        "clip":"snd/expansion/dm112_df_line_03_34",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"Careful with that thing Ian! It’s set to shrink... ZAP! ...everyone!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_danger_mouse_line021_t2",
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"Crumbs chief, we’re tiny! The world looks so big and scary!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_penfold_line022_t1",
+                        "left":true
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"That miniature menace has run off and hidden in his little toy collection - after him!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_danger_mouse_line023_t3",
+                        "left":true
+                    },
+                    {
+                        "char":"ian",
+                        "copy":"Don’t touch my limited editions!",
+                        "clip":"snd/expansion/dm112_df_line_07_04",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"Speed is of the essence as our diminutive duo must capture Danger Fan before the effects wear off!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line025_t2",
+                        "left":true
+                    }
+                ]
+        },
+        "level_7_outro" : {
+                "images": ["img/game/cinemas/dangerfan_outro.jpg"],
+                "copy":[
+                    {
+                        "char":"ian",
+                        "copy":"You’ve not heard the last of me Danger Mouse! I can’t believe I got to say that! This is the best day ever!",
+                        "clip":"snd/expansion/dm112_df_line_07_29",
+                        "left":false
+                    },
+                    {
+                        "char":"dangermouse",
+                        "copy":"With that little menace safely out of harm’s way I’d say that was a fan-tastic result!",
+                        "clip":"snd/expansion/dm_sy2_game_vo_danger_mouse_line027_t2",
+                        "left":true
+                    },
+                    {
+                        "char":"penfold",
+                        "copy":"Ooh thank goodness! It’s great to be big again.",
+                        "clip":"snd/expansion/dm_sy2_game_vo_penfold_line028_t1",
+                        "left":true
+                    },
+                    {
+                        "char":"narrator",
+                        "copy":"And once more, order is restored to the world… Or IS it?! Oh yes… I’ve just been told… It definitely is. As you were...",
+                        "clip":"snd/expansion/dm_sy2_game_vo_narrator_line029_t3",
+                        "left":true
+                    }
+                ]
+        }
+    }
+  }

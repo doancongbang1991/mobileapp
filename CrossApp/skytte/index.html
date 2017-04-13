@@ -1,0 +1,289 @@
+
+<!DOCTYPE html>
+<html lang="en" manifest="offline.appcache">
+    <head>
+        <meta charset="utf-8">
+        <title>Skytte</title>
+        
+        	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+            <link href="styles/normalize2.css" rel="stylesheet">
+            <link href="styles/fonts.css" rel="stylesheet">
+            <link href="styles/base.css" rel="stylesheet">
+            <link href="styles/game.css" rel="stylesheet">
+            <link href="styles/main.css" rel="stylesheet">
+            <link href="styles/awwwards.css" rel="stylesheet">
+        
+
+        <meta content="Fast-paced HTML5 Canvas shoot'em up game" name="description">
+        <meta content="website" property="og:type">
+        <meta content="Skytte" property="og:title">
+        <meta content="Merixstudio" property="og:site_name">
+        <meta content="http://www.taiminh.com/skytte/" property="og:url">
+        <meta content="Fast-paced HTML5 Canvas shoot'em up game" property="og:description">
+        <meta content="images/open_graph/960x640.jpg" property="og:image">
+        <meta content="image/jpeg" property="og:image:type">
+        <meta content="960" property="og:image:width">
+        <meta content="640" property="og:image:height">
+        <meta content="images/open_graph/480x320.jpg" property="og:image">
+        <meta content="image/jpeg" property="og:image:type">
+        <meta content="480" property="og:image:width">
+        <meta content="320" property="og:image:height">
+        <meta content="369074351639" property="fb:app_id">
+		
+		<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+	
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="apple-touch-icon" sizes="256x256" href="logo.png" />
+		<meta name="HandheldFriendly" content="true" />
+		
+		<!-- Chrome for Android web app tags -->
+		<meta name="mobile-web-app-capable" content="yes" />
+		<link rel="shortcut icon" sizes="256x256" href="logo.png" />
+
+    </head>
+    <body>
+
+        <div class="game"><div class="menu"><div class="menu-screen" data-role="menu-main">
+                    <p class="logo"><img src="images/logo.svg" alt="Skytte"></p>
+                    <ul><li><button class="button medium icon-play" data-role="new-game">Start Game</button></li>
+                        <li><button class="toggle audio" data-role="toggle toggle-audio">Audio</button></li>
+                        <li><button class="toggle audio" data-role="toggle toggle-music">Music</button></li></ul>
+                    <dl class="score-footer"><dt class="score">Highscore:</dt>
+                        <dd class="score"><span data-role="player-score-best"></span></dd>
+                        <dt class="combo">Best Combo:</dt>
+                        <dd class="combo">+<span data-role="player-best-combo-best"></span></dd>
+                        <dt class="multiplier">Best Multiplier:</dt>
+                        <dd class="multiplier">x<span data-role="player-best-multiplier-best"></span></dd>
+                        <dt>Most Kills:</dt>
+                        <dd><span data-role="player-kill-count-best"></span></dd>
+                        <dt>Best Distance:</dt>
+                        <dd><span data-role="player-distance-best"></span>
+                            km</dd></dl>
+                </div>
+                <div class="menu-screen" data-role="menu-loading">
+                    <h1>Power-Ups</h1>
+                    <dl class="power-ups">
+                        <dt class="weapon"></dt>
+                        <dd>Weapon upgrade</dd>
+                        <dt class="score-multiplier"></dt>
+                        <dd>Score multiplier</dd>
+                        <dt class="damage-multiplier"></dt>
+                        <dd>Damage multiplier</dd>
+                    </dl>
+                    <dl class="power-ups">
+                        <dt class="score"></dt>
+                        <dd>Additional points</dd>
+                        <dt class="life"></dt>
+                        <dd>Additional life</dd>
+                        <dt class="repair"></dt>
+                        <dd>Repair ship</dd>
+                    </dl>
+                    <p class="progress">Loading
+                        <b data-role="load-progress">0%</b></p>
+                    <p><button class="button medium icon-play" data-role="play-game">Play</button></p>
+                </div>
+                <div class="menu-screen" data-role="menu-pause">
+                    <ul>
+                        <li><button class="button medium icon-play" data-role="resume-game">Resume</button></li>
+                        <li><button class="toggle audio" data-role="toggle toggle-audio">Audio</button></li>
+                        <li><button class="toggle audio" data-role="toggle toggle-music">Music</button></li>
+                        <li><button class="button small icon-restart" data-role="restart-game">Restart</button></li>
+                    </ul>
+                </div>
+                <div class="menu-screen" data-role="menu-restart">
+                    <h1>Really restart?</h1>
+                    <ul>
+                        <li><button class="button small icon-restart" data-role="new-game">Restart</button></li>
+                        <li><button class="button small" data-role="cancel-game-restart">Cancel</button></li>
+                    </ul>
+                </div>
+                <div class="menu-screen" data-role="menu-level-summary">
+                    <h1>Level
+                        <span data-role="level"></span>
+                        of 6 Cleared</h1>
+                    <table class="scoring"><tr><th class="score">Your Score</th>
+                            <td class="score"><span data-role="player-score-game"></span></td></tr>
+                        <tr><th class="combo">Best Combo</th>
+                            <td class="combo">+<span data-role="player-best-combo-game"></span></td></tr>
+                        <tr><th class="multiplier">Best Multiplier</th>
+                            <td class="multiplier">x<span data-role="player-best-multiplier-game"></span></td></tr>
+                        <tr><th>Destroyed Enemies</th>
+                            <td><span data-role="player-kill-count-game"></span></td></tr>
+                        <tr>
+                            <th>Travelled Distance</th>
+                            <td><span data-role="player-distance-game"></span>
+                                km</td>
+                        </tr></table>
+                    <p><button class="button small icon-play" data-role="next-level">Next Level</button></p>
+                </div>
+                <div class="menu-screen" data-role="menu-game-summary">
+                    <h1></h1>
+                    <table class="scoring">
+                        <tr class="small">
+                            <th></th>
+                            <th>This Game</th>
+                            <th>Best Game</th>
+                        </tr>
+                        <tr>
+                            <th class="score">Your Score</th>
+                            <td class="score"><span data-role="player-score-game"></span></td>
+                            <td class="score"><span data-role="player-score-best"></span></td>
+                        </tr>
+                        <tr><th class="combo">Best Combo</th>
+                            <td class="combo">+<span data-role="player-best-combo-game"></span></td>
+                            <td class="combo">+<span data-role="player-best-combo-best"></span></td></tr>
+                        <tr><th class="multiplier">Best Multiplier</th>
+                            <td class="multiplier">x<span data-role="player-best-multiplier-game"></span></td>
+                            <td class="multiplier">x<span data-role="player-best-multiplier-best"></span></td></tr>
+                        <tr><th>Destroyed Enemies</th>
+                            <td><span data-role="player-kill-count-game"></span></td>
+                            <td><span data-role="player-kill-count-best"></span></td></tr>
+                        <tr><th>Travelled Distance</th>
+                            <td><span data-role="player-distance-game"></span>
+                                km</td>
+                            <td><span data-role="player-distance-best"></span>
+                                km</td></tr>
+                    </table>
+                    <p><button class="button small icon-play" data-role="new-game">Play Again</button></p>
+                </div></div>
+            <canvas id="screen" width="960" height="640"></canvas></div>
+			
+       
+        
+        <audio id="music" preload loop>
+            <source src="sounds/music.ogg">
+            <source src="sounds/music.mp4">
+
+        </audio>
+        
+<script type="text/javascript">
+// <![CDATA[
+               //URL Online
+               var STATIC_URL = 'http://mobile.taiminh.com/skytte/';
+			   //URL for testing
+			   //var STATIC_URL = 'file:///D:/Onedrive/Project/Cross/Game/skytte/';
+// ]]>
+</script>
+<!-- SoundJS and CreateJS - both required for sound playback. -->
+            <script src="scripts/createjs/utils/Proxy.js"></script>
+            <script src="scripts/createjs/utils/IndexOf.js"></script>
+            <script src="scripts/createjs/events/Event.js"></script>
+            <script src="scripts/createjs/events/EventDispatcher.js"></script>
+            <script src="scripts/soundjs/Sound.js"></script>
+            <script src="scripts/soundjs/WebAudioPlugin.js"></script>
+            <script src="scripts/soundjs/HTMLAudioPlugin.js"></script>
+<!-- Other third-party requirements -->
+            <script src="scripts/raf.js"></script>
+            <script src="scripts/bind.js"></script>
+            <script src="scripts/require.js"></script>
+            <script src="scripts/settings.js"></script>
+            <script src="scripts/jquery.js"></script>
+            <script src="scripts/jquery_role.js"></script>
+<!-- Actual Skytte code -->
+            <script src="scripts/skytte/signal.js"></script>
+            <script src="scripts/skytte/utils.js"></script>
+            <script src="scripts/skytte/numbers.js"></script>
+            <script src="scripts/skytte/easings.js"></script>
+            <script src="scripts/skytte/tween.js"></script>
+            <script src="scripts/skytte/per_second.js"></script>
+            <script src="scripts/skytte/vector2.js"></script>
+            <script src="scripts/skytte/bounding_box.js"></script>
+            <script src="scripts/skytte/polygon.js"></script>
+            <script src="scripts/skytte/collision.js"></script>
+            <script src="scripts/skytte/sprite.js"></script>
+            <script src="scripts/skytte/spritesheet.js"></script>
+            <script src="scripts/skytte/sprite_list.js"></script>
+            <script src="scripts/skytte/sound.js"></script>
+            <script src="scripts/skytte/font.js"></script>
+            <script src="scripts/skytte/beam.js"></script>
+            <script src="scripts/skytte/entity.js"></script>
+            <script src="scripts/skytte/particles/particle.js"></script>
+            <script src="scripts/skytte/particles/emitter.js"></script>
+            <script src="scripts/skytte/particles/mushroom.js"></script>
+            <script src="scripts/skytte/weapons/weapon.js"></script>
+            <script src="scripts/skytte/weapons/projectile.js"></script>
+            <script src="scripts/skytte/weapons/plasma.js"></script>
+            <script src="scripts/skytte/weapons/storm.js"></script>
+            <script src="scripts/skytte/weapons/laser.js"></script>
+            <script src="scripts/skytte/weapons/ray.js"></script>
+            <script src="scripts/skytte/weapons/rockets.js"></script>
+            <script src="scripts/skytte/weapons/flak.js"></script>
+            <script src="scripts/skytte/weapons/electro.js"></script>
+            <script src="scripts/skytte/particles/explosion.js"></script>
+            <script src="scripts/skytte/entities/sprite.js"></script>
+            <script src="scripts/skytte/entities/background.js"></script>
+            <script src="scripts/skytte/entities/fog.js"></script>
+            <script src="scripts/skytte/entities/ship.js"></script>
+            <script src="scripts/skytte/entities/mine.js"></script>
+            <script src="scripts/skytte/entities/swarm.js"></script>
+            <script src="scripts/skytte/entities/teleporter.js"></script>
+            <script src="scripts/skytte/entities/turret.js"></script>
+            <script src="scripts/skytte/entities/cart.js"></script>
+            <script src="scripts/skytte/entities/power_up.js"></script>
+            <script src="scripts/skytte/entities/hud.js"></script>
+            <script src="scripts/skytte/entities/label.js"></script>
+            <script src="scripts/skytte/ai/base.js"></script>
+            <script src="scripts/skytte/ai/idle.js"></script>
+            <script src="scripts/skytte/ai/move_left.js"></script>
+            <script src="scripts/skytte/ai/wave.js"></script>
+            <script src="scripts/skytte/ai/kamikaze.js"></script>
+            <script src="scripts/skytte/ai/teleporter.js"></script>
+            <script src="scripts/skytte/ai/follow.js"></script>
+            <script src="scripts/skytte/ai/cart.js"></script>
+            <script src="scripts/skytte/keys.js"></script>
+            <script src="scripts/skytte/level.js"></script>
+            <script src="scripts/skytte/game.js"></script>
+            <script src="scripts/skytte/data/resources.js"></script>
+            <script src="scripts/skytte/data/backgrounds.js"></script>
+            <script src="scripts/skytte/data/weapons.js"></script>
+            <script src="scripts/skytte/data/powerups.js"></script>
+            <script src="scripts/skytte/data/ships.js"></script>
+            <script src="scripts/skytte/data/levels.js"></script>
+            <script src="scripts/skytte/main.js"></script>
+            
+        
+        <div id="startappContainer" ></div>
+		<script type="text/javascript">
+		// Required parameters.
+		var publisherId = '106216486 ';
+		var productId ='204081870';
+		var width =320;
+		var height =50;
+		// Optional parameters.
+		var userId = "";
+		var packageName = "";
+		var isp = "";
+		var contentRating = "";
+		var gender = "";
+		var age = "";
+		var category = "";
+		var networkType = "";
+		var geoLongitude = "";
+		var geoLatitude = "";
+		var subPublisherId = "";
+		var subProductId = "";
+		var domain = "";
+		var deviceManufacturer = "";
+		var deviceModel = "";
+		var userAdvertisingId="";
+		var noAdUrl= "";
+		</script>
+		<script type="text/javascript" src="http://www.startappexchange.com/js/startapp-tag.js"></script>
+		<style type="text/css">
+          #startappContainer{bottom:0px;z-index:999;left:0px;position: fixed;}
+     </style>
+	 <!-- Full sreen css added-->
+	 <style type="text/css">
+		 #screen {
+			padding-left: 0;
+			padding-right: 0;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+			width: 100%;
+			height:100%;
+		   }
+	 </style>
+    </body>
+</html>

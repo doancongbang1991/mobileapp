@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="InterfaceAtlas.png">
+	<SubTexture name="InterfaceArmorIcon.png" x="194" y="388" width="128" height="128"/>
+	<SubTexture name="InterfaceFiredashButton.png" x="194" y="194" width="192" height="192"/>
+	<SubTexture name="InterfaceJetpackButton.png" x="194" y="0" width="192" height="192"/>
+	<SubTexture name="InterfaceNukeButton.png" x="0" y="388" width="192" height="192"/>
+	<SubTexture name="InterfaceShieldButton.png" x="0" y="194" width="192" height="192"/>
+	<SubTexture name="InterfaceTrophyIcon.png" x="0" y="0" width="192" height="192"/>
+</TextureAtlas>

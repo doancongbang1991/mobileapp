@@ -1,0 +1,1100 @@
+{"frames": {
+
+"characters_moredecai_blue_bicycle_kick0001.png":
+{
+	"frame": {"x":1850,"y":577,"w":147,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":174,"w":147,"h":121},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0002.png":
+{
+	"frame": {"x":1850,"y":577,"w":147,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":174,"w":147,"h":121},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0003.png":
+{
+	"frame": {"x":189,"y":739,"w":147,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":166,"w":147,"h":128},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0004.png":
+{
+	"frame": {"x":189,"y":739,"w":147,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":166,"w":147,"h":128},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0005.png":
+{
+	"frame": {"x":1850,"y":700,"w":147,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":175,"w":147,"h":119},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0006.png":
+{
+	"frame": {"x":1850,"y":700,"w":147,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":175,"w":147,"h":119},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0007.png":
+{
+	"frame": {"x":2,"y":740,"w":185,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":151,"w":185,"h":143},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0008.png":
+{
+	"frame": {"x":2,"y":740,"w":185,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":151,"w":185,"h":143},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0009.png":
+{
+	"frame": {"x":2,"y":295,"w":185,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":73,"w":185,"h":221},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0010.png":
+{
+	"frame": {"x":2,"y":295,"w":185,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":73,"w":185,"h":221},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0011.png":
+{
+	"frame": {"x":195,"y":2,"w":197,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":14,"w":197,"h":280},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0012.png":
+{
+	"frame": {"x":195,"y":2,"w":197,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":14,"w":197,"h":280},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_bicycle_kick0013.png":
+{
+	"frame": {"x":2,"y":2,"w":191,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":3,"w":191,"h":291},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0001.png":
+{
+	"frame": {"x":1443,"y":209,"w":93,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":93,"w":93,"h":201},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0002.png":
+{
+	"frame": {"x":1443,"y":209,"w":93,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":93,"w":93,"h":201},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0003.png":
+{
+	"frame": {"x":1483,"y":412,"w":93,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":95,"w":93,"h":199},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0004.png":
+{
+	"frame": {"x":1483,"y":412,"w":93,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":95,"w":93,"h":199},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0005.png":
+{
+	"frame": {"x":1483,"y":412,"w":93,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":95,"w":93,"h":199},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0006.png":
+{
+	"frame": {"x":1329,"y":620,"w":97,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":110,"w":97,"h":184},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0007.png":
+{
+	"frame": {"x":1329,"y":620,"w":97,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":110,"w":97,"h":184},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0008.png":
+{
+	"frame": {"x":1329,"y":620,"w":97,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":110,"w":97,"h":184},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0009.png":
+{
+	"frame": {"x":1390,"y":413,"w":91,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":94,"w":91,"h":200},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0010.png":
+{
+	"frame": {"x":1390,"y":413,"w":91,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":94,"w":91,"h":200},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0011.png":
+{
+	"frame": {"x":513,"y":509,"w":91,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":83,"w":91,"h":211},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0012.png":
+{
+	"frame": {"x":513,"y":509,"w":91,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":83,"w":91,"h":211},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0013.png":
+{
+	"frame": {"x":513,"y":288,"w":91,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":75,"w":91,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0014.png":
+{
+	"frame": {"x":513,"y":288,"w":91,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":75,"w":91,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0015.png":
+{
+	"frame": {"x":1891,"y":2,"w":94,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":89,"w":94,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0016.png":
+{
+	"frame": {"x":1891,"y":2,"w":94,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":89,"w":94,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0017.png":
+{
+	"frame": {"x":1428,"y":615,"w":97,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":103,"w":97,"h":191},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0018.png":
+{
+	"frame": {"x":1428,"y":615,"w":97,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":103,"w":97,"h":191},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0019.png":
+{
+	"frame": {"x":1390,"y":413,"w":91,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":94,"w":91,"h":200},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0020.png":
+{
+	"frame": {"x":1390,"y":413,"w":91,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":94,"w":91,"h":200},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0021.png":
+{
+	"frame": {"x":513,"y":509,"w":91,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":83,"w":91,"h":211},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0022.png":
+{
+	"frame": {"x":513,"y":509,"w":91,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":83,"w":91,"h":211},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0023.png":
+{
+	"frame": {"x":513,"y":288,"w":91,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":75,"w":91,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0024.png":
+{
+	"frame": {"x":513,"y":288,"w":91,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":75,"w":91,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0025.png":
+{
+	"frame": {"x":1891,"y":2,"w":94,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":89,"w":94,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0026.png":
+{
+	"frame": {"x":1891,"y":2,"w":94,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":89,"w":94,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0027.png":
+{
+	"frame": {"x":1428,"y":615,"w":97,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":103,"w":97,"h":191},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0028.png":
+{
+	"frame": {"x":1428,"y":615,"w":97,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":103,"w":97,"h":191},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0029.png":
+{
+	"frame": {"x":1390,"y":413,"w":91,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":94,"w":91,"h":200},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0030.png":
+{
+	"frame": {"x":1390,"y":413,"w":91,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":94,"w":91,"h":200},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0031.png":
+{
+	"frame": {"x":513,"y":509,"w":91,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":83,"w":91,"h":211},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0032.png":
+{
+	"frame": {"x":513,"y":509,"w":91,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":83,"w":91,"h":211},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0033.png":
+{
+	"frame": {"x":513,"y":288,"w":91,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":75,"w":91,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0034.png":
+{
+	"frame": {"x":513,"y":288,"w":91,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":75,"w":91,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0035.png":
+{
+	"frame": {"x":1891,"y":2,"w":94,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":89,"w":94,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0036.png":
+{
+	"frame": {"x":1891,"y":2,"w":94,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":89,"w":94,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0037.png":
+{
+	"frame": {"x":1428,"y":615,"w":97,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":103,"w":97,"h":191},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0038.png":
+{
+	"frame": {"x":1428,"y":615,"w":97,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":103,"w":97,"h":191},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0039.png":
+{
+	"frame": {"x":1390,"y":413,"w":91,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":94,"w":91,"h":200},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0040.png":
+{
+	"frame": {"x":1390,"y":413,"w":91,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":94,"w":91,"h":200},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0041.png":
+{
+	"frame": {"x":513,"y":509,"w":91,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":83,"w":91,"h":211},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0042.png":
+{
+	"frame": {"x":513,"y":509,"w":91,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":83,"w":91,"h":211},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0043.png":
+{
+	"frame": {"x":513,"y":288,"w":91,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":75,"w":91,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0044.png":
+{
+	"frame": {"x":513,"y":288,"w":91,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":75,"w":91,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0045.png":
+{
+	"frame": {"x":1891,"y":2,"w":94,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":89,"w":94,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0046.png":
+{
+	"frame": {"x":1891,"y":2,"w":94,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":89,"w":94,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0047.png":
+{
+	"frame": {"x":1428,"y":615,"w":97,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":103,"w":97,"h":191},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_celebrate0048.png":
+{
+	"frame": {"x":1428,"y":615,"w":97,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":103,"w":97,"h":191},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_dash0001.png":
+{
+	"frame": {"x":1705,"y":2,"w":184,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":97,"w":184,"h":197},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_dash0002.png":
+{
+	"frame": {"x":1518,"y":2,"w":185,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":93,"w":185,"h":201},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_dash0003.png":
+{
+	"frame": {"x":607,"y":224,"w":173,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":105,"w":173,"h":189},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_dash0004.png":
+{
+	"frame": {"x":782,"y":223,"w":184,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":112,"w":184,"h":182},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_dash0005.png":
+{
+	"frame": {"x":1154,"y":213,"w":162,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":96,"w":162,"h":198},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_dash0006.png":
+{
+	"frame": {"x":792,"y":407,"w":162,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":92,"w":162,"h":202},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_dash0007.png":
+{
+	"frame": {"x":1538,"y":205,"w":133,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":105,"w":133,"h":189},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_dash0008.png":
+{
+	"frame": {"x":1714,"y":587,"w":134,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":112,"w":134,"h":182},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0001.png":
+{
+	"frame": {"x":189,"y":295,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":74,"w":160,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0002.png":
+{
+	"frame": {"x":189,"y":295,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":74,"w":160,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0003.png":
+{
+	"frame": {"x":189,"y":517,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":74,"w":160,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0004.png":
+{
+	"frame": {"x":394,"y":2,"w":185,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":74,"w":185,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0005.png":
+{
+	"frame": {"x":2,"y":518,"w":185,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":74,"w":185,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0006.png":
+{
+	"frame": {"x":2,"y":518,"w":185,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":74,"w":185,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0007.png":
+{
+	"frame": {"x":606,"y":415,"w":184,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":101,"w":184,"h":193},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0008.png":
+{
+	"frame": {"x":606,"y":415,"w":184,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":101,"w":184,"h":193},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0009.png":
+{
+	"frame": {"x":606,"y":415,"w":184,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":101,"w":184,"h":193},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0010.png":
+{
+	"frame": {"x":530,"y":782,"w":190,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":205,"w":190,"h":89},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0011.png":
+{
+	"frame": {"x":530,"y":782,"w":190,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":205,"w":190,"h":89},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0012.png":
+{
+	"frame": {"x":530,"y":782,"w":190,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":205,"w":190,"h":89},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0013.png":
+{
+	"frame": {"x":722,"y":799,"w":205,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":222,"w":205,"h":72},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0014.png":
+{
+	"frame": {"x":722,"y":799,"w":205,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":222,"w":205,"h":72},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0015.png":
+{
+	"frame": {"x":722,"y":799,"w":205,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":222,"w":205,"h":72},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_fall0016.png":
+{
+	"frame": {"x":394,"y":224,"w":211,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":232,"w":211,"h":62},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0001.png":
+{
+	"frame": {"x":769,"y":611,"w":139,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":108,"w":139,"h":186},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0002.png":
+{
+	"frame": {"x":769,"y":611,"w":139,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":108,"w":139,"h":186},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0003.png":
+{
+	"frame": {"x":606,"y":610,"w":161,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":124,"w":161,"h":170},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0004.png":
+{
+	"frame": {"x":606,"y":610,"w":161,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":124,"w":161,"h":170},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0005.png":
+{
+	"frame": {"x":1331,"y":2,"w":185,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":89,"w":185,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0006.png":
+{
+	"frame": {"x":1331,"y":2,"w":185,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":89,"w":185,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0007.png":
+{
+	"frame": {"x":1144,"y":2,"w":185,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":85,"w":185,"h":209},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0008.png":
+{
+	"frame": {"x":1144,"y":2,"w":185,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":85,"w":185,"h":209},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0009.png":
+{
+	"frame": {"x":955,"y":2,"w":187,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":85,"w":187,"h":209},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_kick0010.png":
+{
+	"frame": {"x":955,"y":2,"w":187,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":85,"w":187,"h":209},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0001.png":
+{
+	"frame": {"x":351,"y":288,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":74,"w":160,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0002.png":
+{
+	"frame": {"x":351,"y":288,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":74,"w":160,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0003.png":
+{
+	"frame": {"x":351,"y":510,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":74,"w":160,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0004.png":
+{
+	"frame": {"x":581,"y":2,"w":185,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":74,"w":185,"h":220},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0005.png":
+{
+	"frame": {"x":768,"y":2,"w":185,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":75,"w":185,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0006.png":
+{
+	"frame": {"x":768,"y":2,"w":185,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":75,"w":185,"h":219},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0007.png":
+{
+	"frame": {"x":968,"y":213,"w":184,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":101,"w":184,"h":193},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0008.png":
+{
+	"frame": {"x":968,"y":213,"w":184,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":101,"w":184,"h":193},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0009.png":
+{
+	"frame": {"x":968,"y":213,"w":184,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":101,"w":184,"h":193},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0010.png":
+{
+	"frame": {"x":338,"y":799,"w":190,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":206,"w":190,"h":88},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0011.png":
+{
+	"frame": {"x":338,"y":799,"w":190,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":206,"w":190,"h":88},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0012.png":
+{
+	"frame": {"x":338,"y":799,"w":190,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":206,"w":190,"h":88},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0013.png":
+{
+	"frame": {"x":929,"y":803,"w":205,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":222,"w":205,"h":72},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0014.png":
+{
+	"frame": {"x":929,"y":803,"w":205,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":222,"w":205,"h":72},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0015.png":
+{
+	"frame": {"x":929,"y":803,"w":205,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":222,"w":205,"h":72},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_lose0016.png":
+{
+	"frame": {"x":1136,"y":806,"w":211,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":232,"w":211,"h":62},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0001.png":
+{
+	"frame": {"x":1578,"y":396,"w":118,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":97,"w":118,"h":197},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0002.png":
+{
+	"frame": {"x":1578,"y":396,"w":118,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":97,"w":118,"h":197},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0003.png":
+{
+	"frame": {"x":956,"y":408,"w":153,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":93,"w":153,"h":201},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0004.png":
+{
+	"frame": {"x":956,"y":408,"w":153,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":93,"w":153,"h":201},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0005.png":
+{
+	"frame": {"x":1673,"y":205,"w":132,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":105,"w":132,"h":189},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0006.png":
+{
+	"frame": {"x":1673,"y":205,"w":132,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":105,"w":132,"h":189},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0007.png":
+{
+	"frame": {"x":1807,"y":209,"w":129,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":112,"w":129,"h":182},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0008.png":
+{
+	"frame": {"x":1807,"y":209,"w":129,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":112,"w":129,"h":182},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0009.png":
+{
+	"frame": {"x":1318,"y":213,"w":123,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":96,"w":123,"h":198},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0010.png":
+{
+	"frame": {"x":1318,"y":213,"w":123,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":96,"w":123,"h":198},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0011.png":
+{
+	"frame": {"x":1111,"y":413,"w":140,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":92,"w":140,"h":202},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0012.png":
+{
+	"frame": {"x":1111,"y":413,"w":140,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":92,"w":140,"h":202},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0013.png":
+{
+	"frame": {"x":1698,"y":396,"w":133,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":105,"w":133,"h":189},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0014.png":
+{
+	"frame": {"x":1698,"y":396,"w":133,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":105,"w":133,"h":189},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_run0015.png":
+{
+	"frame": {"x":1833,"y":393,"w":129,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":112,"w":129,"h":182},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_stand0001.png":
+{
+	"frame": {"x":1527,"y":613,"w":91,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":95,"w":91,"h":199},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_stand0002.png":
+{
+	"frame": {"x":1527,"y":613,"w":91,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":95,"w":91,"h":199},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_stand0003.png":
+{
+	"frame": {"x":1620,"y":595,"w":92,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":98,"w":92,"h":196},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_tackle0001.png":
+{
+	"frame": {"x":1253,"y":413,"w":135,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":89,"w":135,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_tackle0002.png":
+{
+	"frame": {"x":1253,"y":413,"w":135,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":89,"w":135,"h":205},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_tackle0003.png":
+{
+	"frame": {"x":910,"y":611,"w":138,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":110,"w":138,"h":184},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_tackle0004.png":
+{
+	"frame": {"x":910,"y":611,"w":138,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":110,"w":138,"h":184},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_tackle0005.png":
+{
+	"frame": {"x":1190,"y":620,"w":137,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":110,"w":137,"h":184},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_tackle0006.png":
+{
+	"frame": {"x":1190,"y":620,"w":137,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":110,"w":137,"h":184},
+	"sourceSize": {"w":320,"h":320}
+},
+"characters_moredecai_blue_tackle0007.png":
+{
+	"frame": {"x":1050,"y":617,"w":138,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":110,"w":138,"h":184},
+	"sourceSize": {"w":320,"h":320}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "moredecai_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":2000,"h":889},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6d133392147baafd53d148f0578fc101:faef01499ddbf955f368929893851ff2:5c11938d3d93e311a385459440cbc212$"
+}
+}

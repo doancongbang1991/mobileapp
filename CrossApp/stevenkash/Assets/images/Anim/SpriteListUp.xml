@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpriteListUp.png">
+	<!-- Created with Adobe Flash Professional version 14.1.0.96 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="BlowHero1 instance 10000" x="243" y="844" width="81" height="48" frameX="-40" frameY="-108" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10001" x="532" y="200" width="106" height="131" frameX="-25" frameY="-49" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10002" x="190" y="371" width="127" height="178" frameX="-12" frameY="-15" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10003" x="640" y="185" width="143" height="188" frameX="-3" frameY="-8" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10004" x="806" y="178" width="147" height="198" frameX="-3" frameY="-1" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10005" x="326" y="0" width="156" height="199" frameX="-2" frameY="0" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10006" x="483" y="0" width="156" height="199" frameX="-2" frameY="0" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10007" x="0" y="0" width="162" height="195" frameX="-1" frameY="-3" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10008" x="163" y="0" width="162" height="195" frameX="-1" frameY="-3" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero1 instance 10009" x="640" y="0" width="165" height="184" frameX="0" frameY="-11" frameWidth="165" frameHeight="199"/>
+	<SubTexture name="BlowHero2 instance 10000" x="806" y="0" width="166" height="177" frameX="-2" frameY="0" frameWidth="171" frameHeight="180"/>
+	<SubTexture name="BlowHero2 instance 10001" x="0" y="196" width="170" height="170" frameX="-1" frameY="-10" frameWidth="171" frameHeight="180"/>
+	<SubTexture name="BlowHero2 instance 10002" x="171" y="200" width="170" height="170" frameX="-1" frameY="-10" frameWidth="171" frameHeight="180"/>
+	<SubTexture name="BlowHero2 instance 10003" x="654" y="505" width="160" height="127" frameX="0" frameY="-41" frameWidth="171" frameHeight="180"/>
+	<SubTexture name="BlowHero2 instance 10004" x="815" y="505" width="160" height="127" frameX="0" frameY="-41" frameWidth="171" frameHeight="180"/>
+	<SubTexture name="BlowHero3 instance 10000" x="318" y="466" width="167" height="122"/>
+	<SubTexture name="BlowHero3 instance 10001" x="486" y="502" width="167" height="122"/>
+	<SubTexture name="BlowHero3 instance 10002" x="0" y="504" width="167" height="122"/>
+	<SubTexture name="BlowHero4 instance 10000" x="342" y="200" width="189" height="132"/>
+	<SubTexture name="BlowHero4 instance 10001" x="342" y="333" width="189" height="132"/>
+	<SubTexture name="BlowHero4 instance 10002" x="0" y="371" width="189" height="132"/>
+	<SubTexture name="BlowHero4 instance 10003" x="532" y="374" width="161" height="127" frameX="-22" frameY="-3" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="BlowHero4 instance 10004" x="694" y="377" width="161" height="127" frameX="-22" frameY="-3" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="BlowHero4 instance 10005" x="856" y="377" width="161" height="127" frameX="-22" frameY="-3" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="BlowHero4 instance 10006" x="168" y="550" width="131" height="122" frameX="-23" frameY="-7" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="BlowHero4 instance 10007" x="300" y="589" width="131" height="122" frameX="-23" frameY="-7" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="BlowHero4 instance 10008" x="432" y="625" width="131" height="122" frameX="-23" frameY="-7" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="BlowHero4 instance 10009" x="0" y="627" width="130" height="113" frameX="-24" frameY="-13" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="BlowHero4 instance 10010" x="564" y="633" width="130" height="113" frameX="-24" frameY="-13" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="BlowHero4 instance 10011" x="695" y="633" width="130" height="113" frameX="-24" frameY="-13" frameWidth="189" frameHeight="132"/>
+	<SubTexture name="Chain instance 10000" x="973" y="0" width="25" height="227"/>
+	<SubTexture name="Fence instance 10000" x="907" y="633" width="101" height="55"/>
+	<SubTexture name="FireBarrel instance 10000" x="162" y="809" width="80" height="62" frameX="0" frameY="-9" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10001" x="293" y="780" width="80" height="63" frameX="0" frameY="-8" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10002" x="645" y="747" width="80" height="65" frameX="0" frameY="-6" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10003" x="0" y="741" width="80" height="66" frameX="0" frameY="-5" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10004" x="81" y="810" width="80" height="61" frameX="0" frameY="-10" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10005" x="0" y="808" width="80" height="63" frameX="0" frameY="-8" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10006" x="726" y="747" width="80" height="65" frameX="0" frameY="-6" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10007" x="826" y="705" width="80" height="67" frameX="0" frameY="-4" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10008" x="212" y="673" width="80" height="68" frameX="0" frameY="-3" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10009" x="374" y="748" width="80" height="65" frameX="0" frameY="-6" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10010" x="212" y="742" width="80" height="66" frameX="0" frameY="-5" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10011" x="81" y="743" width="80" height="66" frameX="0" frameY="-5" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10012" x="293" y="712" width="80" height="67" frameX="0" frameY="-4" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10013" x="907" y="689" width="80" height="68" frameX="0" frameY="-3" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10014" x="807" y="773" width="80" height="64" frameX="0" frameY="-7" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10015" x="455" y="748" width="80" height="65" frameX="0" frameY="-6" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10016" x="907" y="758" width="80" height="65" frameX="0" frameY="-5" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10017" x="455" y="814" width="80" height="57" frameX="0" frameY="-14" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10018" x="645" y="813" width="80" height="60" frameX="0" frameY="-11" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10019" x="726" y="813" width="80" height="60" frameX="0" frameY="-11" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10020" x="536" y="814" width="80" height="57" frameX="0" frameY="-14" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10021" x="374" y="814" width="80" height="58" frameX="0" frameY="-13" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10022" x="131" y="673" width="80" height="69" frameX="0" frameY="-2" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="FireBarrel instance 10023" x="826" y="633" width="80" height="71"/>
+	<SubTexture name="FireBarrel instance 10024" x="564" y="747" width="80" height="66" frameX="0" frameY="-5" frameWidth="80" frameHeight="71"/>
+	<SubTexture name="GasAnim instance 10000" x="487" y="966" width="45" height="37" frameX="-20" frameY="-25" frameWidth="79" frameHeight="62"/>
+	<SubTexture name="GasAnim instance 10001" x="353" y="966" width="45" height="45" frameX="-20" frameY="-13" frameWidth="79" frameHeight="62"/>
+	<SubTexture name="GasAnim instance 10002" x="780" y="953" width="50" height="49" frameX="-15" frameY="-8" frameWidth="79" frameHeight="62"/>
+	<SubTexture name="GasAnim instance 10003" x="51" y="872" width="58" height="54" frameX="-8" frameY="-2" frameWidth="79" frameHeight="62"/>
+	<SubTexture name="GasAnim instance 10004" x="954" y="228" width="65" height="54" frameX="-4" frameY="-1" frameWidth="79" frameHeight="62"/>
+	<SubTexture name="GasAnim instance 10005" x="888" y="824" width="74" height="53" frameX="0" frameY="-1" frameWidth="79" frameHeight="62"/>
+	<SubTexture name="GasAnim instance 10006" x="241" y="943" width="57" height="47" frameX="-22" frameY="-1" frameWidth="79" frameHeight="62"/>
+	<SubTexture name="GasAnim instance 10007" x="374" y="712" width="34" height="30" frameX="-22" frameY="0" frameWidth="79" frameHeight="62"/>
+	<SubTexture name="HealthSecurity instance 10000" x="486" y="466" width="43" height="35"/>
+	<SubTexture name="HealthSecurity instance 10001" x="432" y="589" width="43" height="35"/>
+	<SubTexture name="HeroBallDie instance 10000" x="999" y="27" width="15" height="13" frameX="-30" frameY="-37" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10001" x="131" y="627" width="34" height="30" frameX="-20" frameY="-29" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10002" x="399" y="966" width="48" height="41" frameX="-13" frameY="-23" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10003" x="299" y="963" width="53" height="44" frameX="-11" frameY="-21" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10004" x="242" y="893" width="59" height="49" frameX="-8" frameY="-18" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10005" x="778" y="903" width="59" height="49" frameX="-7" frameY="-16" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10006" x="583" y="872" width="61" height="49" frameX="-6" frameY="-16" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10007" x="716" y="874" width="61" height="48" frameX="-5" frameY="-15" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10008" x="455" y="872" width="62" height="49" frameX="-5" frameY="-14" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10009" x="325" y="873" width="63" height="47" frameX="-4" frameY="-15" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10010" x="389" y="873" width="63" height="47" frameX="-4" frameY="-13" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10011" x="110" y="872" width="65" height="47" frameX="-3" frameY="-13" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10012" x="518" y="872" width="64" height="47" frameX="-3" frameY="-11" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10013" x="176" y="872" width="65" height="47" frameX="-3" frameY="-11" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10014" x="110" y="920" width="64" height="45" frameX="-3" frameY="-12" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10015" x="175" y="920" width="65" height="44" frameX="-3" frameY="-10" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10016" x="573" y="922" width="64" height="44" frameX="-3" frameY="-9" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10017" x="373" y="921" width="65" height="44" frameX="-3" frameY="-9" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10018" x="858" y="878" width="66" height="44" frameX="-2" frameY="-8" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10019" x="0" y="937" width="66" height="42" frameX="-2" frameY="-8" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10020" x="645" y="917" width="67" height="43" frameX="-1" frameY="-7" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10021" x="439" y="922" width="66" height="43" frameX="-2" frameY="-6" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10022" x="506" y="922" width="66" height="43" frameX="-2" frameY="-5" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10023" x="713" y="953" width="66" height="42" frameX="-2" frameY="-5" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10024" x="838" y="923" width="67" height="42" frameX="-1" frameY="-4" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10025" x="532" y="332" width="70" height="41" frameX="0" frameY="-4" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10026" x="925" y="889" width="69" height="42" frameX="-1" frameY="-3" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10027" x="645" y="874" width="70" height="42" frameX="-1" frameY="-2" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10028" x="302" y="921" width="70" height="41" frameX="-1" frameY="-2" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="HeroBallDie instance 10029" x="906" y="932" width="70" height="40" frameX="-1" frameY="0" frameWidth="71" frameHeight="67"/>
+	<SubTexture name="LaserIskru instance 10000" x="448" y="966" width="38" height="44" frameX="-11" frameY="-10" frameWidth="52" frameHeight="64"/>
+	<SubTexture name="LaserIskru instance 10001" x="109" y="966" width="41" height="50" frameX="-8" frameY="-6" frameWidth="52" frameHeight="64"/>
+	<SubTexture name="LaserIskru instance 10002" x="976" y="565" width="44" height="55" frameX="-6" frameY="-4" frameWidth="52" frameHeight="64"/>
+	<SubTexture name="LaserIskru instance 10003" x="976" y="505" width="48" height="59" frameX="-3" frameY="-2" frameWidth="52" frameHeight="64"/>
+	<SubTexture name="LaserIskru instance 10004" x="954" y="283" width="52" height="64"/>
+	<SubTexture name="LaserIskru instance 10005" x="963" y="824" width="52" height="64"/>
+	<SubTexture name="LaserIskru instance 10006" x="807" y="838" width="50" height="64" frameX="-1" frameY="0" frameWidth="52" frameHeight="64"/>
+	<SubTexture name="LaserIskru instance 10007" x="0" y="872" width="50" height="64" frameX="-1" frameY="0" frameWidth="52" frameHeight="64"/>
+	<SubTexture name="LaserSmall instance 10000" x="603" y="332" width="31" height="38" frameX="-10" frameY="-8" frameWidth="41" frameHeight="59"/>
+	<SubTexture name="LaserSmall instance 10001" x="988" y="742" width="34" height="48" frameX="-7" frameY="-4" frameWidth="41" frameHeight="59"/>
+	<SubTexture name="LaserSmall instance 10002" x="988" y="689" width="36" height="52" frameX="-5" frameY="-2" frameWidth="41" frameHeight="59"/>
+	<SubTexture name="LaserSmall instance 10003" x="175" y="965" width="39" height="55" frameX="-2" frameY="-1" frameWidth="41" frameHeight="59"/>
+	<SubTexture name="LaserSmall instance 10004" x="162" y="743" width="41" height="59"/>
+	<SubTexture name="LaserSmall instance 10005" x="67" y="927" width="41" height="59"/>
+	<SubTexture name="LaserSmall instance 10006" x="977" y="932" width="41" height="59"/>
+	<SubTexture name="LaserSmall instance 10007" x="638" y="961" width="41" height="58" frameX="0" frameY="0" frameWidth="41" frameHeight="59"/>
+	<SubTexture name="TimeReload instance 10000" x="988" y="791" width="35" height="29"/>
+	<SubTexture name="TimeReload instance 10001" x="243" y="809" width="35" height="29"/>
+	<SubTexture name="TimeReload instance 10002" x="713" y="923" width="35" height="29"/>
+	<SubTexture name="TimeReload instance 10003" x="533" y="966" width="35" height="29"/>
+	<SubTexture name="TimeReload instance 10004" x="831" y="966" width="35" height="29"/>
+	<SubTexture name="TimeReload instance 10005" x="867" y="966" width="35" height="29"/>
+	<SubTexture name="TimeReload instance 10006" x="569" y="967" width="35" height="29"/>
+	<SubTexture name="TimeReload instance 10007" x="903" y="973" width="35" height="29"/>
+	<SubTexture name="TimeReload instance 10008" x="939" y="973" width="35" height="29"/>
+	<SubTexture name="lava instance 10000" x="1019" y="13" width="4" height="3" frameX="-17" frameY="-12" frameWidth="36" frameHeight="24"/>
+	<SubTexture name="lava instance 10001" x="999" y="0" width="23" height="12" frameX="-7" frameY="-9" frameWidth="36" frameHeight="24"/>
+	<SubTexture name="lava instance 10002" x="999" y="13" width="19" height="13" frameX="-9" frameY="-6" frameWidth="36" frameHeight="24"/>
+	<SubTexture name="lava instance 10003" x="954" y="348" width="27" height="21" frameX="-8" frameY="0" frameWidth="36" frameHeight="24"/>
+	<SubTexture name="lava instance 10004" x="982" y="348" width="31" height="18" frameX="-4" frameY="-5" frameWidth="36" frameHeight="24"/>
+	<SubTexture name="lava instance 10005" x="976" y="621" width="29" height="7" frameX="-4" frameY="-16" frameWidth="36" frameHeight="24"/>
+	<SubTexture name="lava instance 10006" x="982" y="367" width="36" height="8" frameX="0" frameY="-16" frameWidth="36" frameHeight="24"/>
+</TextureAtlas>

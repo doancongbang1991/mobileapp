@@ -1,0 +1,1484 @@
+{"frames": {
+
+"characters_marceline_bicycle_kick0001.png":
+{
+	"frame": {"x":1001,"y":465,"w":105,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":80,"w":105,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0002.png":
+{
+	"frame": {"x":1001,"y":465,"w":105,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":80,"w":105,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0003.png":
+{
+	"frame": {"x":1001,"y":465,"w":105,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":80,"w":105,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0004.png":
+{
+	"frame": {"x":2,"y":211,"w":92,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":22,"w":92,"h":202},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0005.png":
+{
+	"frame": {"x":2,"y":211,"w":92,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":22,"w":92,"h":202},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0006.png":
+{
+	"frame": {"x":2,"y":415,"w":122,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":24,"w":122,"h":198},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0007.png":
+{
+	"frame": {"x":2,"y":415,"w":122,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":24,"w":122,"h":198},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0008.png":
+{
+	"frame": {"x":2,"y":415,"w":122,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":24,"w":122,"h":198},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0009.png":
+{
+	"frame": {"x":2,"y":2,"w":150,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":15,"w":150,"h":207},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0010.png":
+{
+	"frame": {"x":2,"y":2,"w":150,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":15,"w":150,"h":207},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0011.png":
+{
+	"frame": {"x":96,"y":211,"w":120,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":25,"w":120,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0012.png":
+{
+	"frame": {"x":96,"y":211,"w":120,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":25,"w":120,"h":197},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0013.png":
+{
+	"frame": {"x":733,"y":473,"w":125,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":83,"w":125,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0014.png":
+{
+	"frame": {"x":733,"y":473,"w":125,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":83,"w":125,"h":139},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0015.png":
+{
+	"frame": {"x":461,"y":510,"w":128,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":123,"w":128,"h":99},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0016.png":
+{
+	"frame": {"x":461,"y":510,"w":128,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":123,"w":128,"h":99},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0017.png":
+{
+	"frame": {"x":1746,"y":305,"w":101,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":86,"w":101,"h":136},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0018.png":
+{
+	"frame": {"x":1746,"y":305,"w":101,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":86,"w":101,"h":136},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0019.png":
+{
+	"frame": {"x":547,"y":166,"w":86,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":66,"w":86,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0020.png":
+{
+	"frame": {"x":547,"y":166,"w":86,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":66,"w":86,"h":158},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0021.png":
+{
+	"frame": {"x":689,"y":317,"w":89,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":72,"w":89,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_bicycle_kick0022.png":
+{
+	"frame": {"x":689,"y":317,"w":89,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":72,"w":89,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0001.png":
+{
+	"frame": {"x":1027,"y":156,"w":87,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":73,"w":87,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0002.png":
+{
+	"frame": {"x":1027,"y":156,"w":87,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":73,"w":87,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0003.png":
+{
+	"frame": {"x":781,"y":2,"w":84,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":71,"w":84,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0004.png":
+{
+	"frame": {"x":781,"y":2,"w":84,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":71,"w":84,"h":153},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0005.png":
+{
+	"frame": {"x":1624,"y":2,"w":82,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":74,"w":82,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0006.png":
+{
+	"frame": {"x":1624,"y":2,"w":82,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":74,"w":82,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0007.png":
+{
+	"frame": {"x":1624,"y":2,"w":82,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":74,"w":82,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0008.png":
+{
+	"frame": {"x":351,"y":178,"w":75,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":54,"w":75,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0009.png":
+{
+	"frame": {"x":351,"y":178,"w":75,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":54,"w":75,"h":169},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0010.png":
+{
+	"frame": {"x":565,"y":2,"w":78,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":68,"w":78,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0011.png":
+{
+	"frame": {"x":565,"y":2,"w":78,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":68,"w":78,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0012.png":
+{
+	"frame": {"x":565,"y":2,"w":78,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":68,"w":78,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0013.png":
+{
+	"frame": {"x":565,"y":2,"w":78,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":68,"w":78,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0014.png":
+{
+	"frame": {"x":565,"y":2,"w":78,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":68,"w":78,"h":156},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0015.png":
+{
+	"frame": {"x":1025,"y":310,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":92,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0016.png":
+{
+	"frame": {"x":1025,"y":310,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":92,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0017.png":
+{
+	"frame": {"x":867,"y":2,"w":102,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":102,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0018.png":
+{
+	"frame": {"x":867,"y":2,"w":102,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":102,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0019.png":
+{
+	"frame": {"x":815,"y":157,"w":107,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":73,"w":107,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0020.png":
+{
+	"frame": {"x":815,"y":157,"w":107,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":73,"w":107,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0021.png":
+{
+	"frame": {"x":815,"y":157,"w":107,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":73,"w":107,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0022.png":
+{
+	"frame": {"x":922,"y":311,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0023.png":
+{
+	"frame": {"x":922,"y":311,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0024.png":
+{
+	"frame": {"x":1025,"y":310,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":92,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0025.png":
+{
+	"frame": {"x":1025,"y":310,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":92,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0026.png":
+{
+	"frame": {"x":1025,"y":310,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":92,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0027.png":
+{
+	"frame": {"x":1025,"y":310,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":92,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0028.png":
+{
+	"frame": {"x":922,"y":311,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0029.png":
+{
+	"frame": {"x":922,"y":311,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0030.png":
+{
+	"frame": {"x":815,"y":157,"w":107,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":73,"w":107,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0031.png":
+{
+	"frame": {"x":815,"y":157,"w":107,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":73,"w":107,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0032.png":
+{
+	"frame": {"x":815,"y":157,"w":107,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":73,"w":107,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0033.png":
+{
+	"frame": {"x":922,"y":311,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0034.png":
+{
+	"frame": {"x":922,"y":311,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0035.png":
+{
+	"frame": {"x":1025,"y":310,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":92,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0036.png":
+{
+	"frame": {"x":1025,"y":310,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":73,"w":92,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0037.png":
+{
+	"frame": {"x":1116,"y":156,"w":86,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":73,"w":86,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0038.png":
+{
+	"frame": {"x":1116,"y":156,"w":86,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":73,"w":86,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0039.png":
+{
+	"frame": {"x":971,"y":2,"w":94,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":73,"w":94,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0040.png":
+{
+	"frame": {"x":971,"y":2,"w":94,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":73,"w":94,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0041.png":
+{
+	"frame": {"x":924,"y":156,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0042.png":
+{
+	"frame": {"x":924,"y":156,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0043.png":
+{
+	"frame": {"x":924,"y":156,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0044.png":
+{
+	"frame": {"x":971,"y":2,"w":94,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":73,"w":94,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0045.png":
+{
+	"frame": {"x":971,"y":2,"w":94,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":73,"w":94,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0046.png":
+{
+	"frame": {"x":1067,"y":2,"w":87,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":73,"w":87,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0047.png":
+{
+	"frame": {"x":1067,"y":2,"w":87,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":73,"w":87,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0048.png":
+{
+	"frame": {"x":1067,"y":2,"w":87,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":73,"w":87,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0049.png":
+{
+	"frame": {"x":1067,"y":2,"w":87,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":73,"w":87,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0050.png":
+{
+	"frame": {"x":971,"y":2,"w":94,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":73,"w":94,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0051.png":
+{
+	"frame": {"x":971,"y":2,"w":94,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":73,"w":94,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0052.png":
+{
+	"frame": {"x":924,"y":156,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0053.png":
+{
+	"frame": {"x":924,"y":156,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0054.png":
+{
+	"frame": {"x":924,"y":156,"w":101,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":73,"w":101,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0055.png":
+{
+	"frame": {"x":971,"y":2,"w":94,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":73,"w":94,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0056.png":
+{
+	"frame": {"x":971,"y":2,"w":94,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":73,"w":94,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0057.png":
+{
+	"frame": {"x":1067,"y":2,"w":87,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":73,"w":87,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_celebrate0058.png":
+{
+	"frame": {"x":1067,"y":2,"w":87,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":73,"w":87,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0001.png":
+{
+	"frame": {"x":1247,"y":308,"w":120,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":74,"w":120,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0002.png":
+{
+	"frame": {"x":1119,"y":310,"w":126,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":74,"w":126,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0003.png":
+{
+	"frame": {"x":1204,"y":155,"w":125,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":74,"w":125,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0004.png":
+{
+	"frame": {"x":1298,"y":2,"w":124,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":74,"w":124,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0005.png":
+{
+	"frame": {"x":1331,"y":155,"w":107,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":74,"w":107,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0006.png":
+{
+	"frame": {"x":1424,"y":2,"w":107,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":74,"w":107,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0007.png":
+{
+	"frame": {"x":1369,"y":308,"w":88,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":74,"w":88,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0008.png":
+{
+	"frame": {"x":1440,"y":155,"w":85,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":74,"w":85,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0009.png":
+{
+	"frame": {"x":1247,"y":308,"w":120,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":74,"w":120,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0010.png":
+{
+	"frame": {"x":1119,"y":310,"w":126,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":74,"w":126,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0011.png":
+{
+	"frame": {"x":1204,"y":155,"w":125,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":74,"w":125,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0012.png":
+{
+	"frame": {"x":1298,"y":2,"w":124,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":74,"w":124,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0013.png":
+{
+	"frame": {"x":1331,"y":155,"w":107,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":74,"w":107,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0014.png":
+{
+	"frame": {"x":1424,"y":2,"w":107,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":74,"w":107,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0015.png":
+{
+	"frame": {"x":1369,"y":308,"w":88,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":74,"w":88,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_dash0016.png":
+{
+	"frame": {"x":1440,"y":155,"w":85,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":74,"w":85,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0001.png":
+{
+	"frame": {"x":1235,"y":463,"w":148,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":78,"w":148,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0002.png":
+{
+	"frame": {"x":1235,"y":463,"w":148,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":78,"w":148,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0003.png":
+{
+	"frame": {"x":780,"y":314,"w":140,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":76,"w":140,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0004.png":
+{
+	"frame": {"x":780,"y":314,"w":140,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":76,"w":140,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0005.png":
+{
+	"frame": {"x":436,"y":2,"w":127,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":66,"w":127,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0006.png":
+{
+	"frame": {"x":436,"y":2,"w":127,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":66,"w":127,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0007.png":
+{
+	"frame": {"x":860,"y":468,"w":139,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":83,"w":139,"h":145},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0008.png":
+{
+	"frame": {"x":860,"y":468,"w":139,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":83,"w":139,"h":145},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0009.png":
+{
+	"frame": {"x":645,"y":2,"w":134,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":74,"w":134,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0010.png":
+{
+	"frame": {"x":645,"y":2,"w":134,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":74,"w":134,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0011.png":
+{
+	"frame": {"x":1156,"y":2,"w":140,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":77,"w":140,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0012.png":
+{
+	"frame": {"x":1156,"y":2,"w":140,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":77,"w":140,"h":151},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0013.png":
+{
+	"frame": {"x":552,"y":326,"w":135,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":73,"w":135,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0014.png":
+{
+	"frame": {"x":552,"y":326,"w":135,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":73,"w":135,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0015.png":
+{
+	"frame": {"x":1235,"y":463,"w":148,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":78,"w":148,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0016.png":
+{
+	"frame": {"x":1235,"y":463,"w":148,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":78,"w":148,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0017.png":
+{
+	"frame": {"x":780,"y":314,"w":140,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":76,"w":140,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0018.png":
+{
+	"frame": {"x":780,"y":314,"w":140,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":76,"w":140,"h":152},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0019.png":
+{
+	"frame": {"x":436,"y":2,"w":127,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":66,"w":127,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0020.png":
+{
+	"frame": {"x":436,"y":2,"w":127,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":66,"w":127,"h":162},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0021.png":
+{
+	"frame": {"x":860,"y":468,"w":139,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":83,"w":139,"h":145},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0022.png":
+{
+	"frame": {"x":860,"y":468,"w":139,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":83,"w":139,"h":145},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0023.png":
+{
+	"frame": {"x":645,"y":2,"w":134,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":74,"w":134,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0024.png":
+{
+	"frame": {"x":645,"y":2,"w":134,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":74,"w":134,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0025.png":
+{
+	"frame": {"x":591,"y":483,"w":140,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":102,"w":140,"h":126},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0026.png":
+{
+	"frame": {"x":591,"y":483,"w":140,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":102,"w":140,"h":126},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0027.png":
+{
+	"frame": {"x":1849,"y":148,"w":144,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":144,"w":144,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0028.png":
+{
+	"frame": {"x":1849,"y":148,"w":144,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":144,"w":144,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0029.png":
+{
+	"frame": {"x":1849,"y":239,"w":142,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":159,"w":142,"h":69},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0030.png":
+{
+	"frame": {"x":1849,"y":239,"w":142,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":159,"w":142,"h":69},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_fall0031.png":
+{
+	"frame": {"x":317,"y":532,"w":142,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":155,"w":142,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0001.png":
+{
+	"frame": {"x":1705,"y":154,"w":92,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":76,"w":92,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0002.png":
+{
+	"frame": {"x":1639,"y":306,"w":105,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":76,"w":105,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0003.png":
+{
+	"frame": {"x":1639,"y":306,"w":105,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":76,"w":105,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0004.png":
+{
+	"frame": {"x":1639,"y":306,"w":105,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":76,"w":105,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0005.png":
+{
+	"frame": {"x":1566,"y":459,"w":121,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":74,"w":121,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0006.png":
+{
+	"frame": {"x":1566,"y":459,"w":121,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":74,"w":121,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0007.png":
+{
+	"frame": {"x":1108,"y":464,"w":125,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":74,"w":125,"h":149},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0008.png":
+{
+	"frame": {"x":1792,"y":2,"w":141,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":77,"w":141,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0009.png":
+{
+	"frame": {"x":1689,"y":457,"w":141,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":77,"w":141,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_kick0010.png":
+{
+	"frame": {"x":1689,"y":457,"w":141,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":77,"w":141,"h":144},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0001.png":
+{
+	"frame": {"x":321,"y":2,"w":113,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":54,"w":113,"h":174},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0002.png":
+{
+	"frame": {"x":321,"y":2,"w":113,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":54,"w":113,"h":174},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0003.png":
+{
+	"frame": {"x":317,"y":358,"w":116,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":56,"w":116,"h":172},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0004.png":
+{
+	"frame": {"x":317,"y":358,"w":116,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":56,"w":116,"h":172},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0005.png":
+{
+	"frame": {"x":428,"y":178,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":117,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0006.png":
+{
+	"frame": {"x":428,"y":178,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":117,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0007.png":
+{
+	"frame": {"x":428,"y":178,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":117,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0008.png":
+{
+	"frame": {"x":428,"y":178,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":117,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0009.png":
+{
+	"frame": {"x":428,"y":178,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":117,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0010.png":
+{
+	"frame": {"x":428,"y":178,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":117,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0011.png":
+{
+	"frame": {"x":428,"y":178,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":117,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0012.png":
+{
+	"frame": {"x":428,"y":178,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":60,"w":117,"h":168},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0013.png":
+{
+	"frame": {"x":435,"y":348,"w":115,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":68,"w":115,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0014.png":
+{
+	"frame": {"x":435,"y":348,"w":115,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":68,"w":115,"h":160},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0015.png":
+{
+	"frame": {"x":1849,"y":310,"w":138,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":105,"w":138,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0016.png":
+{
+	"frame": {"x":1849,"y":310,"w":138,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":105,"w":138,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0017.png":
+{
+	"frame": {"x":1832,"y":524,"w":133,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":142,"w":133,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0018.png":
+{
+	"frame": {"x":1832,"y":524,"w":133,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":142,"w":133,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_lose0019.png":
+{
+	"frame": {"x":1849,"y":435,"w":133,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":141,"w":133,"h":87},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0001.png":
+{
+	"frame": {"x":1619,"y":154,"w":84,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":75,"w":84,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0002.png":
+{
+	"frame": {"x":1619,"y":154,"w":84,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":75,"w":84,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0003.png":
+{
+	"frame": {"x":1551,"y":307,"w":86,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":75,"w":86,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0004.png":
+{
+	"frame": {"x":1551,"y":307,"w":86,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":75,"w":86,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0005.png":
+{
+	"frame": {"x":1533,"y":2,"w":89,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":75,"w":89,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0006.png":
+{
+	"frame": {"x":1533,"y":2,"w":89,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":75,"w":89,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0007.png":
+{
+	"frame": {"x":1385,"y":461,"w":90,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":75,"w":90,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0008.png":
+{
+	"frame": {"x":1385,"y":461,"w":90,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":75,"w":90,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0009.png":
+{
+	"frame": {"x":1459,"y":308,"w":90,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":75,"w":90,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0010.png":
+{
+	"frame": {"x":1459,"y":308,"w":90,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":75,"w":90,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0011.png":
+{
+	"frame": {"x":1527,"y":155,"w":90,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":75,"w":90,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0012.png":
+{
+	"frame": {"x":1527,"y":155,"w":90,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":75,"w":90,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0013.png":
+{
+	"frame": {"x":1477,"y":460,"w":87,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":75,"w":87,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0014.png":
+{
+	"frame": {"x":1477,"y":460,"w":87,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":75,"w":87,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0015.png":
+{
+	"frame": {"x":1619,"y":154,"w":84,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":75,"w":84,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_run0016.png":
+{
+	"frame": {"x":1619,"y":154,"w":84,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":75,"w":84,"h":150},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_stand0001.png":
+{
+	"frame": {"x":724,"y":158,"w":89,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":72,"w":89,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_stand0002.png":
+{
+	"frame": {"x":724,"y":158,"w":89,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":72,"w":89,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_stand0003.png":
+{
+	"frame": {"x":635,"y":160,"w":87,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":70,"w":87,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0001.png":
+{
+	"frame": {"x":1708,"y":2,"w":82,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":77,"w":82,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0002.png":
+{
+	"frame": {"x":1935,"y":2,"w":80,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":80,"w":80,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0003.png":
+{
+	"frame": {"x":1935,"y":2,"w":80,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":80,"w":80,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0004.png":
+{
+	"frame": {"x":218,"y":180,"w":131,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":50,"w":131,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0005.png":
+{
+	"frame": {"x":218,"y":180,"w":131,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":50,"w":131,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0006.png":
+{
+	"frame": {"x":154,"y":2,"w":165,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":50,"w":165,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0007.png":
+{
+	"frame": {"x":154,"y":2,"w":165,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":50,"w":165,"h":176},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0008.png":
+{
+	"frame": {"x":126,"y":410,"w":189,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":48,"w":189,"h":178},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_marceline_tackle0009.png":
+{
+	"frame": {"x":126,"y":410,"w":189,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":48,"w":189,"h":178},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "marceline_red.png",
+	"format": "RGBA8888",
+	"size": {"w":2017,"h":615},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a4f00bf0bdc75fb15fe35e2895f3337f:be14b45d2e1b801e9c82dc8337c8a12c:5bd94d0a8f054386de23389445109487$"
+}
+}

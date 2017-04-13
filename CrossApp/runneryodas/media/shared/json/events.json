@@ -1,0 +1,97 @@
+{
+    "events" :
+    {
+
+
+        "WookieWednesday" :
+        {
+            "message" : "STR_WookieWednesday",
+            "image"   : "img/comms/wookie_wednesday.jpg",
+            "hologram": "lando",
+            "hologram_text": "STR_WookieWednesday",
+            "hologram_tip":"STR_WookieWednesday_TIP"
+        },
+        "TokenTuesday" :
+        {
+            "message" : "STR_TokenTuesday",
+            "image"   : "img/comms/token_tuesday.jpg",
+            "hologram": "c3po",
+            "hologram_text": "STR_TokenTuesday",
+            "hologram_tip":"STR_TokenTuesday_TIP"
+        },
+        "ForceFriday" :
+        {
+            "message" : "STR_ForceFriday",
+            "image"   : "img/comms/force_friday.jpg",
+            "hologram": "kanan",
+            "hologram_text": "STR_ForceFriday",
+            "hologram_tip":"STR_ForceFriday_TIP"
+        },
+        "SithSaturday" :
+        {
+            "message" : "STR_SithSaturday",
+            "image"   : "img/comms/sith_saturday.jpg",
+            "hologram": "hera",
+            "hologram_text": "STR_SithSaturday",
+            "hologram_tip":"STR_SithSaturday_TIP"
+        },
+        "Halloween" :
+        {
+            "message" : "STR_Halloween",
+            "image"   : "img/comms/halloween_screen.jpg",
+            "hologram": "r2d2",
+            "hologram_text": "STR_Halloween",
+            "hologram_tip":"STR_Halloween"
+        },
+        "Christmas" :
+        {
+            "message" : "STR_Christmas",
+            "hologram": "c3po",
+            "hologram_text": "STR_Christmas",
+            "hologram_tip":"STR_Christmas_TIP"
+        }
+    },
+
+    "dates" :
+    [
+        {
+            "type" : "day",
+            "ids"  : ["TokenTuesday"],
+            "condition" : "tuesday"
+        },
+        {
+            "type" : "day",
+            "ids"  : ["WookieWednesday"],
+            "condition" : "wednesday"
+        },
+        {
+            "type" : "day",
+            "ids"  : ["ForceFriday"],
+            "condition" : "friday"
+        },
+        {
+            "type" : "day",
+            "ids"  : ["SithSaturday"],
+            "condition" : "saturday"
+        },
+        {
+            "type" : "range",
+            "ids"  : ["Christmas"],
+            "condition" :
+            {
+                "start" : "01/12/2015",
+                "end"   : "31/12/2015"
+            }
+        },
+        {
+            "type" : "range",
+            "ids"  : ["Halloween"],
+            "condition" :
+            {
+                "start" : "23/10/2015",
+                "end"   : "01/11/2015"
+            }
+        }
+
+    ]
+}

@@ -1,0 +1,8 @@
+{"c2dictionary":true, "data":{
+	"facebookPage":"http://www.facebook.com/taiminhcorp",
+	"twitterPage":"http://www.twitter.com/taiminhcompany",
+	"googlePage":"http://www.google.com/+Taiminhcorp",
+	"rateUs":"market://details?id=com.taiminh.jumpkitty&write_review=true",
+	"moreGames":"http://mobile.taiminh.com",
+	"shareMessage":"I just scored $score at JumpKitty !"
+}}

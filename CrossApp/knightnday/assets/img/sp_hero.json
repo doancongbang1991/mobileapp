@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "sp_hero/berserk_0",
+	"frame": {"x":118,"y":1090,"w":114,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":254},
+	"sourceSize": {"w":114,"h":254}
+},
+{
+	"filename": "sp_hero/berserk_1",
+	"frame": {"x":2,"y":832,"w":114,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":255},
+	"sourceSize": {"w":114,"h":255}
+},
+{
+	"filename": "sp_hero/berserk_2",
+	"frame": {"x":2,"y":1089,"w":114,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":255},
+	"sourceSize": {"w":114,"h":255}
+},
+{
+	"filename": "sp_hero/dash_0",
+	"frame": {"x":2,"y":2,"w":174,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":189},
+	"sourceSize": {"w":174,"h":189}
+},
+{
+	"filename": "sp_hero/dash_1",
+	"frame": {"x":2,"y":193,"w":174,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":189},
+	"sourceSize": {"w":174,"h":189}
+},
+{
+	"filename": "sp_hero/dash_2",
+	"frame": {"x":2,"y":384,"w":174,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":189},
+	"sourceSize": {"w":174,"h":189}
+},
+{
+	"filename": "sp_hero/shield_0",
+	"frame": {"x":119,"y":575,"w":114,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":256},
+	"sourceSize": {"w":114,"h":256}
+},
+{
+	"filename": "sp_hero/shield_1",
+	"frame": {"x":118,"y":833,"w":114,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":255},
+	"sourceSize": {"w":114,"h":255}
+},
+{
+	"filename": "sp_hero/shield_2",
+	"frame": {"x":2,"y":575,"w":115,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":255},
+	"sourceSize": {"w":115,"h":255}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sp_hero.png",
+	"format": "RGBA8888",
+	"size": {"w":235,"h":1346},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:34b2ca249d5b9740b32a9328af202a2c:d19207c14e6cf385ddeb749bd13b747c:0ba2b926e881db327dc5bf715f3a18b0$"
+}
+}

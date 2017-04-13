@@ -1,0 +1,23 @@
+{
+	"frames":{
+		"levelselect_icon1a":{"frame":{"x":382,"y":357,"w":72,"h":77},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":77},"sourceSize":{"w":72,"h":77}},
+		"levelselect_icon1b":{"frame":{"x":382,"y":98,"w":72,"h":77},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":77},"sourceSize":{"w":72,"h":77}},
+		"levelselect_icon2a":{"frame":{"x":308,"y":364,"w":72,"h":77},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":77},"sourceSize":{"w":72,"h":77}},
+		"levelselect_icon2b":{"frame":{"x":382,"y":176,"w":72,"h":77},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":77},"sourceSize":{"w":72,"h":77}},
+		"levelselect_icon3a":{"frame":{"x":235,"y":364,"w":72,"h":77},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":77},"sourceSize":{"w":72,"h":77}},
+		"levelselect_icon3b":{"frame":{"x":382,"y":254,"w":72,"h":77},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":72,"h":77},"sourceSize":{"w":72,"h":77}},
+		"levelselect_star":{"frame":{"x":382,"y":57,"w":40,"h":40},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":40,"h":40},"sourceSize":{"w":40,"h":40}},
+		"levelselect_stars0":{"frame":{"x":333,"y":487,"w":48,"h":24},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":48,"h":24},"sourceSize":{"w":48,"h":24}},
+		"levelselect_stars1":{"frame":{"x":284,"y":487,"w":48,"h":24},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":48,"h":24},"sourceSize":{"w":48,"h":24}},
+		"levelselect_stars2":{"frame":{"x":235,"y":487,"w":48,"h":24},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":48,"h":24},"sourceSize":{"w":48,"h":24}},
+		"levelselect_stars3":{"frame":{"x":382,"y":332,"w":48,"h":24},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":48,"h":24},"sourceSize":{"w":48,"h":24}},
+		"levelselect_tower":{"frame":{"x":0,"y":63,"w":381,"h":300},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":381,"h":300},"sourceSize":{"w":381,"h":300}},
+		"logo_bdr":{"frame":{"x":382,"y":0,"w":80,"h":56},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":80,"h":56},"sourceSize":{"w":80,"h":56}},
+		"logo_phaser":{"frame":{"x":382,"y":435,"w":80,"h":69},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":80,"h":69},"sourceSize":{"w":80,"h":69}},
+		"could1":{"frame":{"x":235,"y":442,"w":123,"h":44},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":123,"h":44},"sourceSize":{"w":123,"h":44}},
+		"could2":{"frame":{"x":0,"y":0,"w":174,"h":62},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":174,"h":62},"sourceSize":{"w":174,"h":62}},
+		"title_logo":{"frame":{"x":0,"y":364,"w":234,"h":156},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":234,"h":156},"sourceSize":{"w":234,"h":156}},
+		"title_image":{"frame":{"x":0,"y":521,"w":480,"h":679},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":480,"h":679},"sourceSize":{"w":480,"h":679}}
+	},
+	"meta":{"app":"http://www.leshylabs.com/apps/sstool/","version":"Leshy SpriteSheet Tool v0.8.4","image":"spritesheet.png","size":{"w":480,"h":1200},"scale":1}
+}

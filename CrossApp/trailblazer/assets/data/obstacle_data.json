@@ -1,0 +1,19 @@
+{
+	"obstacles":{
+		"top_blocks_1":{"anchorY":{"min":0.4, "max":0.6}, "collisionRect":{"width":0.9}},
+		"top_pipe_1":{"anchorY":{"min":0.4, "max":0.5}, "collisionRect":{"width":0.9}},
+		"top_blocks_2":{"anchorY":{"min":0.3, "max":0}, "collisionRect":{"width":0.9}},
+		"top_crate_1":{"anchorY":{"min":0.3, "max":0.4}, "collisionRect":{"width":0.9}},
+		"mid_crate_1":{"anchorY":{"min":0.3, "max":0.7}, "collisionRect":{"x":0.05, "y":0.05, "width":0.8, "height":0.9}},
+		"mid_pipe_1":{"anchorY":{"min":0.3, "max":0.7}, "collisionRect":{"x":0.05, "width":0.8}},
+		"mid_bench_1":{"anchorY":{"min":0.3, "max":0.7}, "collisionRect":{"x":0.05, "y":0.1, "width":0.8, "height":0.7}},
+		"mid_tree_1":{"anchorY":{"min":0.3, "max":0.7}, "collisionRect":{"x":0.05, "y":0.1, "width":0.8, "height":0.7}},
+		"mid_car_1":{"anchorY":{"min":0.3, "max":0.7}, "collisionRect":{"x":0.2, "y":0.1, "width":0.7, "height":0.7}},
+		"mid_car_2":{"anchorY":{"min":0.3, "max":0.7}, "collisionRect":{"x":0.2, "y":0.1, "width":0.7, "height":0.7}},
+		"mid_car_3":{"anchorY":{"min":0.3, "max":0.7}, "collisionRect":{"x":0.2, "y":0.1, "width":0.7, "height":0.7}},
+		"bottom_building_1":{"anchorY":{"min":0.7, "max":0.9}, "collisionRect":{"y":0.1, "width":0.8}},
+		"bottom_building_2":{"anchorY":{"min":0.6, "max":0.8}, "collisionRect":{"x":0.15, "width":0.65}},
+		"bottom_billboard_1":{"anchorY":{"min":1, "max":0.8}, "collisionRect":null},
+		"bottom_bush_1":{"anchorY":{"min":0.9, "max":1}, "collisionRect":{"x":0.2, "y":0.2, "width":0.5}}
+	}
+}

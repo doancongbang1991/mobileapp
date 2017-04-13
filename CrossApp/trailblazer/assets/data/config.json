@@ -1,0 +1,137 @@
+{
+	"home_link":"http://www.cartoonnetwork.co.uk/",
+	"copy":{
+	"EVIL_LAUGH":{
+		"en":{"text":"MWUUUAA\nHAHAHAHAHA!!!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Mouahahahaha!", "scale":1, "live":false, "offset":{"x":0, "y":30}},
+		"es":{"text":"¡Muajajajaja!", "scale":1, "live":false, "offset":{"x":0, "y":30}},
+		"de":{"text":"Muahahahaha!", "scale":1, "live":false, "offset":{"x":0, "y":30}},
+		"it":{"text":"Uahahaha!", "scale":1, "live":false, "offset":{"x":0, "y":30}},
+		"pl":{"text":"Hahahahahaha!", "scale":1, "live":false, "offset":{"x":0, "y":30}},
+		"ru":{"text":"Xa-xa-xa-xa!", "scale":1, "live":true, "offset":{"x":0, "y":30}},
+		"ar":{"text":"!موهاهاهاها", "scale":1, "live":true, "offset":{"x":0, "y":30}},
+		"tr":{"text":"Muahahahaha!", "scale":1, "live":false, "offset":{"x":0, "y":30}}
+	},
+	"LETS_STOP":{
+		"en":{"text":"Let's stop Mojo Jojo\nbefore it's too late!!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Arrêtons Mojo Jojo avant\nqu'il ne soit trop tard!!!", "scale":0.8, "live":false, "offset":{"x":0, "y":10}},
+		"es":{"text":"¡Hay que parar a Mojo Jojo\nantes de que sea tarde!", "scale":0.8, "live":false, "offset":{"x":0, "y":10}},
+		"de":{"text":"Wir müssen Mojo Jojo\nstoppen, bevor es zu spät ist!", "scale":0.8, "live":false, "offset":{"x":0, "y":10}},
+		"it":{"text":"Fermiamo Mojo Jojo\nprima che sia troppo tardi!", "scale":0.8, "live":false, "offset":{"x":0, "y":10}},
+		"pl":{"text":"Powstrzymajmy Mojo Jojo,\nzanim będzie za późno!", "scale":0.8, "live":false, "offset":{"x":0, "y":10}},
+		"ru":{"text":"Остановим\nМоджо Джоджо,\nпока не поздно!", "scale":0.7, "live":true, "offset":{"x":0, "y":-23}},
+		"ar":{"text":"!لنوقف موجو جوجو\nقبل فوات الأوان", "scale":0.8, "live":true, "offset":{"x":0, "y":-5}},
+		"tr":{"text":"Çok geç olmadan\nMojo Jojo'yu\ndurduralım!", "scale":0.8, "live":false, "offset":{"x":0, "y":-15}}
+	},
+	"YEAH":{
+		"en":{"text":"Yeah!!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Allons-y!", "scale":0.8, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"¡Sí!", "scale":0.8, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Yeah!", "scale":0.8, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Sììì!", "scale":0.8, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Tak jest!", "scale":0.8, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Дa!", "scale":0.8, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"!نعم", "scale":0.8, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"Evet!", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},	
+	"INSTRUCTIONS_TITLE":{
+		"en":{"text":"INSTRUCTIONS", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"INSTRUCTIONS", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"Instrucciones", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Anleitung", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Istruzioni", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Wskazówki", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Инструкции", "scale":1, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"تعليمات", "scale":1, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"Talimatlar", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},
+	"INSTRUCTIONS_1":{
+		"en":{"text":"The Powerpuff Girls are flying\nin formation", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Les Super Nanas volent\nen formation triangulaire.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"Las Supernenas vuelan\nen formación triangular.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Die Powerpuff Girls fliegen übereinander\nin Dreiecksformation.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Le Powerpuff Girls avanzano volando\nin perfetta formazione a triangolo.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Atomówki tworzą w locie\nformację w kształcie trójkąta.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Суперкрошки летят группой,\nобразуя треугольник.", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"فتيات القوة يطرن على شكل مثلث.", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"Powerpuff kızları\nüçgen oluşturacak şekilde uçuyor.", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},
+	"INSTRUCTIONS_2":{
+		"en":{"text":"Tap to change formation and avoid\nfloating obstacles", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Appuie pour changer de formation et éviter\nles obstacles qui flottent dans les airs.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"Pulsa para cambiar la formación\ny esquivar los obstáculos.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Ändere die Formation durch\nAntippen, um Hindernissen auszuweichen.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Tocca per cambiare formazione\ned evitare gli ostacoli sospesi.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Twoje kliknięcie spowoduje zmianę\nformacji i pozwoli na uniknięcie przeszkód.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Нажми, чтобы поменять их\nпозицию и избежать препятствий.", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"انقر لتغيير الشكل وقم بتفادي العوائق الطافية", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"Sıralananış şekillerini değiştirip\nuçan nesnelerden kaçmak için dokun.", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},
+	"INSTRUCTIONS_2_PC":{
+		"en":{"text":"Click to change formation and avoid\nfloating obstacles", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Appuie pour changer de formation et éviter\nles obstacles qui flottent dans les airs.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"Pulsa para cambiar la formación\ny esquivar los obstáculos.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Ändere die Formation durch\nAntippen, um Hindernissen auszuweichen.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Tocca per spezzare la formazione\ned evitare gli ostacoli sospesi.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Twoje kliknięcie spowoduje zmianę\nformacji i pozwoli na uniknięcie przeszkód.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Нажми, чтобы поменять их\nпозицию и избежать препятствий.", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"انقر لتغيير الشكل وقم بتفادي العوائق الطافية", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"Sıralananış şekillerini değiştirip\nuçan nesnelerden kaçmak için dokun.", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},
+	"INSTRUCTIONS_3":{
+		"en":{"text":"Tap again and they'll return to their original\nformation. Get extra points by collecting hearts!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Appuie de nouveau pour revenir à la position initiale. Tu peux\ngagner des points supplémentaires en ramassant les cœurs.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"Pulsa de nuevo y volverán a la posición original.\nConsigue puntos extra recogiendo corazones.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Tippe noch einmal, und sie nehmen wieder die Ausgangsposition\nein. Hol dir Extrapunkte, indem du Herzen sammelst.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Tocca di nuovo per farle tornare nella posizione\niniziale. Raccogli i cuori per ottenere punti extra.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Ponowne kliknięcie spowoduje powrót Atomówek do początkowej\nformacji. Zdobywaj dodatkowe punkty za zbieranie serduszek.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Нажми снова, чтобы вернуть их на место.\nСобирай сердечки, чтобы заработать очки.", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"انقر مرة أخرى للعودة إلى الشكل الأساسي.\nاحصل على نقاط إضافية عبر جمع القلوب", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"İlk konumlarına dönmek için tekrar dokun.\nKalpleri toplayarak ekstra puan al.", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},
+	"INSTRUCTIONS_3_PC":{
+		"en":{"text":"Click again and they'll return to their original\nformation. Get extra points by collecting hearts!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Appuie de nouveau pour revenir à la position initiale. Tu peux\ngagner des points supplémentaires en ramassant les cœurs.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"Pulsa de nuevo y volverán a la posición original.\nConsigue puntos extra recogiendo corazones.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Tippe noch einmal, und sie nehmen wieder die Ausgangsposition\nein. Hol dir Extrapunkte, indem du Herzen sammelst.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Tocca di nuovo per farle tornare nella posizione\niniziale. Raccogli i cuori per ottenere punti extra.", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Ponowne kliknięcie spowoduje powrót Atomówek do początkowej\nformacji. Zdobywaj dodatkowe punkty za zbieranie serduszek.", "scale":0.9, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Нажми снова, чтобы вернуть их на место.\nСобирай сердечки, чтобы заработать очки.", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"انقر مرة أخرى للعودة إلى الشكل الأساسي.\nاحصل على نقاط إضافية عبر جمع القلوب", "scale":0.9, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"İlk konumlarına dönmek için tekrar dokun.\nKalpleri toplayarak ekstra puan al.", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},
+	"QUIT":{
+		"en":{"text":"Are you sure\nyou want to quit?", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Es-tu sûr\nde vouloir quitter?", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"¿Seguro que\nquieres salir?", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Möchtest du\nwirklich aufhören?", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Sei sicuro di voler\nuscire dal gioco?", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Czy na pewno\nchcesz zakończyć grę?", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Выйти из\nигры?", "scale":1, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"هل أنت متأكد\nمن رغبتك في الخروج؟", "scale":1, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"Çıkmak istediğine\nemin misin?", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},
+	"GREAT_FLYING":{
+		"en":{"text":"Great flying!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Bravo, quel vol!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"es":{"text":"¡Buena partida!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Ein toller Flug!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"it":{"text":"Che volata!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Znakomity lot!", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Отличный полет!", "scale":1, "live":true, "offset":{"x":0, "y":0}},
+		"ar":{"text":"!طيران رائع\n ", "scale":1, "live":true, "offset":{"x":0, "y":0}},
+		"tr":{"text":"Harika bir uçuştu!", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	},
+	"ILL_BE_BACK":{
+		"en":{"text":"I'll be back powerpuff girls!\nIt will not end here...", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"fr":{"text":"Je reviendrai, Les Super Nanas!\nVous ne m'arrêterez pas si facilement...", "scale":0.8, "live":false, "offset":{"x":0, "y":10}},
+		"es":{"text":"¡Volveré, Supernenas!\nEsto no quedará así...", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"de":{"text":"Ich komme wieder, Powerpuff Girls!\nEs ist noch nicht vorbei...", "scale":0.9, "live":false, "offset":{"x":0, "y":10}},
+		"it":{"text":"Alla prossima, Powerpuff Girls!\nNon è finita qui...", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"pl":{"text":"Jeszcze się spotkamy,\nAtomówki! To nie koniec...", "scale":1, "live":false, "offset":{"x":0, "y":0}},
+		"ru":{"text":"Я еще вернусь, Суперкрошки!\nЭто далеко не конец...", "scale":0.8, "live":true, "offset":{"x":0, "y":10}},
+		"ar":{"text":"!سوف أعود، يا فتيات القوة\nهذه ليست النهاية...", "scale":0.8, "live":true, "offset":{"x":0, "y":10}},
+		"tr":{"text":"Geri döneceğim Powerpuff\nkızları! Bu iş burada bitmedi.", "scale":1, "live":false, "offset":{"x":0, "y":0}}
+	}
+	}
+}

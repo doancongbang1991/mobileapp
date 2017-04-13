@@ -1,0 +1,187 @@
+{
+    "strings": {
+        "//!\\ IMPORTANT NOTES ---- //!\\ ": "for the texts using the font 'Star Jedi', always write in little character (no caps)",
+
+        "STR_LOADING": "LOADING",
+
+        "STR_EARNED_TROPHY" : "You just earned a trophy : ",
+        "STR_SAVE_NAME": "SAVE NAME",
+
+        "STR_TOKEN_TUESDAY": "It's Token Tuesday - All Arcade tokens are worth double today. Spend them in the Star Wars Arcade!",
+
+        "STR_WOOKIE_WEDNESDAY": "It's Wookiee Wednesday - All Jedi Coins are worth double today. Spend them on upgrades for Luke!",
+
+        "STR_CHARACTER_TITLE" : "Luke Select",
+
+        "STR_ARCADE_SPEND" : "Go to the Star Wars Arcade to spend your tokens.",
+
+        "STR_CHARACTER_CONGRATS" : "Congratulations!",
+        "STR_CHARACTER_UNLOCKED" : "Unlocked",
+
+        "STR_CHARACTER_DAGOBAH" : "Dagobah Luke",
+
+        "STR_CHARACTER_XWING" : "X-wing Pilot Luke",
+
+        "STR_CHARACTER_JEDI" : "Jedi Knight Luke",
+
+        "STR_XWING_REQUIREMENTS" : "Unlocked at level 6",
+
+        "STR_JEDI_REQUIREMENTS" : "Unlocked at level 11",
+
+        "STR_GOALS_COMPLETE" : " Complete!",
+
+        "STR_SHOP_OWNED": "OWNED",
+
+        "STR_PERSONAL_BEST": "Personal\nBest!",
+        "STR_PERSONAL_BEST_2": "Personal Best!",
+
+        "FIRST_ARCADE_TOKEN": "Arcade Token Collected! - spend it in the Star Wars Arcade!",
+
+        "STR_OVERLAY_SHOP": "upgrades",
+
+        "STR_OVERLAY_TUTORIAL": "how to play",
+
+        "STR_OVERLAY_COMPLETION": "RESULTS",
+        "STR_LEADERBOARD_NO_DATA": "BE THE FIRST TO SUBMIT YOUR SCORE!",
+        "STR_OVERLAY_GAME_FINISHED_TITLE": "GAME FINISHED",
+        "STR_OVERLAY_GAMEOVER": "game over",
+
+        "STR_OVERLAY_LEADERBOARD": "leaderboard",
+        "STR_OVERLAY_LEADERBOARD_INFO": "YOUR BEST SCORE",
+
+        "STR_OVERLAY_SUBMIT": "enter name",
+        "STR_OVERLAY_NAME": "ENTER NAME",
+        "STR_OVERLAY_SUBMIT_INFOS": "SUBMIT YOUR SCORE",
+        "STR_OVERLAY_HIGHSCORE": "high score",
+        "STR_OVERLAY_HIGHSCORE_DAY": "TODAY",
+        "STR_OVERLAY_HIGHSCORE_WEEK": "THIS WEEK",
+        "STR_OVERLAY_HIGHSCORE_ALL_TIME": "ALL TIME",
+        "STR_OVERLAY_HIGHSCORE_SCORE": "YOUR SCORE:",
+        "STR_OVERLAY_HIGHSCORE_TIME": "YOUR TIME:",
+        "STR_OVERLAY_HIGHSCORE_INFO": "SUBMIT YOUR SCORE",
+        "STR_OVERLAY_CHALLENGES": "challenges",
+        "STR_OVERLAY_CHALLENGES_INFO": "CHALLENGES COMPLETE",
+        "STR_OVERLAY_PAUSE": "pause",
+
+        "FORCE_MODE": "Force Mode",
+        "STR_OVERLAY_LEVELS_PREFIX": "Level",
+        "STR_GAME_RESULTS": "results",
+        "STR_GAME_SCORE": "SCORE:",
+
+        "STR_GAME_SUBMIT": "SUBMIT SCORE",
+
+        "STR_STARWARS_ARCADE": "STAR WARS ARCADE",
+        "STR_BUTTON_ARCADE": "Star Wars Arcade",
+        "STR_BUTTON_ROOM": "My Star Wars Room",
+        "STR_BUTTON_REBELS": "Team Tactics",
+        "STR_BUTTON_FIGHTER": "Star Wars Fighter",
+        "STR_BUTTON_YODA": "Yoda's Jedi Training",
+
+        "STR_HOWTOPLAY_1_DESKTOP": "Press the UP arrow key to jump",
+        "STR_HOWTOPLAY_2_DESKTOP": "When on a vine, press UP arrow key to jump off",
+        "STR_HOWTOPLAY_3_DESKTOP": "Press the SPACE BAR to use Luke's lightsaber",
+        "STR_HOWTOPLAY_4_DESKTOP": "In caves, press the UP arrow key to jump between walls",
+        "STR_HOWTOPLAY_5_DESKTOP": "Earn a new trophy every 10 achievements",
+        "STR_HOWTOPLAY_1_MOBILE": "Tap the RIGHT side of the screen to jump",
+        "STR_HOWTOPLAY_2_MOBILE": "When on a vine, tap the RIGHT side of the screen to jump off",
+        "STR_HOWTOPLAY_3_MOBILE": "Tap the LEFT side of the screen to use Luke's lightsaber",
+        "STR_HOWTOPLAY_4_MOBILE": "In caves, tap the RIGHT side of the screen to jump between wall vines",
+        "STR_HOWTOPLAY_5_MOBILE": "Earn a new trophy every 10 achievements",
+
+        "STR_YOUR_SCORE": "Your score:",
+
+        "firstTimeShop": "Buy new items and abilities for Luke",
+        "firstTimeShopItemAvailable": "You've earned enough credits - click the trolley now to upgrade Luke",
+
+        "trophies": "See gameplay challenges for you to complete!",
+        "trophies2": "Earn a new trophy every time you complete 10 challenges!",
+        "trophies3": "Check out your trophies in the Star Wars Arcade!",
+
+        "STR_PAUSED_TITLE": "Paused",
+
+        "STR_BILLBOARDS_JUMP_MOBILE_1": "TAP RIGHT OF\nSCREEN TO JUMP",
+        "STR_BILLBOARDS_JUMP_DESKTOP_1": "PRESS UP TO JUMP",
+
+
+        "STR_BILLBOARDS_FLIP_MOBILE_1": "TAP AND HOLD\nTO FLIP",
+        "STR_BILLBOARDS_FLIP_DESKTOP_1": "PRESS AND HOLD\nTO FLIP",
+
+
+        "STR_BILLBOARDS_SLASH_MOBILE_1": "TAP LEFT OF SCREEN\nTO SLASH",
+        "STR_BILLBOARDS_SLASH_DESKTOP_1": "PRESS SPACE\nTO SLASH",
+
+        "STR_BILLBOARDS_SWING_MOBILE_1": "TAP RIGHT\nTO JUMP OFF VINE",
+        "STR_BILLBOARDS_SWING_DESKTOP_1": "PRESS UP\nTO JUMP OFF VINE",
+
+        "STR_BILLBOARDS_WALL_MOBILE_1": "TAP RIGHT\nTO WALL JUMP",
+        "STR_BILLBOARDS_WALL_DESKTOP_1": "PRESS UP\nTO WALL JUMP",
+
+        "STR_BILLBOARDS_SHOP_1": "SPEND COINS\nIN THE SHOP",
+
+
+        "STR_GAMEOVER_DISTANCE":"DISTANCE: ",
+        "STR_GAMEOVER_JEDI_POWER":"JEDI COINS: ",
+
+        "STR_GAMEOVER_STYLE":"SKILL: ",
+        "STR_GAMEOVER_TOTAL":"TOTAL: ",
+
+
+        "STR_SHOP_FORCE_NAME" : "FORCE",
+        "STR_SHOP_FLIP_NAME" : "FLIP",
+        "STR_SHOP_SABER_NAME" : "LIGHTSABER",
+
+        "STR_SHOP_FORCE_1" : "Force attracts Jedi Coins",
+        "STR_SHOP_FORCE_2" : "Level 2: Force attracts Jedi Coins",
+        "STR_SHOP_FORCE_3" : "Level 3: Force attracts Jedi Coins",
+        "STR_SHOP_FORCE_4" : "Level 4: Force attracts Jedi Coins",
+
+        "STR_SHOP_FLIP_1" : "Increase Luke's Flip speed",
+        "STR_SHOP_FLIP_2" : "Level 2: Increase Flip speed",
+        "STR_SHOP_FLIP_3" : "Level 3: Increase Flip speed",
+        "STR_SHOP_FLIP_4" : "Level 4: Increase Flip speed",
+
+        "STR_SHOP_SABER_1" : "Increases Lightsaber range",
+        "STR_SHOP_SABER_2" : "Level 2: Increases Lightsaber range",
+        "STR_SHOP_SABER_3" : "Level 3: Increases Lightsaber range",
+        "STR_SHOP_SABER_4" : "Level 4: Increases Lightsaber range",
+
+
+        "STR_TROPHY_DURASTEEL" : " You won the durasteel trophy",
+        "STR_TROPHY_BRONZE" : " You won the bronze trophy",
+        "STR_TROPHY_SILVER" : " You won the silver trophy",
+        "STR_TROPHY_GOLD" : " You won the gold trophy",
+
+        "STR_POP_UP_COMPLETE" : "Completed",
+
+        "STR_COMBO_NONE" : "+NONE",
+        "STR_COMBO_SABER_SLASH" : "+SABER SLASH",
+        "STR_COMBO_ROADIE_RUN" : "+ROADIE RUN",
+        "STR_COMBO_FLIP" : "+FLIP",
+        "STR_COMBO_DOUBLE_FLIP" : "+DOUBLE FLIP",
+        "STR_COMBO_TRIPLE_FLIP" : "+TRIPLE FLIP",
+        "STR_COMBO_WALL_JUMP" : "+WALL JUMP",
+        "STR_COMBO_VINE_SWING" : "+VINE SWING",
+
+        "STR_GOALS_LEVEL_1_TITLE" : "Level 1",
+        "STR_GOALS_LEVEL_2_TITLE" : "Level 2",
+        "STR_GOALS_LEVEL_3_TITLE" : "Level 3",
+        "STR_GOALS_LEVEL_4_TITLE" : "Level 4",
+        "STR_GOALS_LEVEL_5_TITLE" : "Level 5",
+        "STR_GOALS_LEVEL_6_TITLE" : "Level 6",
+        "STR_GOALS_LEVEL_7_TITLE" : "Level 7",
+        "STR_GOALS_LEVEL_8_TITLE" : "Level 8",
+        "STR_GOALS_LEVEL_9_TITLE" : "Level 9",
+        "STR_GOALS_LEVEL_10_TITLE" : "Level 10",
+        "STR_GOALS_LEVEL_11_TITLE" : "Level 11",
+        "STR_GOALS_LEVEL_12_TITLE" : "Level 12",
+        "STR_GOALS_LEVEL_13_TITLE" : "Level 13",
+        "STR_GOALS_LEVEL_14_TITLE" : "Level 14",
+        "STR_GOALS_LEVEL_15_TITLE" : "Level 15",
+        "STR_GOALS_LEVEL_16_TITLE" : "Level 16",
+        "STR_GOALS_LEVEL_17_TITLE" : "Level 17",
+        "STR_GOALS_LEVEL_18_TITLE" : "Level 18",
+        "STR_GOALS_LEVEL_19_TITLE" : "Level 19",
+        "STR_GOALS_LEVEL_20_TITLE" : "Level 20"
+
+    }
+}

@@ -1,0 +1,55 @@
+{
+
+	"_comments": {"We use objects instead of arrays, so we use the key for adding sprites. This way we can easily change sprites without the need to refactor.":
+	              "About spriteSheets. The value is an array. First entry is url, second and third is width and height of individual sprite."
+	    },
+	
+
+	"audio": {
+			   "SoundEffects":				"assets/audio/sfx/Audio_SFX.+Globals.audioFormat",
+			   "Music":                     "assets/audio/music/Game_Music.+Globals.audioFormat"
+		},
+
+	"atlasXML":{
+				"Explosion1":				"assets/sprites/Explosion1.jpg",
+				"MenuCars":					"assets/UI/MenuCarIcons.png",
+				"MenuWeapons":				"assets/UI/MenuWeaponIcons.png",
+				"GameCars":					"assets/sprites/CarsAtlas.png",
+				"GameWeapons":				"assets/sprites/WeaponsAtlas.png",
+				"GameEffects":				"assets/sprites/EffectsAdditiveAtlas.jpg",
+				"GameObjects":				"assets/sprites/MiscAtlas.png",
+				"InterfaceItems":			"assets/UI/InterfaceAtlas.png"
+		},
+
+	"bitmapFont":{
+				"Impact":					"assets/fonts/Impact144.png",
+				"Vipna":					"assets/fonts/VipnagorgiallaDigits144.png"
+
+		},	
+
+	"sprites": {
+			   "Branding":					"assets/branding/+Globals.branding+.png",
+			   "MainMenuBackground":		"assets/UI/MainMenuBackground.jpg",
+			   "DefaultMenuBackground":		"assets/UI/DefaultMenuBackground.jpg",
+			   "DefaultOverlay":			"assets/UI/DefaultOverlay.png",
+			   "DeadOverlay":				"assets/UI/DeadOverlay.png",
+			   "NewIcon":					"assets/UI/NewIcon.png",
+			   "HelpScreenControls":		"assets/UI/Help.jpg",
+			   "BrakeButton":				"assets/sprites/BrakeButton.png",
+			   "StreetWater":				"assets/sprites/streets+Globals.streetDetail+/StreetWater.jpg",
+			   "StreetCity":				"assets/sprites/streets+Globals.streetDetail+/StreetCity.jpg",
+			   "StreetCanyon":				"assets/sprites/streets+Globals.streetDetail+/StreetCanyon.jpg",
+			   "StreetDesert":				"assets/sprites/streets+Globals.streetDetail+/StreetDesert.jpg",
+			   "StreetGrass":				"assets/sprites/streets+Globals.streetDetail+/StreetGrass.jpg",
+			   "StreetSnow":				"assets/sprites/streets+Globals.streetDetail+/StreetSnow.jpg"
+		},
+
+	"spriteSheet":{
+				"MainButton":				"assets/UI/ButtonBigSheet_384x128.jpg",
+				"CarButton":				"assets/UI/ButtonWideSheet_590x128.jpg",
+				"WeaponButton":				"assets/UI/ButtonSquareSheet_290x194.jpg",
+				"PauseButton":				"assets/UI/ButtonPauseSheet_64x64.png",
+				"SoundButton":				"assets/UI/ButtonSoundSheet_96x64.png"
+		}
+
+}

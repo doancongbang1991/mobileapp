@@ -1,0 +1,1716 @@
+{"frames": {
+
+"characters_jake_blue_bicycle_kick0001.png":
+{
+	"frame": {"x":626,"y":94,"w":75,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":133,"w":75,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0002.png":
+{
+	"frame": {"x":626,"y":94,"w":75,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":133,"w":75,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0003.png":
+{
+	"frame": {"x":626,"y":94,"w":75,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":133,"w":75,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0004.png":
+{
+	"frame": {"x":387,"y":188,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":72,"w":90,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0005.png":
+{
+	"frame": {"x":387,"y":188,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":72,"w":90,"h":148},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0006.png":
+{
+	"frame": {"x":479,"y":187,"w":83,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":53,"w":83,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0007.png":
+{
+	"frame": {"x":479,"y":187,"w":83,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":53,"w":83,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0008.png":
+{
+	"frame": {"x":479,"y":187,"w":83,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":53,"w":83,"h":166},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0009.png":
+{
+	"frame": {"x":564,"y":187,"w":96,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":54,"w":96,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0010.png":
+{
+	"frame": {"x":564,"y":187,"w":96,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":54,"w":96,"h":165},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0011.png":
+{
+	"frame": {"x":662,"y":185,"w":86,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":56,"w":86,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0012.png":
+{
+	"frame": {"x":662,"y":185,"w":86,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":56,"w":86,"h":163},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0013.png":
+{
+	"frame": {"x":834,"y":189,"w":81,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":116,"w":81,"h":103},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0014.png":
+{
+	"frame": {"x":834,"y":189,"w":81,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":116,"w":81,"h":103},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0015.png":
+{
+	"frame": {"x":834,"y":294,"w":89,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":138,"w":89,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0016.png":
+{
+	"frame": {"x":834,"y":294,"w":89,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":138,"w":89,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0017.png":
+{
+	"frame": {"x":750,"y":327,"w":80,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":146,"w":80,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0018.png":
+{
+	"frame": {"x":750,"y":327,"w":80,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":146,"w":80,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0019.png":
+{
+	"frame": {"x":925,"y":284,"w":80,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":143,"w":80,"h":75},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0020.png":
+{
+	"frame": {"x":925,"y":284,"w":80,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":143,"w":80,"h":75},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0021.png":
+{
+	"frame": {"x":750,"y":327,"w":80,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":146,"w":80,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_bicycle_kick0022.png":
+{
+	"frame": {"x":750,"y":327,"w":80,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":146,"w":80,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0001.png":
+{
+	"frame": {"x":496,"y":418,"w":71,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":150,"w":71,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0002.png":
+{
+	"frame": {"x":496,"y":418,"w":71,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":150,"w":71,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0003.png":
+{
+	"frame": {"x":750,"y":402,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":156,"w":74,"h":67},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0004.png":
+{
+	"frame": {"x":750,"y":402,"w":74,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":156,"w":74,"h":67},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0005.png":
+{
+	"frame": {"x":569,"y":438,"w":73,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":160,"w":73,"h":63},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0006.png":
+{
+	"frame": {"x":569,"y":438,"w":73,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":160,"w":73,"h":63},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0007.png":
+{
+	"frame": {"x":569,"y":438,"w":73,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":160,"w":73,"h":63},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0008.png":
+{
+	"frame": {"x":750,"y":189,"w":82,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":85,"w":82,"h":136},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0009.png":
+{
+	"frame": {"x":750,"y":189,"w":82,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":85,"w":82,"h":136},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0010.png":
+{
+	"frame": {"x":283,"y":188,"w":102,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":111,"w":102,"h":111},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0011.png":
+{
+	"frame": {"x":283,"y":188,"w":102,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":111,"w":102,"h":111},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0012.png":
+{
+	"frame": {"x":283,"y":188,"w":102,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":111,"w":102,"h":111},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0013.png":
+{
+	"frame": {"x":283,"y":188,"w":102,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":111,"w":102,"h":111},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0014.png":
+{
+	"frame": {"x":283,"y":188,"w":102,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":111,"w":102,"h":111},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0015.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0016.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0017.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0018.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0019.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0020.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0021.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0022.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0023.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0024.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0025.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0026.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0027.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0028.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0029.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0030.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0031.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0032.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0033.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0034.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0035.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0036.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0037.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0038.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0039.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0040.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0041.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0042.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0043.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0044.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0045.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0046.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0047.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0048.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0049.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0050.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0051.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0052.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0053.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0054.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0055.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0056.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0057.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0058.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0059.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0060.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0061.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0062.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0063.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0064.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0065.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0066.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0067.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0068.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0069.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0070.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0071.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0072.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0073.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0074.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0075.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0076.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0077.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0078.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0079.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0080.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0081.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0082.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0083.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0084.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0085.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0086.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0087.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0088.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0089.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0090.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0091.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0092.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0093.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0094.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0095.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0096.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0097.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0098.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0099.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0100.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0101.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0102.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0103.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0104.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0105.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0106.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0107.png":
+{
+	"frame": {"x":703,"y":94,"w":65,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":133,"w":65,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0108.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0109.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0110.png":
+{
+	"frame": {"x":236,"y":324,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0111.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0112.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0113.png":
+{
+	"frame": {"x":303,"y":301,"w":65,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":134,"w":65,"h":88},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0114.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0115.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0116.png":
+{
+	"frame": {"x":344,"y":392,"w":65,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":137,"w":65,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0117.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0118.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0119.png":
+{
+	"frame": {"x":1014,"y":416,"w":65,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":141,"w":65,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0120.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0121.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_celebrate0122.png":
+{
+	"frame": {"x":569,"y":354,"w":65,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":140,"w":65,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0001.png":
+{
+	"frame": {"x":163,"y":188,"w":118,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":143,"w":118,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0002.png":
+{
+	"frame": {"x":580,"y":2,"w":125,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":130,"w":125,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0003.png":
+{
+	"frame": {"x":447,"y":2,"w":131,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":129,"w":131,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0004.png":
+{
+	"frame": {"x":311,"y":2,"w":134,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":130,"w":134,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0005.png":
+{
+	"frame": {"x":707,"y":2,"w":128,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":135,"w":128,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0006.png":
+{
+	"frame": {"x":967,"y":2,"w":117,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":131,"w":117,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0007.png":
+{
+	"frame": {"x":662,"y":350,"w":86,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":144,"w":86,"h":77},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0008.png":
+{
+	"frame": {"x":644,"y":429,"w":71,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":160,"w":71,"h":62},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0009.png":
+{
+	"frame": {"x":163,"y":188,"w":118,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":143,"w":118,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0010.png":
+{
+	"frame": {"x":580,"y":2,"w":125,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":130,"w":125,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0011.png":
+{
+	"frame": {"x":447,"y":2,"w":131,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":129,"w":131,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0012.png":
+{
+	"frame": {"x":311,"y":2,"w":134,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":130,"w":134,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0013.png":
+{
+	"frame": {"x":707,"y":2,"w":128,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":135,"w":128,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0014.png":
+{
+	"frame": {"x":967,"y":2,"w":117,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":131,"w":117,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0015.png":
+{
+	"frame": {"x":662,"y":350,"w":86,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":144,"w":86,"h":77},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_dash0016.png":
+{
+	"frame": {"x":644,"y":429,"w":71,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":160,"w":71,"h":62},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_fall0001.png":
+{
+	"frame": {"x":78,"y":406,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":125,"w":99,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_fall0002.png":
+{
+	"frame": {"x":78,"y":406,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":125,"w":99,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_fall0003.png":
+{
+	"frame": {"x":78,"y":406,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":125,"w":99,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_fall0004.png":
+{
+	"frame": {"x":922,"y":437,"w":90,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":162,"w":90,"h":60},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_fall0005.png":
+{
+	"frame": {"x":922,"y":437,"w":90,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":162,"w":90,"h":60},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_fall0006.png":
+{
+	"frame": {"x":832,"y":377,"w":94,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":170,"w":94,"h":52},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_fall0007.png":
+{
+	"frame": {"x":832,"y":377,"w":94,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":170,"w":94,"h":52},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_fall0008.png":
+{
+	"frame": {"x":826,"y":431,"w":94,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":171,"w":94,"h":51},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0001.png":
+{
+	"frame": {"x":1008,"y":189,"w":76,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":126,"w":76,"h":96},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0002.png":
+{
+	"frame": {"x":1008,"y":189,"w":76,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":126,"w":76,"h":96},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0003.png":
+{
+	"frame": {"x":2,"y":406,"w":74,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":122,"w":74,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0004.png":
+{
+	"frame": {"x":2,"y":406,"w":74,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":122,"w":74,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0005.png":
+{
+	"frame": {"x":917,"y":189,"w":89,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":129,"w":89,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0006.png":
+{
+	"frame": {"x":917,"y":189,"w":89,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":129,"w":89,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0007.png":
+{
+	"frame": {"x":871,"y":90,"w":90,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":129,"w":90,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0008.png":
+{
+	"frame": {"x":871,"y":90,"w":90,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":129,"w":90,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0009.png":
+{
+	"frame": {"x":963,"y":94,"w":90,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":129,"w":90,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_kick0010.png":
+{
+	"frame": {"x":963,"y":94,"w":90,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":129,"w":90,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_lose0001.png":
+{
+	"frame": {"x":770,"y":90,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":126,"w":99,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_lose0002.png":
+{
+	"frame": {"x":770,"y":90,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":126,"w":99,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_lose0003.png":
+{
+	"frame": {"x":770,"y":90,"w":99,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":126,"w":99,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_lose0004.png":
+{
+	"frame": {"x":466,"y":355,"w":90,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":162,"w":90,"h":61},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_lose0005.png":
+{
+	"frame": {"x":466,"y":355,"w":90,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":162,"w":90,"h":61},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_lose0006.png":
+{
+	"frame": {"x":163,"y":269,"w":94,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":170,"w":94,"h":53},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_lose0007.png":
+{
+	"frame": {"x":163,"y":269,"w":94,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":170,"w":94,"h":53},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_lose0008.png":
+{
+	"frame": {"x":370,"y":338,"w":94,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":171,"w":94,"h":52},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0001.png":
+{
+	"frame": {"x":160,"y":324,"w":74,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":143,"w":74,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0002.png":
+{
+	"frame": {"x":160,"y":324,"w":74,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":143,"w":74,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0003.png":
+{
+	"frame": {"x":533,"y":95,"w":91,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":130,"w":91,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0004.png":
+{
+	"frame": {"x":533,"y":95,"w":91,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":130,"w":91,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0005.png":
+{
+	"frame": {"x":296,"y":95,"w":116,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":129,"w":116,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0006.png":
+{
+	"frame": {"x":296,"y":95,"w":116,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":129,"w":116,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0007.png":
+{
+	"frame": {"x":170,"y":95,"w":124,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":130,"w":124,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0008.png":
+{
+	"frame": {"x":170,"y":95,"w":124,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":130,"w":124,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0009.png":
+{
+	"frame": {"x":837,"y":2,"w":128,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":135,"w":128,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0010.png":
+{
+	"frame": {"x":837,"y":2,"w":128,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":135,"w":128,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0011.png":
+{
+	"frame": {"x":414,"y":95,"w":117,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":131,"w":117,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0012.png":
+{
+	"frame": {"x":414,"y":95,"w":117,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":131,"w":117,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0013.png":
+{
+	"frame": {"x":179,"y":429,"w":86,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":144,"w":86,"h":77},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0014.png":
+{
+	"frame": {"x":179,"y":429,"w":86,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":144,"w":86,"h":77},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0015.png":
+{
+	"frame": {"x":1007,"y":352,"w":68,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":160,"w":68,"h":62},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_run0016.png":
+{
+	"frame": {"x":1007,"y":352,"w":68,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":160,"w":68,"h":62},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_stand0001.png":
+{
+	"frame": {"x":267,"y":431,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":147,"w":75,"h":75},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_stand0002.png":
+{
+	"frame": {"x":267,"y":431,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":147,"w":75,"h":75},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_stand0003.png":
+{
+	"frame": {"x":928,"y":361,"w":75,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":148,"w":75,"h":74},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_tackle0001.png":
+{
+	"frame": {"x":1007,"y":287,"w":79,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":160,"w":79,"h":63},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_tackle0002.png":
+{
+	"frame": {"x":411,"y":418,"w":83,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":157,"w":83,"h":66},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_tackle0003.png":
+{
+	"frame": {"x":411,"y":418,"w":83,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":157,"w":83,"h":66},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_tackle0004.png":
+{
+	"frame": {"x":170,"y":2,"w":139,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":132,"w":139,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_tackle0005.png":
+{
+	"frame": {"x":170,"y":2,"w":139,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":132,"w":139,"h":91},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_tackle0006.png":
+{
+	"frame": {"x":2,"y":271,"w":156,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":107,"w":156,"h":133},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_tackle0007.png":
+{
+	"frame": {"x":2,"y":136,"w":159,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":107,"w":159,"h":133},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_jake_blue_tackle0008.png":
+{
+	"frame": {"x":2,"y":2,"w":166,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":108,"w":166,"h":132},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jake_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":1088,"h":508},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9cb82d4f31dc6386b68108eee555fd16:eb5f52b7bec12583a712d882fffac79e:8205bfa85c29c731c36b049a1a7ede92$"
+}
+}

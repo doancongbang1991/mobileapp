@@ -1,0 +1,92 @@
+{"frames": {
+
+"avoid_obstacles.png":
+{
+	"frame": {"x":378,"y":178,"w":162,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":78},
+	"sourceSize": {"w":162,"h":78}
+},
+"collect_crumbs.png":
+{
+	"frame": {"x":0,"y":178,"w":201,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":77},
+	"sourceSize": {"w":201,"h":77}
+},
+"collect_powewrups.png":
+{
+	"frame": {"x":597,"y":0,"w":280,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":111},
+	"sourceSize": {"w":280,"h":111}
+},
+"jump_desktop.png":
+{
+	"frame": {"x":879,"y":0,"w":134,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":71},
+	"sourceSize": {"w":134,"h":71}
+},
+"jump_mobile.png":
+{
+	"frame": {"x":879,"y":73,"w":107,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":70},
+	"sourceSize": {"w":107,"h":70}
+},
+"readyGO.png":
+{
+	"frame": {"x":203,"y":178,"w":173,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":76},
+	"sourceSize": {"w":173,"h":76}
+},
+"steer_keys.png":
+{
+	"frame": {"x":542,"y":178,"w":156,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":75},
+	"sourceSize": {"w":156,"h":75}
+},
+"steer_tilt.png":
+{
+	"frame": {"x":873,"y":145,"w":103,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":70},
+	"sourceSize": {"w":103,"h":70}
+},
+"steer_touch.png":
+{
+	"frame": {"x":700,"y":113,"w":171,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":79},
+	"sourceSize": {"w":171,"h":79}
+},
+"tutorialBG.png":
+{
+	"frame": {"x":0,"y":0,"w":595,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":595,"h":176},
+	"sourceSize": {"w":595,"h":176}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "tutorial.png",
+	"format": "RGBA8888",
+	"size": {"w":1013,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7762ed98489718008ba4d2dcde9f6f6b$"
+}
+}

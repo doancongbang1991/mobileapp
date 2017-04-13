@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" manifest="offline.appcache"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+		 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+ 
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+		
+		<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="apple-touch-icon" sizes="256x256" href="logo.png" />
+		<meta name="HandheldFriendly" content="true" />
+		
+		<!-- Chrome for Android web app tags -->
+		<meta name="mobile-web-app-capable" content="yes" />
+		<link rel="shortcut icon" sizes="256x256" href="logo.png" />
+
+
+    </head>
+  
+    <body>
+    	
+    	<div id="fb-root"></div>
+
+<!--
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=470415946364103";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	-->
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+	
+		<script>
+       		
+       		REMOTE_PATH = ""//"http://www.goodboydigital.com/client/razorfish/McD_spicy/";
+       		
+       	</script>
+       	
+       	
+        <!-- Add your site or application content here -->
+        <script src="js/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <!--FB -->
+        <script src="js/all.js"></script> 
+        
+        <script src="js/vendor/dat.gui.min.js"></script>
+        <script defer src="js/tweenlite/TimelineLite.min.js"></script>
+    	<script defer src="js/tweenlite/TweenLite.min.js"></script>
+		<script defer src="js/tweenlite/easing/EasePack.min.js"></script>
+
+
+        <script src="js/pixi.dev.js"></script> 
+		<script src="../pixi.js/bin/pixi.dev.js"></script> 
+		<!-- <script src="http://www.goodboydigital.com/sandbox/TrackData.js"></script> -->
+      
+         <script src="js/TrackData.js"/>
+        <script src="js/plugins.js"></script>
+        <script src="js/Utils.js"></script>
+        <script src="js/gl-matrix.js"></script>
+        
+		<script src="js/Stats.js"></script>
+        <script src="js/app/FacebookAPI.js"></script>
+        <script src="js/howler.min.js"></script>
+         <script src="js/Audio.js"></script>
+         <script src="js/app/McBiteButton.js"></script>
+        
+        <script src="js/app/SteveAPI.js"></script>
+        <script src="js/app/Profile.js"></script>
+        
+         <script src="js/app/BasicButton.js"></script>
+         <script src="js/app/Spring.js"></script>
+		<script src="js/app/PixiTrackpad.js"></script>
+		<script src="js/app/SimpleApp.js"></script>
+		<script src="js/app/Startup.js"></script>
+		<script src="js/app/LoadingScreen.js"></script>
+  		<script src="js/app/TitleScreen.js"></script>
+  		<script src="js/app/MobileTitleScreen.js"></script>
+  		<script src="js/app/HighscoreScreen.js"></script>
+		<script src="js/app/GameScreen.js"></script>
+		<script src="js/app/GameoverScreen.js"></script>
+		<script src="js/app/ControlSelectOverlay.js"></script>
+		<script src="js/app/HelpOverlay.js"></script>
+		
+		<script src="js/app/GameoverAnimation.js"></script>
+		<script src="js/StressTest.js"></script>
+		<script src="js/app/Leaderboard.js"></script>
+		<script src="js/app/LeaderboardScreen.js"></script>
+            
+           
+       <!-- GAME stuff -->
+  		<script src="js/game/Worlds.js"></script>
+		<script src="js/game/Game.js"></script>
+		
+		
+		<script src="js/game/TrackManager.js"></script>
+		
+		<script src="js/game/GameElement.js"></script>
+		<script src="js/game/view/Hud.js"></script>
+            <script src="js/game/View.js"></script>
+             <script src="js/game/view/PixiDust.js"></script>
+         <script src="js/game/view/SpeedLines.js"></script>
+         <script src="js/Time.js"></script>    
+		<script src="js/game/GameObjectPool.js"></script>
+           <script src="js/game/PickupManager.js"></script>
+           	<script src="js/game/ExtraManager.js"></script>
+            <script src="js/game/EnemyManager.js"></script>
+              <script src="js/game/Pickup.js"></script>
+                <script src="js/game/Enemy.js"></script>
+              <script src="js/game/CollisionManager.js"></script>
+        <script src="js/game/Road.js"></script>
+        <script src="js/game/Ball.js"></script>
+        <script src="js/game/control/Controller.js"></script>
+         <script src="js/app/TransitionAnimation.js"></script>
+  		
+  		
+        <script src="js/McBites.js"></script>
+        <!--<script src="js/main.js"></script>-->
+        
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+       <script type="text/javascript"> 
+			var _gaq = _gaq || []; 
+			_gaq.push(['_setAccount', 'UA-25024961-1']); 
+			_gaq.push(['_setDomainName', 'mcdonalds.co.uk']); 
+			_gaq.push(['_addIgnoredRef', 'mcdonalds.co.uk']); 
+			_gaq.push(['_trackPageview']); (function() { 
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); 
+		</script> 
+        
+        <div id="topStrip" class="topStrip"></div>
+    	<!--<div id="output" style="padding-top: 100px;">TEST OUTPUT</div>-->
+    	<a href="http://www.mcdonalds.co.uk" target="_blank"> <img class="mcTab" src="img/McD_brandTab.png" id="mcTab"/> </a>   
+  
+    </body>
+</html>

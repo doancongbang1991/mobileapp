@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Jelly Slice</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+   
+    <meta name="description" content="Fun games to play on the go! Play online or download from the app store, google play or windows phone store." />
+    <meta name="classification" content="Fun and free games to play on the go with Jelly Slice" />
+    <meta name="author" content="TM Corp. All rights reserved." />
+    <meta name="copyright" content="TM Corp" />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@taiminhcompany" />
+    <meta name="twitter:title" content="Tai Minh - Play fun games online" />
+    <meta name="twitter:description" content="Fun games to play on the go! Play online or download from the app store, google play or windows phone store." />
+    <meta name="twitter:creator" content="@taiminhcompany" />
+    <meta name="twitter:image" content="http://games.okijin.com/twitter.png" />
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Tai Minh Corp - Play fun games online" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.taiminh.com/" />
+    <meta property="og:image" content="http://games.okijin.com/og.png" />
+    <meta property="og:description" content="Fun games to play on the go! Play online or download from the app store, google play or windows phone store." />
+    <meta property="og:site_name" content="Tai Minh Corp" />
+    <meta property="fb:app_id" content="618846138135352" />
+
+    <link rel="stylesheet" type="text/css" href="normalize.css">
+    <link rel="stylesheet" type="text/css" href="jquery.bxslider.css">
+    <link rel="stylesheet" type="text/css" href="simplegrid.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+    <!-- Third parties references -->
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/jquery.mobile.1.4.5.custom.min.js"></script>
+    <script src="js/jquery.corner.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script src="js/categorizr.min.js"></script>
+
+	<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<link rel="apple-touch-icon" sizes="256x256" href="jellyslice/icon.png" />
+	<link rel="apple-touch-icon" href="jellyslice/icon.png" />
+	<meta name="HandheldFriendly" content="true" />
+	
+	<!-- Chrome for Android web app tags -->
+	<meta name="mobile-web-app-capable" content="yes" />
+	<link rel="shortcut icon" sizes="256x256" href="jellyslice/icon.png" />
+
+</head>
+<body>
+       <script>var OkijinAPISettings = {};OkijinAPISettings.ads = 1;OkijinAPISettings.button = 0;OkijinAPISettings.autoStart = 0;OkijinAPISettings.source = "play";OkijinAPISettings.gameId = "jellyslice";</script>
+<div id="fb-root"></div>
+
+
+    <div id="more"><img id="moreButton" class="selectDisable responsive" src="img/moreButton.png" /></div>
+    <div id="close"><img id="closeButton" class="selectDisable responsive" src="img/closeButton.png"/></div>
+    <div id="interstitial" class="interstitial block">
+        <div id="adUnit" class="centered" style="display:none;" >
+    <a href="http://www.okijin.com"><img id="houseAdImg" class="responsive" style="border: 2px solid white;" alt="Loading..." src="ads/300x250.png"></a>
+</div>
+
+
+    </div>
+
+    <canvas id="canvas"></canvas>
+    ﻿    
+
+    <script>
+      $(document).ready(function () {
+      "use strict";
+      $(".box1, .box2, .box3").corner();
+      $('.slider').bxSlider();
+      startGame(); 
+      });
+    </script>
+    <!-- Okijin API -->
+    <script src="js/okijin.api.js?0006"></script>
+
+    <!-- Okijin Game -->
+    <script src="jellyslice/js/game.min.js?0006"></script>
+    <script src="js/okijin.main.js?0007"></script>
+ 
+</body>
+</html>

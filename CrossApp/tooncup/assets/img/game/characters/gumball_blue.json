@@ -1,0 +1,1532 @@
+{"frames": {
+
+"characters_gumball_blue_bicycle_kick0001.png":
+{
+	"frame": {"x":1351,"y":411,"w":99,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":118,"w":99,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0002.png":
+{
+	"frame": {"x":1351,"y":411,"w":99,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":118,"w":99,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0003.png":
+{
+	"frame": {"x":1351,"y":411,"w":99,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":118,"w":99,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0004.png":
+{
+	"frame": {"x":475,"y":377,"w":90,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":90,"w":90,"h":128},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0005.png":
+{
+	"frame": {"x":475,"y":377,"w":90,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":90,"w":90,"h":128},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0006.png":
+{
+	"frame": {"x":365,"y":243,"w":96,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":75,"w":96,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0007.png":
+{
+	"frame": {"x":365,"y":243,"w":96,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":75,"w":96,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0008.png":
+{
+	"frame": {"x":365,"y":243,"w":96,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":75,"w":96,"h":143},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0009.png":
+{
+	"frame": {"x":2,"y":2,"w":128,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":63,"w":128,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0010.png":
+{
+	"frame": {"x":2,"y":2,"w":128,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":63,"w":128,"h":155},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0011.png":
+{
+	"frame": {"x":147,"y":123,"w":95,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":63,"w":95,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0012.png":
+{
+	"frame": {"x":147,"y":123,"w":95,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":63,"w":95,"h":154},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0013.png":
+{
+	"frame": {"x":147,"y":397,"w":107,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":101,"w":107,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0014.png":
+{
+	"frame": {"x":147,"y":397,"w":107,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":101,"w":107,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0015.png":
+{
+	"frame": {"x":888,"y":96,"w":104,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":117,"w":104,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0016.png":
+{
+	"frame": {"x":888,"y":96,"w":104,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":117,"w":104,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0017.png":
+{
+	"frame": {"x":1960,"y":96,"w":77,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":118,"w":77,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0018.png":
+{
+	"frame": {"x":1960,"y":96,"w":77,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":118,"w":77,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0019.png":
+{
+	"frame": {"x":1874,"y":254,"w":77,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":114,"w":77,"h":104},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0020.png":
+{
+	"frame": {"x":1874,"y":254,"w":77,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":114,"w":77,"h":104},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0021.png":
+{
+	"frame": {"x":1886,"y":379,"w":77,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":118,"w":77,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_bicycle_kick0022.png":
+{
+	"frame": {"x":1886,"y":379,"w":77,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":118,"w":77,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0001.png":
+{
+	"frame": {"x":500,"y":2,"w":121,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":122,"w":121,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0002.png":
+{
+	"frame": {"x":500,"y":2,"w":121,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":122,"w":121,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0003.png":
+{
+	"frame": {"x":500,"y":2,"w":121,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":122,"w":121,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0004.png":
+{
+	"frame": {"x":244,"y":123,"w":115,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":95,"w":115,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0005.png":
+{
+	"frame": {"x":255,"y":249,"w":108,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":90,"w":108,"h":129},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0006.png":
+{
+	"frame": {"x":463,"y":243,"w":104,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":87,"w":104,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0007.png":
+{
+	"frame": {"x":463,"y":243,"w":104,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":87,"w":104,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0008.png":
+{
+	"frame": {"x":463,"y":243,"w":104,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":87,"w":104,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0009.png":
+{
+	"frame": {"x":256,"y":380,"w":107,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":90,"w":107,"h":129},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0010.png":
+{
+	"frame": {"x":365,"y":388,"w":108,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":95,"w":108,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0011.png":
+{
+	"frame": {"x":365,"y":388,"w":108,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":95,"w":108,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0012.png":
+{
+	"frame": {"x":365,"y":388,"w":108,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":95,"w":108,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0013.png":
+{
+	"frame": {"x":365,"y":388,"w":108,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":95,"w":108,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0014.png":
+{
+	"frame": {"x":365,"y":388,"w":108,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":95,"w":108,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0015.png":
+{
+	"frame": {"x":365,"y":388,"w":108,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":95,"w":108,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0016.png":
+{
+	"frame": {"x":365,"y":388,"w":108,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":95,"w":108,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0017.png":
+{
+	"frame": {"x":813,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0018.png":
+{
+	"frame": {"x":813,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0019.png":
+{
+	"frame": {"x":623,"y":2,"w":93,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":127,"w":93,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0020.png":
+{
+	"frame": {"x":623,"y":2,"w":93,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":127,"w":93,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0021.png":
+{
+	"frame": {"x":1927,"y":2,"w":89,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":127,"w":89,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0022.png":
+{
+	"frame": {"x":1927,"y":2,"w":89,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":127,"w":89,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0023.png":
+{
+	"frame": {"x":1927,"y":2,"w":89,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":127,"w":89,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0024.png":
+{
+	"frame": {"x":1927,"y":2,"w":89,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":127,"w":89,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0025.png":
+{
+	"frame": {"x":906,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0026.png":
+{
+	"frame": {"x":906,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0027.png":
+{
+	"frame": {"x":1783,"y":273,"w":89,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":127,"w":89,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0028.png":
+{
+	"frame": {"x":1783,"y":273,"w":89,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":127,"w":89,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0029.png":
+{
+	"frame": {"x":1513,"y":299,"w":88,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":119,"w":88,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0030.png":
+{
+	"frame": {"x":1513,"y":299,"w":88,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":119,"w":88,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0031.png":
+{
+	"frame": {"x":1841,"y":2,"w":84,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":118,"w":84,"h":99},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0032.png":
+{
+	"frame": {"x":1841,"y":2,"w":84,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":118,"w":84,"h":99},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0033.png":
+{
+	"frame": {"x":1632,"y":399,"w":83,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":116,"w":83,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0034.png":
+{
+	"frame": {"x":1632,"y":399,"w":83,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":116,"w":83,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0035.png":
+{
+	"frame": {"x":1632,"y":399,"w":83,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":116,"w":83,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0036.png":
+{
+	"frame": {"x":1632,"y":399,"w":83,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":116,"w":83,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0037.png":
+{
+	"frame": {"x":1632,"y":399,"w":83,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":116,"w":83,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0038.png":
+{
+	"frame": {"x":1632,"y":399,"w":83,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":116,"w":83,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0039.png":
+{
+	"frame": {"x":1632,"y":399,"w":83,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":116,"w":83,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0040.png":
+{
+	"frame": {"x":906,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0041.png":
+{
+	"frame": {"x":906,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0042.png":
+{
+	"frame": {"x":718,"y":2,"w":93,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":127,"w":93,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0043.png":
+{
+	"frame": {"x":718,"y":2,"w":93,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":127,"w":93,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0044.png":
+{
+	"frame": {"x":999,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0045.png":
+{
+	"frame": {"x":999,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0046.png":
+{
+	"frame": {"x":999,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0047.png":
+{
+	"frame": {"x":999,"y":2,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0048.png":
+{
+	"frame": {"x":1690,"y":297,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0049.png":
+{
+	"frame": {"x":1690,"y":297,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0050.png":
+{
+	"frame": {"x":1764,"y":179,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0051.png":
+{
+	"frame": {"x":1764,"y":179,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":127,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0052.png":
+{
+	"frame": {"x":1542,"y":399,"w":88,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":119,"w":88,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0053.png":
+{
+	"frame": {"x":1542,"y":399,"w":88,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":119,"w":88,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0054.png":
+{
+	"frame": {"x":1603,"y":298,"w":85,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":118,"w":85,"h":99},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0055.png":
+{
+	"frame": {"x":1603,"y":298,"w":85,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":118,"w":85,"h":99},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0056.png":
+{
+	"frame": {"x":1754,"y":2,"w":85,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":116,"w":85,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0057.png":
+{
+	"frame": {"x":1754,"y":2,"w":85,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":116,"w":85,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0058.png":
+{
+	"frame": {"x":1754,"y":2,"w":85,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":116,"w":85,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0059.png":
+{
+	"frame": {"x":1754,"y":2,"w":85,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":116,"w":85,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0060.png":
+{
+	"frame": {"x":1754,"y":2,"w":85,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":116,"w":85,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0061.png":
+{
+	"frame": {"x":1754,"y":2,"w":85,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":116,"w":85,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0062.png":
+{
+	"frame": {"x":1754,"y":2,"w":85,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":116,"w":85,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0063.png":
+{
+	"frame": {"x":1754,"y":2,"w":85,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":116,"w":85,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0064.png":
+{
+	"frame": {"x":500,"y":2,"w":121,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":122,"w":121,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0065.png":
+{
+	"frame": {"x":500,"y":2,"w":121,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":122,"w":121,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0066.png":
+{
+	"frame": {"x":500,"y":2,"w":121,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":122,"w":121,"h":97},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0067.png":
+{
+	"frame": {"x":244,"y":123,"w":115,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":95,"w":115,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0068.png":
+{
+	"frame": {"x":255,"y":249,"w":108,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":90,"w":108,"h":129},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0069.png":
+{
+	"frame": {"x":463,"y":243,"w":104,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":87,"w":104,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0070.png":
+{
+	"frame": {"x":463,"y":243,"w":104,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":87,"w":104,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0071.png":
+{
+	"frame": {"x":463,"y":243,"w":104,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":87,"w":104,"h":132},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0072.png":
+{
+	"frame": {"x":256,"y":380,"w":107,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":90,"w":107,"h":129},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_celebrate0073.png":
+{
+	"frame": {"x":365,"y":388,"w":108,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":95,"w":108,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0001.png":
+{
+	"frame": {"x":2,"y":398,"w":143,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":114,"w":143,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0002.png":
+{
+	"frame": {"x":2,"y":159,"w":143,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":101,"w":143,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0003.png":
+{
+	"frame": {"x":132,"y":2,"w":137,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":100,"w":137,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0004.png":
+{
+	"frame": {"x":2,"y":279,"w":137,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":102,"w":137,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0005.png":
+{
+	"frame": {"x":478,"y":116,"w":116,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":114,"w":116,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0006.png":
+{
+	"frame": {"x":271,"y":2,"w":116,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":101,"w":116,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0007.png":
+{
+	"frame": {"x":762,"y":215,"w":91,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":100,"w":91,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0008.png":
+{
+	"frame": {"x":569,"y":223,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":102,"w":95,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0009.png":
+{
+	"frame": {"x":2,"y":398,"w":143,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":114,"w":143,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0010.png":
+{
+	"frame": {"x":2,"y":159,"w":143,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":101,"w":143,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0011.png":
+{
+	"frame": {"x":132,"y":2,"w":137,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":100,"w":137,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0012.png":
+{
+	"frame": {"x":2,"y":279,"w":137,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":102,"w":137,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0013.png":
+{
+	"frame": {"x":478,"y":116,"w":116,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":114,"w":116,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0014.png":
+{
+	"frame": {"x":271,"y":2,"w":116,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":101,"w":116,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0015.png":
+{
+	"frame": {"x":762,"y":215,"w":91,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":100,"w":91,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_dash0016.png":
+{
+	"frame": {"x":569,"y":223,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":102,"w":95,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0001.png":
+{
+	"frame": {"x":994,"y":96,"w":96,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":119,"w":96,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0002.png":
+{
+	"frame": {"x":994,"y":96,"w":96,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":119,"w":96,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0003.png":
+{
+	"frame": {"x":1326,"y":184,"w":89,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":106,"w":89,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0004.png":
+{
+	"frame": {"x":1326,"y":184,"w":89,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":106,"w":89,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0005.png":
+{
+	"frame": {"x":1507,"y":184,"w":85,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":106,"w":85,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0006.png":
+{
+	"frame": {"x":1507,"y":184,"w":85,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":106,"w":85,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0007.png":
+{
+	"frame": {"x":1570,"y":2,"w":90,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":118,"w":90,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0008.png":
+{
+	"frame": {"x":1830,"y":105,"w":101,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":148,"w":101,"h":72},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0009.png":
+{
+	"frame": {"x":1304,"y":109,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":151,"w":103,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0010.png":
+{
+	"frame": {"x":1304,"y":109,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":151,"w":103,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0011.png":
+{
+	"frame": {"x":1409,"y":109,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":149,"w":103,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0012.png":
+{
+	"frame": {"x":1409,"y":109,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":149,"w":103,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0013.png":
+{
+	"frame": {"x":1033,"y":438,"w":104,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":145,"w":104,"h":74},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0014.png":
+{
+	"frame": {"x":1033,"y":438,"w":104,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":145,"w":104,"h":74},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0015.png":
+{
+	"frame": {"x":1139,"y":438,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":151,"w":104,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0016.png":
+{
+	"frame": {"x":1139,"y":438,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":151,"w":104,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_fall0017.png":
+{
+	"frame": {"x":1092,"y":123,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":150,"w":104,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0001.png":
+{
+	"frame": {"x":1276,"y":2,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0002.png":
+{
+	"frame": {"x":1134,"y":198,"w":92,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":103,"w":92,"h":115},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0003.png":
+{
+	"frame": {"x":1092,"y":2,"w":90,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":98,"w":90,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0004.png":
+{
+	"frame": {"x":1092,"y":2,"w":90,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":98,"w":90,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0005.png":
+{
+	"frame": {"x":1184,"y":2,"w":90,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":99,"w":90,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0006.png":
+{
+	"frame": {"x":693,"y":96,"w":93,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":100,"w":93,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0007.png":
+{
+	"frame": {"x":1680,"y":179,"w":82,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":101,"w":82,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0008.png":
+{
+	"frame": {"x":1680,"y":179,"w":82,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":101,"w":82,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0009.png":
+{
+	"frame": {"x":1717,"y":391,"w":83,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":99,"w":83,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_kick0010.png":
+{
+	"frame": {"x":1717,"y":391,"w":83,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":99,"w":83,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0001.png":
+{
+	"frame": {"x":1415,"y":299,"w":96,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":119,"w":96,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0002.png":
+{
+	"frame": {"x":1415,"y":299,"w":96,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":119,"w":96,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0003.png":
+{
+	"frame": {"x":1417,"y":184,"w":88,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":106,"w":88,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0004.png":
+{
+	"frame": {"x":1417,"y":184,"w":88,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":106,"w":88,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0005.png":
+{
+	"frame": {"x":1594,"y":183,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":106,"w":84,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0006.png":
+{
+	"frame": {"x":1594,"y":183,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":106,"w":84,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0007.png":
+{
+	"frame": {"x":1662,"y":2,"w":90,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":118,"w":90,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0008.png":
+{
+	"frame": {"x":1857,"y":179,"w":101,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":148,"w":101,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0009.png":
+{
+	"frame": {"x":1514,"y":108,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":152,"w":103,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0010.png":
+{
+	"frame": {"x":1514,"y":108,"w":103,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":152,"w":103,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0011.png":
+{
+	"frame": {"x":1725,"y":105,"w":103,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":150,"w":103,"h":72},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0012.png":
+{
+	"frame": {"x":1725,"y":105,"w":103,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":150,"w":103,"h":72},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0013.png":
+{
+	"frame": {"x":1198,"y":122,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":146,"w":104,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0014.png":
+{
+	"frame": {"x":1198,"y":122,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":146,"w":104,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0015.png":
+{
+	"frame": {"x":1245,"y":422,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":152,"w":104,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0016.png":
+{
+	"frame": {"x":1245,"y":422,"w":104,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":152,"w":104,"h":73},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_lose0017.png":
+{
+	"frame": {"x":1619,"y":105,"w":104,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":151,"w":104,"h":72},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0001.png":
+{
+	"frame": {"x":1219,"y":315,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0002.png":
+{
+	"frame": {"x":1228,"y":197,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0003.png":
+{
+	"frame": {"x":658,"y":342,"w":94,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":101,"w":94,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0004.png":
+{
+	"frame": {"x":948,"y":198,"w":91,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":101,"w":91,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0005.png":
+{
+	"frame": {"x":849,"y":336,"w":91,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":100,"w":91,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0006.png":
+{
+	"frame": {"x":1033,"y":318,"w":91,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":101,"w":91,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0007.png":
+{
+	"frame": {"x":754,"y":340,"w":93,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":102,"w":93,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0008.png":
+{
+	"frame": {"x":754,"y":340,"w":93,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":102,"w":93,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0009.png":
+{
+	"frame": {"x":1374,"y":2,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0010.png":
+{
+	"frame": {"x":1472,"y":2,"w":96,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":115,"w":96,"h":104},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0011.png":
+{
+	"frame": {"x":666,"y":220,"w":94,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":101,"w":94,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0012.png":
+{
+	"frame": {"x":1041,"y":198,"w":91,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":101,"w":91,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0013.png":
+{
+	"frame": {"x":855,"y":208,"w":91,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":100,"w":91,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0014.png":
+{
+	"frame": {"x":1126,"y":318,"w":91,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":101,"w":91,"h":118},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0015.png":
+{
+	"frame": {"x":596,"y":101,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":102,"w":95,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_run0016.png":
+{
+	"frame": {"x":596,"y":101,"w":95,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":102,"w":95,"h":117},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_stand0001.png":
+{
+	"frame": {"x":1802,"y":367,"w":82,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":95,"w":82,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_stand0002.png":
+{
+	"frame": {"x":1802,"y":367,"w":82,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":95,"w":82,"h":124},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_stand0003.png":
+{
+	"frame": {"x":1953,"y":254,"w":82,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":96,"w":82,"h":123},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0001.png":
+{
+	"frame": {"x":1317,"y":304,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0002.png":
+{
+	"frame": {"x":1317,"y":304,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0003.png":
+{
+	"frame": {"x":1317,"y":304,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0004.png":
+{
+	"frame": {"x":1317,"y":304,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0005.png":
+{
+	"frame": {"x":1317,"y":304,"w":96,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":114,"w":96,"h":105},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0006.png":
+{
+	"frame": {"x":942,"y":329,"w":89,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":97,"w":89,"h":121},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0007.png":
+{
+	"frame": {"x":567,"y":377,"w":89,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":92,"w":89,"h":126},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0008.png":
+{
+	"frame": {"x":567,"y":377,"w":89,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":92,"w":89,"h":126},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0009.png":
+{
+	"frame": {"x":361,"y":122,"w":115,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":99,"w":115,"h":119},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0010.png":
+{
+	"frame": {"x":141,"y":279,"w":112,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":102,"w":112,"h":116},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0011.png":
+{
+	"frame": {"x":389,"y":2,"w":109,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":106,"w":109,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0012.png":
+{
+	"frame": {"x":389,"y":2,"w":109,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":106,"w":109,"h":112},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0013.png":
+{
+	"frame": {"x":788,"y":96,"w":98,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":108,"w":98,"h":110},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0014.png":
+{
+	"frame": {"x":788,"y":96,"w":98,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":108,"w":98,"h":110},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0015.png":
+{
+	"frame": {"x":1452,"y":401,"w":88,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":109,"w":88,"h":109},
+	"sourceSize": {"w":240,"h":240}
+},
+"characters_gumball_blue_tackle0016.png":
+{
+	"frame": {"x":1452,"y":401,"w":88,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":109,"w":88,"h":109},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gumball_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":2039,"h":515},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a4314ddf88d367f5caac5592c8f6b3a5:171b94b56c5a09f26b2aba652e555611:02467b6a95e3060b823331e4167951e9$"
+}
+}

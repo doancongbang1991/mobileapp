@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "bm_gamestudio_production_text_mobile.png",
+	"frame": {"x":2,"y":688,"w":130,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":50},
+	"sourceSize": {"w":130,"h":50}
+},
+{
+	"filename": "bm_gamestudio_production_text_pc.png",
+	"frame": {"x":2,"y":671,"w":252,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":15},
+	"sourceSize": {"w":252,"h":15}
+},
+{
+	"filename": "btnPlay.png",
+	"frame": {"x":311,"y":661,"w":99,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":44},
+	"sourceSize": {"w":99,"h":44}
+},
+{
+	"filename": "btn_kik.png",
+	"frame": {"x":2,"y":602,"w":254,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":67},
+	"sourceSize": {"w":254,"h":67}
+},
+{
+	"filename": "fullscreen_off.png",
+	"frame": {"x":412,"y":628,"w":57,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":56},
+	"sourceSize": {"w":57,"h":56}
+},
+{
+	"filename": "fullscreen_on.png",
+	"frame": {"x":252,"y":688,"w":57,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":56},
+	"sourceSize": {"w":57,"h":56}
+},
+{
+	"filename": "mute_off.png",
+	"frame": {"x":193,"y":688,"w":57,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":56},
+	"sourceSize": {"w":57,"h":56}
+},
+{
+	"filename": "mute_on.png",
+	"frame": {"x":134,"y":688,"w":57,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":56},
+	"sourceSize": {"w":57,"h":56}
+},
+{
+	"filename": "pbContainer.png",
+	"frame": {"x":258,"y":628,"w":137,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":31},
+	"sourceSize": {"w":137,"h":31}
+},
+{
+	"filename": "pbFill.png",
+	"frame": {"x":311,"y":707,"w":103,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":28},
+	"sourceSize": {"w":103,"h":28}
+},
+{
+	"filename": "playArrow.png",
+	"frame": {"x":416,"y":686,"w":34,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":39},
+	"sourceSize": {"w":34,"h":39}
+},
+{
+	"filename": "skip_btn.png",
+	"frame": {"x":2,"y":533,"w":254,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":67},
+	"sourceSize": {"w":254,"h":67}
+},
+{
+	"filename": "splash_screen_button.png",
+	"frame": {"x":258,"y":533,"w":214,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":93},
+	"sourceSize": {"w":214,"h":93}
+},
+{
+	"filename": "splash_screen_logo.png",
+	"frame": {"x":2,"y":2,"w":479,"h":529},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":479,"h":529},
+	"sourceSize": {"w":479,"h":529}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "preloader.png",
+	"format": "RGBA8888",
+	"size": {"w":483,"h":746},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:f478478e692d06840ef5aa6c676e2644:112afdc1993fc3ae0f89c0aa322b583f:b6cdaa10a06bef6f46bf15cd0aaf732b$"
+}
+}

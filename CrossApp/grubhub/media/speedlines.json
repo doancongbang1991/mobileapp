@@ -1,0 +1,44 @@
+{"frames": {
+
+"speedlines01.png":
+{
+	"frame": {"x":0,"y":0,"w":1024,"h":476},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":476},
+	"sourceSize": {"w":1024,"h":476}
+},
+"speedlines02.png":
+{
+	"frame": {"x":0,"y":478,"w":1024,"h":476},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":476},
+	"sourceSize": {"w":1024,"h":476}
+},
+"speedlines03.png":
+{
+	"frame": {"x":0,"y":956,"w":1024,"h":476},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":476},
+	"sourceSize": {"w":1024,"h":476}
+},
+"speedlines04.png":
+{
+	"frame": {"x":0,"y":1434,"w":1024,"h":476},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":476},
+	"sourceSize": {"w":1024,"h":476}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "speedlines.png",
+	"format": "RGBA8888",
+	"size": {"w":1026,"h":1910},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:66b916073adc8461227a9e681ccda0d0:177546061bcae734e7f2afa33cb99e89:a7e45266de7e6a193e39b5ef225ba388$"
+}
+}

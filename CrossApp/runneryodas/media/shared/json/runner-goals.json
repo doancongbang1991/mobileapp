@@ -1,0 +1,542 @@
+{
+    "goals": {
+        "run_level_1": {
+            "desc": "STR_ACH_RUN_LEVEL_1",
+            "property": "distance",
+            "type": "=",
+            "target": 100,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "run_level_2": {
+            "desc": "STR_ACH_RUN_LEVEL_2",
+            "property": "distance",
+            "type": "=",
+            "target": 300,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "run_level_3": {
+            "desc": "STR_ACH_RUN_LEVEL_3",
+            "property": "distance",
+            "type": "=",
+            "target": 1000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "run_level_4": {
+            "desc": "STR_ACH_RUN_LEVEL_4",
+            "property": "distance",
+            "type": "=",
+            "target": 2000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "run_level_5": {
+            "desc": "STR_ACH_RUN_LEVEL_5",
+            "property": "distance",
+            "type": "=",
+            "target": 3000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "run_level_cumulative_1": {
+            "desc": "STR_ACH_RUN_LEVEL_CUMULATIVE_1",
+            "property": "distance",
+            "type": "=",
+            "target": 1000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "run_level_cumulative_2": {
+            "desc": "STR_ACH_RUN_LEVEL_CUMULATIVE_2",
+            "property": "distance",
+            "type": "=",
+            "target": 5000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "run_level_cumulative_3": {
+            "desc": "STR_ACH_RUN_LEVEL_CUMULATIVE_3",
+            "property": "distance",
+            "type": "=",
+            "target": 10000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "run_level_cumulative_4": {
+            "desc": "STR_ACH_RUN_LEVEL_CUMULATIVE_4",
+            "property": "distance",
+            "type": "=",
+            "target": 20000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "walljump_level_1": {
+            "desc": "STR_ACH_WALLJUMP_LEVEL_1",
+            "property": "wallJumps",
+            "type": "=",
+            "target": 1,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "walljump_level_2": {
+            "desc": "STR_ACH_WALLJUMP_LEVEL_2",
+            "property": "wallJumps",
+            "type": "=",
+            "target": 25,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "walljump_level_cumulative_1": {
+            "desc": "STR_ACH_WALLJUMP_LEVEL_CUMULATIVE_1",
+            "property": "wallJumps",
+            "type": "=",
+            "target": 50,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "walljump_level_cumulative_2": {
+            "desc": "STR_ACH_WALLJUMP_LEVEL_CUMULATIVE_2",
+            "property": "wallJumps",
+            "type": "=",
+            "target": 100,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "smash_level_1": {
+            "desc": "STR_ACH_SMASH_LEVEL_1",
+            "property": "smashes",
+            "type": "=",
+            "target": 2,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "smash_level_2": {
+            "desc": "STR_ACH_SMASH_LEVEL_2",
+            "property": "smashes",
+            "type": "=",
+            "target": 10,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "smash_level_3": {
+            "desc": "STR_ACH_SMASH_LEVEL_3",
+            "property": "smashes",
+            "type": "=",
+            "target": 30,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "smash_level_1_cumulative": {
+            "desc": "STR_ACH_SMASH_LEVEL_1_CUMULATIVE",
+            "property": "smashes",
+            "type": "=",
+            "target": 50,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "smash_level_2_cumulative": {
+            "desc": "STR_ACH_SMASH_LEVEL_2_CUMULATIVE",
+            "property": "smashes",
+            "type": "=",
+            "target": 100,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "smash_level_3_cumulative": {
+            "desc": "STR_ACH_SMASH_LEVEL_3_CUMULATIVE",
+            "property": "smashes",
+            "type": "=",
+            "target": 200,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "coin_level_1": {
+            "desc": "STR_ACH_COIN_LEVEL_1",
+            "property": "coins",
+            "type": "=",
+            "target": 50,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "coin_level_2": {
+            "desc": "STR_ACH_COIN_LEVEL_2",
+            "property": "coins",
+            "type": "=",
+            "target": 100,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "coin_level_3": {
+            "desc": "STR_ACH_COIN_LEVEL_3",
+            "property": "coins",
+            "type": "=",
+            "target": 100,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "coin_level_1_cumulative": {
+            "desc": "STR_ACH_COIN_LEVEL_1_CUMULATIVE",
+            "property": "coins",
+            "type": "=",
+            "target": 500,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "coin_level_2_cumulative": {
+            "desc": "STR_ACH_COIN_LEVEL_2_CUMULATIVE",
+            "property": "coins",
+            "type": "=",
+            "target": 1000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": true
+        },
+        "combo_level_1": {
+            "desc": "STR_ACH_COMBO_LEVEL_1",
+            "property": "combos",
+            "type": "=",
+            "target": 2,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "combo_level_2": {
+            "desc": "STR_ACH_COMBO_LEVEL_2",
+            "property": "combos",
+            "type": "=",
+            "target": 5,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "combo_level_3": {
+            "desc": "STR_ACH_COMBO_LEVEL_3",
+            "property": "combos",
+            "type": "=",
+            "target": 7,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "combo_level_4": {
+            "desc": "STR_ACH_COMBO_LEVEL_4",
+            "property": "combos",
+            "type": "=",
+            "target": 10,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "score_level_1": {
+            "desc": "STR_ACH_SCORE_LEVEL_1",
+            "property": "trickScore",
+            "type": "=",
+            "target": 5000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "score_level_2": {
+            "desc": "STR_ACH_SCORE_LEVEL_2",
+            "property": "trickScore",
+            "type": "=",
+            "target": 10000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "score_level_3": {
+            "desc": "STR_ACH_SCORE_LEVEL_3",
+            "property": "trickScore",
+            "type": "=",
+            "target": 20000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "score_level_4": {
+            "desc": "STR_ACH_SCORE_LEVEL_4",
+            "property": "trickScore",
+            "type": "=",
+            "target": 40000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "score_trick_level_1": {
+            "desc": "STR_ACH_SCORE_TRICK_LEVEL_1",
+            "property": "singleTrickScore",
+            "type": "=",
+            "target": 4000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "score_trick_level_2": {
+            "desc": "STR_ACH_SCORE_TRICK_LEVEL_2",
+            "property": "singleTrickScore",
+            "type": "=",
+            "target": 10000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "score_trick_level_3": {
+            "desc": "STR_ACH_SCORE_TRICK_LEVEL_3",
+            "property": "singleTrickScore",
+            "type": "=",
+            "target": 20000,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "flip_level_1": {
+            "desc": "STR_ACH_FLIP_LEVEL_1",
+            "property": "flip",
+            "type": "=",
+            "target": 1,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "flip_level_2": {
+            "desc": "STR_ACH_FLIP_LEVEL_2",
+            "property": "flip",
+            "type": "=",
+            "target": 5,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "flip_level_3": {
+            "desc": "STR_ACH_FLIP_LEVEL_3",
+            "property": "flip",
+            "type": "=",
+            "target": 10,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "flip_level_4": {
+            "desc": "STR_ACH_FLIP_LEVEL_4",
+            "property": "flip",
+            "type": "=",
+            "target": 25,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "double_flip_level_1": {
+            "desc": "STR_ACH_DOUBLE_FLIP_LEVEL_1",
+            "property": "doubleFlip",
+            "type": "=",
+            "target": 1,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "double_flip_level_2": {
+            "desc": "STR_ACH_DOUBLE_FLIP_LEVEL_2",
+            "property": "doubleFlip",
+            "type": "=",
+            "target": 3,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "double_flip_level_3": {
+            "desc": "STR_ACH_DOUBLE_FLIP_LEVEL_3",
+            "property": "doubleFlip",
+            "type": "=",
+            "target": 10,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "triple_flip_level_1": {
+            "desc": "STR_ACH_TRIPLE_FLIP_LEVEL_1",
+            "property": "tripleFlip",
+            "type": "=",
+            "target": 1,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        },
+        "triple_flip_level_2": {
+            "desc": "STR_ACH_TRIPLE_FLIP_LEVEL_2",
+            "property": "tripleFlip",
+            "type": "=",
+            "target": 5,
+            "value": 0,
+            "achieved": false,
+            "cumulative": false
+        }
+    },
+    "groups": {
+        "level1": {
+            "desc": "STR_GOALS_LEVEL_1_TITLE",
+            "achievements": [
+                "run_level_1",
+                "smash_level_1"
+            ]
+        },
+        "level2": {
+            "desc": "STR_GOALS_LEVEL_2_TITLE",
+            "achievements": [
+                "coin_level_1",
+                "flip_level_1"
+            ]
+        },
+        "level3": {
+            "desc": "STR_GOALS_LEVEL_3_TITLE",
+            "achievements": [
+                "run_level_2",
+                "coin_level_2"
+            ]
+        },
+        "level4": {
+            "desc": "STR_GOALS_LEVEL_4_TITLE",
+            "achievements": [
+                "run_level_cumulative_1",
+                "walljump_level_1"
+            ]
+        },
+        "level5": {
+            "desc": "STR_GOALS_LEVEL_5_TITLE",
+            "achievements": [
+                "combo_level_1",
+                "flip_level_2"
+            ]
+        },
+        "level6": {
+            "desc": "STR_GOALS_LEVEL_6_TITLE",
+            "achievements": [
+                "walljump_level_cumulative_1",
+                "combo_level_2"
+            ]
+        },
+        "level7": {
+            "desc": "STR_GOALS_LEVEL_7_TITLE",
+            "achievements": [
+                "run_level_3",
+                "score_level_1"
+            ]
+        },
+        "level8": {
+            "desc": "STR_GOALS_LEVEL_8_TITLE",
+            "achievements": [
+                "smash_level_1_cumulative",
+                "run_level_cumulative_2"
+            ]
+        },
+        "level9": {
+            "desc": "STR_GOALS_LEVEL_9_TITLE",
+            "achievements": [
+                "double_flip_level_1",
+                "run_level_4"
+            ]
+        },
+        "level10": {
+            "desc": "STR_GOALS_LEVEL_10_TITLE",
+            "achievements": [
+                "combo_level_3",
+                "score_level_2"
+            ]
+        },
+        "level11": {
+            "desc": "STR_GOALS_LEVEL_11_TITLE",
+            "achievements": [
+                "double_flip_level_2",
+                "smash_level_3"
+            ]
+        },
+        "level12": {
+            "desc": "STR_GOALS_LEVEL_12_TITLE",
+            "achievements": [
+                "coin_level_1_cumulative",
+                "smash_level_2_cumulative"
+            ]
+        },
+        "level13": {
+            "desc": "STR_GOALS_LEVEL_13_TITLE",
+            "achievements": [
+                "score_trick_level_1",
+                "double_flip_level_3"
+            ]
+        },
+        "level14": {
+            "desc": "STR_GOALS_LEVEL_14_TITLE",
+            "achievements": [
+                "run_level_cumulative_3",
+                "combo_level_4"
+            ]
+        },
+        "level15": {
+            "desc": "STR_GOALS_LEVEL_15_TITLE",
+            "achievements": [
+                "score_level_3",
+                "coin_level_2_cumulative"
+            ]
+        },
+        "level16": {
+            "desc": "STR_GOALS_LEVEL_16_TITLE",
+            "achievements": [
+                "smash_level_3_cumulative",
+                "walljump_level_2"
+            ]
+        },
+        "level17": {
+            "desc": "STR_GOALS_LEVEL_17_TITLE",
+            "achievements": [
+                "score_level_4",
+                "triple_flip_level_1"
+            ]
+        },
+        "level18": {
+            "desc": "STR_GOALS_LEVEL_18_TITLE",
+            "achievements": [
+                "score_trick_level_2",
+                "walljump_level_cumulative_2"
+            ]
+        },
+        "level19": {
+            "desc": "STR_GOALS_LEVEL_19_TITLE",
+            "achievements": [
+                "run_level_cumulative_4",
+                "coin_level_3"
+            ]
+        },
+        "level20": {
+            "desc": "STR_GOALS_LEVEL_20_TITLE",
+            "achievements": [
+                "triple_flip_level_2",
+                "run_level_5"
+            ]
+        }
+    }
+}

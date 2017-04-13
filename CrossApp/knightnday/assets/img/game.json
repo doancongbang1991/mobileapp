@@ -1,0 +1,244 @@
+{"frames": [
+
+{
+	"filename": "game/bg_puzzle",
+	"frame": {"x":2,"y":2,"w":475,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":360},
+	"sourceSize": {"w":475,"h":360}
+},
+{
+	"filename": "game/block_0",
+	"frame": {"x":782,"y":317,"w":74,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":77},
+	"sourceSize": {"w":74,"h":77}
+},
+{
+	"filename": "game/block_1",
+	"frame": {"x":326,"y":364,"w":78,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":30},
+	"sourceSize": {"w":78,"h":30}
+},
+{
+	"filename": "game/block_2",
+	"frame": {"x":750,"y":317,"w":30,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":78},
+	"sourceSize": {"w":30,"h":78}
+},
+{
+	"filename": "game/block_3",
+	"frame": {"x":665,"y":328,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+	"sourceSize": {"w":83,"h":83}
+},
+{
+	"filename": "game/coins",
+	"frame": {"x":288,"y":364,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+{
+	"filename": "game/efek_hor_kanan",
+	"frame": {"x":750,"y":2,"w":190,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":91},
+	"sourceSize": {"w":190,"h":91}
+},
+{
+	"filename": "game/efek_hor_kiri",
+	"frame": {"x":750,"y":95,"w":190,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":91},
+	"sourceSize": {"w":190,"h":91}
+},
+{
+	"filename": "game/efek_vert_naik",
+	"frame": {"x":479,"y":206,"w":91,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":190},
+	"sourceSize": {"w":91,"h":190}
+},
+{
+	"filename": "game/efek_vert_turun",
+	"frame": {"x":572,"y":206,"w":91,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":190},
+	"sourceSize": {"w":91,"h":190}
+},
+{
+	"filename": "game/gems",
+	"frame": {"x":247,"y":364,"w":39,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":39},
+	"sourceSize": {"w":39,"h":39}
+},
+{
+	"filename": "game/link_diag_1",
+	"frame": {"x":750,"y":188,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+{
+	"filename": "game/link_diag_2",
+	"frame": {"x":836,"y":188,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+{
+	"filename": "game/link_hor",
+	"frame": {"x":326,"y":396,"w":81,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":15},
+	"sourceSize": {"w":81,"h":15}
+},
+{
+	"filename": "game/link_vert",
+	"frame": {"x":922,"y":188,"w":15,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":88},
+	"sourceSize": {"w":15,"h":88}
+},
+{
+	"filename": "game/match_0",
+	"frame": {"x":2,"y":364,"w":47,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":47},
+	"sourceSize": {"w":47,"h":47}
+},
+{
+	"filename": "game/match_1",
+	"frame": {"x":51,"y":364,"w":47,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":47},
+	"sourceSize": {"w":47,"h":47}
+},
+{
+	"filename": "game/match_2",
+	"frame": {"x":100,"y":364,"w":47,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":47},
+	"sourceSize": {"w":47,"h":47}
+},
+{
+	"filename": "game/match_3",
+	"frame": {"x":149,"y":364,"w":47,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":47},
+	"sourceSize": {"w":47,"h":47}
+},
+{
+	"filename": "game/match_4",
+	"frame": {"x":198,"y":364,"w":47,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":47},
+	"sourceSize": {"w":47,"h":47}
+},
+{
+	"filename": "game/notif_achievement",
+	"frame": {"x":479,"y":2,"w":269,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":202},
+	"sourceSize": {"w":269,"h":202}
+},
+{
+	"filename": "game/player",
+	"frame": {"x":665,"y":206,"w":83,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":120},
+	"sourceSize": {"w":83,"h":120}
+},
+{
+	"filename": "game/puz_0",
+	"frame": {"x":942,"y":2,"w":43,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":43,"h":61},
+	"sourceSize": {"w":47,"h":63}
+},
+{
+	"filename": "game/puz_1",
+	"frame": {"x":942,"y":65,"w":43,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":43,"h":61},
+	"sourceSize": {"w":47,"h":63}
+},
+{
+	"filename": "game/puz_2",
+	"frame": {"x":942,"y":128,"w":43,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":43,"h":61},
+	"sourceSize": {"w":47,"h":63}
+},
+{
+	"filename": "game/puz_3",
+	"frame": {"x":939,"y":191,"w":43,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":43,"h":61},
+	"sourceSize": {"w":47,"h":63}
+},
+{
+	"filename": "game/puz_4",
+	"frame": {"x":939,"y":254,"w":43,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":43,"h":61},
+	"sourceSize": {"w":47,"h":63}
+},
+{
+	"filename": "game/puz_bunder",
+	"frame": {"x":858,"y":278,"w":69,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":69},
+	"sourceSize": {"w":69,"h":69}
+},
+{
+	"filename": "game/puz_sel",
+	"frame": {"x":929,"y":317,"w":50,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":66},
+	"sourceSize": {"w":50,"h":66}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game.png",
+	"format": "RGBA8888",
+	"size": {"w":987,"h":413},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:66db1f0d1744e8d50ee044522d190ebb:379ab4ae7bd43debba9bcea6c74385aa:fc2835210f98bae8e8c1b7f0a84c9321$"
+}
+}

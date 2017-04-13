@@ -1,0 +1,228 @@
+{"frames": {
+
+"keyboard-a.png":
+{
+	"frame": {"x":0,"y":0,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-b.png":
+{
+	"frame": {"x":18,"y":0,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-c.png":
+{
+	"frame": {"x":36,"y":0,"w":12,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":30},
+	"sourceSize": {"w":12,"h":30}
+},
+"keyboard-d.png":
+{
+	"frame": {"x":50,"y":0,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-del.png":
+{
+	"frame": {"x":68,"y":0,"w":24,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":18},
+	"sourceSize": {"w":24,"h":18}
+},
+"keyboard-e.png":
+{
+	"frame": {"x":94,"y":0,"w":12,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":30},
+	"sourceSize": {"w":12,"h":30}
+},
+"keyboard-f.png":
+{
+	"frame": {"x":108,"y":0,"w":12,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":30},
+	"sourceSize": {"w":12,"h":30}
+},
+"keyboard-g.png":
+{
+	"frame": {"x":0,"y":32,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-h.png":
+{
+	"frame": {"x":18,"y":32,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-i.png":
+{
+	"frame": {"x":36,"y":32,"w":4,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":30},
+	"sourceSize": {"w":4,"h":30}
+},
+"keyboard-j.png":
+{
+	"frame": {"x":42,"y":32,"w":8,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":30},
+	"sourceSize": {"w":8,"h":30}
+},
+"keyboard-k.png":
+{
+	"frame": {"x":52,"y":32,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-l.png":
+{
+	"frame": {"x":70,"y":32,"w":12,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":30},
+	"sourceSize": {"w":12,"h":30}
+},
+"keyboard-m.png":
+{
+	"frame": {"x":84,"y":32,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":30}
+},
+"keyboard-n.png":
+{
+	"frame": {"x":106,"y":32,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-o.png":
+{
+	"frame": {"x":0,"y":64,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-p.png":
+{
+	"frame": {"x":18,"y":64,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-q.png":
+{
+	"frame": {"x":36,"y":64,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-r.png":
+{
+	"frame": {"x":54,"y":64,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-s.png":
+{
+	"frame": {"x":72,"y":64,"w":12,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":30},
+	"sourceSize": {"w":12,"h":30}
+},
+"keyboard-t.png":
+{
+	"frame": {"x":86,"y":64,"w":12,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":30},
+	"sourceSize": {"w":12,"h":30}
+},
+"keyboard-u.png":
+{
+	"frame": {"x":100,"y":64,"w":16,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":30},
+	"sourceSize": {"w":16,"h":30}
+},
+"keyboard-v.png":
+{
+	"frame": {"x":0,"y":96,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":30}
+},
+"keyboard-w.png":
+{
+	"frame": {"x":22,"y":96,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":30}
+},
+"keyboard-x.png":
+{
+	"frame": {"x":44,"y":96,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":30}
+},
+"keyboard-y.png":
+{
+	"frame": {"x":66,"y":96,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":30}
+},
+"keyboard-z.png":
+{
+	"frame": {"x":88,"y":96,"w":12,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":30},
+	"sourceSize": {"w":12,"h":30}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "keyboard.png",
+	"format": "RGBA8888",
+	"size": {"w":124,"h":126},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:016842cae8a519070f297faa60b451e4:8dfdf73c14cfdc78af0fbd773c97e986:3c8585cf0a412c2de0ad4240a4c27ec4$"
+}
+}

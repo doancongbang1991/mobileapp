@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="WeaponsAtlas.png">
+	<SubTexture name="ProjectileGrenadeLauncher.png" x="64" y="0" width="64" height="64"/>
+	<SubTexture name="ProjectileRocketLauncher.png" x="128" y="0" width="64" height="64"/>
+	<SubTexture name="WeaponEnergyGun.png" x="64" y="192" width="64" height="64"/>
+	<SubTexture name="WeaponFlameThrower.png" x="64" y="128" width="64" height="64"/>
+	<SubTexture name="WeaponGrenadeLauncher.png" x="64" y="64" width="64" height="64"/>
+	<SubTexture name="WeaponLaser.png" x="128" y="64" width="64" height="64"/>
+	<SubTexture name="WeaponMachineGun.png" x="0" y="192" width="64" height="64"/>
+	<SubTexture name="WeaponMinigun.png" x="0" y="128" width="64" height="64"/>
+	<SubTexture name="WeaponRocketLauncher.png" x="0" y="64" width="64" height="64"/>
+	<SubTexture name="WeaponShotgun.png" x="0" y="0" width="64" height="64"/>
+</TextureAtlas>

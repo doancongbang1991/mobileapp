@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html manifest="flappy_dog.appcache">
+<head>
+    <title>Scrappy Dog</title>
+
+    <meta charset="utf-8"/>
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-ui">
+
+    <meta name="application-name" content="Scrappy Dog"/>
+    <meta name="msapplication-TileColor" content="#5BCBFD"/>
+    <meta name="msapplication-square70x70logo" content="assets/images/icons/AppIcon70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="assets/images/icons/AppIcon150x150.png"/>
+
+    <link rel="apple-touch-icon-precomposed"                    href="assets/images/icons/AppIcon60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76"      href="assets/images/icons/AppIcon76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"    href="assets/images/icons/AppIcon60x60@2x.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"    href="assets/images/icons/AppIcon76x76@2x.png" />
+    <link rel="icon" type="image/png"                           href="assets/images/icons/AppIcon76x76@2x.png" />
+
+    <link rel="stylesheet" type="text/css" href="assets/fonts/fonts.css">
+    <link rel="stylesheet" type="text/css" href="assets/fonts/fonts_ja.css">
+
+    <!-- Hack for IE 9 -->
+    <script type="application/javascript" language="JavaScript">
+        console.debug = function() {}
+        console.log = function() {}
+        console.warn = function() {}
+    </script>
+    <style type="text/css">
+        html {
+            background-color : #ffffff;
+        }
+        body {
+            background-color : #ffffff;
+            padding: 0;
+            margin: 0;
+            /* force hardware acceleration on certain devices */
+            transform :  translate3d(0,0,0);
+            -webkit-transform: translate3d(0,0,0);
+            transform :  translateZ(0);
+            -webkit-transform: translateZ(0);
+            width : 100%;
+            height : 100%;
+            position : fixed;
+            top: 0px;
+            left: 0px;
+        }
+        #game_background {
+            background-color: #BBE8ED;
+            background-size: 100% 100%;
+            display : block;
+            z-index : -1;
+        }
+
+        .splash{
+            background : url('assets/images/bg.jpg');
+        }
+
+        .game {
+            background : url('assets/images/bg2.jpg');
+        }
+    </style>
+
+    <meta name="description" content="Play the most addictive flapping game on TM Mobile! Fly your way across the scrapyard with Quark, avoiding traps. Fly like a flappy bird and score high! Share the game to show your friends who's the better flapper.">
+    <link rel="kik-icon" href="assets/images/icons/AppIcon150x150.png">
+    <meta name="kik-unsupported" content="android-2.2, ios-4, ios-5">
+    <script src="js/kik.js"></script>
+    <link rel="canonical" href="http://mobile.taiminh.com">
+    <link rel="privacy" href="http://mobile.taiminh.com">
+</head>
+<body oncontextmenu="return false">
+    <script type="application/javascript" language="JavaScript">
+        var Booster = window.Booster || {};
+        window.Booster.ready = function() {
+            window.Booster.__initialized = true;
+        }
+    </script>
+
+    <script id="booster-api" type="text/javascript" src="shared/booster/api.js"></script>
+    <script src="js/game.min.js"></script>
+    <div id="game_background" class="splash"></div>
+
+    
+</body>
+</html>

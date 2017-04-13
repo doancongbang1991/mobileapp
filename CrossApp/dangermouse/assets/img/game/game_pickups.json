@@ -1,0 +1,180 @@
+{"frames": {
+
+"bonus_1.png":
+{
+	"frame": {"x":92,"y":68,"w":36,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":2,"w":36,"h":52},
+	"sourceSize": {"w":57,"h":57}
+},
+"bonus_2.png":
+{
+	"frame": {"x":488,"y":4,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":44,"h":44},
+	"sourceSize": {"w":57,"h":57}
+},
+"bonus_3.png":
+{
+	"frame": {"x":172,"y":68,"w":44,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":44,"h":48},
+	"sourceSize": {"w":57,"h":57}
+},
+"bonus_4.png":
+{
+	"frame": {"x":132,"y":68,"w":36,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":2,"w":36,"h":52},
+	"sourceSize": {"w":57,"h":57}
+},
+"bonus_5.png":
+{
+	"frame": {"x":220,"y":68,"w":40,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":4,"w":40,"h":48},
+	"sourceSize": {"w":57,"h":57}
+},
+"bonus_6.png":
+{
+	"frame": {"x":264,"y":68,"w":44,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":44,"h":46},
+	"sourceSize": {"w":57,"h":57}
+},
+"bonus_egg_1.png":
+{
+	"frame": {"x":312,"y":68,"w":34,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":46},
+	"sourceSize": {"w":33,"h":45}
+},
+"bonus_egg_2.png":
+{
+	"frame": {"x":350,"y":68,"w":34,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":46},
+	"sourceSize": {"w":33,"h":45}
+},
+"bonus_egg_3.png":
+{
+	"frame": {"x":388,"y":68,"w":34,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":46},
+	"sourceSize": {"w":33,"h":45}
+},
+"bonus_egg_4.png":
+{
+	"frame": {"x":426,"y":68,"w":34,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":46},
+	"sourceSize": {"w":33,"h":45}
+},
+"bonus_egg_5.png":
+{
+	"frame": {"x":464,"y":68,"w":34,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":46},
+	"sourceSize": {"w":33,"h":45}
+},
+"bonus_egg_6.png":
+{
+	"frame": {"x":502,"y":52,"w":34,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":46},
+	"sourceSize": {"w":33,"h":45}
+},
+"bonus_shine.png":
+{
+	"frame": {"x":4,"y":4,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":83,"h":83}
+},
+"coin_spin_01.png":
+{
+	"frame": {"x":456,"y":4,"w":28,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":28,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"coin_spin_02.png":
+{
+	"frame": {"x":372,"y":4,"w":38,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":38,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"coin_spin_03.png":
+{
+	"frame": {"x":274,"y":4,"w":46,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":46,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"coin_spin_04.png":
+{
+	"frame": {"x":218,"y":4,"w":52,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":52,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"coin_spin_05.png":
+{
+	"frame": {"x":92,"y":4,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"coin_spin_06.png":
+{
+	"frame": {"x":156,"y":4,"w":58,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"coin_spin_07.png":
+{
+	"frame": {"x":324,"y":4,"w":44,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":44,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"coin_spin_08.png":
+{
+	"frame": {"x":414,"y":4,"w":38,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":38,"h":60},
+	"sourceSize": {"w":60,"h":60}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game_pickups.png",
+	"format": "RGBA8888",
+	"size": {"w":540,"h":124},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1398913760d6356f2e245cba11f0804c:2f2caa7c1a220ff8fca1903240628181:7d297822f356a64e3048fd8a1cc561fe$"
+}
+}

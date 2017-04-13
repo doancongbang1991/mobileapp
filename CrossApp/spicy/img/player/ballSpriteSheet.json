@@ -1,0 +1,132 @@
+{"frames": {
+
+"bitesFrames_01.png":
+{
+	"frame": {"x":304,"y":0,"w":150,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":1,"w":150,"h":154},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_02.png":
+{
+	"frame": {"x":304,"y":448,"w":148,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":4,"w":148,"h":148},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_03.png":
+{
+	"frame": {"x":304,"y":302,"w":150,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":5,"w":150,"h":144},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_04.png":
+{
+	"frame": {"x":150,"y":590,"w":148,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":148,"h":142},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_05.png":
+{
+	"frame": {"x":300,"y":598,"w":148,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":8,"w":148,"h":140},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_06.png":
+{
+	"frame": {"x":0,"y":450,"w":150,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":7,"w":150,"h":138},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_07.png":
+{
+	"frame": {"x":0,"y":306,"w":150,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":150,"h":142},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_08.png":
+{
+	"frame": {"x":152,"y":0,"w":150,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":1,"w":150,"h":154},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_09.png":
+{
+	"frame": {"x":0,"y":0,"w":150,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":2,"w":150,"h":156},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_10.png":
+{
+	"frame": {"x":0,"y":158,"w":150,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":150,"h":146},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_11.png":
+{
+	"frame": {"x":0,"y":590,"w":148,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":6,"w":148,"h":144},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_12.png":
+{
+	"frame": {"x":152,"y":448,"w":150,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":10,"w":150,"h":140},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_13.png":
+{
+	"frame": {"x":152,"y":304,"w":150,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":9,"w":150,"h":142},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_14.png":
+{
+	"frame": {"x":304,"y":156,"w":150,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":150,"h":144},
+	"sourceSize": {"w":160,"h":160}
+},
+"bitesFrames_15.png":
+{
+	"frame": {"x":152,"y":156,"w":150,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":150,"h":146},
+	"sourceSize": {"w":160,"h":160}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ballSpriteSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":454,"h":738},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4b4049888907a7dea4c7257d02a8b4e4$"
+}
+}

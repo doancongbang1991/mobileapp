@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html manifest="offline.appcache" class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>My Puki (Virtual Pet)</title>
+        
+        <meta name="Title" content="My Puki (Virtual Pet)" />
+        <meta name="description" content="My Puki is a virtual pet HTML5 game where you can take care of Puki by feed and play with, the more you interact with Puki the more XP will earn to help purchase new extra items, be sure to fulfill your Puki needs meter or else Puki will be sad and die.">
+		<meta name="keywords" content="pet, virtual, feed, play, toy, food, shop, game">
+        
+        <!-- for Facebook -->
+        <meta property="og:title" content="My Puki (Virtual Pet)"/>
+        <meta property="og:site_name" content="My Puki (Virtual Pet)"/>
+        <meta property="og:image" content="http://demonisblack.com/code/mypuki/game/share.jpg" />
+        <meta property="og:url" content="http://demonisblack.com/code/mypuki/game/" />
+        <meta property="og:description" content="My Puki is a virtual pet HTML5 game where you can take care of Puki by feed and play with, the more you interact with Puki the more XP will earn to help purchase new extra items, be sure to fulfill your Puki needs meter or else Puki will be sad and die.">
+        
+        <!-- for Twitter -->
+        <meta name="twitter:title" content="My Puki (Virtual Pet)" />
+        <meta name="twitter:description" content="My Puki is a virtual pet HTML5 game where you can take care of Puki by feed and play with, the more you interact with Puki the more XP will earn to help purchase new extra items, be sure to fulfill your Puki needs meter or else Puki will be sad and die." />
+        <meta name="twitter:image" content="http://demonisblack.com/code/mypuki/game/share.jpg" />
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<script>
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement("style");
+            msViewportStyle.appendChild(
+                document.createTextNode(
+                    "@-ms-viewport{width:device-width}"
+                )
+            );
+            document.getElementsByTagName("head")[0].
+                appendChild(msViewportStyle);
+        }
+        </script>
+
+        <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!-- CONTENT START-->
+        <div id="mainHolder">
+        	<!-- BROWSER NOT SUPPORT START-->
+        	<div id="notSupportHolder">
+                <div class="notSupport">YOUR BROWSER ISN'T SUPPORTED.<br/>PLEASE UPDATE YOUR BROWSER IN ORDER TO RUN THE GAME</div>
+            </div>
+            <!-- BROWSER NOT SUPPORT END-->
+            
+            <!-- ROTATE INSTRUCTION START-->
+            <div id="rotateHolder">
+                <div class="mobileRotate">
+                        <div class="rotateDesc">Rotate your device <br/>to landscape</div>
+                </div>
+            </div>
+            <!-- ROTATE INSTRUCTION END-->
+            
+            <!-- CANVAS START-->
+            <div id="canvasHolder">
+                <canvas id="gameCanvas" width="1024" height="768"></canvas>
+            </div>
+            <!-- CANVAS END-->
+            
+            <!-- PROGRESS BAR LOADER START-->
+            <div id="loaderHolder">
+            	<div class="percentHolder">
+                	<div class="percentIndicator"></div>
+                </div>
+            	<img src="assets/bgMain.jpg" />
+            </div>
+            <!-- PROGRESS BAR LOADER END-->
+        </div>
+        <!-- CONTENT END-->
+        
+        <script src="jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.3.min.js"><\/script>')</script>
+        
+        <script src="js/vendor/detectmobilebrowser.js"></script>
+        <script src="js/vendor/jquery.cookie.js"></script>
+        <script src="js/vendor/preloadjs-0.6.1.min.js"></script>
+        <script src="js/vendor/easeljs-0.8.1.min.js"></script>
+        <script src="js/vendor/soundjs-0.6.1.min.js"></script>
+        
+        <script src="js/plugins.js"></script>
+        <script src="js/sound.js"></script>
+        <script src="js/canvas.js"></script>
+        <script src="js/items.js"></script>
+        <script src="js/pet.js"></script>
+        <script src="js/game.js"></script>
+        <script src="js/mobile.js"></script>
+        <script src="js/main.js"></script>
+        <script src="js/loader.js"></script>
+        <script src="js/init.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        
+    </body>
+</html>

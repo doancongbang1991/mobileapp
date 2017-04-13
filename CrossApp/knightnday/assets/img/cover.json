@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "cover/btn_credits",
+	"frame": {"x":629,"y":322,"w":119,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":123},
+	"sourceSize": {"w":119,"h":123}
+},
+{
+	"filename": "cover/btn_more",
+	"frame": {"x":505,"y":322,"w":122,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":126},
+	"sourceSize": {"w":122,"h":126}
+},
+{
+	"filename": "cover/btn_play",
+	"frame": {"x":352,"y":322,"w":151,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":156},
+	"sourceSize": {"w":151,"h":156}
+},
+{
+	"filename": "cover/player",
+	"frame": {"x":2,"y":2,"w":348,"h":495},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":348,"h":495},
+	"sourceSize": {"w":348,"h":495}
+},
+{
+	"filename": "cover/title",
+	"frame": {"x":352,"y":2,"w":482,"h":318},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":482,"h":318},
+	"sourceSize": {"w":482,"h":318}
+},
+{
+	"filename": "cover/tumbuhan",
+	"frame": {"x":836,"y":2,"w":361,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":0,"w":361,"h":284},
+	"sourceSize": {"w":424,"h":284}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cover.png",
+	"format": "RGBA8888",
+	"size": {"w":1199,"h":499},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:faec5979922be3358af57d0900e8a17c:0cf07d7111eaedb9de91972212173221:7c10614b937861b11387ed9f640962d3$"
+}
+}

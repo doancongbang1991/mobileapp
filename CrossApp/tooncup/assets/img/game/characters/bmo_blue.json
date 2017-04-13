@@ -1,0 +1,1180 @@
+{"frames": {
+
+"character-bmo-blue-bicycle-kick0001.png":
+{
+	"frame": {"x":515,"y":2,"w":80,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":124,"w":80,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0002.png":
+{
+	"frame": {"x":515,"y":2,"w":80,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":124,"w":80,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0003.png":
+{
+	"frame": {"x":515,"y":2,"w":80,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":124,"w":80,"h":100},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0004.png":
+{
+	"frame": {"x":2,"y":188,"w":83,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":55,"w":83,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0005.png":
+{
+	"frame": {"x":2,"y":188,"w":83,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":55,"w":83,"h":167},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0006.png":
+{
+	"frame": {"x":2,"y":2,"w":83,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":37,"w":83,"h":184},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0007.png":
+{
+	"frame": {"x":2,"y":2,"w":83,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":37,"w":83,"h":184},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0008.png":
+{
+	"frame": {"x":2,"y":2,"w":83,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":37,"w":83,"h":184},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0009.png":
+{
+	"frame": {"x":185,"y":2,"w":111,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":41,"w":111,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0010.png":
+{
+	"frame": {"x":185,"y":2,"w":111,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":41,"w":111,"h":180},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0011.png":
+{
+	"frame": {"x":87,"y":2,"w":96,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":37,"w":96,"h":183},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0012.png":
+{
+	"frame": {"x":87,"y":2,"w":96,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":37,"w":96,"h":183},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0013.png":
+{
+	"frame": {"x":428,"y":2,"w":85,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":95,"w":85,"h":126},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0014.png":
+{
+	"frame": {"x":428,"y":2,"w":85,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":95,"w":85,"h":126},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0015.png":
+{
+	"frame": {"x":901,"y":97,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":129,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0016.png":
+{
+	"frame": {"x":901,"y":97,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":129,"w":91,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0017.png":
+{
+	"frame": {"x":1448,"y":278,"w":87,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":142,"w":87,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0018.png":
+{
+	"frame": {"x":1448,"y":278,"w":87,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":142,"w":87,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0019.png":
+{
+	"frame": {"x":433,"y":276,"w":87,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":138,"w":87,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0020.png":
+{
+	"frame": {"x":433,"y":276,"w":87,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":138,"w":87,"h":81},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0021.png":
+{
+	"frame": {"x":1537,"y":278,"w":87,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":142,"w":87,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-bicycle-kick0022.png":
+{
+	"frame": {"x":1537,"y":278,"w":87,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":142,"w":87,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0001.png":
+{
+	"frame": {"x":1378,"y":278,"w":68,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":68,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0002.png":
+{
+	"frame": {"x":1378,"y":278,"w":68,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":68,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0003.png":
+{
+	"frame": {"x":1304,"y":278,"w":72,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":142,"w":72,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0004.png":
+{
+	"frame": {"x":1304,"y":278,"w":72,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":142,"w":72,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0005.png":
+{
+	"frame": {"x":1626,"y":278,"w":81,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":143,"w":81,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0006.png":
+{
+	"frame": {"x":1626,"y":278,"w":81,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":143,"w":81,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0007.png":
+{
+	"frame": {"x":1626,"y":278,"w":81,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":143,"w":81,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0008.png":
+{
+	"frame": {"x":483,"y":130,"w":76,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":109,"w":76,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0009.png":
+{
+	"frame": {"x":483,"y":130,"w":76,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":109,"w":76,"h":113},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0010.png":
+{
+	"frame": {"x":643,"y":102,"w":76,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":127,"w":76,"h":95},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0011.png":
+{
+	"frame": {"x":643,"y":102,"w":76,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":127,"w":76,"h":95},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0012.png":
+{
+	"frame": {"x":643,"y":102,"w":76,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":127,"w":76,"h":95},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0013.png":
+{
+	"frame": {"x":643,"y":102,"w":76,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":127,"w":76,"h":95},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0014.png":
+{
+	"frame": {"x":1709,"y":278,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":143,"w":78,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0015.png":
+{
+	"frame": {"x":1709,"y":278,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":143,"w":78,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0016.png":
+{
+	"frame": {"x":1148,"y":278,"w":76,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":76,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0017.png":
+{
+	"frame": {"x":1148,"y":278,"w":76,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":76,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0018.png":
+{
+	"frame": {"x":1148,"y":278,"w":76,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":76,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0019.png":
+{
+	"frame": {"x":356,"y":276,"w":75,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":140,"w":75,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0020.png":
+{
+	"frame": {"x":356,"y":276,"w":75,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":140,"w":75,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0021.png":
+{
+	"frame": {"x":356,"y":276,"w":75,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":140,"w":75,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0022.png":
+{
+	"frame": {"x":1880,"y":2,"w":74,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":139,"w":74,"h":83},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0023.png":
+{
+	"frame": {"x":1880,"y":2,"w":74,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":139,"w":74,"h":83},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0024.png":
+{
+	"frame": {"x":1880,"y":2,"w":74,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":139,"w":74,"h":83},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0025.png":
+{
+	"frame": {"x":1880,"y":2,"w":74,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":139,"w":74,"h":83},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0026.png":
+{
+	"frame": {"x":1880,"y":2,"w":74,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":139,"w":74,"h":83},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0027.png":
+{
+	"frame": {"x":356,"y":276,"w":75,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":140,"w":75,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0028.png":
+{
+	"frame": {"x":356,"y":276,"w":75,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":140,"w":75,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0029.png":
+{
+	"frame": {"x":1226,"y":278,"w":76,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":76,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0030.png":
+{
+	"frame": {"x":1226,"y":278,"w":76,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":76,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0031.png":
+{
+	"frame": {"x":1789,"y":276,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":143,"w":78,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0032.png":
+{
+	"frame": {"x":1789,"y":276,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":143,"w":78,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0033.png":
+{
+	"frame": {"x":1789,"y":276,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":143,"w":78,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0034.png":
+{
+	"frame": {"x":1789,"y":276,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":143,"w":78,"h":79},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0035.png":
+{
+	"frame": {"x":1148,"y":278,"w":76,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":76,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0036.png":
+{
+	"frame": {"x":1148,"y":278,"w":76,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":76,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0037.png":
+{
+	"frame": {"x":1148,"y":278,"w":76,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":142,"w":76,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0038.png":
+{
+	"frame": {"x":356,"y":276,"w":75,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":140,"w":75,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0039.png":
+{
+	"frame": {"x":356,"y":276,"w":75,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":140,"w":75,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-celebrate0040.png":
+{
+	"frame": {"x":356,"y":276,"w":75,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":140,"w":75,"h":82},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0001.png":
+{
+	"frame": {"x":972,"y":2,"w":132,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":132,"w":132,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0002.png":
+{
+	"frame": {"x":994,"y":94,"w":124,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":132,"w":124,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0003.png":
+{
+	"frame": {"x":1232,"y":2,"w":112,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":132,"w":112,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0004.png":
+{
+	"frame": {"x":1060,"y":186,"w":114,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":132,"w":114,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0005.png":
+{
+	"frame": {"x":1236,"y":94,"w":95,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":132,"w":95,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0006.png":
+{
+	"frame": {"x":1290,"y":186,"w":93,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":132,"w":93,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0007.png":
+{
+	"frame": {"x":1594,"y":94,"w":69,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":132,"w":69,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0008.png":
+{
+	"frame": {"x":1437,"y":2,"w":79,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":132,"w":79,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0009.png":
+{
+	"frame": {"x":926,"y":191,"w":132,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":132,"w":132,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0010.png":
+{
+	"frame": {"x":1106,"y":2,"w":124,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":132,"w":124,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0011.png":
+{
+	"frame": {"x":1176,"y":186,"w":112,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":132,"w":112,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0012.png":
+{
+	"frame": {"x":1120,"y":94,"w":114,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":132,"w":114,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0013.png":
+{
+	"frame": {"x":1236,"y":94,"w":95,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":132,"w":95,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0014.png":
+{
+	"frame": {"x":1333,"y":94,"w":93,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":132,"w":93,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0015.png":
+{
+	"frame": {"x":1625,"y":186,"w":69,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":132,"w":69,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-dash0016.png":
+{
+	"frame": {"x":1470,"y":186,"w":79,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":132,"w":79,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0001.png":
+{
+	"frame": {"x":1385,"y":186,"w":83,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":132,"w":83,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0002.png":
+{
+	"frame": {"x":1385,"y":186,"w":83,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":132,"w":83,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0003.png":
+{
+	"frame": {"x":561,"y":104,"w":80,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":124,"w":80,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0004.png":
+{
+	"frame": {"x":561,"y":104,"w":80,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":124,"w":80,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0005.png":
+{
+	"frame": {"x":1869,"y":181,"w":88,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":137,"w":88,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0006.png":
+{
+	"frame": {"x":1869,"y":181,"w":88,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":137,"w":88,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0007.png":
+{
+	"frame": {"x":1794,"y":93,"w":83,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":136,"w":83,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0008.png":
+{
+	"frame": {"x":1794,"y":93,"w":83,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":136,"w":83,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-fall0009.png":
+{
+	"frame": {"x":1060,"y":278,"w":86,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":142,"w":86,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0001.png":
+{
+	"frame": {"x":817,"y":98,"w":82,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":128,"w":82,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0002.png":
+{
+	"frame": {"x":640,"y":204,"w":88,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":126,"w":88,"h":96},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0003.png":
+{
+	"frame": {"x":640,"y":204,"w":88,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":126,"w":88,"h":96},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0004.png":
+{
+	"frame": {"x":640,"y":204,"w":88,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":126,"w":88,"h":96},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0005.png":
+{
+	"frame": {"x":775,"y":2,"w":93,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":128,"w":93,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0006.png":
+{
+	"frame": {"x":775,"y":2,"w":93,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":128,"w":93,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0007.png":
+{
+	"frame": {"x":730,"y":194,"w":93,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":128,"w":93,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0008.png":
+{
+	"frame": {"x":679,"y":2,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":128,"w":94,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0009.png":
+{
+	"frame": {"x":721,"y":98,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":128,"w":94,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-kick0010.png":
+{
+	"frame": {"x":721,"y":98,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":128,"w":94,"h":94},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0001.png":
+{
+	"frame": {"x":1428,"y":94,"w":83,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":132,"w":83,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0002.png":
+{
+	"frame": {"x":1428,"y":94,"w":83,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":132,"w":83,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0003.png":
+{
+	"frame": {"x":597,"y":2,"w":80,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":124,"w":80,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0004.png":
+{
+	"frame": {"x":597,"y":2,"w":80,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":124,"w":80,"h":98},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0005.png":
+{
+	"frame": {"x":1869,"y":268,"w":88,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":137,"w":88,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0006.png":
+{
+	"frame": {"x":1869,"y":268,"w":88,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":137,"w":88,"h":85},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0007.png":
+{
+	"frame": {"x":1879,"y":93,"w":83,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":136,"w":83,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0008.png":
+{
+	"frame": {"x":1879,"y":93,"w":83,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":136,"w":83,"h":86},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-lose0009.png":
+{
+	"frame": {"x":1060,"y":278,"w":86,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":142,"w":86,"h":80},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0001.png":
+{
+	"frame": {"x":1346,"y":2,"w":89,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":132,"w":89,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0002.png":
+{
+	"frame": {"x":1346,"y":2,"w":89,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":132,"w":89,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0003.png":
+{
+	"frame": {"x":1551,"y":186,"w":72,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":132,"w":72,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0004.png":
+{
+	"frame": {"x":1551,"y":186,"w":72,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":132,"w":72,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0005.png":
+{
+	"frame": {"x":1665,"y":2,"w":63,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":132,"w":63,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0006.png":
+{
+	"frame": {"x":1665,"y":2,"w":63,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":132,"w":63,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0007.png":
+{
+	"frame": {"x":1665,"y":94,"w":63,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":132,"w":63,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0008.png":
+{
+	"frame": {"x":1665,"y":94,"w":63,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":132,"w":63,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0009.png":
+{
+	"frame": {"x":1696,"y":186,"w":63,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":132,"w":63,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0010.png":
+{
+	"frame": {"x":1696,"y":186,"w":63,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":132,"w":63,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0011.png":
+{
+	"frame": {"x":1730,"y":93,"w":62,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":132,"w":62,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0012.png":
+{
+	"frame": {"x":1730,"y":93,"w":62,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":132,"w":62,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0013.png":
+{
+	"frame": {"x":1598,"y":2,"w":65,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":132,"w":65,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0014.png":
+{
+	"frame": {"x":1598,"y":2,"w":65,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":132,"w":65,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0015.png":
+{
+	"frame": {"x":1513,"y":94,"w":79,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":132,"w":79,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-run0016.png":
+{
+	"frame": {"x":1513,"y":94,"w":79,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":132,"w":79,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0001.png":
+{
+	"frame": {"x":1518,"y":2,"w":78,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":132,"w":78,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0002.png":
+{
+	"frame": {"x":1518,"y":2,"w":78,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":132,"w":78,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0003.png":
+{
+	"frame": {"x":1518,"y":2,"w":78,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":132,"w":78,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0004.png":
+{
+	"frame": {"x":1518,"y":2,"w":78,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":132,"w":78,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0005.png":
+{
+	"frame": {"x":1518,"y":2,"w":78,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":132,"w":78,"h":90},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0006.png":
+{
+	"frame": {"x":1761,"y":185,"w":83,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":133,"w":83,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0007.png":
+{
+	"frame": {"x":1761,"y":185,"w":83,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":133,"w":83,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0008.png":
+{
+	"frame": {"x":1761,"y":185,"w":83,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":133,"w":83,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0009.png":
+{
+	"frame": {"x":1761,"y":185,"w":83,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":133,"w":83,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-stand0010.png":
+{
+	"frame": {"x":1761,"y":185,"w":83,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":133,"w":83,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle-up0001.png":
+{
+	"frame": {"x":87,"y":187,"w":133,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":88,"w":133,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle-up0002.png":
+{
+	"frame": {"x":87,"y":187,"w":133,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":88,"w":133,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle-up0003.png":
+{
+	"frame": {"x":87,"y":187,"w":133,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":88,"w":133,"h":137},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle-up0004.png":
+{
+	"frame": {"x":870,"y":2,"w":100,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":118,"w":100,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle-up0005.png":
+{
+	"frame": {"x":870,"y":2,"w":100,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":118,"w":100,"h":93},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0001.png":
+{
+	"frame": {"x":1789,"y":2,"w":89,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":133,"w":89,"h":89},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0002.png":
+{
+	"frame": {"x":825,"y":194,"w":99,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":130,"w":99,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0003.png":
+{
+	"frame": {"x":825,"y":194,"w":99,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":130,"w":99,"h":92},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0004.png":
+{
+	"frame": {"x":522,"y":245,"w":116,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":121,"w":116,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0005.png":
+{
+	"frame": {"x":522,"y":245,"w":116,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":121,"w":116,"h":101},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0006.png":
+{
+	"frame": {"x":298,"y":2,"w":128,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":98,"w":128,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0007.png":
+{
+	"frame": {"x":356,"y":139,"w":125,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":98,"w":125,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0008.png":
+{
+	"frame": {"x":222,"y":184,"w":132,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":101,"w":132,"h":135},
+	"sourceSize": {"w":240,"h":240}
+},
+"character-bmo-blue-tackle0009.png":
+{
+	"frame": {"x":222,"y":184,"w":132,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":101,"w":132,"h":135},
+	"sourceSize": {"w":240,"h":240}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bmo_blue.png",
+	"format": "RGBA8888",
+	"size": {"w":1964,"h":360},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5ba0b321223eaed14e547a1a10045cbf:672f213728aa363cb8c45cb31423142e:3ff86f4bd3af5dcef624eab647acc953$"
+}
+}

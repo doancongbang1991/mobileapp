@@ -1,0 +1,252 @@
+{"frames": {
+
+"big_blob.png":
+{
+	"frame": {"x":1190,"y":474,"w":169,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":168},
+	"sourceSize": {"w":169,"h":168}
+},
+"loociferATTACK0001.png":
+{
+	"frame": {"x":998,"y":474,"w":190,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":49,"w":190,"h":132},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferATTACK0002.png":
+{
+	"frame": {"x":998,"y":474,"w":190,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":49,"w":190,"h":132},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferATTACK0003.png":
+{
+	"frame": {"x":785,"y":627,"w":162,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":0,"w":162,"h":181},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferATTACK0004.png":
+{
+	"frame": {"x":785,"y":627,"w":162,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":0,"w":162,"h":181},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferHIT0001.png":
+{
+	"frame": {"x":620,"y":698,"w":163,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":49,"w":163,"h":132},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferHIT0002.png":
+{
+	"frame": {"x":620,"y":698,"w":163,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":49,"w":163,"h":132},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferHIT0003.png":
+{
+	"frame": {"x":2,"y":698,"w":236,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":236,"h":151},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferHIT0004.png":
+{
+	"frame": {"x":2,"y":698,"w":236,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":236,"h":151},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferHIT0005.png":
+{
+	"frame": {"x":240,"y":698,"w":195,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":48,"w":195,"h":133},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferHIT0006.png":
+{
+	"frame": {"x":240,"y":698,"w":195,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":48,"w":195,"h":133},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferHIT0007.png":
+{
+	"frame": {"x":760,"y":474,"w":236,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":236,"h":151},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferHIT0008.png":
+{
+	"frame": {"x":760,"y":474,"w":236,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":236,"h":151},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0001.png":
+{
+	"frame": {"x":1180,"y":644,"w":178,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":55,"w":178,"h":125},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0002.png":
+{
+	"frame": {"x":1180,"y":644,"w":178,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":55,"w":178,"h":125},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0003.png":
+{
+	"frame": {"x":949,"y":735,"w":178,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":56,"w":178,"h":124},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0004.png":
+{
+	"frame": {"x":949,"y":735,"w":178,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":56,"w":178,"h":124},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0005.png":
+{
+	"frame": {"x":998,"y":608,"w":180,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":55,"w":180,"h":125},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0006.png":
+{
+	"frame": {"x":998,"y":608,"w":180,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":55,"w":180,"h":125},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0007.png":
+{
+	"frame": {"x":437,"y":698,"w":181,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":54,"w":181,"h":126},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0008.png":
+{
+	"frame": {"x":437,"y":698,"w":181,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":54,"w":181,"h":126},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0009.png":
+{
+	"frame": {"x":998,"y":608,"w":180,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":55,"w":180,"h":125},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0010.png":
+{
+	"frame": {"x":998,"y":608,"w":180,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":55,"w":180,"h":125},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0011.png":
+{
+	"frame": {"x":949,"y":735,"w":178,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":56,"w":178,"h":124},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0012.png":
+{
+	"frame": {"x":949,"y":735,"w":178,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":56,"w":178,"h":124},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0013.png":
+{
+	"frame": {"x":1180,"y":644,"w":178,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":55,"w":178,"h":125},
+	"sourceSize": {"w":240,"h":181}
+},
+"loociferanim0014.png":
+{
+	"frame": {"x":1180,"y":644,"w":178,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":55,"w":178,"h":125},
+	"sourceSize": {"w":240,"h":181}
+},
+"mega_bowl.png":
+{
+	"frame": {"x":2,"y":2,"w":756,"h":694},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":756,"h":694},
+	"sourceSize": {"w":756,"h":694}
+},
+"mega_cistern.png":
+{
+	"frame": {"x":760,"y":2,"w":600,"h":470},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":470},
+	"sourceSize": {"w":600,"h":470}
+},
+"small_blob.png":
+{
+	"frame": {"x":949,"y":627,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":30}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "loocifer.png",
+	"format": "RGBA8888",
+	"size": {"w":1362,"h":861},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9ceda3ab3576d6cad3e758629b3651ea:a43f8e12f5bad794b2ce92aedd7730c2:96bf9a07c5045a283362cc2e1cf94a20$"
+}
+}

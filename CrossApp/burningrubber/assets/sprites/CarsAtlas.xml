@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="CarsAtlas.png">
+	<SubTexture name="CarArmouredTruckUp1.png" x="132" y="130" width="64" height="128"/>
+	<SubTexture name="CarCamaroUp1.png" x="264" y="130" width="64" height="128"/>
+	<SubTexture name="CarEvaderUp1.png" x="264" y="0" width="64" height="128"/>
+	<SubTexture name="CarHoundUp1.png" x="198" y="260" width="64" height="128"/>
+	<SubTexture name="CarMacariUp1.png" x="198" y="130" width="64" height="128"/>
+	<SubTexture name="CarPaniniUp1.png" x="198" y="0" width="64" height="128"/>
+	<SubTexture name="CarPetiteXsUp1.png" x="132" y="260" width="64" height="128"/>
+	<SubTexture name="CarPoliceUp1.png" x="264" y="260" width="64" height="128"/>
+	<SubTexture name="CarRebelUp1.png" x="132" y="0" width="64" height="128"/>
+	<SubTexture name="CarSharedShadow.png" x="66" y="260" width="64" height="128"/>
+	<SubTexture name="CarTaxiUp1.png" x="66" y="130" width="64" height="128"/>
+	<SubTexture name="CarTruckUp1.png" x="66" y="0" width="64" height="128"/>
+	<SubTexture name="CarTsunamiUp1.png" x="0" y="260" width="64" height="128"/>
+	<SubTexture name="CarViceUp1.png" x="0" y="130" width="64" height="128"/>
+	<SubTexture name="CarViperUp1.png" x="0" y="0" width="64" height="128"/>
+</TextureAtlas>

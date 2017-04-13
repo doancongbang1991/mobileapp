@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "global/btn_next",
+	"frame": {"x":793,"y":52,"w":77,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":79},
+	"sourceSize": {"w":77,"h":79}
+},
+{
+	"filename": "global/btn_pause",
+	"frame": {"x":529,"y":2,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+},
+{
+	"filename": "global/btn_play",
+	"frame": {"x":418,"y":2,"w":109,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":113},
+	"sourceSize": {"w":109,"h":113}
+},
+{
+	"filename": "global/btn_prev",
+	"frame": {"x":872,"y":52,"w":77,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":79},
+	"sourceSize": {"w":77,"h":79}
+},
+{
+	"filename": "global/btn_sound_off",
+	"frame": {"x":617,"y":2,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+},
+{
+	"filename": "global/btn_sound_on",
+	"frame": {"x":705,"y":2,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+},
+{
+	"filename": "global/loading_icon",
+	"frame": {"x":2,"y":2,"w":414,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":136},
+	"sourceSize": {"w":414,"h":136}
+},
+{
+	"filename": "global/loading_progress",
+	"frame": {"x":640,"y":93,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "global/pnl_coins",
+	"frame": {"x":529,"y":93,"w":109,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":44},
+	"sourceSize": {"w":109,"h":44}
+},
+{
+	"filename": "global/pnl_gems",
+	"frame": {"x":793,"y":2,"w":100,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":48},
+	"sourceSize": {"w":100,"h":48}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "global.png",
+	"format": "RGBA8888",
+	"size": {"w":951,"h":140},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:a60977b33ef6dbba188808841a16b59b:21e99ed79083d7c74256abe23c31e3ec:fbffe7067403b38fc9b9ab6e3d096eb5$"
+}
+}
