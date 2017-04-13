@@ -1,0 +1,111 @@
+{"frames": {
+
+"overlay.png":
+{
+	"frame": {"x":557,"y":2,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_01_gumball.png":
+{
+	"frame": {"x":557,"y":152,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_02_darwin.png":
+{
+	"frame": {"x":709,"y":2,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_03_anais.png":
+{
+	"frame": {"x":709,"y":152,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_04_penny.png":
+{
+	"frame": {"x":861,"y":2,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_05_carrie.png":
+{
+	"frame": {"x":861,"y":152,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_06_tobias.png":
+{
+	"frame": {"x":1013,"y":2,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_07_masami.png":
+{
+	"frame": {"x":1165,"y":2,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_08_leslie.png":
+{
+	"frame": {"x":1013,"y":152,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_bg.png":
+{
+	"frame": {"x":2,"y":2,"w":553,"h":390},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":553,"h":390},
+	"sourceSize": {"w":570,"h":396},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scratchcard_covered.png":
+{
+	"frame": {"x":1165,"y":152,"w":150,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":148},
+	"sourceSize": {"w":150,"h":148},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "scratch_assets.png",
+	"format": "RGBA8888",
+	"size": {"w":1317,"h":394},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ccd8a82a47d6c3396f7767e1807a84d9:ce54b49914265bc29046382a37dd514c:02dc361ad3eaa31e439890ac989b7453$"
+}
+}

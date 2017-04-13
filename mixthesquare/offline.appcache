@@ -1,0 +1,20 @@
+CACHE MANIFEST
+game.coffee
+game.js
+ggo13.sublime-project
+ggo13.sublime-workspace
+index.html
+jquery-2.0.3.min.js
+Makefile
+style.css
+style.less
+resources/bg.png
+resources/black_lozenge.png
+resources/diagmonds.png
+resources/grey.png
+resources/grey2.png
+resources/help-11.png
+resources/help-12.png
+resources/help-13.png
+NETWORK:
+*

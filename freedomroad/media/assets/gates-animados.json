@@ -1,0 +1,210 @@
+{"frames": {
+
+"gate-sombra-corrida0001.png":
+{
+	"frame": {"x":2,"y":2,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0002.png":
+{
+	"frame": {"x":2,"y":148,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0003.png":
+{
+	"frame": {"x":2,"y":294,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0004.png":
+{
+	"frame": {"x":2,"y":440,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0005.png":
+{
+	"frame": {"x":103,"y":2,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0006.png":
+{
+	"frame": {"x":204,"y":2,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0007.png":
+{
+	"frame": {"x":305,"y":2,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0008.png":
+{
+	"frame": {"x":406,"y":2,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0009.png":
+{
+	"frame": {"x":507,"y":2,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0010.png":
+{
+	"frame": {"x":103,"y":148,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-corrida0011.png":
+{
+	"frame": {"x":103,"y":294,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0001.png":
+{
+	"frame": {"x":103,"y":440,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0002.png":
+{
+	"frame": {"x":204,"y":148,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0003.png":
+{
+	"frame": {"x":204,"y":294,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0004.png":
+{
+	"frame": {"x":204,"y":440,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0005.png":
+{
+	"frame": {"x":305,"y":148,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0006.png":
+{
+	"frame": {"x":406,"y":148,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0007.png":
+{
+	"frame": {"x":507,"y":148,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0008.png":
+{
+	"frame": {"x":305,"y":294,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0009.png":
+{
+	"frame": {"x":305,"y":440,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0010.png":
+{
+	"frame": {"x":406,"y":294,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gate-sombra-normal0011.png":
+{
+	"frame": {"x":507,"y":294,"w":99,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":144},
+	"sourceSize": {"w":99,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gates-animados.png",
+	"format": "RGBA8888",
+	"size": {"w":608,"h":608},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4fee9c4c708bca099fd372fbf0f2ce7f:430228be0f62d1b5e2819130f9bd91c8:09e7ce13ea38934e682c25bb0075d5c1$"
+}
+}

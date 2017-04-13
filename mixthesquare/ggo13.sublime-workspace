@@ -1,0 +1,1568 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"update",
+				"updateTurnCounter"
+			],
+			[
+				"turns",
+				"turnsUsed"
+			],
+			[
+				"sq",
+				"squares"
+			],
+			[
+				"initi",
+				"initialX"
+			],
+			[
+				"square",
+				"squareCounts"
+			],
+			[
+				"ini",
+				"initialX"
+			],
+			[
+				"curre",
+				"currentColor"
+			],
+			[
+				"mixin",
+				"mixinBox"
+			],
+			[
+				"Level",
+				"LevelBackground"
+			],
+			[
+				"get_",
+				"get_object_or_404	function"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"Conta",
+				"ContactResource	class"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"Date",
+				"DateTimeField	class"
+			],
+			[
+				"control",
+				"controls_dialogs	import"
+			],
+			[
+				"prop",
+				"property	class"
+			],
+			[
+				"prox",
+				"proxy_path	function"
+			],
+			[
+				"so",
+				"source	param"
+			],
+			[
+				"pyth",
+				"wsgi_python"
+			],
+			[
+				"config",
+				"config_dir	statement"
+			],
+			[
+				"is_",
+				"is_bound_context	function"
+			],
+			[
+				"is_boun",
+				"is_bound_context"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"class",
+				"classname"
+			],
+			[
+				"exten",
+				"extentions"
+			],
+			[
+				"exte",
+				"extension_configs	statement"
+			],
+			[
+				"BaseEx",
+				"BaseExtension	import"
+			],
+			[
+				"default",
+				"default_config"
+			],
+			[
+				"pm",
+				"pm_max	statement"
+			],
+			[
+				"config_",
+				"config_file"
+			],
+			[
+				"__gene",
+				"__generate_website	function"
+			],
+			[
+				"TEMPL",
+				"TEMPLATE_CONFIG_FILE"
+			],
+			[
+				"config_f",
+				"config_file	statement"
+			],
+			[
+				"create",
+				"on_create_location"
+			],
+			[
+				"crate",
+				"create-location"
+			],
+			[
+				"cer",
+				"certificate_path	statement"
+			],
+			[
+				"certi",
+				"certificate_path"
+			],
+			[
+				"mess",
+				"message_template	statement"
+			],
+			[
+				"job",
+				"job_definitions	statement"
+			],
+			[
+				"Crontab",
+				"CrontabNormalTaskData	import"
+			],
+			[
+				"run-task",
+				"run-task-selector"
+			],
+			[
+				"compl",
+				"complete_tasks"
+			],
+			[
+				"task",
+				"task_id	statement"
+			],
+			[
+				"tas",
+				"task_definition"
+			],
+			[
+				"task_",
+				"task_definitions	statement"
+			],
+			[
+				"WSGI",
+				"WSGIHandler"
+			],
+			[
+				"socket",
+				"socket_path	statement"
+			],
+			[
+				"ws",
+				"WSGIServer	class"
+			],
+			[
+				"par",
+				"params_ui	statement"
+			],
+			[
+				"defa",
+				"default_params"
+			],
+			[
+				"_pr",
+				"_progress_max	statement"
+			],
+			[
+				"prog",
+				"progress_max"
+			],
+			[
+				"ge",
+				"getElementsByTagName"
+			],
+			[
+				"child",
+				"childNodes"
+			],
+			[
+				"chil",
+				"childContainer"
+			],
+			[
+				"location",
+				"__generate_website_location"
+			],
+			[
+				"Websi",
+				"WebsiteLocation	import"
+			],
+			[
+				"Locat",
+				"WebsiteLocation"
+			],
+			[
+				"Unicode",
+				"UnicodeDecodeError	class"
+			],
+			[
+				"DOMCache",
+				"DOMCache"
+			],
+			[
+				"plat",
+				"platform_select	import"
+			],
+			[
+				"Website",
+				"WebsiteDomain	class"
+			],
+			[
+				"VH",
+				"VHManager	class"
+			],
+			[
+				"Webs",
+				"WebsiteDomain"
+			],
+			[
+				"confi",
+				"config_vhost_root	statement"
+			],
+			[
+				"TEMPLATE_CONFIG_F",
+				"TEMPLATE_CONFIG_FCGI"
+			],
+			[
+				"__cl",
+				"__class__"
+			],
+			[
+				"sor",
+				"sorting_reverse"
+			],
+			[
+				"sort",
+				"sorting_reverse	statement"
+			],
+			[
+				"done",
+				"done_gls	statement"
+			],
+			[
+				"hosts",
+				"hosts_dir	statement"
+			],
+			[
+				"ava",
+				"hosts_available_dir"
+			],
+			[
+				"back",
+				"backup_path	statement"
+			],
+			[
+				"con",
+				"config_path	statement"
+			],
+			[
+				"bac",
+				"backup_path	statement"
+			],
+			[
+				"bind",
+				"bind_spec	statement"
+			],
+			[
+				"quota",
+				"quotas_present"
+			],
+			[
+				"snfs",
+				"snfs_present"
+			],
+			[
+				"quot",
+				"quotas_present	statement"
+			],
+			[
+				"chec",
+				"check_output	function"
+			],
+			[
+				"type",
+				"typeid	param"
+			],
+			[
+				"set",
+				"set_context	param"
+			],
+			[
+				"layout",
+				"layout_dir"
+			],
+			[
+				"hand",
+				"handle_exception	function"
+			],
+			[
+				"platform",
+				"platform_unmapped"
+			],
+			[
+				"proje",
+				"project_template"
+			],
+			[
+				"projec",
+				"project_path"
+			],
+			[
+				"install",
+				"install_package"
+			],
+			[
+				"Open",
+				"OpenVPNBackend"
+			],
+			[
+				"OpenV",
+				"OpenVPNClassConfigEditor"
+			],
+			[
+				"last_",
+				"last_time"
+			],
+			[
+				"catc",
+				"catcher_url"
+			],
+			[
+				"string",
+				"stringify_comment"
+			],
+			[
+				"strin",
+				"stringify_comment"
+			],
+			[
+				"excl",
+				"exclusion"
+			],
+			[
+				"curr",
+				"current_adapter"
+			],
+			[
+				"c",
+				"current_array"
+			],
+			[
+				"RAID",
+				"RAIDDevice"
+			],
+			[
+				"respond",
+				"respond_ok"
+			],
+			[
+				"label",
+				"label_style"
+			],
+			[
+				"edit",
+				"editor"
+			],
+			[
+				"BIN",
+				"BIND9Plugin"
+			],
+			[
+				"split",
+				"splitlines"
+			],
+			[
+				"token",
+				"token_comment"
+			],
+			[
+				"BIND",
+				"BIND9Includer"
+			],
+			[
+				"text",
+				"textbox"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"service",
+				"service_name"
+			],
+			[
+				"prope",
+				"properties"
+			],
+			[
+				"eve",
+				"event_args"
+			],
+			[
+				"inva",
+				"invalidated"
+			],
+			[
+				"reco",
+				"recovery_remaining"
+			],
+			[
+				"arra",
+				"arrays"
+			],
+			[
+				"proto",
+				"protocol_option"
+			],
+			[
+				"r",
+				"rule"
+			],
+			[
+				"pot",
+				"pot_path"
+			],
+			[
+				"po",
+				"po_path"
+			],
+			[
+				"ssl",
+				"ssl_tunnel"
+			],
+			[
+				"selec",
+				"selected_type"
+			],
+			[
+				"select",
+				"selectType"
+			],
+			[
+				"sele",
+				"selected_type"
+			],
+			[
+				"nav",
+				"nav_files"
+			],
+			[
+				"sea",
+				"searchResult"
+			],
+			[
+				"sear",
+				"search_files"
+			],
+			[
+				"action",
+				"action_queue"
+			],
+			[
+				"actio",
+				"action_queue"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"time",
+				"time_text"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3198,
+				"line_ending": "Unix",
+				"name": "<!DOCTYPE html>"
+			}
+		},
+		{
+			"file": "style.less",
+			"settings":
+			{
+				"buffer_size": 5230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "game.coffee",
+			"settings":
+			{
+				"buffer_size": 7499,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"selected_items":
+		[
+			[
+				"conso",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: List Packages"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: __magic__"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"schemr",
+				"Schemr: Monokai Bright"
+			],
+			[
+				"stere",
+				"Schemr: Stereokai"
+			],
+			[
+				"schem",
+				"Schemr: IDLE"
+			],
+			[
+				"sche",
+				"Schemr: Finder"
+			],
+			[
+				"solar",
+				"Schemr: Solarized (Dark)"
+			],
+			[
+				"schem sol",
+				"Schemr: Solarized (Light)"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eugeny/Dropbox/customizer/_customizer.coffee",
+		"/home/eugeny/Work/ggo13/index.htm",
+		"/home/eugeny/Work/contacts/static/crm/js/crm.coffee",
+		"/home/eugeny/Work/contacts/templates/main/base.html",
+		"/home/eugeny/Work/contacts/templates/main/index.html",
+		"/home/eugeny/Work/contacts/templates/main/partial/companies.html",
+		"/home/eugeny/Work/contacts/templates/main/partial/projects.html",
+		"/home/eugeny/Work/contacts/templates/main/partial/contact.html",
+		"/home/eugeny/Work/contacts/apps/main/api.py",
+		"/home/eugeny/Work/contacts/static/crm/js/app.coffee",
+		"/home/eugeny/Work/contacts/apps/main/urls.py",
+		"/home/eugeny/Work/contacts/apps/main/admin.py",
+		"/home/eugeny/Work/contacts/templates/main/partial/company.html",
+		"/home/eugeny/Work/contacts/apps/main/models.py",
+		"/home/eugeny/Work/contacts/deployment/nginx.conf",
+		"/home/eugeny/Work/contacts/fabfile.py",
+		"/home/eugeny/Work/contacts/config/environments/prod.py",
+		"/home/eugeny/Work/contacts/deployment/supervisor.conf",
+		"/home/eugeny/Work/contacts/templates/main/login.html",
+		"/home/eugeny/Work/contacts/REQUIREMENTS",
+		"/home/eugeny/Work/contacts/apps/main/views/auth.py",
+		"/home/eugeny/Work/contacts/config/environments/development.py",
+		"/home/eugeny/Work/contacts/templates/main/partial/home.html",
+		"/home/eugeny/Work/contacts/static/crm/css/crm.less",
+		"/home/eugeny/Work/contacts/static/crm/css/app.less",
+		"/home/eugeny/Work/contacts/mkstatic.sh",
+		"/home/eugeny/Work/contacts/add-migration.sh",
+		"/home/eugeny/Work/contacts/config/settings.py",
+		"/home/eugeny/Work/contacts/apps/main/views/main.py",
+		"/home/eugeny/Work/contacts/run.sh",
+		"/home/eugeny/Work/contacts/static/dash/js/app.coffee",
+		"/home/eugeny/Work/contacts/static/dash/js/crm.coffee",
+		"/home/eugeny/Work/contacts/static/CACHE/manifest.json",
+		"/home/eugeny/Work/contacts/static/dash/css/crm.less",
+		"/home/eugeny/Work/contacts/static/dash/css/dash.less",
+		"/home/eugeny/Work/contacts/templates/main/partial/dash-events.html",
+		"/home/eugeny/Work/contacts/config/urls.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/elements/proxyfs.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/elements/tasks.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/elements/layout/task-params-proxy.xml",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/tasks/main.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/tasks/manager.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/tasks/api.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/tasks/layout/main.xml",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/main/content/js/controls.containers.coffee",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/main/content/css/controls.standard.i.less",
+		"/home/eugeny/Work/ajenti-ng/compile_resources.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/main/content/css/main.less",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/dashboard/content/css/controls.dashboard.less",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/main.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/gate_proxy.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/gate_static.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-nginx/nginx.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-nginx/nginx_templates.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/api.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/core.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/fm/fm.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/sensors/uptime.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/packages/layout/installer.xml",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/packages/installer.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/plugins/layout/main.xml",
+		"/home/eugeny/Work/ajenti-ng/ajenti-panel",
+		"/home/eugeny/Work/ajenti-ng/docs/source/man/reverse-proxy.rst",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/tasks/tasks.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/elements/layout/video-main.xml",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/elements/video/main.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/elements/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/elements/content/js/player.coffee",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/elements/content/css/player.less",
+		"/home/eugeny/Work/ajenti-v/deb.sh",
+		"/home/eugeny/syncstudent/ooutils.py",
+		"/home/eugeny/syncstudent/ssconverter.py",
+		"/home/eugeny/syncstudent/Makefile",
+		"/home/eugeny/syncstudent/process.py",
+		"/home/eugeny/syncstudent/351003.csv",
+		"/home/eugeny/Dropbox/My/Like",
+		"/home/eugeny/syncstudent/result.csv",
+		"/home/eugeny/syncstudent/temp-350506.csv",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-nginx/package.desc",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/package.desc",
+		"/home/eugeny/Work/ajenti-ng/debian/control",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/layout/main-website.xml",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-unicorn/unicorn.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-unicorn/package.desc",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-php-fpm/package.desc",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-mysql/package.desc",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-nginx/__init__.py",
+		"/home/eugeny/syncstudent/merge.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/static.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-mysql/mysql.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-unicorn/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/appgate/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-php-fpm/phpfpm.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-php-fpm/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-gunicorn/gunicorn.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-gunicorn/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/reconfigure/items/supervisor.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/supervisor/main.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh-mysql/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/nginx_templates.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/nginx.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/webservers/nginx_templates.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/webservers/nginx.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/appgate/unicorn.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/layout/main-website-location.xml",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/appgate/phpfpm.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/appgate/gunicorn.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/appgate/static.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/wsgi/gunicorn.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/fcgi/phpfpm.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/wsgi/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/ui/binder.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/db_common/api.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/extensions/mysql.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/layout/ext-mysql.xml",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/mysql/api.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/db_common/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/mysql/main.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/psql/main.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/configurator/configurator.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/api/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/extensions/__init__.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/vh/extensions/base.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/ui/element.py",
+		"/home/eugeny/Work/ajenti-ng/ajenti/plugins/mysql/base.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/eugeny/Work/ajenti-ng/reconfigure/tests/configs",
+			"/home/eugeny/Work/ajenti-ng/reconfigure",
+			"/home/eugeny/Work/ajenti-ng/ajenti/plugins",
+			"/home/user/Work/dash/apps/main",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"right",
+			"left",
+			"}\n",
+			"left",
+			"h1",
+			"15px",
+			"0.5s",
+			"transi",
+			"' = ' ",
+			"setNeighbour",
+			"10",
+			"0.666",
+			"0.333",
+			"c",
+			"1s",
+			"0",
+			"333",
+			"transform",
+			"to",
+			"bottom",
+			"o",
+			"bottom",
+			"bounceball",
+			"2",
+			"shadow",
+			"5px",
+			": ",
+			"c",
+			"max",
+			"1",
+			"Hair",
+			"Toe",
+			"Lion",
+			"Teddy",
+			"BearSole",
+			"r",
+			"b",
+			"g",
+			"r",
+			"webkit",
+			"transition",
+			"gradient",
+			"0",
+			"640",
+			"a",
+			"Comment",
+			"Closed",
+			"Offer",
+			"Order",
+			"getContact",
+			"contact",
+			"Request",
+			"textarea",
+			"Company",
+			"company",
+			"Company",
+			"company",
+			"companies",
+			"company",
+			"Comment",
+			"comment",
+			"company",
+			"Companies",
+			"filterCompanies",
+			"Companies",
+			"button",
+			"contact",
+			"Contact",
+			"contact",
+			"Contact",
+			"contact",
+			"filterContacts",
+			"Contact",
+			"Comment",
+			"Contact",
+			"a",
+			"n",
+			"Contact",
+			"machine",
+			"Machine",
+			"div",
+			"dash",
+			"das",
+			"MachineGroup",
+			"listdir",
+			"vc",
+			"ltd",
+			"ltr",
+			"sys.path",
+			"destination",
+			"print",
+			"name",
+			"post_item_bi",
+			"{bind",
+			"extention_configs",
+			"extentions",
+			"MySQL",
+			"classcon",
+			"get_db",
+			"db",
+			"Database",
+			"classcon",
+			"vc",
+			"template",
+			"Dict",
+			"box",
+			"vc",
+			"i",
+			"Task",
+			"task",
+			"labels",
+			"job_definitions",
+			"WSGIHandler",
+			"handler",
+			"bind_spec[0]",
+			"schedule_",
+			"schedule_special",
+			"schedule",
+			"            '",
+			"task_definitions",
+			"uuid4",
+			"\n    ",
+			"task_definitions",
+			"Binder",
+			"task_descriptions",
+			"hide",
+			"dom",
+			"dropdo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Projects",
+			"$$(\"\"\"",
+			"$$",
+			"from base_test import BaseConfigTest",
+			"from base_test import BaseParserTest",
+			"from reconfigure.tests.parsers.base_test import BaseParserTest",
+			"<current context>",
+			"style=\"icon\"",
+			"",
+			"False",
+			"True",
+			"&",
+			"@image",
+			"list",
+			"'",
+			"",
+			"str, unicode",
+			"Economica",
+			"data:image/png;base64,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",
+			"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3046,
+								3046
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "<!DOCTYPE html>",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.less",
+					"settings":
+					{
+						"buffer_size": 5230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2022,
+								2022
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "game.coffee",
+					"settings":
+					{
+						"buffer_size": 7499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6868,
+								6868
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3120.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"crm.c",
+				"static/crm/js/crm.coffee"
+			],
+			[
+				"app.c",
+				"static/crm/js/app.coffee"
+			],
+			[
+				"compi",
+				"compile_resources.py"
+			],
+			[
+				"constainers.co",
+				"ajenti/plugins/main/content/js/controls.containers.coffee"
+			],
+			[
+				"ipc.p",
+				"ajenti/ipc.py"
+			],
+			[
+				"vhapi",
+				"ajenti/plugins/vh/api.py"
+			],
+			[
+				"debian",
+				"docs/source/man/install/debian.rst"
+			],
+			[
+				"mainhtml",
+				"ajenti/plugins/main/content/static/index.html"
+			],
+			[
+				"index.ht",
+				"docs/build/html/index.html"
+			],
+			[
+				"memor",
+				"ajenti/plugins/sensors/memory.py"
+			],
+			[
+				"mainmain",
+				"ajenti/plugins/main/main.py"
+			],
+			[
+				"standard",
+				"ajenti/plugins/main/content/css/controls.standard.i.less"
+			],
+			[
+				"standa",
+				"ajenti/plugins/main/content/js/controls.standard.coffee"
+			],
+			[
+				"controls.in",
+				"ajenti/plugins/main/content/js/controls.inputs.coffee"
+			],
+			[
+				"ajenticoff",
+				"ajenti/plugins/main/content/js/ajenti.coffee"
+			],
+			[
+				"dashbo",
+				"ajenti/plugins/dashboard/content/css/controls.dashboard.less"
+			],
+			[
+				"pylt",
+				"ajenti/plugins/ltfs/archive/pyLTFS/pyLTFS.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"aj",
+				"/home/eugeny/Work/ajenti-ng/ajenti.sublime-project"
+			],
+			[
+				"crm",
+				"/home/eugeny/Work/contacts/crm.sublime-project"
+			],
+			[
+				"aje",
+				"/home/eugeny/Work/ajenti-ng/ajenti.sublime-project"
+			],
+			[
+				"labs",
+				"/home/eugeny/Work/Labs/Labs.sublime-project"
+			],
+			[
+				"org",
+				"/home/eugeny/Work/ajenti.org/ajenti.org"
+			],
+			[
+				"ex",
+				"/home/eugeny/Work/exconsole/exconsole.sublime-project"
+			],
+			[
+				"atl",
+				"/home/eugeny/Work/atlasnet/atlasnet.sublime-project"
+			],
+			[
+				"atla",
+				"/home/eugeny/Work/atlasnet/atlasnet.sublime-project"
+			],
+			[
+				"",
+				"/home/eugeny/Work/ajenti.org/ajenti.org"
+			],
+			[
+				"cat",
+				"/home/eugeny/Work/catcher/catcher.sublime-project"
+			],
+			[
+				"insta",
+				"/home/eugeny/Work/instacode/instacode.sublime-project"
+			],
+			[
+				"ca",
+				"/home/eugeny/Work/catcher/catcher.sublime-project"
+			],
+			[
+				"catc",
+				"/home/eugeny/Work/catcher/catcher.sublime-project"
+			],
+			[
+				"rec",
+				"/home/eugeny/Work/reconfigure/reconfigure.sublime-project"
+			],
+			[
+				"wor",
+				"/home/eugeny/Work/timer/workr.sublime-project"
+			],
+			[
+				"tim",
+				"/home/eugeny/Work/ajenti-meta/ajenti-meta.sublime-project"
+			],
+			[
+				"time",
+				"/home/eugeny/Work/toys/toys.sublime-projcet"
+			],
+			[
+				"meta",
+				"/home/eugeny/Work/ajenti-meta/ajenti-meta.sublime-project"
+			],
+			[
+				"inst",
+				"/home/eugeny/Work/instacode/instacode.sublime-project"
+			],
+			[
+				"re",
+				"/home/eugeny/Work/reconfigure/reconfigure.sublime-project"
+			],
+			[
+				"toy",
+				"/home/eugeny/Work/toys/toys.sublime-projcet"
+			],
+			[
+				"Aje",
+				"/home/eugeny/Work/ajenti.org/ajenti.org"
+			],
+			[
+				"ce",
+				"/home/eugeny/Work/central-control/central-control.sublime-project"
+			],
+			[
+				"INS",
+				"/home/eugeny/Work/instacode/instacode.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,223 @@
+body {
+  font-family: 'Coda', sans-serif;
+  background: url('resources/diagmonds.png');
+  padding: 0 0 50px;
+  margin: 0;
+}
+.glossy-button {
+  box-sizing: border-box;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.25);
+  box-shadow: 0 15px 15px rgba(255, 255, 255, 0.5) inset;
+  -moz-transition: background-color 0.25s, -moz-transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  -webkit-transition: background-color 0.25s, -webkit-transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  transition: background-color 0.25s, transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  background-image: -moz-linear-gradient(-45deg, rgba(0, 0, 0, 0.125) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.125) 51%, rgba(255, 255, 255, 0.25) 100%);
+  /* Chrome10+,Safari5.1+ */
+
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.125) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.125) 51%, rgba(255, 255, 255, 0.25) 100%);
+  /* W3C */
+
+}
+.container {
+  margin: auto;
+  width: 1000px;
+  overflow: hidden;
+}
+#board {
+  width: 480px;
+  float: left;
+  padding: 5px;
+  margin: 5px 0 0;
+  border-radius: 20px;
+  background: url('resources/black_lozenge.png') repeat;
+  overflow: hidden;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5) inset, 0 -1px 1px rgba(255, 255, 255, 0.125) inset, 0 0 5px #000000;
+}
+#board .square {
+  float: left;
+  background-color: orange;
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  margin: 5px;
+  box-sizing: border-box;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.25);
+  box-shadow: 0 15px 15px rgba(255, 255, 255, 0.5) inset;
+  -moz-transition: background-color 0.25s, -moz-transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  -webkit-transition: background-color 0.25s, -webkit-transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  transition: background-color 0.25s, transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  background-image: -moz-linear-gradient(-45deg, rgba(0, 0, 0, 0.125) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.125) 51%, rgba(255, 255, 255, 0.25) 100%);
+  /* Chrome10+,Safari5.1+ */
+
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.125) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.125) 51%, rgba(255, 255, 255, 0.25) 100%);
+  /* W3C */
+
+}
+#board .square.pulse {
+  box-shadow: 0 0 15px;
+}
+#board .square.hide {
+  transform: scale(0, 0);
+  -moz-transform: scale(0, 0);
+  -webkit-transform: scale(0, 0);
+}
+#board .newline {
+  clear: both;
+}
+.counter {
+  float: left;
+  overflow: hidden;
+  padding: 200px 40px 5px 0;
+  width: 200px;
+  color: white;
+}
+.counter .spinner {
+  font-size: 72px;
+  float: right;
+}
+.counter .label {
+  float: right;
+  font-size: 24px;
+  padding: 14px 10px 0;
+  line-height: 20px;
+  text-align: right;
+}
+.counter.right {
+  padding: 200px 0 5px 40px;
+}
+.counter.right .spinner {
+  float: left;
+}
+.counter.right .label {
+  float: left;
+  text-align: left;
+}
+#controls {
+  background: url('resources/grey.png');
+  box-shadow: 0 0 5px black;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+#credits {
+  text-align: center;
+  color: #ccc;
+  font-size: 16px;
+}
+#credits a {
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+#mixins {
+  padding: 10px;
+  text-align: center;
+}
+#mixins *:first-child {
+  border-radius: 5px 0 0 5px;
+}
+#mixins *:last-child {
+  border-radius: 0 5px 5px 0;
+}
+.mixin {
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.25);
+  box-shadow: 0 15px 15px rgba(255, 255, 255, 0.5) inset;
+  -moz-transition: background-color 0.25s, -moz-transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  -webkit-transition: background-color 0.25s, -webkit-transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  transition: background-color 0.25s, transform 0.25s, box-shadow 0.25s, padding 0.25s;
+  background-image: -moz-linear-gradient(-45deg, rgba(0, 0, 0, 0.125) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.125) 51%, rgba(255, 255, 255, 0.25) 100%);
+  /* Chrome10+,Safari5.1+ */
+
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.125) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.125) 51%, rgba(255, 255, 255, 0.25) 100%);
+  /* W3C */
+
+  width: 60px;
+  height: 40px;
+  padding: 12px 24px;
+  font-size: 60px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.5);
+  transform: scale(1, 1);
+  -moz-transform: scale(1, 1);
+  -webkit-transform: scale(1, 1);
+}
+.mixin:hover {
+  box-shadow: 0 15px 25px #ffffff inset, 0 5px 5px rgba(0, 0, 0, 0) inset;
+}
+.mixin:active {
+  box-shadow: 0 15px 25px rgba(255, 255, 255, 0) inset, 0 5px 5px rgba(0, 0, 0, 0.25) inset;
+  padding: 18px 24px 14px;
+}
+.modal {
+  position: fixed;
+  left: 50%;
+  top: 0;
+  width: 500px;
+  margin: 50px 0 0 -300px;
+  padding: 20px 50px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 50px black, 0 0 300px black;
+}
+#help .illustration {
+  font-size: 100px;
+  vertical-align: middle;
+  padding: 0;
+  margin: 0;
+}
+#help .illustration img {
+  width: 100px;
+  border-radius: 10px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+}
+.pulse {
+  -webkit-animation-name: pulse;
+  -webkit-animation-duration: 0.5s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  -webkit-animation-delay: 0;
+  -webkit-animation-play-state: running;
+  -webkit-animation-fill-mode: none;
+  -moz-animation-name: pulse;
+  -moz-animation-duration: 0.5s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-direction: alternate;
+  -moz-animation-delay: 0;
+  -moz-animation-play-state: running;
+  -moz-animation-fill-mode: none;
+  animation-name: pulse;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-delay: 0;
+  animation-play-state: running;
+  animation-fill-mode: none;
+}
+@-webkit-keyframes pulse {
+  from {
+    -webkit-transform: scale(1, 1);
+  }
+  to {
+    -webkit-transform: scale(1.1, 1.1);
+  }
+}
+@-moz-keyframes pulse {
+  from {
+    -moz-transform: scale(1, 1);
+  }
+  to {
+    -moz-transform: scale(1.1, 1.1);
+  }
+}
+@keyframes pulse {
+  from {
+    transform: scale(1, 1);
+  }
+  to {
+    transform: scale(1.1, 1.1);
+  }
+}

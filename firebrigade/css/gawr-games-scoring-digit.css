@@ -1,0 +1,87 @@
+﻿.sprite[data-type="digit-h"], .sprite[data-type="digit-v"], .sprite[data-type="digit-s"] { 
+	background-size: cover;
+}
+.sprite[data-type="digit-h"] { 
+	background-image: url("../img/black/digital-number-h.png");
+	height: 4px;
+	width: 18px;
+}
+.sprite[data-type="digit-v"] { 
+	background-image: url("../img/black/digital-number-v.png");
+	height: 18px;
+	width: 4px;
+}
+.sprite[data-type="digit-s"] { 
+	background-image: url("../img/black/digital-separator.png");
+	height: 36px;
+	width: 4px;
+}
+
+.sprite[data-position="101"], .sprite[data-position="102"], .sprite[data-position="103"] { 
+	right: 6px;
+}
+.sprite[data-position="201"], .sprite[data-position="202"], .sprite[data-position="203"] { 
+	right: 42px;
+}
+.sprite[data-position="301"], .sprite[data-position="302"], .sprite[data-position="303"] { 
+	right: 92px;
+}
+.sprite[data-position="401"], .sprite[data-position="402"], .sprite[data-position="403"] { 
+	right: 128px;
+}
+
+.sprite[data-position="101"], .sprite[data-position="201"], .sprite[data-position="301"], .sprite[data-position="401"] { 
+	top: 2px;
+}
+.sprite[data-position="102"], .sprite[data-position="202"], .sprite[data-position="302"], .sprite[data-position="402"] { 
+	top: 24px;
+}
+.sprite[data-position="103"], .sprite[data-position="203"], .sprite[data-position="303"], .sprite[data-position="403"] { 
+	top: 46px;
+}
+
+.sprite[data-position="104"], .sprite[data-position="105"], 
+.sprite[data-position="204"], .sprite[data-position="205"], 
+.sprite[data-position="304"], .sprite[data-position="305"], 
+.sprite[data-position="404"], .sprite[data-position="405"] {
+	top: 6px;
+}
+.sprite[data-position="106"], .sprite[data-position="107"], 
+.sprite[data-position="206"], .sprite[data-position="207"], 
+.sprite[data-position="306"], .sprite[data-position="307"], 
+.sprite[data-position="406"], .sprite[data-position="407"] {
+	top: 28px;
+}
+
+.sprite[data-position="104"], .sprite[data-position="106"] { 
+	right: 2px;
+}
+.sprite[data-position="105"], .sprite[data-position="107"] { 
+	right: 24px;
+}
+
+.sprite[data-position="204"], .sprite[data-position="206"] { 
+	right: 38px;
+}
+.sprite[data-position="205"], .sprite[data-position="207"] { 
+	right: 60px;
+}
+
+.sprite[data-position="304"], .sprite[data-position="306"] { 
+	right: 88px;
+}
+.sprite[data-position="305"], .sprite[data-position="307"] { 
+	right: 110px;
+}
+
+.sprite[data-position="404"], .sprite[data-position="406"] { 
+	right: 124px;
+}
+.sprite[data-position="405"], .sprite[data-position="407"] { 
+	right: 146px;
+}
+
+.sprite[data-position="300"] { 
+	top: 10px;
+	right: 72px;
+}

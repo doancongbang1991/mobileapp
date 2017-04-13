@@ -1,0 +1,228 @@
+{"frames": {
+
+"GB_CHAnim_Darwin_Walk_Final_0020001.png":
+{
+	"frame": {"x":283,"y":304,"w":123,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":19,"w":123,"h":131},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020002.png":
+{
+	"frame": {"x":408,"y":304,"w":120,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":19,"w":120,"h":131},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020003.png":
+{
+	"frame": {"x":661,"y":300,"w":121,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":15,"w":121,"h":135},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020004.png":
+{
+	"frame": {"x":296,"y":2,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":2,"w":147,"h":148},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020005.png":
+{
+	"frame": {"x":2,"y":2,"w":149,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":149,"h":150},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020006.png":
+{
+	"frame": {"x":2,"y":2,"w":149,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":149,"h":150},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020007.png":
+{
+	"frame": {"x":143,"y":154,"w":138,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":138,"h":150},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020008.png":
+{
+	"frame": {"x":2,"y":154,"w":139,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":139,"h":150},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020009.png":
+{
+	"frame": {"x":153,"y":2,"w":141,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":1,"w":141,"h":149},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020010.png":
+{
+	"frame": {"x":283,"y":153,"w":141,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":1,"w":141,"h":149},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020011.png":
+{
+	"frame": {"x":583,"y":2,"w":130,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":130,"h":147},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020012.png":
+{
+	"frame": {"x":530,"y":301,"w":129,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":12,"w":129,"h":135},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020013.png":
+{
+	"frame": {"x":2,"y":306,"w":123,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":19,"w":123,"h":129},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020014.png":
+{
+	"frame": {"x":127,"y":306,"w":120,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":19,"w":120,"h":129},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020015.png":
+{
+	"frame": {"x":841,"y":151,"w":144,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":2,"w":144,"h":145},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020016.png":
+{
+	"frame": {"x":426,"y":152,"w":146,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":146,"h":147},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020017.png":
+{
+	"frame": {"x":426,"y":152,"w":146,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":146,"h":147},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020018.png":
+{
+	"frame": {"x":574,"y":151,"w":135,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":135,"h":147},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020019.png":
+{
+	"frame": {"x":445,"y":2,"w":136,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":136,"h":147},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020021.png":
+{
+	"frame": {"x":711,"y":151,"w":128,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":1,"w":128,"h":147},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020022.png":
+{
+	"frame": {"x":715,"y":2,"w":128,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":1,"w":128,"h":147},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020023.png":
+{
+	"frame": {"x":845,"y":2,"w":122,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":3,"w":122,"h":147},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"GB_CHAnim_Darwin_Walk_Final_0020024.png":
+{
+	"frame": {"x":841,"y":298,"w":122,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":122,"h":138},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"darwin_idle.png":
+{
+	"frame": {"x":127,"y":306,"w":120,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":19,"w":120,"h":129},
+	"sourceSize": {"w":178,"h":184},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "darwin.png",
+	"format": "RGBA8888",
+	"size": {"w":987,"h":438},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b290e19fa6af71d5db9c5265ec57d5b3:3b35993b0f97cf07f8bf5e1a52f18a6f:d06e4223d2a6cbd9d9b47fee827848f3$"
+}
+}

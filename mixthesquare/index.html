@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html manifest="offline.appcache"> 
+    <head>
+        <title>A Game of CMYK</title>
+
+        <!-- jQ -->
+        <script type="text/javascript" src="jquery-2.0.3.min.js"></script>
+
+        <link rel="stylesheet" href="style.css" type="text/css" />
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Coda' rel='stylesheet' type='text/css'>
+        <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/fontawesome/4.0.3/css/font-awesome.min.css" />
+
+        <!-- Odometer -->
+        <script type="text/javascript" src="//cdn.jsdelivr.net/odometer/0.3.6/odometer.min.js"></script>
+        <link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/odometer/0.3.6/themes/odometer-theme-default.css" />
+
+        <script type="text/javascript" src="game.js"></script>
+		<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+		<meta name="viewport" content="user-scalable=no" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="apple-touch-icon" sizes="256x256" href="resources/help-11.png" />
+		<meta name="HandheldFriendly" content="true" />
+		
+		<!-- Chrome for Android web app tags -->
+		<meta name="mobile-web-app-capable" content="yes" />
+		<link rel="shortcut icon" sizes="256x256" href="resources/help-11.png" />
+
+		
+    </head>
+
+    <body>
+        <div style="font-family: 'Press Start 2P'"></div>
+        <div style="font-family: 'VT323'"></div>
+
+        <div class="container">
+            <div class="counter" id="turn-counter">
+                <div class="spinner odometer">
+                    0
+                </div>
+                <div class="label">
+                    turns<br/>left
+                </div>
+            </div>
+
+            <div id="board">
+                <div class="square pulse">
+                </div>
+            </div>
+
+            <div class="counter right" id="progress">
+                <div class="spinner odometer">
+                    0
+                </div>
+                <div class="label">
+                    %<br/>done
+                </div>
+            </div>
+        </div>
+
+        
+
+        <div id="controls">
+            <div id="mixins">
+            </div>
+        </div>
+
+        <div class="modal" id="help">
+            <h1>A Game of  TM Team</h1>
+            <h2>How to play</h2>
+
+            <p>Click the color buttons to add color to active blocks.</p>
+            <p class="illustration">
+                <img src="resources/help-11.png">
+                +
+                <img src="resources/help-12.png">
+                =
+                <img src="resources/help-13.png">
+            </p>
+
+            <p>Click the white button to reset the color of active blocks.</p>
+
+            <p>Match all the colors within the given number of turns!</p>
+        </div>
+
+        <div class="modal" id="dialog-lost" style="display:none">
+            <h1>You have lost</h1>
+            <i class="fa fa-refresh"></i> <a href="#" class="retry">Try again?</a>
+        </div>
+
+        <div class="modal" id="dialog-won" style="display:none">
+            <h1>You have won!</h1>
+            <i class="fa fa-twitter"></i> <a href="https://twitter.com/share?url=http://Www.taiminh.com/mixthesquare/&text=I have beat the Game !">Tweet this!</a>
+            <br/>
+            <i class="fa fa-refresh"></i> <a href="#" class="retry">Try again?</a>
+        </div>
+
+
+
+    </body>
+</html>

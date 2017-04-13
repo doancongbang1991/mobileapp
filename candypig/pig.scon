@@ -1,0 +1,932 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"gline": [],
+					"id": 0,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -59,
+										"abs_y": -119,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "1",
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -54.03225806451614,
+										"abs_y": -88.51612903225808,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "3",
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 14.516129032258057,
+										"abs_y": -86.09677419354838,
+										"file": 2,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "4",
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -20.967741935483872,
+										"abs_y": -63.51612903225808,
+										"file": 3,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "2",
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -31.31578947368419,
+										"abs_y": -79.30701754385963,
+										"file": 4,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "5",
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 360,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": 35.16425120772948,
+										"abs_y": -77.7584541062802,
+										"file": 5,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "6",
+										"timeline": "5",
+										"z_index": "5"
+									}
+								]
+							},
+							{
+								"bone_ref": [],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 152
+							},
+							{
+								"bone_ref": [],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 200
+							},
+							{
+								"bone_ref": [],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 3,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 3,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 340
+							},
+							{
+								"bone_ref": [],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 4,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 4,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 500
+							},
+							{
+								"bone_ref": [],
+								"id": 5,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 4,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 4,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 540
+							},
+							{
+								"bone_ref": [],
+								"id": 6,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 5,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 5,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 700
+							},
+							{
+								"bone_ref": [],
+								"id": 7,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 6,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 6,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 900
+							},
+							{
+								"bone_ref": [],
+								"id": 8,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 6,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 6,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 1000
+							}
+						]
+					},
+					"name": "idle",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 0,
+										"folder": 0,
+										"x": -59,
+										"y": 119
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"file": 0,
+										"folder": 0,
+										"scale_x": 1.0294583465315172,
+										"scale_y": 1.0464741869700547,
+										"x": -59.87488121634463,
+										"y": 125.45078888054093
+									},
+									"spin": 0,
+									"time": 340
+								}
+							],
+							"name": "1",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 1,
+										"folder": 0,
+										"x": -54.03225806451614,
+										"y": 88.51612903225808
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"file": 1,
+										"folder": 0,
+										"scale_y": 0.8680555555555556,
+										"x": -54.03225806451614,
+										"y": 87.89930555555557
+									},
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"id": 2,
+									"object": {
+										"file": 1,
+										"folder": 0,
+										"scale_y": 0.6442797143486455,
+										"x": -54.03225806451614,
+										"y": 75.65551377411059
+									},
+									"spin": 0,
+									"time": 340
+								}
+							],
+							"name": "3",
+							"obj": 1
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 2,
+										"folder": 0,
+										"x": 14.516129032258057,
+										"y": 86.09677419354838
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"file": 2,
+										"folder": 0,
+										"scale_y": 0.8807464547296249,
+										"x": 14.516129032258057,
+										"y": 80.67073788374631
+									},
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"id": 2,
+									"object": {
+										"file": 2,
+										"folder": 0,
+										"scale_y": 0.6671187218308916,
+										"x": 14.516129032258057,
+										"y": 73.40945739886108
+									},
+									"spin": 0,
+									"time": 340
+								}
+							],
+							"name": "4",
+							"obj": 2
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 3,
+										"folder": 0,
+										"x": -20.967741935483872,
+										"y": 63.51612903225808
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"file": 3,
+										"folder": 0,
+										"x": -20.967741935483872,
+										"y": 62.51612903225808
+									},
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"id": 2,
+									"object": {
+										"file": 3,
+										"folder": 0,
+										"x": -20.967741935483872,
+										"y": 66.80184331797236
+									},
+									"spin": 0,
+									"time": 340
+								},
+								{
+									"id": 3,
+									"object": {
+										"file": 3,
+										"folder": 0,
+										"x": -20.967741935483872,
+										"y": 63.806172322301364
+									},
+									"spin": 0,
+									"time": 540
+								}
+							],
+							"name": "2",
+							"obj": 3
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 4,
+										"folder": 0,
+										"x": -31.31578947368419,
+										"y": 79.30701754385963
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"file": 4,
+										"folder": 0,
+										"x": -43.64101143323239,
+										"y": 77.74301045166106
+									},
+									"spin": 0,
+									"time": 152
+								},
+								{
+									"id": 2,
+									"object": {
+										"file": 4,
+										"folder": 0,
+										"x": -41.03546099290778,
+										"y": 77.24911347517732
+									},
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"id": 3,
+									"object": {
+										"file": 4,
+										"folder": 0,
+										"scale_y": 0.6944299385127012,
+										"x": -45.33723121798725,
+										"y": 59.1569172621486
+									},
+									"spin": 0,
+									"time": 340
+								},
+								{
+									"id": 4,
+									"object": {
+										"file": 4,
+										"folder": 0,
+										"x": -33.48719363899157,
+										"y": 64.49274529094424
+									},
+									"spin": 0,
+									"time": 500
+								},
+								{
+									"id": 5,
+									"object": {
+										"file": 4,
+										"folder": 0,
+										"x": -43.9423812540647,
+										"y": 79.93139266249568
+									},
+									"spin": 0,
+									"time": 700
+								},
+								{
+									"id": 6,
+									"object": {
+										"file": 4,
+										"folder": 0,
+										"x": -35.083403640079,
+										"y": 78.67749642660989
+									},
+									"spin": 0,
+									"time": 900
+								}
+							],
+							"name": "5",
+							"obj": 4
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"file": 5,
+										"folder": 0,
+										"x": 35.16425120772948,
+										"y": 77.7584541062802
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"file": 5,
+										"folder": 0,
+										"x": 25.44032160436725,
+										"y": 72.74648273774855
+									},
+									"spin": 0,
+									"time": 152
+								},
+								{
+									"id": 2,
+									"object": {
+										"file": 5,
+										"folder": 0,
+										"x": 22.14218658992018,
+										"y": 72.20339106451502
+									},
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"id": 3,
+									"object": {
+										"file": 5,
+										"folder": 0,
+										"scale_y": 0.7444830013964949,
+										"x": 27.382533319628607,
+										"y": 58.305444449714976
+									},
+									"spin": 0,
+									"time": 340
+								},
+								{
+									"id": 4,
+									"object": {
+										"file": 5,
+										"folder": 0,
+										"x": 36.05913384020076,
+										"y": 65.67612783216904
+									},
+									"spin": 0,
+									"time": 500
+								},
+								{
+									"id": 5,
+									"object": {
+										"file": 5,
+										"folder": 0,
+										"x": 34.437235991352566,
+										"y": 67.9414907742459
+									},
+									"spin": 0,
+									"time": 700
+								},
+								{
+									"id": 6,
+									"object": {
+										"file": 5,
+										"folder": 0,
+										"x": 32.34322773422373,
+										"y": 77.00865551812463
+									},
+									"spin": 0,
+									"time": 900
+								}
+							],
+							"name": "6",
+							"obj": 5
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "pig",
+			"obj_info": [
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "pig_1",
+					"realname": "1",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "pig_3",
+					"realname": "3",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 2,
+							"folder": 0
+						}
+					],
+					"name": "pig_4",
+					"realname": "4",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 3,
+							"folder": 0
+						}
+					],
+					"name": "pig_2",
+					"realname": "2",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 4,
+							"folder": 0
+						}
+					],
+					"name": "pig_5",
+					"realname": "5",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 5,
+							"folder": 0
+						}
+					],
+					"name": "pig_6",
+					"realname": "6",
+					"type": "sprite"
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 120,
+					"id": 0,
+					"name": "1.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 122
+				},
+				{
+					"height": 47,
+					"id": 1,
+					"name": "3.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 44
+				},
+				{
+					"height": 45,
+					"id": 2,
+					"name": "4.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 43
+				},
+				{
+					"height": 54,
+					"id": 3,
+					"name": "2.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 50
+				},
+				{
+					"height": 12,
+					"id": 4,
+					"name": "5.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 12
+				},
+				{
+					"height": 12,
+					"id": 5,
+					"name": "6.png",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 12
+				}
+			],
+			"id": 0
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r5",
+	"scon_version": "1.0"
+}

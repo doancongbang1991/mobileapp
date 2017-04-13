@@ -1,0 +1,460 @@
+gameSprites_Lowest.png
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+background
+  rotate: false
+  xy: 0, 199
+  size: 570, 320
+  orig: 570, 320
+  offset: 0, 0
+  index: -1
+textHowtoPlay
+  rotate: false
+  xy: 572, 259
+  size: 403, 260
+  orig: 403, 260
+  offset: 0, 0
+  index: -1
+textTimeUp
+  rotate: false
+  xy: 0, 116
+  size: 332, 81
+  orig: 332, 81
+  offset: 0, 0
+  index: -1
+publisherSplash
+  rotate: false
+  xy: 0, 14
+  size: 307, 100
+  orig: 307, 100
+  offset: 0, 0
+  index: -1
+gameLogo
+  rotate: false
+  xy: 334, 72
+  size: 239, 125
+  orig: 239, 125
+  offset: 0, 0
+  index: -1
+textHighscore
+  rotate: false
+  xy: 572, 219
+  size: 245, 38
+  orig: 245, 38
+  offset: 0, 0
+  index: -1
+textFishesCaught
+  rotate: false
+  xy: 575, 179
+  size: 220, 38
+  orig: 220, 38
+  offset: 0, 0
+  index: -1
+buttonMoreGames
+  rotate: false
+  xy: 575, 128
+  size: 194, 49
+  orig: 194, 49
+  offset: 0, 0
+  index: -1
+buttonMoreGamesSelected
+  rotate: false
+  xy: 575, 77
+  size: 194, 49
+  orig: 194, 49
+  offset: 0, 0
+  index: -1
+buttonStart
+  rotate: false
+  xy: 309, 21
+  size: 194, 49
+  orig: 194, 49
+  offset: 0, 0
+  index: -1
+textTotalscore
+  rotate: false
+  xy: 977, 481
+  size: 180, 38
+  orig: 180, 38
+  offset: 0, 0
+  index: -1
+buttonStartSelected
+  rotate: false
+  xy: 575, 26
+  size: 194, 49
+  orig: 194, 49
+  offset: 0, 0
+  index: -1
+infoTime
+  rotate: false
+  xy: 977, 436
+  size: 127, 43
+  orig: 127, 43
+  offset: 0, 0
+  index: -1
+developerLogo
+  rotate: false
+  xy: 819, 224
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+infoScore
+  rotate: false
+  xy: 977, 391
+  size: 119, 43
+  orig: 119, 43
+  offset: 0, 0
+  index: -1
+infoAmmo
+  rotate: false
+  xy: 977, 346
+  size: 118, 43
+  orig: 118, 43
+  offset: 0, 0
+  index: -1
+fishBackground
+  rotate: false
+  xy: 977, 307
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1
+highscoreInfo
+  rotate: false
+  xy: 977, 259
+  size: 91, 46
+  orig: 91, 46
+  offset: 0, 0
+  index: -1
+publisherLogo
+  rotate: false
+  xy: 951, 225
+  size: 101, 32
+  orig: 101, 32
+  offset: 0, 0
+  index: -1
+fishNet
+  rotate: false
+  xy: 505, 5
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+fish3
+  rotate: false
+  xy: 572, 0
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+bigButtonBack
+  rotate: false
+  xy: 1106, 422
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+cannon
+  rotate: false
+  xy: 1098, 385
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+preloaderPlay
+  rotate: false
+  xy: 1097, 348
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+bigButtonBackSelected
+  rotate: false
+  xy: 771, 120
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+bigButtonMute
+  rotate: false
+  xy: 771, 61
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+bigButtonMuteSelected
+  rotate: false
+  xy: 771, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+coin10
+  rotate: false
+  xy: 819, 196
+  size: 67, 26
+  orig: 67, 26
+  offset: 0, 0
+  index: -1
+bigButtonPlay
+  rotate: false
+  xy: 830, 137
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+bigButtonPlaySelected
+  rotate: false
+  xy: 830, 78
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+bigButtonUnmute
+  rotate: false
+  xy: 830, 19
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 888, 196
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+bigButtonUnmuteSelected
+  rotate: false
+  xy: 889, 137
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+buttonBack
+  rotate: false
+  xy: 889, 86
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+buttonBackSelected
+  rotate: false
+  xy: 889, 35
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+fish7
+  rotate: false
+  xy: 889, 0
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+preloaderPlaySelected
+  rotate: false
+  xy: 952, 188
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+buttonMute
+  rotate: false
+  xy: 948, 137
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+buttonMuteSelected
+  rotate: false
+  xy: 940, 86
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+buttonPause
+  rotate: false
+  xy: 940, 35
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+coin7
+  rotate: false
+  xy: 935, 6
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+buttonPauseSelected
+  rotate: false
+  xy: 1070, 256
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+buttonPlay
+  rotate: false
+  xy: 1121, 297
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+buttonPlaySelected
+  rotate: false
+  xy: 1121, 246
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+coin9
+  rotate: false
+  xy: 1054, 228
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+buttonUnmute
+  rotate: false
+  xy: 1121, 195
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+buttonUnmuteSelected
+  rotate: false
+  xy: 999, 137
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+fish9
+  rotate: false
+  xy: 991, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 991, 41
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+fish6
+  rotate: false
+  xy: 1021, 194
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 1059, 200
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: false
+  xy: 998, 12
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 1059, 172
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+coin8
+  rotate: false
+  xy: 1050, 144
+  size: 67, 26
+  orig: 67, 26
+  offset: 0, 0
+  index: -1
+fish10
+  rotate: false
+  xy: 1119, 145
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 1050, 116
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 1039, 88
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+fish8
+  rotate: false
+  xy: 1037, 45
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+fish5
+  rotate: false
+  xy: 613, 1
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 649, 6
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+fish4
+  rotate: false
+  xy: 1053, 17
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+fish1
+  rotate: false
+  xy: 682, 8
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 1104, 117
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+bubble1
+  rotate: false
+  xy: 0, 0
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 309, 96
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+  

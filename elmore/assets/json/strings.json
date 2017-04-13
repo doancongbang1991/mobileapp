@@ -1,0 +1,31 @@
+{
+  "strings": {
+    
+    "STR_HOWTOPLAY_1":"Click and hold to build a bridge over the gap",
+    "STR_HOWTOPLAY_1_MOBILE":"Press and hold to build a bridge over the gap",
+    "STR_HOWTOPLAY_2":"Aim for the sweet spot to create some awesome combos!",
+    "STR_HOWTOPLAY_3":"Get as far as you can to escape class!",
+    "STR_BEST":"BEST:",
+    "STR_PAUSED":"PAUSED",
+    "STR_UNLOCKED":"UNLOCKED!",
+    "STR_HOW_TO_PLAY":"HOW TO PLAY",
+    "STR_SELECT_A":"SELECT A",
+    "STR_CHARACTER":"CHARACTER",
+
+    "STR_POWERUP_FOCUS_GLASSES":"FOCUS GLASSES!",
+    "STR_POWERUP_SCRATCHCARD":"SCRATCHCARD!",
+    
+    "STR_POWERUP_VCR":"VCR!",
+    "STR_POWERUP_BONUS":"BONUS MODE!",
+
+    "STR_GUMBALL":"Gumball",
+    "STR_DARWIN":"Darwin",
+    "STR_ANAIS":"Anais",
+    "STR_CARRIE":"Carrie",
+    "STR_LESLIE":"Leslie",
+    "STR_MASAMI":"Masami",
+    "STR_PENNY":"Penny",
+    "STR_TOBIAS":"Tobias"
+
+  }
+}

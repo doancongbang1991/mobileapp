@@ -1,0 +1,17 @@
+{
+  "name": "Game And Watch Remaster - Pancakes",
+  "description": "Play Game And Watch Remaster with Pancakes built in HTML5",
+  "version": "1.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "app": {
+    "urls": [
+      "https://75fa865ebbd56715de52178effa8d0f4dacae437-www.googledrive.com/host/0B4HFlS9vdbwFfjRHWWFhejk4VExxLWIyNm04RElNaEJtSTFKT04wQmhxcHRfRW1sLWVkQUk/"
+    ],
+    "launch": {
+      "web_url": "https://75fa865ebbd56715de52178effa8d0f4dacae437-www.googledrive.com/host/0B4HFlS9vdbwFfjRHWWFhejk4VExxLWIyNm04RElNaEJtSTFKT04wQmhxcHRfRW1sLWVkQUk/"
+    }
+  }
+}

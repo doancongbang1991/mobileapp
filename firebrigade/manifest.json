@@ -1,0 +1,17 @@
+{
+  "name": "Game And Watch Remaster - Fire Brigade",
+  "description": "Play Game And Watch Remaster with Fire Brigade built in HTML5",
+  "version": "1.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "app": {
+    "urls": [
+      "https://c5c49d4a946183078f4f3f09cf8f88dddaba57fa-www.googledrive.com/host/0B4HFlS9vdbwFfkJUelBXLS1nQy00SVhycDB3dU5uQTJrRG9kSG5hYzhUM0EtLWxWcUxQaXc/"
+    ],
+    "launch": {
+      "web_url": "https://c5c49d4a946183078f4f3f09cf8f88dddaba57fa-www.googledrive.com/host/0B4HFlS9vdbwFfkJUelBXLS1nQy00SVhycDB3dU5uQTJrRG9kSG5hYzhUM0EtLWxWcUxQaXc/"
+    }
+  }
+}

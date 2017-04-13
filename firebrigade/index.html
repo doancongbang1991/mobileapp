@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<html manifest="offline.appcache">
+
+	<head>
+		
+		<title>Game And Watch-Remastered - Fire Brigade</title>
+		
+		<meta property="og:image" content="icon_128.png">
+		<meta property="og:url" content="icon_128.png">
+		<meta property="og:description" content="Game And Watch-Remastered - Fire Brigade">
+		<meta property="og:title" content="gawr-firebrigade">
+		
+		<meta name="description" content="Game And Watch-Remastered - Fire Brigade" />
+		<meta name="keywords" content="gawr, game and watch - remastered, game and watch, game, newgen, remastered, gameandwacth, firebrigade" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+		
+		<link rel="stylesheet" type="text/css" href="css/gawr-games.css" />
+		<link rel="stylesheet" type="text/css" href="css/gawr-games-scoring-digit.css" />
+		<link rel="stylesheet" type="text/css" href="css/gawr-games-media.css" />
+		<link rel="stylesheet" type="text/css" href="games/firebrigade/css/gawr-games-firebrigade.css" />
+		
+		<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="apple-touch-icon" sizes="128x128" href="icon_128.png" />
+		<meta name="HandheldFriendly" content="true" />
+		
+		<!-- Chrome for Android web app tags -->
+		<meta name="mobile-web-app-capable" content="yes" />
+		<link rel="shortcut icon" sizes="128x128" href="icon_128.png" />
+
+	
+		<link rel="icon" type="image/ico" href="favicon.ico" />
+	
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/jquery-buzz.js"></script>
+		<script type="text/javascript" src="js/gawr-games.js"></script>
+		<script type="text/javascript" src="js/gawr-games-tools.js"></script>
+		<script type="text/javascript" src="js/gawr-games-scene.js"></script>
+		<script type="text/javascript" src="js/gawr-games-gaps.js"></script>
+		<script type="text/javascript" src="js/gawr-games-sprites.js"></script>
+		<script type="text/javascript" src="js/gawr-games-heart.js"></script>
+		<script type="text/javascript" src="js/gawr-games-scoring.js"></script>
+		<script type="text/javascript" src="js/gawr-games-miss.js"></script>
+		<script type="text/javascript" src="js/gawr-games-sound.js"></script>
+		<script type="text/javascript" src="js/gawr-games-controls.js"></script>
+		<style type="text/css">
+			#orientation img {
+			display: block;
+			margin: 0 auto;
+			width: 320px;
+			height: 480px;
+			}
+		</style>
+	</head>
+		
+	<body>
+		
+		<div id="main">
+			<h1>Fire Brigade</h1>
+			<h2>Tai Minh Corp</h2>
+			<h3>Bang Doan - <em>2016</em></h3>
+			
+			<div class="control sound">Mute</div>
+			<div class="control left"></div>
+			<div class="control right"></div>
+			<div class="control a">Easy</div>
+			<div class="control b">Hard</div>
+			<div class="control reset"><span></span>reset</div>
+			
+			<div id="game">
+				<div class="scene">
+				
+					<div class="background"></div>
+					
+					<div class="positions">
+						
+						<div class="series" data-source="adversary" data-generator="4" data-scoring="on" data-test-gaps="1">
+							<div class="sprite" data-position="8" data-state="on" data-type="object" data-deviation="12"></div>
+							<div class="sprite" data-position="9" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="10" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="11" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="12" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="13" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="14" data-state="on" data-type="object" data-touch-player="1" data-touched="false"></div>
+							<div class="sprite" data-position="14-fail" data-state="on" data-type="object-fail"></div>
+							
+							<div class="sprite" data-position="15" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="16" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="17" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="18" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="19" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="20" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="21" data-state="on" data-type="object" data-touch-player="2" data-touched="false"></div>
+							<div class="sprite" data-position="21-fail" data-state="on" data-type="object"></div>
+							
+							<div class="sprite" data-position="22" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="23" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="24" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="25" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="26" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="27" data-state="on" data-type="object" data-touch-player="3" data-touched="false"></div>
+							<div class="sprite" data-position="27-fail" data-state="on" data-type="object"></div>
+							
+							<div class="sprite" data-position="28" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="29" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="30" data-state="on" data-type="object"></div>
+							
+						</div>
+						
+						<div class="series" data-source="self" data-generator="2" data-scoring="off">
+							<div class="sprite" data-position="60" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="61" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="62" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="63" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="64" data-state="on" data-type="object"></div>
+							<div class="sprite" data-position="65" data-state="on" data-type="object"></div>
+						</div>
+						
+						<div class="sprite" data-position="70" data-state="on" data-type="decoration"></div>
+						
+						<div class="series">
+							<div class="sprite" data-position="40" data-state="on" data-type="adversary" data-start-object="8"></div>
+							<div class="sprite" data-position="40-switch-off" data-state="on" data-type="adversary-switch"></div>
+							<div class="sprite" data-position="40-switch-on" data-state="on" data-type="adversary-switch"></div>
+
+							<div class="sprite" data-position="41" data-state="on" data-type="adversary" data-start-object="9"></div>
+							<div class="sprite" data-position="41-switch-off" data-state="on" data-type="adversary-switch"></div>
+							<div class="sprite" data-position="41-switch-on" data-state="on" data-type="adversary-switch"></div>
+						</div>
+						
+						<div class="series">
+							<div class="sprite" data-position="1" data-state="on" data-type="player"></div>
+							<div class="sprite" data-position="2" data-state="on" data-type="player"></div>
+							<div class="sprite" data-position="3" data-state="on" data-type="player"></div>
+						</div>
+						
+					</div>
+					
+					<div class="score">
+						<div class="sprite" data-position="101" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="102" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="103" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="104" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="105" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="106" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="107" data-state="on" data-type="digit-v"></div>
+						
+						<div class="sprite" data-position="201" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="202" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="203" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="204" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="205" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="206" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="207" data-state="on" data-type="digit-v"></div>
+						
+						<div class="sprite" data-position="300" data-state="on" data-type="digit-s"></div>
+						
+						<div class="sprite" data-position="301" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="302" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="303" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="304" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="305" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="306" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="307" data-state="on" data-type="digit-v"></div>
+						
+						<div class="sprite" data-position="401" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="402" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="403" data-state="on" data-type="digit-h"></div>
+						<div class="sprite" data-position="404" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="405" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="406" data-state="on" data-type="digit-v"></div>
+						<div class="sprite" data-position="407" data-state="on" data-type="digit-v"></div>
+					</div>
+					<div class="game-a">Easy</div>
+					<div class="game-b">Hard</div>
+					
+					<div class="miss">Miss</div>
+					<div class="sprite" data-position="50" data-state="on" data-type="miss" data-miss="1"></div>
+					<div class="sprite" data-position="51" data-state="on" data-type="miss" data-miss="2"></div>
+					<div class="sprite" data-position="52" data-state="on" data-type="miss" data-miss="3"></div>
+					
+					<div class="foreground" data-select="1"></div>
+					<div class="foreground" data-select="2"></div>
+					
+				</div>			
+			</div>
+		</div>
+	
+	</body>
+	
+</html>

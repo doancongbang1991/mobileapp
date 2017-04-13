@@ -1,0 +1,30 @@
+﻿@media screen and (min-height:1200px), screen and (min-device-height : 1200px) { 
+	#main { 
+		zoom: 125%;
+	}
+}
+
+@media screen and (max-width:1024px), screen and (min-device-width : 768px) and (max-device-width : 1024px) { 
+	#main { 
+		zoom: 101%;
+	}
+	#main .control.sound { 
+		
+	}
+
+}
+@media screen and (max-height:640px), screen and (min-device-height : 480px) and (max-device-height : 640px) and (-webkit-device-pixel-ratio: 3) { 
+	#main { 
+		zoom: 63%;
+	}
+	
+	#main h1, #main h2, #main h3 { 
+		
+	}
+	#main .control.sound { 
+		
+	}
+}
+@media screen and (max-height:480px), screen and (min-device-height : 360px) and (max-device-height : 480px) { 
+
+}

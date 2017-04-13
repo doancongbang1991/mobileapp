@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html manifest="offline.appcache">
+<head>
+	<title>Go Fishing</title>
+	<meta name="author" content="Quang Nguyen - Shockblast Apps">
+	<meta name="keywords" content="html5,games,shockblastapps,game,fishing">
+	<meta name="description" content="Go Fishing, HTML5 Game!">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, target-densitydpi=device-dpi" />
+	
+	<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+
+	<link rel="apple-touch-icon" sizes="256x256" href="logo.png" />
+	<link rel="apple-touch-icon" href="logo.png" />
+	<meta name="HandheldFriendly" content="true" />
+	
+	<!-- Chrome for Android web app tags -->
+	<meta name="mobile-web-app-capable" content="yes" />
+	<link rel="shortcut icon" sizes="256x256" href="logo.png" />
+<style type="text/css">
+body {
+	height: 100%;
+	overflow: hidden; /* keeps scrollbar off IE */
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	color: #000;
+	background-color: #fff;
+	padding:0px;
+	margin:0px;
+}
+#orientation img {
+	display: block;
+	margin: 0 auto;
+	width: 320px;
+	height: 480px;
+}
+#stage { 
+    width: 100%;
+    height: 100%; 
+    position: relative; 
+    border: 0;
+    margin: 0;
+}
+canvas { 
+	position: absolute;
+	image-rendering: optimizeSpeed;
+	-webkit-interpolation-mode: nearest-neighbor;
+	-ms-interpolation-mode: nearest-neighbor;	
+	-webkit-tap-highlight-color: transparent;
+	top: 0px;
+}
+canvas:focus{
+	outline:none;
+}
+#ads { z-index: 2; position: relative;}
+#GameCanvas { z-index: 1; }
+</style>
+
+</head>
+
+<body onpageshow="resize();" onresize="resize();">
+<div id="stage">
+	
+	<canvas id="GameCanvas" width="320" height="570" onclick="this.focus();" oncontextmenu="return false;"></canvas>	
+</div>
+<div id="orientation"><img src="data/rotateDevice.jpg" display="none"/></div>
+
+<script language="javascript" src="gofishing.min.js">Javascript not supported!</script>
+
+</body>
+</html>

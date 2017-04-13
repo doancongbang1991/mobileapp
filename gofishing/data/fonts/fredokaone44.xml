@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontMetrics file="Texture.png">
+  <character key="48">
+    <x>8</x>
+    <y>8</y>
+    <width>27</width>
+    <height>36</height>
+  </character>
+  <character key="49">
+    <x>43</x>
+    <y>8</y>
+    <width>19</width>
+    <height>36</height>
+  </character>
+  <character key="50">
+    <x>70</x>
+    <y>8</y>
+    <width>28</width>
+    <height>36</height>
+  </character>
+  <character key="51">
+    <x>106</x>
+    <y>8</y>
+    <width>27</width>
+    <height>36</height>
+  </character>
+  <character key="52">
+    <x>141</x>
+    <y>8</y>
+    <width>27</width>
+    <height>36</height>
+  </character>
+  <character key="53">
+    <x>176</x>
+    <y>8</y>
+    <width>25</width>
+    <height>36</height>
+  </character>
+  <character key="54">
+    <x>209</x>
+    <y>8</y>
+    <width>25</width>
+    <height>36</height>
+  </character>
+  <character key="55">
+    <x>242</x>
+    <y>8</y>
+    <width>26</width>
+    <height>36</height>
+  </character>
+  <character key="56">
+    <x>276</x>
+    <y>8</y>
+    <width>26</width>
+    <height>36</height>
+  </character>
+  <character key="57">
+    <x>310</x>
+    <y>8</y>
+    <width>25</width>
+    <height>36</height>
+  </character>
+  <character key="58">
+    <x>343</x>
+    <y>8</y>
+    <width>11</width>
+    <height>36</height>
+  </character>
+  <character key="120">
+    <x>362</x>
+    <y>8</y>
+    <width>27</width>
+    <height>36</height>
+  </character>
+</fontMetrics>

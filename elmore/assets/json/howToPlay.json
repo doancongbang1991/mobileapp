@@ -1,0 +1,16 @@
+{
+  "slides": [
+    {
+      "img": "Screen_1.jpg",
+      "text": "STR_HOWTOPLAY_1"
+    },
+    {
+      "img": "Screen_2.jpg",
+      "text": "STR_HOWTOPLAY_2"
+    },
+    {
+      "img": "Screen_3.jpg",
+      "text": "STR_HOWTOPLAY_3"
+    }
+  ]
+}

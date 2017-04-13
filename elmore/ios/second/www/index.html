@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html manifest="offline.appcache">
+<head >
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Elmore Breakout</title>
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+
+    
+    <link rel="icon" href="assets/favicons/favicon.png" type="image/png">
+    <meta property="og:image" content="logo.png">
+    
+    <link rel="apple-touch-icon-precomposed" sizes="149x149" href="logo.png">
+    <link rel="apple-touch-icon-precomposed" href="logo.png">
+    <link rel="apple-touch-icon" sizes="149x149" href="logo.png" />
+
+    <link rel="stylesheet" type="text/css" href="./assets/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/cleanup.css">
+
+    <meta name="description" content="">
+
+    <title></title>
+</head>
+
+<body>
+
+    <div id="container" style="width:100%; height:100%; overflow:hidden;"></div>
+
+    <div id="nosupport" style="display:none;">
+        <div id="fallbackBg"></div>
+        <div id="fallbackMessageStock"></div>
+    </div>
+
+    <noscript>
+        <div id="fallbackBg"></div>
+        <div id="fallbackMessageNoJS"></div>
+    </noscript>
+
+    <p style='font-family:gumball_8bit;'>-</p>
+    <p style='font-family:gumball_8bit_thin;'>-</p>
+
+    <p style='font-family:fredburger;'>-</p>
+    <p style='font-family:fredburger_headline;'>-</p>
+
+    <p style='font-family:lubalin;'>-</p>
+
+    <!--[if lte IE 8]>
+        <script>
+            window.location = 'fallback.html';
+        </script>
+    <![endif]-->
+
+
+    <!--[if !lte IE 8]-->
+    <script src="./js/require.js" data-main="./js/fido_project.js"></script>
+
+    <script>
+        var ENV = window.ENV = {};
+        window.ENV = {};
+
+
+    </script>
+<!--[endif]-->
+		
+
+</body>
+
+</html>

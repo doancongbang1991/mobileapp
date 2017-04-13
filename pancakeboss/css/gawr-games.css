@@ -1,0 +1,228 @@
+﻿@font-face { 
+	font-family: 'quadrit'; 
+	src: url('./font/quadrit.ttf'); 
+}
+@font-face { 
+	font-family: 'oswald-light'; 
+	src: url('./font/oswald-light.ttf'); 
+}
+* { 
+	font-family: 'quadrit'; 
+	font-size: 18px;
+	color: #000;
+}
+
+html, body { 
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+}
+
+#main { 
+	padding: 0px;
+	margin: auto;
+	display: inline-table;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	width: 970px;
+	position: absolute;
+	border: solid 0px red;
+}
+#main h1, .control { 
+	font-family: 'oswald-light'; 
+	letter-spacing: 5px;
+	font-size: 46px;
+	text-transform: uppercase;
+}
+#main h2, #main h3 { 
+	position: absolute;
+}
+#main h3, #main h3 em { 
+	font-family: 'oswald-light'; 
+	letter-spacing: 2px;
+	font-size: 14px;
+	color: #666;
+	top: 35px;
+	right: 115px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: right;
+}
+#main h2 { 
+	font-family: 'quadrit'; 
+	text-shadow: 2px 2px #ccc;
+	letter-spacing: 2px;
+	font-size: 18px;
+	color: #999;
+	top: 0px;
+	right: 115px;
+	font-weight: bold;
+	font-style: normal;
+	text-align: right;
+	background-color: #e2ec1d;
+	color: #333;
+}
+#game { 
+	height: 500px;
+}
+#game, #main h1 { 
+	width: 750px;
+	margin: auto;
+	padding: 0px;
+}
+
+.control { 
+	margin: 20px 0px 20px 0px;
+	background-repeat: no-repeat;
+	background-position: 50% 75%;
+	background-size: 70px;
+	width: 100px;
+	height: 100px;
+	background-color: #333;
+	border-radius: 15px;
+	position: absolute;
+	cursor: pointer;
+	color: #fff;
+	box-shadow: 4px 4px 1px #ccc;
+	bottom: 0px;
+	
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.control:active { 
+	opacity: 0.3;
+}
+.control.left { 
+	background-image: url("../img/white/control-left.png");
+}
+.control.right { 
+	background-image: url("../img/white/control-right.png");
+	right: 0px;
+}
+.control.a, .control.b, .control.reset, .control.sound { 
+	height: 50px;
+	right: 0px;
+	letter-spacing: 2px;
+	font-size: 22px;
+	text-align: center;
+	line-height: 40px;
+}
+.control.a { 
+	bottom: 425px;
+}
+.control.b { 
+	bottom: 360px;
+}
+.control.sound { 
+	bottom: 220px;
+}
+.control.reset { 
+	bottom: 280px;
+	color: #333;
+	height: 30px;
+	line-height: 30px;
+	font-size: 18px;
+	box-shadow: none;
+	background-color: transparent;
+	border: solid 1px #ccc;
+	
+}
+.control.reset span{ 
+	border-radius: 10px;
+	width: 15px;
+	height: 15px;
+	display: inline-table;
+	background-color: #ccc;
+	margin-right: 10px;
+	border: solid 1px #666;
+}
+
+.sprite, .score, .game-a, .game-b, .miss { 
+	position: absolute;
+	opacity: 0.70;
+	text-transform: uppercase;
+    -webkit-filter: drop-shadow(5px 5px 2px #666);
+    filter: drop-shadow(15px 15px 10px #666); 
+	letter-spacing: 3px;
+}
+.score { 
+	top: 10px;
+	right: 170px;
+	height: 50px;
+	width: 160px;
+}
+.game-a, .game-b { 
+	bottom: 10px;
+}
+.game-a  { 
+	left: 100px;
+}
+.game-b { 
+	left: 200px;
+}
+.miss { 
+	top: 15px;
+	right: 20px;
+}
+.sprite[data-type="miss"] { 
+	width: 45px;
+	height: 45px;
+	top: 40px;
+}
+.sprite[data-position="50"] { 
+	right: 20px;
+}
+.sprite[data-position="51"] { 
+	right: 60px;
+}
+.sprite[data-position="52"] { 
+	right: 100px;
+}
+
+.scene, .background, .foreground { 
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: 100%;
+	width: inherit;
+	height: inherit;
+	background-color: transparent;
+	position: absolute;
+}
+.scene { 
+	overflow: hidden;
+	position: relative;
+	border: solid 1px #aaa;
+	border-radius: 5px;
+	background-color: #ddd;
+}
+.background { 	
+    -webkit-filter: drop-shadow(3px 3px 1px #999);
+    filter: drop-shadow(5px 5px 2px #999); 
+	opacity: 0.60;
+}
+.foreground { 	
+    -webkit-filter: drop-shadow(10px 10px 5px #999);
+    filter: drop-shadow(12px 12px 6px #999); 
+	opacity: 0.80;
+}
+
+.sprite { 
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: 100%;
+}
+
+.sprite[data-state="off"], .game-a[data-state="off"], .game-b[data-state="off"], .miss[data-state="off"] { 
+	opacity: 0.00;
+    -webkit-filter: none;
+    filter: none; 
+}

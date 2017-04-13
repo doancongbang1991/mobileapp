@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html manifest="offline.appcache">
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="css/reset.css" type="text/css">
+        <link rel="stylesheet" href="css/main.css" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,minimal-ui" />
+        <meta name="msapplication-tap-highlight" content="no"/>
+
+        <script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="js/createjs-2014.12.12.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+		
+		
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="apple-touch-icon" sizes="256x256" href="icon.png" />
+		<meta name="HandheldFriendly" content="true" />
+		
+		<!-- Chrome for Android web app tags -->
+		<meta name="mobile-web-app-capable" content="yes" />
+		<link rel="shortcut icon" sizes="256x256" href="icon.png" />
+    </head>
+    <body ondragstart="return false;" ondrop="return false;" >
+        <div style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%"></div>
+        <script>
+            $(document).ready(function () {
+                var oMain = new CMain({
+                    score_alien0: 10, //SCORE OF ALIEN TYPE 0
+                    speed_alien0: 1, //SPEED OF ALIEN TYPE 0 An increment increase the speed of alien speed=speed_alienN * ALIENS_MAX_FRAMES
+                    score_alien1: 8, //SCORE OF ALIEN TYPE 1
+                    speed_alien1: 1, //SPEED OF ALIEN TYPE 1
+                    score_alien2: 6, //SCORE OF ALIEN TYPE 2
+                    speed_alien2: 1, //SPEED OF ALIEN TYPE 2
+                    score_alien3: 5, //SCORE OF ALIEN TYPE 3
+                    speed_alien3: 1, //SPEED OF ALIEN TYPE 3
+                    score_alien4: 4, //SCORE OF ALIEN TYPE 4
+                    speed_alien4: 1, //SPEED OF ALIEN TYPE 4
+                    score_alien5: 3, //SCORE OF ALIEN TYPE 5
+                    speed_alien5: 1, //SPEED OF ALIEN TYPE 5
+                    score_alien6: 1, //SPEED OF ALIEN TYPE 6
+                    speed_alien6: 1, //SPEED OF ALIEN TYPE 6
+                    score_alien7: 14, //SCORE OF ALIEN TYPE 7
+                    speed_alien7: 1, //SPEED OF ALIEN TYPE 7
+                    score_alien8: 14, //SCORE OF ALIEN TYPE 8
+                    speed_alien8: 1, //SPEED OF ALIEN TYPE 8
+                    score_alien9: 0.1, //MULTIPLIER OF ALIEN TYPE 9
+                    speed_alien9: 1, //SPEED OF ALIEN TYPE 9
+                    score_alien10: 0.1, //MULTIPLIER OF ALIEN TYPE 10
+                    speed_alien10: 1, //SPEED OF ALIEN TYPE 10
+                    score_alien11: 0.1, //MULTIPLIER OF ALIEN TYPE 11
+                    speed_alien11: 1, //SPEED OF ALIEN TYPE 11
+                    bonus_time: -3, //TIME TO SUBTRACT WHEN THE USER HIT THE BONUS TIME
+                    time_astronaut_assault: 7, //DURATION  OF THE BONUS ASTRONAUT ASSAULT
+                    time_speed_down: 10, //DURATION OF THE BONUS SPEED DOWN
+                    time_evil_horde: 10, //DURATION OF THE BONUS EVIL HORDE
+                    time_pig_mode: 15, //DURATION OF THE BONUS PIG MODE
+                    aliens_damage: 10, //ALIENS DAMAGE WHEN REACH THE FINISH OF SCREEN
+                    max_bonus_bounces: 5, //MAX BONUS BOUNCE BEFORE DESTROY
+                    bonus_speed: 6, //MAX SPEED OF BONUS
+                    num_waves_for_ads : 3 //NUMBER OF WAVES TO COMPLETE, BEFORE TRIGGERING SAVE_SCORE EVENT. USEFUL FOR INTER-LEVEL AD EVENTUALLY.
+                });
+
+                              $(oMain).on("start_session", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeStartSession();
+                    }
+                });
+
+
+                $(oMain).on("end_session", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeEndSession();
+                    }
+                });
+
+
+                $(oMain).on("start_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeStartLevel({level: iLevel});
+                    }
+                });
+
+                $(oMain).on("restart_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeRestartLevel({level: iLevel});
+                    }
+                });
+
+
+                $(oMain).on("end_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeEndLevel({level: iLevel});
+                    }
+                });
+
+                $(oMain).on("save_score", function (evt, iScore, szMode) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeSaveScore({score: iScore, mode: szMode});
+                    }
+                });
+
+                $(oMain).on("show_interlevel_ad", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeShowInterlevelAD();
+                    }
+                });
+
+                $(oMain).on("share_event", function (evt, iScore) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeShareEvent({img: TEXT_SHARE_IMAGE,
+                            title: TEXT_SHARE_TITLE,
+                            msg: TEXT_SHARE_MSG1 + iScore
+                                    + TEXT_SHARE_MSG2,
+                            msg_share: TEXT_SHARE_SHARE1
+                                    + iScore + TEXT_SHARE_SHARE1});
+                    }
+                });
+
+
+                if(isIphone()){ 
+                    setTimeout(function(){sizeHandler();},200); 
+                }else{ 
+                    sizeHandler(); 
+                }
+            });
+
+        </script>
+        <canvas id="canvas" class='ani_hack' width="840" height="960"> </canvas>
+        <div id="block_game" style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%; display:none"></div>
+    </body>
+</html>

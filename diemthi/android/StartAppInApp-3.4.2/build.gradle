@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('StartAppInApp-3.4.2.jar'))

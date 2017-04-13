@@ -1,0 +1,36 @@
+
+@font-face {
+  font-family: 'fredburger';
+  src: url('../fonts/FredFredburger-Regular.eot?#iefix') format('embedded-opentype'),  url('../fonts/FredFredburger-Regular.woff') format('woff'), url('../fonts/FredFredburger-Regular.ttf')  format('truetype'), url('../fonts/FredFredburger-Regular.svg#FredFredburger-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'fredburger_headline';
+  src: url('../fonts/FredFredburgerHeadline-Black.eot?#iefix') format('embedded-opentype'),  url('../fonts/FredFredburgerHeadline-Black.woff') format('woff'), url('../fonts/FredFredburgerHeadline-Black.ttf')  format('truetype'), url('../fonts/FredFredburgerHeadline-Black.svg#FredFredburgerHeadline-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'gumball_8bit';
+  src: url('../fonts/Gumball8bit-Thick.eot?#iefix') format('embedded-opentype'),  url('../fonts/Gumball8bit-Thick.woff') format('woff'), url('../fonts/Gumball8bit-Thick.ttf')  format('truetype'), url('../fonts/Gumball8bit-Thick.svg#Gumball8bit-Thick') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'gumball_8bit_thin';
+  src: url('../fonts/Gumball8bit-Thin.eot?#iefix') format('embedded-opentype'),  url('../fonts/Gumball8bit-Thin.woff') format('woff'), url('../fonts/Gumball8bit-Thin.ttf')  format('truetype'), url('../fonts/Gumball8bit-Thin.svg#Gumball8bit-Thin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'lubalin';
+  src: url('../fonts/LubalinGraphITCTurner-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/LubalinGraphITCTurner-Bold.woff') format('woff'), url('../fonts/LubalinGraphITCTurner-Bold.ttf')  format('truetype'), url('../fonts/LubalinGraphITCTurner-Bold.svg#LubalinGraphITCTurner-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

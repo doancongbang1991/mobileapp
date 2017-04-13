@@ -1,0 +1,129 @@
+{"frames": {
+
+"leslie_idle.png":
+{
+	"frame": {"x":2,"y":2,"w":94,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":5,"w":94,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0001.png":
+{
+	"frame": {"x":2,"y":686,"w":92,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":3,"w":92,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0002.png":
+{
+	"frame": {"x":2,"y":686,"w":92,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":3,"w":92,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0003.png":
+{
+	"frame": {"x":2,"y":1030,"w":88,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":3,"w":88,"h":170},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0004.png":
+{
+	"frame": {"x":2,"y":1030,"w":88,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":3,"w":88,"h":170},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0005.png":
+{
+	"frame": {"x":2,"y":344,"w":93,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":5,"w":93,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0006.png":
+{
+	"frame": {"x":2,"y":344,"w":93,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":5,"w":93,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0007.png":
+{
+	"frame": {"x":2,"y":2,"w":94,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":5,"w":94,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0008.png":
+{
+	"frame": {"x":2,"y":173,"w":94,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":5,"w":94,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0009.png":
+{
+	"frame": {"x":2,"y":515,"w":93,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":4,"w":93,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0010.png":
+{
+	"frame": {"x":2,"y":515,"w":93,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":4,"w":93,"h":169},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0011.png":
+{
+	"frame": {"x":2,"y":857,"w":91,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":3,"w":91,"h":171},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"leslie_run0012.png":
+{
+	"frame": {"x":2,"y":857,"w":91,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":3,"w":91,"h":171},
+	"sourceSize": {"w":132,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "leslie.png",
+	"format": "RGBA8888",
+	"size": {"w":98,"h":1202},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4f1d9a4456a5ccb7b0bcc72cf8b147cc:b9802b2a025d2c8d0d260d39da82800c:6447d200ed7d4f94c357939b1cc6d701$"
+}
+}

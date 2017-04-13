@@ -1,0 +1,90 @@
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		<meta charset="utf-8" />
+        <title>Dot Game</title>
+		<meta name="keywords" content="Dot to dot, whale, Dot, Bang Doan" />
+		<meta name="description" content="Play Dot To Dot! The most office fun you can have with your pants on." />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		
+		<meta property="og:title" content="Play Dot To Dot!" />
+		<meta property="og:image" content="http://mobile.taiminh.com/dotgame/img/play-dot-to.png" />
+		<meta property="og:site_name" content="Play Dot To Dot" />
+		<meta property="og:description" content="The most office fun you can have with your pants on." />
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:creator" content="@gordonnl">
+        <meta name="twitter:title" content="Play Dot To Dot!">
+        <meta name="twitter:description" content="Play Dot To Dot! The most office fun you can have with your pants on.">
+        <meta name="twitter:image:src" content="http://mobile.taiminh.com/dotgame/img/play-dot-to.png">
+		
+		<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="apple-touch-icon" sizes="256x256" href="img/img_end.png" />
+		<meta name="HandheldFriendly" content="true" />
+		
+		<!-- Chrome for Android web app tags -->
+		<meta name="mobile-web-app-capable" content="yes" />
+		<link rel="shortcut icon" sizes="256x256" href="icon-256.png" />
+
+
+		<link rel="icon" href="favicon.ico" />
+		<link rel="SHORTCUT ICON" href="favicon.ico" />
+		
+		
+		<link href="css/style.css" rel="stylesheet" media="screen" />
+		<script src="js/modernizr.custom.js"></script>
+
+		
+	</head>
+
+	<body>
+			
+		<div class="content hide">
+			<div id="countdown">
+				<h1>3</h1>
+			</div>
+			<div id="svg"></div>
+			<div id="start">
+				<div class="logo"></div>
+				<h4>click and drag to start</h4>
+			</div>
+			<div id="game">
+				<div class="logo"></div>
+				<h3 id="progress">
+					<span class="1">1</span>/<span class="2">2</span>/<span class="3">3</span>/<span class="4">4</span>/<span class="5">5</span>
+				</h3>
+				<h2 id="timer"></h2>
+				<h2 id="nice">well done!</h2>
+				<img id="retry" src="img/img_retry.png">
+				
+				<div class="bg1 bg"><img src="img/bg_1.png"></div>
+				<div class="bg2 bg"><img src="img/bg_2.png"></div>
+				<div class="bg3 bg"><img src="img/bg_3.png"></div>
+				<div class="bg4 bg"><img src="img/bg_4.png"></div>
+				<div class="bg5 bg"><img src="img/bg_5.png"></div>
+			</div>
+			<div id="finish">
+				<img id="medal" src="img/img_end.png">
+				<p>You scored: <span class="score">0000</span></p>
+				<p>Total play time: <span class="play-time">00:00:00</span></p>
+				<p class="next-medal">For next medal: <span class="points">+000</span></p>
+				<img id="again" src="img/img_play-again.png">
+			</div>
+		</div>
+
+		<footer class="hide"></footer>
+			
+		<div class="scripts">
+			<script src="js/plugins.js"></script>
+	        <script src="js/global.min.js"></script>
+	        <script type="text/javascript">
+	            $(document).ready( function() {	
+	                DOT.core.init();
+	            });
+	        </script>   
+		</div>
+
+	</body>
+</html>
