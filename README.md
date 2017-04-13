@@ -173,3 +173,22 @@ Cross-platfrom HTML5 games:
 - zombies cant jump
 - zombie world
 - zoo stuner
+
+Desktop only version:
+- acselo
+- adventure world
+- battle wizard
+- blitz breaker
+- bouncing tank
+- cave black
+- cave jumper
+- cosmic
+- devey
+- drone bot
+- grounder
+- key shield
+- robots os
+- ultralazer
+- zombie again
+- Yet Another World
+
