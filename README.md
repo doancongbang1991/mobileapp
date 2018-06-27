@@ -1,7 +1,7 @@
 # mobileapp
 List of over 180 cross-platform mobile games by HTML5 game.
 
-Cross-platfrom HTML5 games:
+Cross-platfrom HTML5 games: https://doancongbang1991.github.io/mobileapp/mobile/
 - 2048
 - 3d tetris
 - alien attack
@@ -174,7 +174,7 @@ Cross-platfrom HTML5 games:
 - zombie world
 - zoo stuner
 
-Desktop only version:
+Desktop only version: https://doancongbang1991.github.io/mobileapp/desktop/
 - acselo
 - adventure world
 - battle wizard
