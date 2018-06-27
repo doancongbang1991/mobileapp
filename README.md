@@ -1,5 +1,6 @@
 # mobileapp
-List of over 180 cross-platform mobile games by HTML5 game.
+List of over 180 cross-platform mobile games by HTML5.
+Just running version for relaxing. I did not own source code.
 
 Cross-platfrom HTML5 games: https://doancongbang1991.github.io/mobileapp/mobile/
 - 2048
